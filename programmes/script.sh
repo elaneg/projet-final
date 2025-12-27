@@ -14,20 +14,39 @@ if [ ! -f "$fichier_urls" ]; then
     exit
 fi
 
+#on détecte la langue du corpus en fonction du nom du fichier d'urls
+lang=$(basename "$fichier_urls" | sed 's/corpus_//' | sed 's/.txt//') #on enlève ce qu'il y a avant et après corpus pour isoler la langue
+
+#le mot change selon la langue
+case "$lang" in
+  fr)
+    mot="Culture"
+    ;;
+  eng)
+    mot="Culture"
+    ;;
+  es)
+    mot="Cultura"
+    ;;
+  *)
+    echo "Langue inconnue" #on gère les cas où la langue n'est pas reconnue
+    exit 1
+    ;;
+esac
+
+
+#******************************************
+#début de la boucle
+#******************************************
+
 #on initialise un compteur pour pouvoir numéroter les lignes
 count=0
-
-mot="Culture"
-
-
-#début d'une boucle FOR ou WHILE pour chaque url
 while read -r line;
 do 
-   #quelques variables utiles, encodage & code http
+   #on récupère quelques variables utiles, encodage & code http
    data=$(curl -s -i -L -w "%{http_code}\n%{content_type}" -o ./.data.tmp $line)
 	http_code=$(echo "$data" | head -1)
 	encoding=$(echo "$data" | tail -1 | grep -Po "charset=\S+" | cut -d"=" -f2)
-   echo ${line};
    #-------------------------
 
    #on rècupère le contenu de l'article et le met dans un fichier temporaire
@@ -44,30 +63,36 @@ do
          fi
 
             #on récupère les dumps textuels
-             lynx -dump -nolist temp_utf8.html > ../dumps-text/page_${count}.txt
+             lynx -dump -nolist temp_utf8.html > ../dumps-text/${lang}_${count}.txt
 
          #on récupère le texte de l'article et on compte
          nb_occurrences=$(echo $(lynx -dump -nolist "$line" | egrep -i -o "${mot}" | wc -l)) 
 
          #fichier de concordances 
-         concord="../concordances/page_${count}.html"
-         egrep -i -n ".{0,40}${mot}.{0,40}" ../dumps-text/page_${count}.txt \n >> "$concord"
+         concord="../concordances/${lang}_${count}.html"
+
+         #on récupère les concordances
+         egrep -i -n ".{0,40}${mot}.{0,40}" ../dumps-text/${lang}_${count}.txt \n >> "$concord" #on prend ce qui est autour du mot
 
    fi
 
 #juste pour checker qu'on récupère bien les infos qu'il nous faut, à supprimmer du script final
-echo "url : $line";
-echo "code : $http_code";
-echo "encodage : $encoding";
-echo "nombre d'occurrences : $nb_occurrences";
-echo "page HTML brute :  temp.html";
-echo "dump textuel :dumps-text/page_${count}.txt";
-echo "concordancier HTML : $concord";
+#echo "url : $line";
+#echo "code : $http_code";
+#echo "encodage : $encoding";
+#echo "nombre d'occurrences : $nb_occurrences";
+#echo "page HTML brute :  temp.html";
+#echo "dump textuel :dumps-text/${lang}_${count}.txt";
+#echo "concordancier HTML : $concord";
 
 
 #on met à jour le compteur
 count=$((count+1))
 
 #on supprime les fichiers temporaires
-#rm temp.html temp_utf8.html
+rm temp.html temp_utf8.html 
 done < $fichier_urls
+
+#******************************************
+#fin de la boucle
+#******************************************
