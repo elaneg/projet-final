@@ -31,7 +31,7 @@ do
    #-------------------------
 
    #on rècupère le contenu de l'article et le met dans un fichier temporaire
-   curl -Ls "$line" > temp.html #Ls gère les rediretion (http/https...)
+   curl -Ls "$line" > temp.html #Ls gère les redirections (http/https...)
 
    if [ $? -eq 0 ]; then #teste si la dernière commande a fonctionné
 
@@ -43,22 +43,26 @@ do
 
          fi
 
-            #on récupère le dump textuel 
+            #on récupère les dumps textuels
              lynx -dump -nolist temp_utf8.html > ../dumps-text/page_${count}.txt
 
          #on récupère le texte de l'article et on compte
          nb_occurrences=$(echo $(lynx -dump -nolist "$line" | egrep -i -o "${mot}" | wc -l)) 
 
+         #fichier de concordances 
+         concord="../concordances/page_${count}.html"
+         egrep -i -n ".{0,40}${mot}.{0,40}" ../dumps-text/page_${count}.txt \n >> "$concord"
+
    fi
 
-echo "numéro : $count";
+#juste pour checker qu'on récupère bien les infos qu'il nous faut, à supprimmer du script final
 echo "url : $line";
 echo "code : $http_code";
 echo "encodage : $encoding";
 echo "nombre d'occurrences : $nb_occurrences";
 echo "page HTML brute :  temp.html";
 echo "dump textuel :dumps-text/page_${count}.txt";
-#echo "concordancier HTML : $nb_occurrences";
+echo "concordancier HTML : $concord";
 
 
 #on met à jour le compteur
