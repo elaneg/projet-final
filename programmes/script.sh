@@ -38,12 +38,21 @@ do
             iconv -f "$encoding" -t utf-8
          fi
 
-
          #on récupère le texte de l'article et on compte
-         echo $(lynx -dump -nolist "$line" | egrep -i -o "${mot}" | wc -l) #compte le nombre d'occurences de culture dans un article et affiche le résultat dans le terminal
+         nb_occurrences=$(echo $(lynx -dump -nolist "$line" | egrep -i -o "${mot}" | wc -l)) 
 
    fi
 
+echo "numéro : $count";
+echo "url : $line";
+echo "code : $http_code";
+echo "encodage : $encoding";
+echo "nombre d'occurrences : $nb_occurrences";
+#echo "page HTML brute : $nb_occurrences";
+#echo "dump textuel : $nb_occurrences";
+#echo "concordancier HTML : $nb_occurrences";
+
+
+#on met à jour le compteur
+count=$((i+1))
 done < $fichier_urls
-#on supprimer le fichier temporaire
-    #rm ./.data.tmp
