@@ -1,0 +1,104 @@
+/* POLICE ET BASE */
+body {
+    margin: 0;
+    font-family: "Times New Roman", Georgia, serif;
+    background-color: #ffffff;
+    color: #000000;
+    line-height: 1.7;
+}
+
+/* NAVBAR */
+.navbar {
+    background-color: #f6d6de; /* rose pâle */
+    padding: 15px 40px;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+}
+
+/* DROPDOWN */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #ffffff;
+    border: 1px solid #f0c1cd;
+    padding: 10px;
+    margin-top: 10px;
+    list-style: none;
+}
+
+.dropdown-menu li {
+    margin-bottom: 8px;
+}
+
+.dropdown-menu a {
+    font-weight: normal;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+/* CONTENU PRINCIPAL */
+main {
+    max-width: 1100px;
+    margin: auto;
+    padding: 50px 30px;
+}
+
+/* TITRES */
+h1 {
+    text-align: center;
+    font-size: 2.2em;
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-size: 1.4em;
+    border-bottom: 2px solid #f6d6de;
+    padding-bottom: 5px;
+}
+
+h3 {
+    font-style: italic;
+    margin-top: 5px;
+}
+
+/* DÉFINITIONS */
+.definitions {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 60px;
+}
+
+.definitions article {
+    background-color: #fff7f9;
+    padding: 25px;
+    border-radius: 6px;
+    width: 33%;
+}
+
+/* SECTIONS TEXTE */
+.justification,
+.hypotheses {
+    background-color: #fff7f9;
+    padding: 30px;
+    border-radius: 6px;
+    margin-bottom: 40px;
+}
+ 
