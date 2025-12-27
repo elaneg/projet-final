@@ -29,14 +29,22 @@ do
 	encoding=$(echo "$data" | tail -1 | grep -Po "charset=\S+" | cut -d"=" -f2)
    echo ${line};
    #-------------------------
-   html=$(curl -Ls "$line")
+
+   #on rècupère le contenu de l'article et le met dans un fichier temporaire
+   curl -Ls "$line" > temp.html #Ls gère les rediretion (http/https...)
 
    if [ $? -eq 0 ]; then #teste si la dernière commande a fonctionné
 
          #on gère les cas où l'encodage n'est pas utf-8 et on convertit
-         if [[ "$encoding" != "UTF-8" || "$encoding" != "utf-8" ]]; then
-            iconv -f "$encoding" -t utf-8
+         if [[ "$encoding" != "UTF-8" && "$encoding" != "utf-8" ]]; then
+            iconv -f "$encoding" -t utf-8 temp.html > temp_utf8.html
+         else
+            cp temp.html temp_utf8.html
+
          fi
+
+            #on récupère le dump textuel 
+             lynx -dump -nolist temp_utf8.html > ../dumps-text/page_${count}.txt
 
          #on récupère le texte de l'article et on compte
          nb_occurrences=$(echo $(lynx -dump -nolist "$line" | egrep -i -o "${mot}" | wc -l)) 
@@ -48,11 +56,14 @@ echo "url : $line";
 echo "code : $http_code";
 echo "encodage : $encoding";
 echo "nombre d'occurrences : $nb_occurrences";
-#echo "page HTML brute : $nb_occurrences";
-#echo "dump textuel : $nb_occurrences";
+echo "page HTML brute :  temp.html";
+echo "dump textuel :dumps-text/page_${count}.txt";
 #echo "concordancier HTML : $nb_occurrences";
 
 
 #on met à jour le compteur
-count=$((i+1))
+count=$((count+1))
+
+#on supprime les fichiers temporaires
+#rm temp.html temp_utf8.html
 done < $fichier_urls
