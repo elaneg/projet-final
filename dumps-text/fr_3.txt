@@ -1,0 +1,630 @@
+   #Syndiquer tout le site
+
+     * Menu
+     * Contenu
+     * Moteur de recherche
+     * Pied de page
+
+   République
+   Française
+   (BUTTON) Rechercher (BUTTON) Menu
+
+   notre-environnement
+
+   Le portail de tous les citoyens pour s’informer sur les enjeux de
+   l’environnement et du développement durable et trouver des services
+   utiles
+    - Retour à la page d'accueil
+     * À propos
+     * Actualités
+     * (BUTTON) Paramètres d’affichage
+
+   (BUTTON) Fermer
+   Rechercher ____________________
+   (BUTTON) Rechercher
+
+   (BUTTON) Fermer
+
+     * (BUTTON) REE 2024
+       (BUTTON) Fermer
+       REE 2024
+       Le rapport sur l’État de l’environnement en France (REE), publié
+       tous les 4 ans par le CGDD, fournit des informations objectives,
+       fiables et scientifiquement fondées. Il apporte des clés de lecture
+       et de compréhension des grands enjeux de la transition écologique.
+       Cette édition 2024 s’articule autour de quatre défis
+       environnementaux, étroitement liés : l’épuisement des ressources
+       naturelles, la pollution des milieux naturels, le changement
+       climatique, et le déclin de la biodiversité.
+       Voir la page
+       4 grands défis pour demain
+          + Ressources naturelles
+          + Pollution des milieux naturels
+          + Changement climatique
+          + Déclin de la biodiversité
+     * (BUTTON) Biodiversité
+       (BUTTON) Fermer
+       Biodiversité
+       Les territoires métropolitains et ultramarins englobent des
+       écosystèmes diversifiés (zones humides, milieux marins, forêts,
+       montagnes, espaces agricoles et urbains).
+       C’est ainsi que la France héberge 10 % des espèces connues et
+       figure parmi les dix pays hébergeant le plus grand nombre d’espèces
+       menacées au niveau mondial, du fait des pressions exercées par les
+       activités humaines et de l’importance de ses territoires
+       ultramarins répartis sur l’ensemble du globe.
+       En réponse à ces enjeux, de multiples dispositifs de préservation
+       de la biodiversité sont mis en place.
+       Voir le thème
+       Biodiversité
+          + La connaissance de la biodiversité
+          + Les menaces sur la biodiversité
+          + Les mesures de protection et de restauration de la
+            biodiversité
+       Milieux et paysages
+          + Des sols et des sous-sols fragilisés
+          + Les milieux humides et aquatiques
+          + Les milieux littoraux et marins
+          + Les milieux montagneux
+          + Les forêts
+     * (BUTTON) Climat
+       (BUTTON) Fermer
+       Climat
+       L’augmentation dans l’atmosphère de la concentration en gaz à effet
+       de serre (GES) résultant des activités humaines (notamment la
+       combustion des énergies fossiles, l’utilisation d’engrais de
+       synthèse et la production de GES artificiels tels que les gaz
+       réfrigérants ) perturbe les équilibres climatiques de long terme à
+       l’échelle planétaire.
+       L’ampleur du réchauffement et ses effets se concrétisent de façon
+       différente (température, régime des pluies, montée des eaux,
+       fréquence et ampleur des phénomènes météorologiques extrêmes, etc.)
+       selon les régions et leur vulnérabilité.
+       Voir le thème
+          + Comprendre le changement climatique
+          + Les émissions de gaz à effet de serre et l’empreinte carbone
+            de la France
+          + Limitation des émissions de gaz à effet de serre
+          + S’adapter au changement climatique
+     * (BUTTON) Risques
+       (BUTTON) Fermer
+       Risques
+       Le France est exposée à de nombreux phénomènes naturels
+       susceptibles d’affecter l’intégrité des personnes et des biens et
+       de perturber les activités économiques : inondations, tempêtes,
+       cyclones, feux de forêts, mouvements de terrains... Leurs impacts
+       sont susceptibles de s’amplifier sous l’effet du dérèglement
+       climatique.
+       En outre, on distingue cinq sources de risque technologique : les
+       installations industrielles, les installations nucléaires, les
+       grands barrages, les transports de matières dangereuses et les
+       sites miniers.
+       Voir le thème
+       Risques naturels
+          + Les inondations
+          + Les mouvements de terrain et les érosions cotières
+          + Les éruptions volcaniques et les séismes
+          + Les feux de forêts
+       Risques technologiques
+          + Les risques industriels
+          + Les transports de matières dangereuses
+          + Les autres risques technologiques
+     * (BUTTON) Santé
+       (BUTTON) Fermer
+       Santé
+       Les acteurs économiques utilisent des substances chimiques dans
+       leurs activités quotidiennes, qu’elles soient professionnelles ou
+       privées.
+       Ces substances peuvent se disséminer dans l’environnement et
+       dégrader la qualité de l’eau, de l’air et des sols.
+       Ces contaminations des écosystèmes sont de nature à produire des
+       effets néfastes sur la santé humaine.
+       Voir le thème
+       Impact sur la santé
+       Polluants et nuisances
+          + Les produits chimiques
+          + Les bruits et les nuisances sonores
+          + La radioactivité
+          + Les ondes électromagnétiques
+       Pollution des milieux
+          + La pollution de l’air extérieur
+          + Pollution de l’air intérieur
+          + L’amiante
+          + La pollution des sols
+          + La pollution de l’eau douce
+     * (BUTTON) Économie
+       (BUTTON) Fermer
+       Économie
+       La transition écologique appelle de profondes mutations du monde
+       économique et de ses acteurs, aussi bien de la part des entreprises
+       que des consommateurs, dans tous les secteurs.
+       Ces changements sont technologiques, organisationnels,
+       stratégiques. Ils concernent les modes de production, les modes de
+       vie et de consommation, les savoir-faire et les compétences.
+       Pour impulser, orienter, accompagner ces changements, une
+       transition écologique réussie doit s’appuyer sur différents leviers
+       et instruments à destination des acteurs économiques.
+       Voir le thème
+       Outils économiques
+          + La finance durable
+          + La fiscalité environnementale
+       Production et consommation responsables
+          + L’économie circulaire
+          + L’économie de la fonctionnalité et de la coopération
+          + L’utilisation des ressources naturelles
+          + L’affichage environnemental
+          + Le commerce équitable
+          + Les dépenses pour la protection de l’environnement
+          + Les engagements pour la croissance verte (ECV)
+          + Les nudges appliqués à l’économie verte
+          + Les pôles de compétitivité
+       Secteurs économiques
+          + L’écoconception des produits
+          + L’énergie : au cœur de la lutte contre le changement
+            climatique
+          + Le tourisme
+          + L’agriculture
+          + Les déchets
+     * (BUTTON) Société
+       (BUTTON) Fermer
+       Société
+       Dans un monde confronté au changement climatique et à la perte de
+       biodiversité, la transition écologique devient un enjeu majeur,
+       tant pour nos sociétés que pour chaque citoyen.
+       Elle interroge nos manières de produire, de consommer, d’urbaniser,
+       ainsi que nos relations aux milieux naturels.
+       Elle implique une conscience des responsabilités, une volonté et un
+       pouvoir d’agir sur ces mutations écologiques, ainsi qu’un
+       engagement de tous les acteurs (citoyens, associations,
+       entreprises…).
+       Voir le thème
+          + Les conséquences du mode de vie en France sur l’environnement
+          + Les effets de l’alimentation sur l’environnement
+          + L’éducation au développement durable
+          + Cadre et grands principes de la participation du public
+          + La responsabilité sociétale des entreprises
+          + Les services publics écoresponsables
+          + Transport et déplacements du quotidien : quels effets sur
+            l’environnement ?
+          + Le logement et ses conséquences sur l’environnement
+          + Limites planétaires
+          + Les achats publics durables
+          + Perception des enjeux par les citoyens
+     * (BUTTON) Évaluation
+       (BUTTON) Fermer
+       Évaluation
+       Les politiques de la transition écologique présentent deux
+       caractéristiques : leurs impacts concernent des biens et des
+       services qui sont souvent hors de la sphère de l’économie de marché
+       et leurs effets se déploient sur un temps long.
+       L’évaluation de ces politiques vise à apprécier leurs impacts, en
+       qualifiant ou quantifiant leurs effets, pour juger de leur valeur
+       au regard d’un ensemble de critères, dans l’objectif de les
+       améliorer et d’éclairer la décision publique.
+       Elle permet ainsi d’apprécier le bon usage des financements publics
+       et la soutenabilité des politiques, des projets, ou des mesures
+       vis-à-vis de l’environnement, du développement économique et du
+       progrès social. Elle intègre de plus en plus souvent une dimension
+       participative et citoyenne, avec la consultation et l’implication
+       des parties prenantes et du public.
+       Voir le thème
+          + Les Objectifs de développement durable (ODD)
+          + L’évaluation des politiques publiques
+          + L’évaluation socio-économique
+          + L’évaluation française des écosystèmes et des services
+            écosystémiques (Efese)
+          + L’évaluation environnementale
+          + Éviter, réduire, compenser » (ERC) : en quoi consiste cette
+            démarche ?
+
+   (BUTTON) Fermer
+
+   (BUTTON) Voir le fil d’Ariane
+    1. Accueil
+    2. Biodiversite
+    3. Les milieux littoraux et marins
+    4. Typologie des cultures des exploitations agricoles en 2010
+
+   Économie
+
+Typologie des cultures des exploitations agricoles en 2010
+
+   Mis à jour le 2 septembre 2019 | Commissariat général au développement
+   durable
+
+   Partager la page
+     * Partager sur Facebook
+     * Partager sur Twitter
+     * Partager sur LinkedIn
+     * Partager par email
+     * (BUTTON) Copier dans le presse-papier
+
+Typologie des cultures des exploitations agricoles en 2010
+
+    1. Panorama général
+    2. Caractérisation des classes typologiques
+    3. Analyse géographique
+    4. Dans le détail
+    5. Typologie des cultures et viabilité des exploitations agricoles
+    6. Analyse statistique
+    7. Méthodologie
+
+   L’agriculture littorale subit des pressions foncières importantes et
+   répercute souvent plus fortement les problèmes rencontrés par
+   l’agriculture sur l’ensemble du territoire : diminution importante du
+   nombre d’exploitations, âge des exploitants en augmentation, difficulté
+   de reprise, augmentation du prix des terres. Les surfaces agricoles
+   diminuent sur la frange littorale alors qu’elles jouent un rôle
+   essentiel de production et de maintien des équilibres dans
+   l’aménagement du territoire.
+
+Panorama général
+
+   Les grandes cultures et l’élevage dominent sur tout l’arc mer du Nord -
+   Manche - Atlantique. Les grandes cultures sont importantes du Nord à la
+   Seine-Maritime. Prairies et fourrages sont très présents dans le
+   Calvados et surtout dans la Manche. Les côtes de Bretagne et des Pays
+   de la Loire sont marquées par la présence de grandes cultures couplées
+   à de l’élevage intensif. Les cultures légumières y sont également non
+   négligeables, surtout en Nord Bretagne. La viticulture est par ailleurs
+   présente en Charente-Maritime.
+
+   En Méditerranée continentale, les cultures spécialisées dominent :
+   vignes et autres cultures entretenues (vergers et petits fruits) aux
+   côtés de légumes. En Corse, les parcours et prairies sont très
+   nombreux, la viticulture étant présente en Haute-Corse.
+
+   Enfin, l’outre-mer est marquée par l’empreinte des cultures de légumes,
+   fruits et canne à sucre caractérisant une grande part des communes
+   ultramarines.
+   Classes typologiques des cultures des exploitations agricoles
+
+   IFRAME: //datawrapper.dwcdn.net/bktC8/2/
+
+   Données complémentaires, par classe typologique
+
+   IFRAME: //datawrapper.dwcdn.net/fOsFI/3/
+
+Caractérisation des classes typologiques
+
+   Six classes typologiques basées sur la répartition des grands types de
+   cultures des exploitations agricoles ont été révélées par l’analyse
+   statistique (voir méthodologie).
+
+   Ces classes, une fois définies, ont été étudiées au regard de variables
+   qualitatives supplémentaires (type de commune – urbain / périurbain /
+   rural) et surtout quantitatives (variables démographiques et
+   touristiques, occupation du sol…).
+
+   Classe 1 : légumes, fruits, fleurs et canne à sucre
+   La première classe regroupe un dixième des communes étudiées. Elle
+   comprend les quatre cinquièmes des communes littorales ultramarines. En
+   métropole, elle est plus importante en bord de mer que dans
+   l’arrière-pays. Les cultures industrielles destinées à la
+   transformation (surtout la canne à sucre), les cultures légumières et
+   de pommes de terre, et les cultures entretenues (arbres fruitiers) sont
+   très importantes. Avec 0,8 % de la SAU, les cultures florales sont
+   également 5 fois plus importantes dans ce groupe que la moyenne pour
+   l’ensemble des communes étudiées.
+
+   On compte, en moyenne, 1,6 UTA (unité de travail agricole) par
+   exploitation et assez peu de bovins. La densité de population des
+   communes concernées est élevée, environ 350 hab. par km². Cela implique
+   un taux d’artificialisation également important. Plus d’une commune sur
+   deux est urbaine et le taux de fonction touristique des communes de
+   métropole concernées est assez faible.
+
+   Cette classe regroupe de nombreuses communes ayant une agriculture de
+   type urbain / périurbain : faible part de SAU en nette diminution,
+   -24 % de 1988 à 2000, forte population et importance dans les
+   assolements des légumes, des fleurs et des vergers souvent destinés à
+   des filières de vente locale.
+
+   Classe 2 : parcours et prairies naturelles
+   La classe 2 comprend 8 % des communes étudiées, en métropole comme en
+   outre-mer. Les prairies peu productives (parcours, landes) dominent la
+   SAU, avec près des trois quarts des surfaces. Les cultures intensives
+   sont peu présentes. Les terres agricoles représentent, par ailleurs,
+   seulement un dixième de l’occupation du sol.
+
+   La densité de population des communes concernées est faible, 67
+   hab./km² en moyenne. C’est la plus faible densité des 6 classes. Les
+   territoires artificialisés sont peu importants et seulement une commune
+   sur huit est urbaine. Les résidences secondaires sont nombreuses dans
+   le parc de logements et le taux de fonction touristique est élevé. Les
+   soldes migratoires sont importants sur la période récente et les soldes
+   naturels quasi nuls.
+
+   Classe 3 : prairies et cultures fourragères
+   La classe 3 comprend 428 communes, soit 21 % du total. La surface
+   fourragère principale est importante, avec 84 % de la SAU, répartie
+   entre surfaces toujours en herbe (51 %) et cultures fourragères. Les
+   cheptels de vaches laitières sont plus importants que ceux de vaches
+   allaitantes.
+
+   La classe 3 est plus présente en métropole, surtout dans l’arrière-pays
+   littoral, qu’en outre-mer. La densité de population moyenne est assez
+   faible et peu de communes sont urbaines, le taux d’artificialisation
+   des territoires étant parmi les plus faibles des 6 classes
+   typologiques.
+   Répartition des communes par classe typologique sur le littoral et dans
+   son arrière-pays
+
+   IFRAME: //datawrapper.dwcdn.net/48s0x/3/
+
+   Classe 4 : vignes et autres cultures
+   La classe 4 est celle comprenant le plus faible effectif de communes,
+   avec un peu moins de 8 % du total, soit 163 communes. Elles sont
+   presque toutes situées en métropole, leur part étant plus importante en
+   bord de mer que dans l’arrière-pays. Les terres viticoles représentent
+   un peu plus de la moitié de la SAU. Elles sont surtout accompagnées de
+   prairies et de céréales. On compte près de deux UTA par exploitation.
+
+   La densité de population est assez élevée, un peu plus de 150 hab./km²
+   et les soldes migratoires sont très forts entre 2007 et 2012. Le
+   tourisme est important, avec un taux de fonction touristique proche de
+   deux et une part importante de résidences secondaires dans le parc de
+   logements. La SAU a fortement diminué depuis 1988.
+
+   Classe 5 : grandes cultures, prairies et fourrages
+   La classe 5 comprend un cinquième des communes étudiées, soit 418. En
+   métropole, elles regroupent près du quart des communes littorales et
+   19 % des communes d’arrière-pays. La surface fourragère principale
+   représente 60 % de la SAU, surtout représentée par des cultures
+   fourragères, maïs fourrage et prairies artificielles. Les cultures
+   céréalières sont assez importantes, avec près du tiers de l’assolement.
+   La densité moyenne de vaches laitières est forte, de même que celle des
+   porcs charcutiers. Cette classe est donc caractérisée par une
+   agriculture intensive avec élevage et grandes cultures.
+
+   Les petites exploitations sont peu nombreuses, de même que la part des
+   exploitants / co-exploitants âgés de plus de 55 ans. Les communes
+   concernées ont une densité de population assez élevée et sont assez peu
+   touristiques. Les terres agricoles y occupent près des trois quarts de
+   l’occupation du sol, ratio le plus élevé des 6 classes.
+
+   Classe 6 : grandes cultures
+   La classe 6 est la plus importante. Elle regroupe un tiers des communes
+   étudiées. En métropole, elles sont particulièrement nombreuses dans
+   l’arrière-pays littoral. Les grandes cultures dominent les assolements.
+   Les cultures céréalières occupent 45 % de la SAU. Les oléagineux,
+   protéagineux, cultures industrielles et pommes de terres sont également
+   nettement plus importants que dans les 5 autres classes.
+
+   Les petites exploitations sont peu nombreuses et la SAU a nettement
+   moins diminué dans les communes de cette classe que dans les autres.
+   Les soldes migratoires sont modérés sur la période récente et le
+   tourisme est dans la moyenne des communes étudiées.
+
+Analyse géographique
+
+   La classe 1 est présente dans toutes les régions littorales. En
+   métropole, excepté dans les communes littorales de Paca, elle ne
+   représente jamais une forte proportion de communes, en bord de mer
+   comme dans l’arrière-pays, où elle est généralement un peu moins
+   présente (surtout en Bretagne, dans les Pays de la Loire et en Paca).
+   Elle est, par contre, très majoritaire dans les quatre départements
+   ultramarins.
+
+   La classe 2 est rarement dominante, excepté en Corse, en bord de mer
+   comme dans l’arrière-pays.
+
+   La classe 3 est surtout importante en Normandie. Elle est également
+   assez présente dans les Pays de la Loire, en Sud Atlantique, en Corse
+   et en Guyane.
+
+   La classe 4 est surtout présente dans le sud de l’hexagone, en Sud
+   Atlantique et sur le pourtour méditerranéen, principalement en
+   Languedoc-Roussillon.
+
+   La classe 5 est présente dans l’ouest de la France, de la Bretagne aux
+   Pays de la Loire.
+
+   Enfin la classe 6 est importante dans les Hauts-de-France et en
+   Normandie, dans le prolongement des plaines céréalières du grand bassin
+   parisien. Elle est assez représentée dans les Pays de la Loire et sur
+   la façade Sud Atlantique. Elle est très peu importante en Méditerranée
+   et est absente en outre-mer.
+
+Dans le détail
+
+   La classe 1 est surtout présente en outre-mer, dans les Alpes-Maritimes
+   et dans le Var, en contexte plutôt urbain. Elle est également assez
+   importante dans les Bouches-du-Rhône, les Pyrénées-Orientales, la
+   Loire-Atlantique et les côtes bretonnes (cultures légumières sur le
+   littoral nord de la Bretagne).
+
+   La classe 2 est importante en Corse-du-Sud et en Haute-Corse (prairies
+   maigres et maquis). Elle est également présente ponctuellement dans les
+   Antilles, la Somme, le Morbihan, la Vendée, en Aquitaine et en
+   Méditerranée continentale.
+
+   La classe 3 est surtout présente sur l’arc Manche-Atlantique. Elle est
+   très importante dans la Manche et le Calvados. Elle est également non
+   négligeable en Centre-Atlantique, de la Vendée à la Gironde, dans les
+   Pyrénées-Atlantiques et en Haute-Corse.
+
+   La classe 4 est présente en Charente-Maritime, dans les Landes et sur
+   le pourtour méditerranéen. Elle est très importante des
+   Pyrénées-Orientales à l’Hérault et des Bouches-du-Rhône au Var. Elle
+   est non négligeable en Haute-Corse.
+
+   La classe 5 caractérise nettement l’agriculture de l’ouest de la
+   France. Elle est très importante des Côtes-d’Armor à la
+   Loire-Atlantique. Elle est non négligeable à proximité de cet ensemble,
+   en Ille-et-Vilaine et en Vendée, ainsi que dans les Landes.
+
+   La classe 6 est importante aux marges du bassin parisien, du Nord au
+   Calvados, aux marges du bassin aquitain (de la Vendée aux
+   Pyrénées-Atlantiques, et au cœur de la Camargue (riziculture).
+   Détail de la répartition des classes typologiques dans les communes
+   littorales
+
+   IFRAME: //datawrapper.dwcdn.net/WUjpS/1/
+
+Typologie des cultures et viabilité des exploitations agricoles
+
+   En parallèle au travail mené sur la typologie des cultures en bord de
+   mer, un travail a été réalisé pour caractériser l’agriculture littorale
+   sous un angle socio-économique. Il a abouti à une échelle de viabilité
+   des exploitations allant des plus fragiles (exploitations de petite
+   dimension économique, exploitants âgés…) aux plus prospères (production
+   brute standard élevée, bon niveau de formation…).
+
+   Le croisement de ces deux typologies est présenté dans la figure
+   ci-après.
+
+   Il existe un lien assez net entre les types de cultures et l’échelle de
+   viabilité des exploitations. Les classes 5 et 6 regroupant les grandes
+   cultures seules ou avec des ateliers d’élevage intensif sont plutôt
+   prospères. Ainsi, 82 % des communes à l’agriculture prospère sont en
+   classes 5 et 6.
+
+   À l’opposé, les classes 1 et 4 orientées vers des cultures spécialisées
+   (vignes, cultures entretenues, fruits, légumes, fleurs, canne) sont
+   surtout classées en agriculture en difficulté. Près des trois quarts
+   des communes de la classe 4 “vignes et autres cultures” sont concernées
+   et plus de la moitié des communes de la classe 1 “légumes, fruits,
+   fleurs, canne à sucre”.
+
+   Les classes 2 et 3, marquées par l’importance de l’élevage, regroupent
+   surtout des communes à l’agriculture peu rentable. La classe 2
+   “parcours et prairies naturelles” avec un élevage plutôt extensif ne
+   comprend aucune commune à l’agriculture prospère.
+   Typologie des cultures et niveau de viabilité des exploitations
+
+   IFRAME: //datawrapper.dwcdn.net/kXKmp/1/
+
+Analyse statistique
+
+   La classification ascendante hiérarchique a été faite par la méthode de
+   Ward (maximisation de l’inertie interclasse du nuage des individus), à
+   partir des coordonnées des communes étudiées sur les axes de l’analyse
+   en composantes principales.
+
+   Les classes les plus homogènes (faible distance moyenne des différentes
+   communes de la classe étudiée au barycentre de la même classe) sont les
+   classe 2, 3 et 5. Les différences entre communes sont plus fortes dans
+   les classes 1 et 4. Ces classes marquées par l’importance des cultures
+   spécialisées peuvent en effet regroupées des communes aux assolements
+   très différents : des communes spécialisées dans les cultures
+   légumières dans le nord de la Bretagne et des communes recouvertes
+   d’arbres fruitiers ou d’oliviers sur le pourtour méditerranéen.
+
+   Comme le montre la représentation graphique ci-dessous (coordonnées des
+   barycentres des classes et des variables étudiées sur les axes 1 et 2
+   de l’analyse en composantes principales), les classes sont parfaitement
+   distinctes, les classes 1 et 4 étant assez proches et caractérisant les
+   cultures spécialisées.
+
+Méthodologie
+
+   Une analyse typologique a été menée pour caractériser l’agriculture
+   littorale et la répartition des différents types de cultures. Les
+   grands types de culture ont été intégrés à une analyse en composantes
+   principales (ACP) puis à une classification ascendante hiérarchique
+   (CAH). Ces méthodes statistiques permettent de définir des classes de
+   communes homogènes suivant les critères étudiés.
+
+   La surface agricole utile (SAU) se répartit globalement comme suit :
+     * les terres labourables : céréales, oléagineux (colza, tournesol),
+       protéagineux (pois, féverole...), cultures industrielles pour la
+       transformation (canne, betterave, lin...) ;
+     * la surface fourragère principale (SFP) : elle comprend les
+       fourrages (maïs fourrage, prairies artificielles) et les surfaces
+       toujours en herbe (STH), comme les prairies naturelles et les
+       surfaces herbagères peu productives (parcours, landes) ;
+     * les cultures spécialisées : légumes (pomme de terre, légumes
+       frais), vignes, fleurs et cultures permanentes entretenues
+       (pépinières, petits fruits et vergers dont les oliviers).
+       Pour chaque exploitation, les données sont affectées à la commune
+       de son siège.
+       Toutes ces variables ont été prises en compte en tenant compte de
+       leurs parts respectives dans la SAU.
+
+   Auteur : Service de la donnée et des études statistiques (SDES).
+
+Lire plus sur le thème
+
+   Économie
+
+Agriculture, pêche et aquaculture : l'actualité
+
+     * Une agriculture bio poussée par la vente directe Consulter cet
+       article du 11 octobre 2024
+     * Quels sont les pesticides les plus utilisés en agriculture ?
+       Consulter cet article du 17 juillet 2024
+     * 25^e édition du Printemps BIO : découvrez le savoir-faire des
+       agriculteurs près de chez vous Consulter cet article du 13 mai 2024
+     * Irrigation : quels sont les besoins en eau de notre agriculture ?
+       Consulter cet article du 24 avril 2024
+     * Pesticides en agriculture : comment évoluent les ventes des
+       substances les plus préoccupantes pour la santé ? Consulter cet
+       article du 25 avril 2024
+     * Les légumineuses : des bienfaits pour la santé…et pour
+       l’environnement ! Consulter cet article du 25 avril 2024
+     * « Cartobio », la carte interactive des parcelles agricoles en bio
+       sur votre territoire Consulter cet article du 25 avril 2024
+     * Le 23 septembre, c’est la Journée européenne du Bio ! Consulter cet
+       article du 25 avril 2024
+
+Ouvrir l'horizon
+
+     * (BUTTON) Les indispensables
+     * (BUTTON) Les coups de cœur
+     * (BUTTON) Surprenez-moi !
+
+     * État de l’environnement en France
+     * Laisser la nature s’exprimer, une approche bénéfique pour les
+       villes et les citadins
+     * Le castor : une espèce protégée utile à l’écosystème
+     * La France en bonne voie d’atteindre ses objectifs climatiques d’ici
+       2030
+     * Cartes IGN : l’application pour découvrir la France autrement
+     * Télétravail : combien de tonnes de CO[2] évitées ?
+     * Limites planétaires
+     * 3 minutes pour comprendre les risques naturels auxquels nous sommes
+       exposés
+     * 5 conseils pour une pratique sportive respectueuse de
+       l’environnement
+     * Chiffres clés du climat - France, Europe et Monde -édition 2024
+     * Comment composter facilement chez soi ?
+     * Qui sont les Français qui optent pour une voiture électrique ?
+
+   Suivez-nous sur les réseaux sociaux
+     * X
+     * Linkedin
+
+   Haut de page
+
+   République
+   Française
+
+   Le portail de tous les citoyens pour s’informer sur les enjeux de
+   l’environnement, du développement durable et trouver des services
+   utiles
+     * info.gouv.fr  - ouvre une nouvelle fenêtre
+     * service-public.fr  - ouvre une nouvelle fenêtre
+     * legifrance.gouv.fr  - ouvre une nouvelle fenêtre
+     * data.gouv.fr  - ouvre une nouvelle fenêtre
+
+     * Plan du site
+     * Accessibilité : partiellement conforme (95.71%)
+     * Mentions légales
+     * Données personnelles
+     * Contact
+     * Gestion des cookies
+     * (BUTTON) Paramètres d’affichage
+
+   Sauf mention contraire, tous les contenus de ce site sont sous licence
+   etalab-2.0Lien externe
+
+   (BUTTON) Fermer
+
+Paramètres d’affichage
+
+   Choisissez un thème pour personnaliser l’apparence du site.
+
+   (*) Thème clair
+   ( ) Thème sombre
+   ( ) Système Utilise les paramètres système.
