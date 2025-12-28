@@ -7,7 +7,7 @@ body {
 }
 
 .navbar {
-    background-color: #f6d6de; /* rose pâle */
+    background-color: #f6d6de; 
     padding: 15px 40px;
 }
 
@@ -25,18 +25,23 @@ body {
     font-weight: bold;
 }
 
+
 .dropdown {
     position: relative;
+    padding-bottom: 12px;
 }
 
 .dropdown-menu {
     display: none;
     position: absolute;
+    top: 100%;
+    left: 0;
     background-color: #ffffff;
     border: 1px solid #f0c1cd;
     padding: 10px;
-    margin-top: 10px;
+    margin-top: 0;
     list-style: none;
+    z-index: 1000; 
 }
 
 .dropdown-menu li {
@@ -47,7 +52,9 @@ body {
     font-weight: normal;
 }
 
-.dropdown:hover .dropdown-menu {
+/* Modification de cette partie pour que le menu reste visible tant qu'on laisse la souris dessus */
+.dropdown:hover .dropdown-menu,
+.dropdown-menu:hover {
     display: block;
 }
 
@@ -94,4 +101,33 @@ h3 {
     border-radius: 6px;
     margin-bottom: 40px;
 }
- 
+
+/* =========================
+   Ajout de la partie qui prend en compte les tableaux 
+   ========================= */
+main table {
+    width: 100%;
+    border-collapse: collapse; 
+    margin-bottom: 40px;
+    background-color: #fff7f9;
+    font-size: 0.95em;
+}
+
+main th, main td {
+    border: 2px solid #000000; 
+    padding: 10px; 
+    text-align: left;
+}
+
+main th {
+    background-color: #f6d6de; 
+    font-weight: bold;
+}
+
+main tr:nth-child(even) td {
+    background-color: #ffeef2; 
+}
+
+main th, main td {
+    min-width: 120px; 
+}
