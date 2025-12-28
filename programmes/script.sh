@@ -20,13 +20,13 @@ lang=$(basename "$fichier_urls" | sed 's/corpus_//' | sed 's/.txt//') #on enlèv
 #le mot change selon la langue
 case "$lang" in
   fr)
-    mot="Culture"
+    mot="Culture[s]?"
     ;;
   eng)
-    mot="Culture"
+    mot="Culture[s]?"
     ;;
   es)
-    mot="Cultura"
+    mot="Cultura[s]?"
     ;;
   *)
     echo "Langue inconnue" #on gère les cas où la langue n'est pas reconnue

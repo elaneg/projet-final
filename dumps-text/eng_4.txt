@@ -1,0 +1,1008 @@
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Terminology
+     * 2 History
+     * 3 Characteristics
+       (BUTTON) Toggle Characteristics subsection
+          + 3.1 Dominant subcultures
+          + 3.2 Memes and virality
+          + 3.3 Humor, irony, and play
+          + 3.4 Remix, sampling, and intertextuality
+          + 3.5 Identity and pseudonymity
+          + 3.6 Language and communication
+     * 4 Platforms
+     * 5 See also
+     * 6 References
+     * 7 Further reading
+
+   [ ] Toggle the table of contents
+
+Internet culture
+
+   [ ] 33 languages
+     * العربية
+     * Azərbaycanca
+     * Български
+     * Català
+     * Čeština
+     * Deutsch
+     * Eesti
+     * Español
+     * Esperanto
+     * فارسی
+     * Français
+     * 한국어
+     * हिन्दी
+     * Hrvatski
+     * Bahasa Indonesia
+     * Italiano
+     * עברית
+     * ქართული
+     * Latina
+     * Македонски
+     * Bahasa Melayu
+     * 日本語
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Русский
+     * Српски / srpski
+     * Suomi
+     * Svenska
+     * Türkçe
+     * Українська
+     * Tiếng Việt
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Cultural practices shaped by networked communication
+                  Internet
+   Visualization of Internet routing paths
+   An Opte Project visualization of routing paths through a portion of the
+   Internet
+   General
+     * Access
+     * Activism
+     * Censorship
+     * Data activism
+     * Democracy
+     * Digital divide
+     * Digital rights
+     * Digital public goods
+     * Freedom
+     * Freedom of information
+     * Internet phenomena
+     * Media capture
+     * Net neutrality
+     * Privacy
+     * Right to Internet access
+     * Slacktivism
+     * Sociology
+     * Usage
+     * Vigilantism
+     * Virtual community
+     * Virtual volunteering
+
+   Governance
+     * IGF
+     * NRO
+     * IANA
+     * ICANN
+     * IETF
+     * ISOC
+
+   Information infrastructure
+     * Domain Name System
+     * Hypertext Transfer Protocol
+     * Internet exchange point
+     * Internet protocol suite
+          + Internet Protocol
+          + Transmission Control Protocol
+     * Internet service provider
+     * IP address
+     * Internet Message Access Protocol
+     * Simple Mail Transfer Protocol
+
+   Services
+     * Blogs
+          + Microblogging
+     * Email
+     * Fax
+     * File sharing
+     * File transfer
+     * Games
+     * Instant messaging
+     * Podcasts
+     * Shopping
+     * Television
+     * Voice over IP
+     * World Wide Web
+          + search
+
+   History
+     * History of the Internet
+          + Timeline
+          + Protocol Wars
+          + Pioneers
+          + Oldest domain names
+
+   Guides
+     * Index
+     * Outline
+
+   icon Internet portal
+     * v
+     * t
+     * e
+
+   Internet culture is the set of practices, norms, aesthetics, and shared
+   references that emerge in networked communication. The term covers the
+   languages, rituals, humor, and genres that circulate across platforms,
+   as well as communities, identities, and forms of collaboration that are
+   native to online environments.^[1]^[2] Internet culture is shaped by
+   the technical architecture of networks, the governance of platforms,
+   and the political economy of data, which together condition how people
+   find audiences, cooperate, and contest power online.^[3]^[4]^[5]
+
+Terminology
+
+   [edit]
+
+   Writers have used related labels such as "cyberculture", "digital
+   culture", and "network culture". Early work used "cyberculture" for the
+   cultural imaginaries that formed around bulletin board systems, Usenet,
+   and early web forums.^[6] Howard Rheingold popularized the term
+   "netizen" to describe citizens of virtual communities who participate
+   actively in online civic life.^[7] By the mid 2000s scholars emphasized
+   participatory production and circulation, often using the language of
+   "convergence culture" and "participatory culture".^[2]^[8] Some
+   researchers prefer "networked publics" to capture how publics form
+   through technical and social networks.^[9]^[3]
+
+History
+
+   [edit]
+   Further information: History of the Internet
+   [250px-Hexchat_2.16.0_screenshot.png] A screenshot of HexChat, an IRC
+   client for GTK environments
+
+   Many features of Internet culture have precedents in amateur radio,
+   zines, fan clubs, and science fiction fandom, where enthusiasts built
+   distributed publics and shared lore.^[6]^[2] These precursors
+   established patterns of peer-to-peer communication, do-it-yourself
+   publishing, and collaborative meaning-making that would later flourish
+   online. Folklorists note that digital folklore adapts long standing
+   forms, including jokes, legends, and collaborative storytelling, to the
+   speed and scale of networked dissemination.^[10]
+   [250px-CitadelBBSwindow.litlnemo.png] A screenshot of a bulletin board
+   system
+
+   From the 1970s through the 1990s, networked sociality formed on
+   bulletin board systems, Usenet, Internet Relay Chat, and multi-user
+   dungeons, where newcomers learned norms, jargon, and moderation
+   practices.^[6] These spaces normalized pseudonymous identity, technical
+   reputation, and volunteer governance that still influence contemporary
+   platforms.^[11] As the network expanded beyond academic institutions,
+   the term eternal September was coined to describe the phenomenon that
+   began in September 1993, when America Online provided Usenet access to
+   its users. This marked the beginning of a continuous influx of new
+   users, newbies, unfamiliar with established online cultural norms and
+   netiquette, effectively ending the cyclical nature of the previously
+   observed September effect.
+
+   The first decade of the web, roughly 1990-2000, featured personal
+   homepages, webrings, and topic forums. Scholars document how
+   communities organized conversation, built archives, and crafted rules
+   for inclusion and exclusion.^[1]
+
+   In the mid-2000s, the Web 2.0 wave introduced user-generated content
+   and service-oriented platforms that lowered the costs of publishing and
+   circulation.^[12] American media scholar Henry Jenkins described a
+   participatory culture with "low barriers to artistic expression",
+   sustained by informal mentorship and strong sharing norms.^[8]^[2]
+
+   From the 2010s, social and search services centralized discovery
+   through algorithmic ranking and recommendation systems. Scholars
+   analyze this platformization of culture as a shift from open protocols
+   to proprietary infrastructures that steer visibility and monetize
+   attention.^[13]^[4]^[14]
+
+   Early digital culture was predominantly centered in the Anglosphere.
+   The Internet's origins as a British–American invention, combined with
+   computer technology's reliance on textual coding systems primarily
+   designed for the English language, gave Anglophone societies, and
+   subsequently societies using Latin script-based languages, preferential
+   access to digital culture. Over time, however, the linguistic landscape
+   of the Internet has become more diverse. The proportion of
+   English-language content on the Internet declined from approximately
+   80% in the 1990s to 52.9% by 2018.^[15]^[16]
+
+Characteristics
+
+   [edit]
+
+   Internet culture codifies practices for quoting, linking, crediting,
+   and remixing that build on hypertext and URL technologies. Researchers
+   describe "networked publics" with overlapping audiences and context
+   collapse, where people juggle multiple roles across
+   platforms.^[9]^[1]^[8]
+
+Dominant subcultures
+
+   [edit]
+
+   Scholars describe several subcultures that structure online practice,
+   including participatory fan networks, hacker and free software
+   projects, influencer economies, and fringe communities that mobilize
+   around niche interests.^[2]^[11]^[17]^[18]
+     * Fan communities organize around serial storytelling, participatory
+       archiving, and gift economies. American media scholar Henry Jenkins
+       shows how fans extend narratives, coordinate creative labor in
+       public, and negotiate authorship with media producers.^[2]^[19]
+
+     * Hacker and free software communities stress peer review, version
+       control, and moral claims about openness. Ethnography documents how
+       "meritocracy" narratives coexist with gatekeeping practices and
+       episodic protest.^[11]^[3]
+
+     * Influencer cultures merge self branding, algorithmic engagement,
+       and advertiser relationships. Researchers highlight precarious
+       labor, audience labor, and aspirational entrepreneurship within
+       these economies.^[17]^[20]^[21]
+
+     * Niche communities form around specialized interests, while fringe
+       networks use platform affordances for antagonistic and extremist
+       mobilization. Researchers track radicalization pipeline dynamics,
+       cross-platform migration, and the role of recommendation
+       systems.^[18]^[4]
+
+Memes and virality
+
+   [edit]
+   [250px-Doge_meme_example.jpg] An example of the Doge meme, popular in
+   2013 and similar in style to earlier lolcats^[22]
+
+   Memes function as units of cultural exchange that travel and change
+   through imitation and derivation, enabled by digital reproduction and
+   network effects. Israeli communication scholar Limor Shifman defines
+   Internet memes as "groups of digital items" that are "circulated,
+   imitated, and transformed" across platforms.^[23] Scholars analyze
+   formats such as image macros, reaction GIFs, short form video, and
+   copypasta as genres with shared templates and norms.^[10]^[19]
+
+Humor, irony, and play
+
+   [edit]
+
+   Playful transgression, irony, and in jokes are central to many
+   communities, facilitated by pseudonymity and context collapse. American
+   media scholar Whitney Phillips documents how subcultural humor can
+   slide between "playful and poisonous" registers and can be amplified by
+   news and platform dynamics.^[18]^[10]
+
+   The online community can also have behaviors including conflict and
+   aggression, such as trolling, the act of posting deliberately offensive
+   or provocative content.
+
+Remix, sampling, and intertextuality
+
+   [edit]
+
+   Remix practices borrow from existing media and from user generated
+   artifacts, building on digital sampling and hyperlink technologies.
+   Scholars frame this as vernacular creativity that draws on collective
+   archives, with creators attributing sources, annotating with links, and
+   iterating formats in public.^[19]^[1]
+
+Identity and pseudonymity
+
+   [edit]
+   [250px-My_first_tweet%21_%283344952812%29.png] A Twitter post, with the
+   user's profile picture
+
+   Identity is negotiated through handles, avatars, and profiles, enabled
+   by user account systems and profile technologies. Researchers have
+   traced how pseudonymity fosters experimentation and risk taking while
+   also enabling harassment and evasion. Work on race, gender, and class
+   shows how offline inequalities are reproduced in search algorithms and
+   visibility metrics.^[24]^[25]
+
+   One early study, conducted from 1998 to 1999, found that the
+   participants view information obtained online as slightly more credible
+   than information from magazines, radio, and television, information
+   obtained from newspapers was the most credible.^[26] Credibility online
+   is established in much the same way that it is established in the
+   offline world. Lawrence Lessig claimed that the architecture of a given
+   online community may be the most important factor in establishing
+   credibility. Factors include: anonymity, connection to physical
+   identity, comment rating system, feedback type (positive vs
+   positive/negative), moderation.^[27]
+   See also: Anonymous post
+
+   Many sites allow anonymous commentary, where the user-id attached to
+   the comment may be labelled as a "guest" or any other sort of automatic
+   name. In an architecture that allows anonymous commentary, credibility
+   attaches only to the object of the comment. Sites that require some
+   link to an identity may require only a nickname that is sufficient to
+   allow comment readers to rate the commenter, either explicitly, or by
+   informal reputation. However with the rise of oftentimes "careless"
+   spreading of personal data with the integration of the internet into
+   society, and the rise of concepts like the digital footprint,
+   anonymity, while still possible, has decreased.^[28]
+
+Language and communication
+
+   [edit]
+
+   Internet language blends technical slang with playful innovation,
+   including abbreviations, leetspeak, and platform specific registers,
+   shaped by character limits and keyboard constraints.^[29]^[30]
+
+   Users supplement text with emoticons, emoji, stickers, and GIFs to
+   manage tone and display affect, compensating for the limitations of
+   plain text communication. These practices act as pragmatic cues in low
+   context environments and support rapid phatic communication.^[29]^[30]
+
+   Textual play persists through ASCII art, code block aesthetics, and
+   copypasta that standardize rituals and inside jokes, building on
+   character encoding and monospace font technologies.^[10]
+
+   Image macros, screenshot essays, and stitched videos form recognizable
+   vernaculars that travel across platforms and across languages, enabled
+   by image compression, video codecs, and cross-platform sharing
+   protocols.^[23]^[19]
+
+Platforms
+
+   [edit]
+
+   Digital platforms serve as the primary infrastructure through which
+   internet culture is practiced, each embedding particular affordances,
+   governance models, and social dynamics that shape how communities form,
+   communicate, and create meaning online. These platforms are not neutral
+   containers but actively mediate cultural expression through their
+   architecture, purpose, and design choices around identity, visibility,
+   temporality, and interaction.
+   [250px-StackOverflow.com_Top_Questions_Page_Screenshot.png] A "Top
+   questions" page on Stack Overflow
+     * Forums and message boards feature thread based conversation,
+       volunteer moderators, and repost norms. Scholars link these
+       governance repertoires to earlier Internet protocols and to
+       hobbyist computing cultures. Examples include Reddit, 4chan, Stack
+       Overflow, and Discourse.^[6]^[11]
+
+     * Wikis and collaborative knowledge coordinate large scale
+       collaboration through version control, talk pages, and rule making.
+       Researchers analyze how openness coexists with gatekeeping and how
+       policies routinize debate and consensus seeking. Wikipedia, Fandom,
+       and GitHub wikis exemplify these practices.^[1]^[3]
+
+   [250px-Wp-twentyten.jpg] A WordPress blog, using the default theme in
+   2010
+     * Blogs and microblogs organize reverse chronological updates and
+       link based discovery. WordPress, Tumblr, Twitter, and Blogger
+       enabled niche publics and new forms of commentary before feed
+       algorithms reordered attention.^[3]^[31]
+
+     * Social networking services tie profiles to social graphs and feed
+       based interfaces on mobile devices. Scholars track how design
+       decisions shape visibility, privacy defaults, and self
+       presentation. Facebook, Instagram, LinkedIn, and TikTok exemplify
+       these designs.^[9]^[13]
+
+     * Imageboards and ephemeral media enable rapid circulation and low
+       friction posting. Researchers connect their vernaculars to
+       anonymity, tactical visibility, and collective authorship. 4chan,
+       8chan, Snapchat, and BeReal represent these approaches.^[18]^[10]
+
+     * Video platforms and livestreaming concentrate creator economies,
+       recommendation engines, and advertising markets. Studies examine
+       how creators optimize for watch time, how moderation addresses harm
+       at scale, and how recommendation systems structure discovery.
+       YouTube, Twitch, TikTok, and Vimeo dominate these
+       spaces.^[4]^[14]^[32]
+
+     * Gaming platforms and virtual worlds host guilds, economies, and
+       creative modding. Platform policies and player cultures shape voice
+       chat, streaming, and esports spectatorship. Steam, Discord, World
+       of Warcraft, and Roblox exemplify these environments.^[1]^[2]
+
+     * Messaging apps and group chats support intimate publics and
+       community care through private and semi private group messaging.
+       Researchers note how end-to-end encryption and forwarding features
+       also enable rapid rumor spread. WhatsApp, Telegram, Signal, and
+       Slack represent these platforms.^[1]^[33]
+
+     * Decentralized and federated networks foreground open protocols and
+       federation, which distribute control and complicate centralized
+       governance. Scholarship links these designs to long standing
+       debates about common carrier, interoperability, and public values
+       online. Mastodon, Diaspora, Matrix, and ActivityPub based services
+       exemplify these approaches.^[3]^[13]
+
+     * Dark web and anonymity networks enable privacy focused
+       communication through Tor, I2P, and other onion routing protocols.
+       Research examines how technical anonymity shapes community norms,
+       market structures on Silk Road, and information sharing practices
+       distinct from surface web platforms.^[34]^[35]
+
+See also
+
+   [edit]
+     * icon Internet portal
+     * icon Society portal
+
+     * Anonymous
+     * Cicada 3301
+     * Creepypasta
+     * Cyber law
+     * Cyberdelic
+     * Cyberpunk
+     * Digitalism
+     * Doomscrolling
+     * Information ethics
+     * Infosphere
+     * Internet trolls
+     * Meme
+     * Netnography
+     * Postliterate society
+     * Rules of the Internet
+     * Technology and society
+     * Techno-progressivism
+     * Technocriticism
+     * Technolibertarianism
+     * Technorealism
+     * Terminally online
+
+References
+
+   [edit]
+    1. ^ ^a ^b ^c ^d ^e ^f ^g Baym, Nancy K. (2015), Personal Connections
+       in the Digital Age, Cambridge: Polity, ISBN 9780745643328
+    2. ^ ^a ^b ^c ^d ^e ^f ^g Jenkins, Henry (2006), Convergence Culture,
+       Where Old and New Media Collide, New York: New York University
+       Press, ISBN 9780814742815
+    3. ^ ^a ^b ^c ^d ^e ^f Benkler, Yochai (2006), The Wealth of Networks,
+       How Social Production Transforms Markets and Freedom, New Haven:
+       Yale University Press, ISBN 9780300110562
+    4. ^ ^a ^b ^c ^d Gillespie, Tarleton (2018), Custodians of the
+       Internet, Platforms, Content Moderation, and the Hidden Decisions
+       That Shape Social Media, New Haven: Yale University Press,
+       ISBN 9780300173130
+    5. ^ Zuboff, Shoshana (2019), The Age of Surveillance Capitalism, New
+       York: PublicAffairs, ISBN 9781610395694
+    6. ^ ^a ^b ^c ^d Abbate, Janet (1999), Inventing the Internet,
+       Cambridge, MA: MIT Press, ISBN 9780262511155
+    7. ^ Rheingold, Howard (1993). "Daily Life in Cyberspace". The Virtual
+       Community: Homesteading on the Electronic Frontier. HarperCollins.
+       ISBN 0-06-097641-1.
+    8. ^ ^a ^b ^c Jenkins, Henry; Ito, Mizuko; boyd, danah (2015),
+       Participatory Culture in a Networked Era, Cambridge: Polity,
+       ISBN 9780745660707
+    9. ^ ^a ^b ^c boyd, danah (2014), It's Complicated, The Social Lives
+       of Networked Teens, New Haven: Yale University Press,
+       ISBN 9780300166316
+   10. ^ ^a ^b ^c ^d ^e Phillips, Whitney; Milner, Ryan M. (2017), The
+       Ambivalent Internet, Mischief, Oddity, and Antagonism Online,
+       Cambridge: Polity, ISBN 9781509501267
+   11. ^ ^a ^b ^c ^d Coleman, Gabriella (2014), Hacker, Hoaxer,
+       Whistleblower, Spy, The Many Faces of Anonymous, London: Verso,
+       ISBN 9781781685839
+   12. ^ O'Reilly, Tim (2005), What Is Web 2.0, O'Reilly Media
+   13. ^ ^a ^b ^c van Dijck, José; Poell, Thomas; de Waal, Martijn (2018),
+       The Platform Society, Public Values in a Connective World, Oxford:
+       Oxford University Press, ISBN 9780190889760
+   14. ^ ^a ^b Aral, Sinan (2020), The Hype Machine, How Social Media
+       Disrupts Our Elections, Our Economy, and Our Health, New York:
+       Currency, ISBN 9780525574514
+   15. ^ "The digital language divide". The Guardian. Archived from the
+       original on 2022-05-27. Retrieved 2022-05-11.
+   16. ^ "Chart of the day: The Internet has a language diversity
+       problem". World Economic Forum. Archived from the original on
+       2022-05-11. Retrieved 2022-05-11.
+   17. ^ ^a ^b Marwick, Alice E. (2013), Status Update, Celebrity,
+       Publicity, and Branding in the Social Media Age, New Haven: Yale
+       University Press
+   18. ^ ^a ^b ^c ^d Phillips, Whitney (2015), This Is Why We Can't Have
+       Nice Things, Mapping the Relationship between Online Trolling and
+       Mainstream Culture, Cambridge, MA: MIT Press, ISBN 9780262028936
+   19. ^ ^a ^b ^c ^d Jenkins, Henry; Ford, Sam; Green, Joshua (2013),
+       Spreadable Media, Creating Value and Meaning in a Networked
+       Culture, New York: New York University Press, ISBN 9780814743508
+   20. ^ Duffy, Brooke Erin (2017), Not Getting Paid to Do What You Love,
+       Gender, Social Media, and Aspirational Work, New Haven: Yale
+       University Press
+   21. ^ Abidin, Crystal (2018), Internet Celebrity, Understanding Fame
+       Online, Bingley: Emerald Publishing
+   22. ^ Newitz, Annalee (11 December 2013). "We who spoke LOLcat now
+       speak Doge". Gizmodo. Retrieved 3 January 2024.
+   23. ^ ^a ^b Shifman, Limor (2014), Memes in Digital Culture, Cambridge,
+       MA: MIT Press, ISBN 9780262525435
+   24. ^ Nakamura, Lisa (2007), Digitizing Race, Visual Cultures of the
+       Internet, Minneapolis: University of Minnesota Press,
+       ISBN 9780816646135
+   25. ^ Noble, Safiya Umoja (2018), Algorithms of Oppression, How Search
+       Engines Reinforce Racism, New York: New York University Press,
+       ISBN 9781479837243
+   26. ^ Flanagin, Andrew J.; Metzger, Miriam J. (September 2000).
+       "Perceptions of Internet Information Credibility". Journalism &
+       Mass Communication Quarterly. 77 (3): 515–540.
+       doi:10.1177/107769900007700304. ISSN 1077-6990. S2CID 15996706.
+       Archived from the original on 2021-02-25. Retrieved 2020-11-27.
+   27. ^ Lessig, Lawrence (2006). Code 2.0: Code and Other Laws of
+       Cyberspace. Basic Books. ISBN 978-0-465-03914-2.
+   28. ^ "The reasons you can't be anonymous anymore". www.bbc.com.
+       2017-05-29. Retrieved 2025-06-15.
+   29. ^ ^a ^b Crystal, David (2006), Language and the Internet (2nd ed.),
+       Cambridge: Cambridge University Press, ISBN 9780521868594
+   30. ^ ^a ^b McCulloch, Gretchen (2019), Because Internet, Understanding
+       the New Rules of Language, New York: Riverhead Books,
+       ISBN 9780735210936
+   31. ^ Bruns, Axel (2019), Are Filter Bubbles Real?, Cambridge: Polity
+   32. ^ Burgess, Jean; Green, Joshua (2018), YouTube, Online Video and
+       Participatory Culture (2nd ed.), Cambridge: Polity
+   33. ^ Wardle, Claire; Derakhshan, Hossein (2017), Information Disorder,
+       Toward an Interdisciplinary Framework for Research and
+       Policy-Making, Strasbourg: Council of Europe
+   34. ^ Barratt, Monica J. (2012), "Silk Road: eBay for drugs",
+       Addiction, 107 (3): 683, doi:10.1111/j.1360-0443.2011.03709.x,
+       hdl:1959.4/unsworks_73307, PMID 22313109
+   35. ^ Gehl, Robert W. (2018), Weaving the Dark Web: Legitimacy on
+       Freenet, Tor, and I2P, Cambridge, MA: MIT Press, ISBN 9780262038263
+
+Further reading
+
+   [edit]
+     *
+
+   Apprich, Clemens (2017). Technotopia: A Media Genealogy of Net
+   Cultures. London: Rowman & Littlefield International.
+   ISBN 978-1786603142.
+
+     Baranski, Sandrine (2010). La musique en réseau, une musique de la
+   complexité ?. Éditions universitaires européennes.
+
+     Bell, David J.; Loader, Brian D.; Pleace, Nicholas; Schuler, Douglas
+   (2004). Cyberculture: The Key Concepts. London: Routledge.
+
+     Gunkel, David (2001). Hacking Cyberspace. Westview Press.
+   ISBN 0-8133-3669-4.
+
+     Haraway, Donna (1991). "A Cyborg Manifesto: Science, Technology, and
+   Socialist-Feminism in the Late Twentieth Century". Simians, Cyborgs and
+   Women: The Reinvention of Nature. New York: Routledge. pp. 149–181.
+   Archived from the original on 2012-02-14. Retrieved February 4, 2009.
+
+     Haraway, Donna (1991). Simians, Cyborgs and Women: The Reinvention of
+   Nature. New York, NY: Routledge.
+
+     Haraway, Donna (1997). Modest Witness Second Millennium FemaleMan
+   Meets OncoMouse. New York, NY: Routledge.
+
+     Hayles, N. Katherine (Fall 1993). "Virtual Bodies and Flickering
+   Signifiers". Archived from the original on 2009-03-17. Retrieved
+   February 4, 2009.
+
+     Hayles, N. Katherine (1999). How We Became Posthuman: Virtual Bodies
+   in Cybernetics, Literature and Informatics. Chicago, IL: Chicago
+   University Press.
+
+     Jarzombek, Mark (2016). Digital Stockholm Syndrome in the
+   Post-Ontological Age. Minneapolis, MN: University of Minnesota Press.
+
+     Lévy, Pierre (2001). Cyberculture. Minneapolis: University of
+   Minnesota Press. ISBN 9780816636105.
+
+     Marwick, Alice E. (2008). "Becoming Elite: Social Status in Web 2.0
+   Cultures" (PDF). Dissertation. Department of Media, Culture, and
+   Communication New York University. Archived from the original (PDF) on
+   31 January 2012. Retrieved 14 June 2011.
+
+     Paasonen, Susanna (2005). Figures of fantasy: Internet, women, and
+   cyberdiscourse. New York: Peter Lang. ISBN 978-0-8204-7607-0.
+
+     Turkle, Sherry (1997). Life on the Screen: Identity in the Age of the
+   Internet. New York, NY: Simon & Schuster Inc.
+
+   Wikimedia Commons has media related to Internet culture.
+
+     * v
+     * t
+     * e
+
+   Culture
+
+   Outline
+
+   Sciences
+
+     * Cultural anthropology
+     * Cultural astronomy
+     * Cultural ecology
+     * Cultural geography
+     * Cultural neuroscience
+     * Cultural studies
+     * Culturology
+     * Culture theory
+
+   Subfields
+
+     * Bioculture
+     * Cross-cultural studies
+          + Cross-cultural communication
+          + Cross-cultural leadership
+          + Cross-cultural psychiatry
+          + Cross-cultural psychology
+     * Cultural analytics
+     * Cultural economics
+     * Cultural entomology
+     * Cultural history
+     * Cultural mapping
+     * Cultural mediation
+     * Cultural psychology
+     * Cultural values
+     * Culturomics
+     * Intercultural learning
+     * Intercultural relations
+     * Philosophy of culture
+     * Popular culture studies
+     * Postcritique
+     * Semiotics of culture
+     * Sociology of culture
+     * Sound culture
+     * Theology of culture
+     * Transcultural nursing
+
+   Types
+
+     * Constructed culture
+     * Dominant culture
+     * Folk culture
+     * High culture
+     * Individualistic culture
+     * Legal culture
+     * Microculture
+     * Official culture
+     * Political culture
+          + Civic
+     * Popular culture
+          + Low culture
+          + Media culture
+          + Recombinant culture
+          + Remix culture
+          + Trash culture
+          + Urban
+     * Primitive culture
+     * Resistance through culture
+     * Subculture
+          + Alternative culture
+          + Counterculture
+          + Fandom
+          + Far-right subcultures
+          + Underground culture
+          + Youth subculture
+          + list
+     * Super culture
+     * Supporter Culture
+     * Vernacular culture
+     * Culture by location
+
+   Aspects
+
+     * Acculturation
+     * Cultural appreciation
+     * Cultural appropriation
+     * Cultural area
+     * Cultural artifact
+     * Cultural baggage
+     * Cultural bias
+     * Cultural capital
+          + Cross-cultural
+     * Cultural communication
+     * Cultural conflict
+     * Cultural cringe
+     * Cultural dissonance
+     * Cultural emphasis
+     * Cultural framework
+     * Cultural heritage
+          + Destroyed
+     * Cultural icon
+     * Cultural identity
+     * Cultural industry
+     * Cultural invention
+     * Cultural landscape
+     * Cultural learning
+     * Cultural leveling
+     * Cultural memory
+     * Cultural pluralism
+     * Cultural practice
+     * Cultural property
+     * Cultural reproduction
+     * Cultural system
+     * Cultural technology
+     * Cultural universal
+     * Cultureme
+     * Enculturation
+     * High- and low-context cultures
+     * High-trust and low-trust societies
+     * Interculturality
+     * Internet culture
+     * Manuscript culture
+     * Material culture
+     * Non-material culture
+     * Organizational culture
+          + Assessment culture
+          + Design culture
+          + Journalism culture
+     * Print culture
+     * Protoculture
+     * Relational mobility
+     * Safety culture
+     * Symbolic culture
+     * Technoculture
+     * Trans-cultural diffusion
+     * Transculturation
+     * Visual culture
+
+   Politics
+
+     * Colonial mentality
+     * Consumer capitalism
+     * Cross cultural sensitivity
+     * Cultural assimilation
+     * Cultural attaché
+     * Cultural backwardness
+     * Cultural Bolshevism
+     * Cultural conservatism
+     * Cultural contracts
+     * Cultural deprivation
+     * Cultural diplomacy
+     * Cultural environmentalism
+     * Cultural exception
+     * Cultural feminism
+     * Cultural genocide
+     * Cultural globalization
+     * Cultural hegemony
+     * Cultural imperialism
+     * Cultural intelligence
+     * Cultural liberalism
+     * Cultural nationalism
+     * Cultural pessimism
+     * Cultural policy
+     * Cultural racism
+     * Cultural radicalism
+     * Cultural retention
+     * Cultural Revolution
+     * Cultural rights
+     * Cultural safety
+     * Cultural silence
+     * Cultural subsidy
+     * Cultural Zionism
+     * Culture change
+     * Culture minister
+     * Culture of fear
+     * Culture war
+     * Deculturalization
+     * Dominator culture
+     * Interculturalism
+     * Monoculturalism
+     * Multiculturalism
+          + Biculturalism
+     * Multiracial democracy
+     * Pluriculturalism
+     * Polyculturalism
+     * Transculturism
+
+   Religions
+
+     * Buddhism
+     * Christianity
+          + Catholicism
+          + Cultural Christians
+          + Protestantism
+          + Role of Christianity in civilization
+          + Eastern Orthodoxy
+          + Mormonism
+     * Cultural Hindus
+     * Islam
+          + Cultural Muslims
+     * Judaism
+     * Sikhism
+
+   Related
+
+     * Algorithmic culture
+     * Animal culture
+     * Archaeological culture
+     * Bennett scale
+     * Cannabis culture
+     * Circuit of culture
+     * Civilization
+     * Coffee culture
+     * Cringe culture
+     * Cross-cultural
+     * Cultural center
+     * Cultural competence
+     * Cultural critic
+     * Cultural determinism
+     * Cultural diversity
+     * Cultural evolutionism
+     * Cultural homogenization
+     * Cultural institution
+     * Cultural jet lag
+     * Cultural lag
+     * Cultural literacy
+     * Cultural mosaic
+     * Cultural movement
+     * Cultural mulatto
+     * Cultural probe
+     * Cultural relativism
+     * Cultural tourism
+          + Pop-culture
+     * Cultural translation
+     * Cultural turn
+     * Cultural sensibility
+     * Culture and menstruation
+     * Culture and positive psychology
+     * Culture and social cognition
+     * Culture gap
+     * Culture hero
+     * Culture industry
+     * Culture shock
+     * Culturgen
+     * Children's culture
+     * Culturalism
+     * Cyberculture
+     * Death and culture
+     * Disability culture
+          + Deaf culture
+     * Drinking culture
+     * Drug culture
+     * Eastern culture
+     * Emotions and culture
+     * Free-culture movement
+     * Historical culture
+     * Intercultural communication
+     * Intercultural competence
+     * Languaculture
+     * Living things in culture
+     * Media culture
+     * Oppositional culture
+     * Participatory culture
+     * Permission culture
+     * Rape culture
+     * Tea culture
+     * Transformation of culture
+     * Urban culture
+     * Welfare culture
+     * Western culture
+     * Youth culture
+
+     * Category
+
+   Authority control databases: National Edit this at Wikidata
+     * Czech Republic
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Internet_culture&oldid=1328
+   609255"
+
+   Categories:
+     * Internet culture
+     * Cyberspace
+     * Computer folklore
+     * Subcultures
+
+   Hidden categories:
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Commons category link is on Wikidata
+
+     * This page was last edited on 20 December 2025, at 21:09 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Internet culture
+   (BUTTON) 33 languages Add topic
