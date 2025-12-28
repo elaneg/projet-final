@@ -34,6 +34,41 @@ case "$lang" in
     ;;
 esac
 
+#fichier de tableau qui change selon la langue
+tableau="../tableaux/tableau-${lang}.html"
+
+
+#on définit l'en-tête du tableau
+echo "<!DOCTYPE html>
+   <html lang="fr">
+	<head>
+		<meta charset=\"UTF-8\">
+      <title>Tableaux "$lang"</title>
+      <link rel=\"stylesheet\" href=\"../style.css\">
+	</head>
+   <header>
+      <nav class=\"navbar\">
+         <ul class=\"menu\">
+            <li><a href=\"../index.html\">Accueil</a></li>
+         </ul>
+      </nav>
+   </header>
+
+	<body>
+   <main>
+      <h1>Tableau "$lang"</h1>
+		<table>
+			<tr>
+				<th>Numéro</th>
+				<th>URL</th>
+				<th>Code</th>
+				<th>Encodage</th>
+				<th>Nombre d'occurrences</th>
+            <th>Page HTML brute</th>
+            <th>Dump textuel</th>
+            <th>Concordancier HTML</th>
+			</tr>" > "$tableau"
+
 
 #******************************************
 #début de la boucle
@@ -43,7 +78,7 @@ esac
 count=0
 while read -r line;
 do 
-   #on récupère quelques variables utiles, encodage & code http
+   #on récupère quelques variables utiles, encodage & code http (on reprend ce qu'on a fait dans le miniprojet)
    data=$(curl -s -i -L -w "%{http_code}\n%{content_type}" -o ./.data.tmp $line)
 	http_code=$(echo "$data" | head -1)
 	encoding=$(echo "$data" | tail -1 | grep -Po "charset=\S+" | cut -d"=" -f2)
@@ -61,6 +96,9 @@ do
             cp temp.html temp_utf8.html
 
          fi
+
+         #on stocke notre contenu html dans le dossier aspirations pour pouvoir l'afficher dans le tableau
+         cp temp_utf8.html ../aspirations/${lang}_${count}.html
 
             #on récupère les dumps textuels
              lynx -dump -nolist temp_utf8.html > ../dumps-text/${lang}_${count}.txt
@@ -85,9 +123,20 @@ do
 #echo "dump textuel :dumps-text/${lang}_${count}.txt";
 #echo "concordancier HTML : $concord";
 
+echo -e "			<tr>       
+            <td>$count</td>
+				<td>$line</td>
+				<td>$http_code</td>
+				<td>$encoding</td>
+				<td>$nb_occurrences</td>
+				<td><a href=\"../aspirations/"$lang"_"$count".html\">html</a></td>
+            <td><a href=\"../dumps-text/"$lang"_"$count".txt\">dump</a></td>
+            <td><a href=\""$concord"\">concordance</a></td>
+			</tr>" >> "$tableau"
+
 
 #on met à jour le compteur
-count=$((count+1))
+count=$(expr $count + 1)
 
 #on supprime les fichiers temporaires
 rm temp.html temp_utf8.html 
@@ -96,3 +145,10 @@ done < $fichier_urls
 #******************************************
 #fin de la boucle
 #******************************************
+
+echo "		</table>
+      </main>
+	</body>
+</html>"
+
+rm ./.data.tmp
