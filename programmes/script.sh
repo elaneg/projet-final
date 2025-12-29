@@ -149,6 +149,15 @@ echo "</table>
 </html>"
 } > "$concord"
 
+#fichier de contexte qui récupère uniquement le contenu textuel des concordanciers pour le nuage de mots
+contexte="../contextes/${lang}_${count}.txt"
+
+egrep -i ".{0,40}${mot}.{0,40}" "../dumps-text/${lang}_${count}.txt" \
+
+ sed-E "s/^(.{0,40})(${mot})(.{0,40})$/\1 | \2 | \3/I"  \
+> "$contexte"
+
+
 
 
  cat >> "$tableau" <<EOF
@@ -167,6 +176,8 @@ EOF
 
 #on met à jour le compteur
 count=$((count + 1))
+
+sleep 1 #pause de 1 sec pour éviter les problèmes type code http 429
 
 done < "$fichier_urls"
 
