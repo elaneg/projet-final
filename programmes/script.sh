@@ -45,6 +45,23 @@ cat > "$tableau" <<EOF
   <title>Tableau $lang</title>
   <link rel="stylesheet" href="../style.css">
 </head>
+<header>
+<nav class="navbar">
+<ul class="menu">
+<li><a href="../index.html">Accueil</a></li>
+  <li class="dropdown">
+                <a href="#">Tableaux ▾</a>
+                <ul class="dropdown-menu">
+                    <li><a href="../tableaux/tableau-fr.html">Tableau français</a></li>
+                    <li><a href="../tableaux/tableau-eng.html">Tableau anglais</a></li>
+                    <li><a href="../tableaux/tableau-es.html">Tableau espagnol</a></li>
+                </ul>
+            </li>
+
+            <li><a href="nuages/nuages.html">Nuages de mots</a></li>
+</ul>
+</nav>
+</header>
 <body>
 <main>
 <h1>Tableau d'analyse ($lang)</h1>
@@ -101,20 +118,38 @@ if [[ -n "$encoding" && "$encoding" != "UTF-8" && "$encoding" != "utf-8" ]]; the
 
          # fichier de concordances
 concord="../concordances/${lang}_${count}.html"
+
 {
-  echo "<html><body><pre>"
-  egrep -i -n ".{0,40}${mot}.{0,40}" "../dumps-text/${lang}_${count}.txt"
-  echo "</pre></body></html>"
+echo "<html>
+<head>
+<meta charset='UTF-8'>
+<style>
+table { border-collapse: collapse; width: 100%; }
+td, th { border: 1px solid #ccc; padding: 6px; }
+.mot { color: red; font-weight: bold; }
+</style>
+</head>
+<body>
+
+<h2>Concordancier - ${lang} - ${count}</h2>
+<table>
+<tr>
+<th>Contexte gauche</th>
+<th>Mot</th>
+<th>Contexte droit</th>
+</tr>"
+
+
+egrep -o -i ".{0,40}${mot}.{0,40}" "../dumps-text/${lang}_${count}.txt" \
+| sed -E "s/(.*)(${mot})(.*)/<tr><td>\1<\/td><td class=\"mot\">\2<\/td><td>\3<\/td><\/tr>/I"
+
+
+echo "</table>
+</body>
+</html>"
 } > "$concord"
 
-#juste pour checker qu'on récupère bien les infos qu'il nous faut, à supprimmer du script final
-#echo "url : $line";
-#echo "code : $http_code";
-#echo "encodage : $encoding";
-#echo "nombre d'occurrences : $nb_occurrences";
-#echo "page HTML brute :  temp.html";
-#echo "dump textuel :dumps-text/${lang}_${count}.txt";
-#echo "concordancier HTML : $concord";
+
 
  cat >> "$tableau" <<EOF
 <tr>
