@@ -40,11 +40,11 @@ if texte.strip() == "":
 stopwords = set(STOPWORDS)
 stopwords.update([
     # Français
-    "le","il", "elle","dans","aux","comme","culturelles","par","sa","son","d","par","autre","culturels","qui","que","pour","plus","sur","l","culturel","culturelle", "la", "les", "de", "des", "en", "du", "et", "est", "à", "un", "une",
+    "le","il", "entre", "leur","cette","ce","chaque","comment","ou","se","peut","elle","dans","aux","comme","culturelles","par","sa","son","d","par","autre","culturels","qui","que","pour","plus","sur","l","culturel","culturelle", "la", "les", "de", "des", "en","définition","ne","sont","Paris","Frane","l'Agriculture", "du", "et", "est", "à","avec", "un", "une",
     # Anglais
-    "or", "with", "use", "used", "men", "the", "a", "an", "in", "of",
+    "or", "with", "use", "used", "men", "the", "a", "an", "in", "of","may","cultured","cultural","for"
     # Espagnol
-    "del", "que", "o", "y", "el", "la", "de", "en"
+    "del", "que", "o", "y", "el", "la", "de", "en","las","para","e","lo","como","una","uno","es","los","por","su","culturales"
 ])
 #on l'ajustera au fur et à mesure selon nos résultats
 
