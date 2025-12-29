@@ -129,7 +129,7 @@ cinématographique adjectif
    1
    zèle
    2
-   clore
+   aspe
    3
    nubile
    4
@@ -141,9 +141,9 @@ cinématographique adjectif
    7
    happer
    8
-   réveillon
-   9
    verbeux
+   9
+   réveillon
    10
    focal
    Sur les 7 derniers jours

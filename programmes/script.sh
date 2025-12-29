@@ -30,7 +30,7 @@ case "$lang" in
 esac
 
 #creation des dossiers
-mkdir -p ../aspirations ../dumps-text ../concordances ../tableaux
+mkdir -p ../aspirations ../dumps-text ../concordances ../tableaux ../contextes
 
 #fichier de tableau qui change selon la langue
 tableau="../tableaux/tableau-${lang}.html"
@@ -153,8 +153,7 @@ echo "</table>
 contexte="../contextes/${lang}_${count}.txt"
 
 egrep -i ".{0,40}${mot}.{0,40}" "../dumps-text/${lang}_${count}.txt" \
-
- sed-E "s/^(.{0,40})(${mot})(.{0,40})$/\1 | \2 | \3/I"  \
+| sed -E "s/^(.{0,40})(${mot})(.{0,40})$/\1 | \2 | \3/I" \
 > "$contexte"
 
 
