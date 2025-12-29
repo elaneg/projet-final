@@ -1,11 +1,9 @@
 import sys
 import os
-from wordcloud import WordCloud
+from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 
-# ----------------------------
 # Vérification de l’argument
-# ----------------------------
 if len(sys.argv) != 2:
     print("Usage : python nuage.py <langue>")
     print("Exemple : python nuage.py es")
@@ -13,53 +11,55 @@ if len(sys.argv) != 2:
 
 lang = sys.argv[1]
 
-# ----------------------------
 # Chemins
-# ----------------------------
-dumps_dir = "../dumps-text"
+concor_dir = "../concordances"
 output_dir = "../images"
 output_file = f"{output_dir}/nuage_{lang}.png"
 
-# ----------------------------
+
 # Vérifications
-# ----------------------------
-if not os.path.isdir(dumps_dir):
-    print("Erreur : dossier dumps-text introuvable")
+
+if not os.path.isdir(concor_dir):
+    print("Erreur : dossier concordances introuvable")
     sys.exit(1)
 
 os.makedirs(output_dir, exist_ok=True)
 
-# ----------------------------
-# Lecture de tous les dumps de la langue
-# ----------------------------
+# Lecture de tous les fichiers concordances de la langue
 texte = ""
 
-for fichier in os.listdir(dumps_dir):
-    if fichier.startswith(f"{lang}_") and fichier.endswith(".txt"):
-        with open(os.path.join(dumps_dir, fichier), encoding="utf-8", errors="ignore") as f:
+for fichier in os.listdir(concor_dir):
+    if fichier.startswith(f"{lang}_") and fichier.endswith(".html"):
+        with open(os.path.join(concor_dir, fichier), encoding="utf-8", errors="ignore") as f:
             texte += f.read() + " "
 
 if texte.strip() == "":
-    print(f"Aucun dump trouvé pour la langue : {lang}")
+    print(f"Aucune concordance trouvée pour la langue : {lang}")
     sys.exit(1)
+#Ajout de la liste de stopwords pour éviter les mots "inutiles"
+stopwords = set(STOPWORDS)
+stopwords.update([
+    # Français
+    "le","il", "elle","dans","aux","comme","culturelles","par","sa","son","d","par","autre","culturels","qui","que","pour","plus","sur","l","culturel","culturelle", "la", "les", "de", "des", "en", "du", "et", "est", "à", "un", "une",
+    # Anglais
+    "or", "with", "use", "used", "men", "the", "a", "an", "in", "of",
+    # Espagnol
+    "del", "que", "o", "y", "el", "la", "de", "en"
+])
+#on l'ajustera au fur et à mesure selon nos résultats
 
-# ----------------------------
 # Création du nuage
-# ----------------------------
 nuage = WordCloud(
     width=1000,
     height=500,
-    background_color="white"
+    background_color="black",
+    stopwords=stopwords
 ).generate(texte)
 
-# ----------------------------
 # Sauvegarde
-# ----------------------------
 nuage.to_file(output_file)
 
-# ----------------------------
 # Affichage
-# ----------------------------
 plt.figure(figsize=(12, 6))
 plt.imshow(nuage)
 plt.axis("off")
