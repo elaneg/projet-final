@@ -20,9 +20,9 @@ lang=$(basename "$fichier_urls" | sed 's/corpus_//' | sed 's/.txt//')
 
 #le mot change selon la langue
 case "$lang" in
-  fr) mot="Culture[s]?" ;;
-  eng) mot="Culture[s]?" ;;
-  es) mot="Cultura[s]?" ;;
+  fr) mot="\<cultures?\>" ;;
+  eng) mot="\<cultures?\>" ;;
+  es) mot="\<culturas?\>" ;;
   *)
     echo "Langue inconnue $lang" #on gère les cas où la langue n'est pas reconnue
     exit 1
@@ -96,7 +96,7 @@ while read -r line || [ -n "$line" ]; do
    #-------------------------
 
    #on rècupère le contenu de l'article et le met dans un fichier temporaire
-   curl -Ls "$line" > temp.html || continue #Ls gère les redirections (http/https...)
+   curl -Ls "$line" > temp.html  #Ls gère les redirections (http/https...)
 
          # gestion robuste de l'encodage
 if [[ -n "$encoding" && "$encoding" != "UTF-8" && "$encoding" != "utf-8" ]]; then
@@ -176,7 +176,7 @@ EOF
 #on met à jour le compteur
 count=$((count + 1))
 
-sleep 1 #pause de 1 sec pour éviter les problèmes type code http 429
+sleep 1 # pause 1 seconde entre chaque URL pour éviter les problèmes type code http 429
 
 done < "$fichier_urls"
 
