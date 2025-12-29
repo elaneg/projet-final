@@ -1,0 +1,17 @@
+   Wikimedia
+
+Error
+
+   Please set a proper user-agent and respect our robot policy
+   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+
+   If you report this error to the Wikimedia System Administrators, please
+   include the details below.
+
+   Request served via cp6015 cp6015, Varnish XID 145795883
+   Upstream caches: cp6015 int
+   Error: 429, Please set a proper user-agent and respect our robot policy
+   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   at Sun, 28 Dec 2025 23:47:39 GMT
+   Sensitive client informationIP address:
+   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb

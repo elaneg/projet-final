@@ -1,0 +1,538 @@
+     * Recherche
+     * Accéder directement au contenu
+     * Pied de page
+
+   Logo Logo (BUTTON)
+
+     * Documentation
+     * (BUTTON) Se connecter
+
+     * Portail HAL Univ-Corse
+     * (BUTTON) Recherche ____________________
+       Loading...
+       (BUTTON)
+
+Recherche avancée
+       Information de documents
+       (title_t) Titres
+          + Titres
+          + Sous-titre
+          + Titre de l'ouvrage
+          + Titre du volume (Série)
+          + Champ de recherche par défaut (multicritères) + texte intégral
+            des PDF
+          + Résumé
+          + Texte intégral indexé des documents PDF
+          + Mots-clés
+          + Type de document
+          + Sous-type de document
+          + Tous les identifiants du document
+          + Identifiant HAL du dépôt
+          + Langue du document (texte)
+          + Pays (Texte)
+          + Ville
+          + À paraître (true ou false)
+       ____________________ (BUTTON) Ajouter
+       Auteur
+       (auth_t) Auteur (multicritères)
+          + Auteur (multicritères)
+          + Auteur : Nom complet
+          + Auteur : Nom de famille
+          + Auteur : Prénom
+          + Auteur : Complément de nom, deuxième prénom
+          + Auteur : Organisme payeur
+          + Auteur : IdHal (chaîne de caractères)
+          + Auteur : Fonction
+          + Auteur : personID (entier)
+          + Auteur : Identifiant de l'organisme payeur
+          + Auteur : Identifiant de la structure
+          + Directeur de thèse
+          + Éditeur
+          + Éditeur scientifique
+          + Éditeur de la série
+       ____________________ (BUTTON) Ajouter
+       Structure
+       (structure_t) Structure (multicritères)
+          + Structure (multicritères)
+          + Structure : Acronyme
+          + Structure : Nom
+          + Structure : Code
+          + Structure : Pays
+          + Structure : Type
+          + Structure : État dans le référentiel
+          + Structure : Identifiant HAL de la structure
+          + Structure/équipe de recherche : Pays
+          + Structure/regroupement d'équipes : Pays
+          + Structure/laboratoire : Pays
+          + Structure/regroupement de laboratoires : Pays
+          + Structure/institution : Pays
+          + Structure/regroupement d'institutions : Pays
+       ____________________ (BUTTON) Ajouter
+       Autres
+       (text) Champ de recherche par défaut (multicritères)
+          + Champ de recherche par défaut (multicritères)
+          +
+          + Revues (multicritères)
+          + Revue : Éditeur
+          + Revue : Titre abrégé
+          + Revue : Titre
+          + Revue : Identifiant interne
+          + Revue : Date de début de publication
+          + Revue : ISSN électronique
+          + Revue : ISSN
+          + Revue : Éditeur
+          + Revue : Couleur dans SHERPA/RoMEO
+          + Revue : État dans le référentiel
+          +
+          + Colloque (multicritères)
+          + Colloque : Titre
+          + Colloque : Organisateur
+          + Colloque : date de début (Année)
+          + Colloque : date de fin (Année)
+          + Conférence invitée (oui/non)
+          +
+          + Projets ANR (multicritères)
+          + Projet ANR : Acronyme
+          + Projet ANR : Acronyme du programme
+          + Projet ANR : Code décision (référence)
+          + Projet ANR : Nom
+          + Projet ANR : Identifiant interne
+          + Projet ANR : État dans le référentiel
+          + Projet ANSES: Acronyme
+          + Projet ANSES: Code decision (reference)
+          + Projet ANSES: Nom
+          + Projet ADEME: Acronyme
+          + Projet ADEME: Code decision (reference)
+          + Projet ADEME: Nom
+          +
+          + Projets européens (multicritères)
+          + Projet européen : Acronyme
+          + Projet européen : Identifiant de l'appel à projet
+          + Projet européen : Référence
+          + Projet européen : Nom
+          + Projet européen : Date de fin
+          + Projet européen : Financement
+          + Projet européen : Date de début
+          + Projet européen : État dans le référentiel
+          + Projet européen : Identifiant interne
+          +
+          + Date de production : année
+          + Date de mise en ligne : année
+          + Date de publication : année
+          + Date d'écriture : année
+          + Date de modification du dépôt : année
+          + Date de dépôt : année
+          + Date de publication électronique : année
+          +
+          + Collection HAL (multicritères)
+          + Collection HAL : catégorie
+          + Collection HAL : Code
+          + Collection HAL : Nom
+          + Collection HAL : Identifiant interne
+          +
+          + Identifiant interne du contributeur/déposant
+          + Nom complet du contributeur/déposant
+          +
+          + Domaines
+          + Domaine primaire
+          + Domaine racine
+          + Sous-domaine niveau 1
+          + Sous-domaine niveau 2
+          + Sous-domaine niveau 3
+          +
+          + Statut du document
+          + Version du document
+          + Type de dépôt
+          + Type de document
+          + ISBN
+          + Numéro - référence
+          + Identifiant DOI
+          +
+          + Classification
+          + Audience
+          + Vulgarisation
+          + Comité de lecture - texte (oui ou non)
+          + Actes de colloque
+          + Référence interne
+          + Financement
+          +
+          + Infrastructure de recherche : multicritères
+          + Infrastructure de recherche : Nom
+          + Infrastructure de recherche : identifiant
+          + Infrastructure de recherche : Acronyme
+          + Infrastructure de recherche : DOI
+       ____________________ (BUTTON) Ajouter
+
+       (Lancer la recherche) Lancer la recherche
+       (BUTTON) Recherche experte (SolR)
+
+Recherche experte (SolR)
+
+       ___________________________________________________________________
+       ___________________________________________________________________
+       ___________________________________________________________________
+       ___________________________________________________________________
+       (BUTTON) Lancer la recherche
+       (BUTTON) Vers la recherche avancée
+     * Déposer
+
+   [header_logo_univ_gauche.png] [header_logo_hal.png]
+
+     * Accueil
+     * Dépôt & HAL
+          + Qu'est-ce que HAL ?
+          + Comment déposer ?
+          + Que peut-on déposer ?
+          + Tutoriel vidéo "déposer en 5 minutes"
+          + Accès au portail HAL de l'établissement
+     * Identité scientifique
+          + Créer son idHAL
+          + Générer son CV HAL
+          + Comment signer mes publications ?
+          + Utiliser ORCID
+     * Collections & laboratoires
+          + Laboratoires et équipes de recherche
+          + Consultation par type de publication
+          + Thèses et HDR
+          + Toutes les publications
+          + Rechercher par auteur
+     * Autres
+          + Feuille de route Science Ouverte
+          + Charte Science Ouverte
+          + Données de la recherche
+               o Guide pour les Données de la recherche
+               o Entrepôt de données ouvertes sur Recherche Data Gouv
+               o Plans de gestion de données (PGD)
+          + Publier en accès ouvert
+               o Le dépôt en archive ouverte: mode d’emploi
+               o Service aux Auteurs de l'Université de Corse
+               o Liste des revues en open access
+               o Comprendre les accords et modalités de l'accès ouvert
+          + Formations & Sensibilisation
+               o Vademecum Science Ouverte
+               o Programme annuel de formation
+               o Revoir ou écouter les séances de formation
+               o Tutoriels et ressources téléchargeables
+               o MOOC & formations externes
+          + Baromètre & statistiques
+               o Statistiques HAL et données
+               o Baromètre national de la Science Ouverte
+          + Contact
+
+   (BUTTON) ×
+
+   (BUTTON) ×
+
+   (BUTTON) ×
+
+   Loading...
+   (BUTTON) ×
+
+   Thèse Année : 2018
+
+The role of literature in building a national culture
+
+Le rôle de la littérature dans l'édification d'une culture nationale
+
+   (BUTTON) en (BUTTON) fr
+   Natacha Kulundzic (1)
+   (BUTTON) Afficher plus de détails
+   1 LISA - Laboratoire « Lieux, Identités, eSpaces, Activités » (UMR CNRS
+   6240 LISA)
+   Natacha Kulundzic
+     * Fonction : Auteur
+
+   Laboratoire « Lieux, Identités, eSpaces, Activités » (UMR CNRS 6240
+   LISA)
+   (BUTTON) Réduire la vue détaillée
+
+Résumé
+
+   (BUTTON) co (BUTTON) en (BUTTON) fr
+
+   Oghje hè diventatu cumunu di dì chì u seculu XVI hè un’epica
+   impurtantissima per a cultura francese : u francese, lingua « bassa »
+   in cunfrontu incù u latinu, averebbe tandu avutu accessu à e più alte
+   funzione di a cummunicazione. Ma, l’affirmazione segondu a quale a
+   lingua vernaculare averebbe cambiatu di statutu hè fundata à nantu à
+   dui testi precisi. U primu, hè l’Ordonnance di Villers-Cotterêts,
+   prumulgatu da François 1u in u 1539 è chì face di u francese a lingua
+   di a ghjustizia. Dece anni dopu, a Défense et Illustration de la langue
+   française, manifestu di u gruppu di a Pléiade, scrittu da Joachim du
+   Bellay, accerta chì a lingua francese hà e qualità necessarie per
+   cunquistà tutti i duminii di a cultura, per via di [a creazione da
+   imitazione /a ripruduzzione] di l’Antichi è l’arrichiscimentu di u
+   lessicu. L’insignamentu di a literatura francese, è più
+   particularamente à u livellu di u liceu, porta sti dui presupposti
+   dapoi una stonda, senza piglià in cunsiderazione fatti acquisti da a
+   ricerca.Chì, in i fatti, u cumbattu à prò di a lingua francese hà
+   principiatu dapoi u seculu XVI, ciò chì li hà permessu di cunquistà
+   parechji campi di a cultura. D’altronde, François 1u ùn hè statu u
+   primu monarcu à interessà si à u vernaculare ; si scrive ind’e una
+   cuntinuità chì hà digià legittimatu u francese cum’e lingua ghjudirica
+   è amministrativa. [A cuncepitura /a recezzione] oghjinca di stu
+   prinicipiu di XVI esimu seculu è di a Pléiade, po esse dunque
+   qualificata di « mitu ».E nostre ricerche anu palesatu ch’ellu era à u
+   seculu XVI, chì sta creazione hè nata. Più precisamente, ci hà da vulè
+   trè riletture, da ch’ellu sia stabilitu u mitu di a Pléiade simile à
+   quellu ch’omu insegna in Francia oghje. Ste sfarente riletture sò u
+   fruttu d’una recezzione sfarente di l’opere di i sculari di Coqueret.
+   In un Europa in rinnovu, duve l’affirmazione di l’identità tedesca si
+   vole di più in più agressiva, l’egemunia di a cultura francese hè
+   rimessa in causa. Si pone tandu a dumanda di u valore è di l’essenza
+   stessa di a literatura francese. Ste trè riletture sò altrettante
+   risposte à sta dumanda. Un omu hè l’autore di duie trà di elle, Charles
+   Augustin Sainte-Beuve, chì à traversu e duie edizione di u so Tableau
+   historique et critique de la poésie française et du théâtre français au
+   XVIe siècle custruisce tutte e cumpunente di u mitu. Per via di
+   l’imitazione di e forme è di e figure stilistiche, i Parnassiens
+   permettenu di fissà l’idee di Sainte-Beuve, è di fà accede i pueti di a
+   Pleiade à u rangu d’autori classichi.Vene tandu l’ultima tappa ind’e
+   l’elaburazione di u mitu: a so perennisazione per via di a scola di a
+   Terza Republica Opportunista. Dopu à a perdita di l’Alsazia-Lurrena è
+   dopu guasi più d’un seculu di rivolte pupulare, l’ora hè à a
+   custruzzione d’un mudelu di guvernanza stabule. L’opportunisti, da
+   stabilì a Terza Republica in u tempu, s’appoghjanu à nantu à a
+   creazione d’un sintimentu naziunale forte, cimentu di a nazione, è
+   guarante di a stabilità pulitica. A cultura, è dunque a literatura
+   diventanu un inghjocu naziunale. In u novu rumanzu naziunale literariu
+   cusì creatu, a rilettura di Sainte-Beuve hè ripigliata à u nome d’un
+   certu numeru di valore difese da l’Upportunisti fendu accede à u
+   Panthéon di i grandi Autori Ronsard è du Bellay.
+
+   Nowadays it has become commonplace to say that the 16th century is a
+   very important period for the French culture : French ,until now
+   considered as « low »language , compared with Latin,would have risen
+   the highest post in communication.Nevertheless the assertion that the
+   vernacular language would have changed status is mainly based on two
+   texts.The first one ,the Ordinance of Villers-Cotterets,is signed into
+   law by Francis I in 1539 , and calls for the use of French in all legal
+   acts.Ten years later , ''A Defense and an Illustrationof the French
+   language,manifesto of La Pleiade by Joachim du Bellay,ensures that the
+   French language owns the necessary qualities to fill all areas of
+   culture ,via the creation by copying ancient authors and by the
+   vocabulary's enrichment.The teaching of the French language ,especially
+   at high school level,has been conveying for a long time these two
+   presuppositions,without taking into account the knowledge of facts
+   acquired from research.Because actually,the fight for the French
+   language has been going on since the fourteenth century, which has
+   already enabled it to take over many fields of culture.In addition ,
+   Francis I isn't the first monarch to be interested in the vernacular ;
+   he represents a continuity that has already legitimized French as
+   alegal and administrative language.The current reception of that
+   beginning of the sixteenth century and of la Pleiade ,can therefore be
+   described as a « myth ».Our research showed that this creation had
+   emerged on the nineteenth century .More precisely, three re-reading
+   were necessary in order to set up the myth of la Pleiade just like
+   taught nowadays in France .Those different re-reading are the result of
+   a different reception of the works by Coqueret's students.In a changing
+   Europe ,while the assertion of the German identity is becoming more and
+   more aggressive ,the hegemony of the French culture is being called
+   into question.The question then arises of the value and of the essence
+   of French literature.Those three re-reading are so many answers to this
+   question.There's a man who is the author of two of them.It's Charles
+   Augustin Sainte- Beuve, who ,through both editions of his « Tableau
+   historique et critique de la poésie française et du théâtre français au
+   XVIe siècle » builds all the elements of the myth.Thanks to the
+   imitation of forms and stylistic devices,the Parnassians were enable to
+   consolidate Saint-Beuve's ideas classing the poets of la Pleiade with
+   classical authors.Here comes the final stage in the elaboration of the
+   myth : its sustainability through the school of the Third Opportunist
+   Republic .After the loss of Alsace -Lorraine and after nearly a century
+   of popular uprisings, it's time to build a stable governance model. To
+   establish the Third Republic over the long therm , the Opportunists
+   rely on the creation of a strong national feeling that binds our nation
+   and that is the guardian of political stability.Culture and therefore
+   literature become a national issue.With the creation of this new
+   national literary novel,the re-reading of Sainte -Beuve on behalf of a
+   number of values upheld by the Opportunists gives access to the
+   Pantheon of the great Authors to Ronsard and Du Bellay.
+
+   Il est aujourd’hui devenu banal de dire que le XVIe siècle est une
+   période très importante pour la culture française : le français,
+   jusqu’alors langue « basse » par rapport au latin, aurait accédé aux
+   plus hautes fonctions de la communication. Or, l’affirmation selon
+   laquelle la langue vernaculaire aurait changé de statut est fondée sur
+   deux textes en particulier. Le premier, l’Ordonnance de
+   Villers-Cotterêts, est promulgué par François 1eren 1539 et fait du
+   français la langue de la justice. Dix ans plus tard, la Défense et
+   Illustration de la langue française, manifeste du groupe de la Pléiade,
+   écrit par Joachim du Bellay, assure que la langue française a les
+   qualités nécessaires pour occuper tous les domaines de la culture, via
+   la création par imitation des Anciens et l’enrichissement du lexique.
+   L’enseignement de la littérature française, au niveau du lycée
+   particulièrement, véhicule ces deux présupposés depuis longtemps, sans
+   tenir totalement compte de la connaissance des faits acquise par la
+   recherche.Car, en vérité, le combat pour la langue française a commencé
+   depuis le XIVesiècle, ce qui lui a déjà permis de conquérir bien des
+   champs de la culture. En outre, François 1er n’est pas le premier
+   monarque à s’intéresser au vernaculaire ; il s’inscrit dans une
+   continuité qui a déjà légitimé le français comme langue juridique et
+   administrative. La réception actuelle de ce début du XVIesiècle et de
+   la Pléiade, peut donc être qualifiée de « mythe ».Nos recherches ont
+   montré que c’est au XIXesiècle que cette création a vu le jour. Plus
+   précisément, il aura fallu trois relectures pour que soit établi le
+   mythe de la Pléiade tel qu’on l’enseigne aujourd’hui en France. Ces
+   différentes relectures sont le fruit d’une réception différente des
+   oeuvres des élèves de Coqueret. Dans une Europe en renouvellement,
+   alors que l’affirmation de l’identité allemande se veut de plus en plus
+   agressive, l’hégémonie de la culture française est remise en cause. Se
+   pose alors la question de la valeur et de l’essence de la littérature
+   française. Ces trois relectures sont autant de réponses à cette
+   interrogation. Un homme est l’auteur de deux d’entre elles, Charles
+   Augustin Sainte-Beuve, qui, à travers les deux éditions de sonTableau
+   historique et critique de la poésie française et du théâtre français au
+   XVIe siècle construit toutes les composantes du mythe. Grâce à
+   l’imitation des formes et des procédés stylistiques, les Parnassiens
+   permettent de fixer les idées de Sainte-Beuve, et de faire accéder les
+   poètes de la Pléiade au rang des auteurs classiques.Vient alors la
+   dernière étape dans l’élaboration du mythe : sa pérennisation via
+   l’école de la Troisième République Opportuniste. Après la perte de
+   l’Alsace-Lorraine et après près d’un siècle de soulèvements populaires,
+   l’heure est à la construction d’un modèle de gouvernance stable. Les
+   Opportunistes, pour établir la Troisième République dans la durée,
+   s’appuie sur la création d’un sentiment national fort, ciment de la
+   nation, et garant de la stabilité politique. La culture, et donc la
+   littérature deviennent un enjeu national. Dans le nouveau roman
+   national littéraire ainsi créé, la relecture de Sainte-Beuve est
+   reprise au nom d’un certain nombre de valeurs défendues par les
+   Opportunistes faisant accéder au Panthéon des grands Auteurs Ronsard et
+   du Bellay.
+
+Mots clés
+
+   (BUTTON) co (BUTTON) en (BUTTON) fr
+     * Scola
+     * Cuscenza naziunale
+     * Mitu
+     * Identità naziunale
+     * Literatura
+     * Cultura
+
+     * School
+     * National consciousness
+     * Myth
+     * National identity
+     * Culture
+     * Literature
+
+     * École
+     * Conscience nationale
+     * Mythe
+     * Identité nationale
+     * Culture
+     * Littérature
+
+Domaines
+
+     * Littératures
+
+   (BUTTON) Liste complète des métadonnées
+   (BUTTON) Fichiers et aperçu
+   Fichier principal
+   Vignette du fichier
+   these_kulundzic_natacha.pdf (3.55 Mo) Télécharger le fichier
+
+   IFRAME:
+   https://theses.hal.science/tel-03476884v2/preview/these_kulundzic_natac
+   ha.pdf#page=2
+
+   Origine Version validée par le jury (STAR)
+
+   Contact
+
+   https://theses.hal.science/tel-03476884
+
+   Soumis le : lundi 13 décembre 2021-12:27:08
+
+   Dernière modification le : mardi 12 août 2025-19:40:02
+
+   Télécharger pour visualiser
+
+Dates et versions
+
+   tel-03476884 , version 1 (13-12-2021)
+   tel-03476884 , version 2 (13-12-2021)
+
+Identifiants
+
+     * HAL Id : tel-03476884 , version 2
+
+Citer
+
+   (BUTTON)
+   Natacha Kulundzic. Le rôle de la littérature dans l'édification d'une
+   culture nationale. Littératures. Université Pascal Paoli, 2018.
+   Français. ⟨NNT : 2018CORT0030⟩. ⟨tel-03476884v2⟩
+
+Exporter
+
+     * BibTeX
+     * XML-TEI
+     * Dublin Core
+     * DC Terms
+     * EndNote
+     * DataCite
+
+Collections
+
+     * UNIV-CORSE
+     * CNRS
+     * STAR
+     * UNIV-CORSE-LISA
+
+   601 Consultations
+   1611 Téléchargements
+
+Partager
+
+     *
+     *
+     *
+     *
+     *
+     * More
+
+   Inria
+   CNRS
+   INRAE
+   INSERM
+
+   Contact
+     *
+     * CoreTrustSeal logo
+
+   Ressources
+     * Documentation
+     * Formation
+     * FAQ
+     * API
+     * OAI-PMH
+     * AuréHAL
+     * Hal Monitor
+
+   Informations
+     * À propos
+     * Données personnelles
+     * Mentions légales
+     * Accessibilité
+     * Conformité RGAA
+
+   Questions juridiques
+     * Je publie, quels sont mes droits ?
+     * Loi pour une République numérique
+     * Stratégie de non-cession des droits
+     * Mir@bel
+     * Jisc - Open Policy Finder
+
+   Portails
+     * Portails institutionnels
+     * HAL
+     * HAL SHS
+     * HAL Thèses
+     * MédiHAL
+
+   CCSD
+     * CCSD
+     * Episciences
+     * Sciencesconf

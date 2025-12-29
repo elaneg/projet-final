@@ -1,0 +1,421 @@
+   #Búsqueda LibreTexts Español
+
+   Saltar al contenido principal
+
+   (BUTTON) Table of Contents menu
+   Library homepage
+
+   (BUTTON) search Search (BUTTON) build_circle Toolbar (BUTTON)
+   fact_check Homework (BUTTON) cancel Exit Reader Mode
+
+     * school Campus Bookshelves
+     * menu_book Bookshelves
+     * perm_media Learning Objects
+
+     * login Login
+     * how_to_reg Request Instructor Account
+     * hub Instructor Commons
+
+Search
+
+   Search this book ____________________
+   (BUTTON) Submit Search
+
+   (BUTTON) x
+
+Text Color
+
+   (BUTTON) Reset
+   (BUTTON)  Bright (BUTTON)  Blues (BUTTON)  Gray (BUTTON)  Inverted
+
+Text Size
+
+   (BUTTON) Reset
+   (BUTTON) + (BUTTON) -
+
+Margin Size
+
+   (BUTTON) Reset
+   (BUTTON) + (BUTTON) -
+
+Font Type
+
+   Enable Dyslexic Font [ ]
+     * Downloads expand_more
+          + Download Page (PDF)
+          + Download Full Book (PDF)
+     * Resources expand_more
+          + Periodic Table
+          + Physics Constants
+          + Scientific Calculator
+     * Reference expand_more
+          + Reference & Cite
+     * Tools expand_more
+     * Help expand_more
+          + Get Help
+          + Feedback
+          + Readability
+
+
+
+   x
+
+   selected template will load here
+
+Error
+
+   (BUTTON)
+
+   This action is not available.
+
+
+   Library homepage
+   (BUTTON) chrome_reader_mode Enter Reader Mode
+
+   3.3: Cultura y Adaptación
+   3: Cultura
+   { }
+   { "3.3A:_Los_or\u00edgenes_de_la_cultura" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "3.3B:_Mecanismos_de_Cambio_Cultural" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "3.3C:_Retraso_Cultural" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "3.3D:_Animales_y_Cultura" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()" }
+   { "3.01:_Cultura_y_Sociedad" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "3.02:_La_naturaleza_simb\u00f3lica_de_la_cultura" : "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "3.03:_Cultura_y_Adaptaci\u00f3n" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()", "3.04:_Mundos_de_la_cultura" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()",
+   "3.05:_La_cultura_y_la_ideolog\u00eda_dominante_en_Estados_Unidos" :
+   "property get [Map
+   MindTouch.Deki.Logic.ExtensionProcessorQueryProvider+<>c__DisplayClass2
+   30_0.<PageSubPageProperty>b__1]()" }
+   Mon, 31 Oct 2022 01:35:39 GMT
+   3.3A: Los orígenes de la cultura
+   146866
+   146866
+   LibreBot
+   { }
+   Anonymous
+   Anonymous User
+   2
+   false
+   false
+   [ "article:topic", "showtoc:no", "license:ccbysa", "columns:two",
+   "source[translate]-socialsci-7947" ]
+   [ "article:topic", "showtoc:no", "license:ccbysa", "columns:two",
+   "source[translate]-socialsci-7947" ]
+   https://espanol.libretexts.org/@app/auth/3/login?returnto=https%3A%2F%2
+   Fespanol.libretexts.org%2FBookshelves%2FCiencias_Sociales%2FCiencias_So
+   ciales%2FSociologia%2FIntroducci%25C3%25B3n_a_la_Sociolog%25C3%25ADa%2F
+   Libro%253A_Sociolog%25C3%25ADa_(Boundless)%2F03%253A_Cultura%2F3.03%253
+   A_Cultura_y_Adaptaci%25C3%25B3n%2F3.3A%253A_Los_or%25C3%25ADgenes_de_la
+   _cultura
+
+   LibreTexts Español
+
+    1. Buscar en el sitio
+       Buscar ____________________ (BUTTON) Buscar
+       Ir al artículo anterior
+    2.
+         1. ____________________ Usuario
+            ____________________ Contraseña
+            (BUTTON) Inicio de sesión
+         2. Inicio de sesión
+               o Inicio de sesión
+               o Contraseña olvidada
+
+   (BUTTON) Expandir/contraer jerarquía global
+    1. Inicio
+    2. Estantería
+    3. Ciencias Sociales
+    4. Ciencias Sociales
+    5. Sociología
+    6. Introducción a la Sociología
+    7. Libro: Sociología (Boundless)
+    8. 3: Cultura
+    9. 3.3: Cultura y Adaptación
+   10. 3.3A: Los orígenes de la cultura
+
+   (BUTTON) Expandir/contraer ubicación global
+
+                       3.3A: Los orígenes de la cultura
+
+    1.
+
+        Última actualización
+
+    2. Guardar como PDF
+    3.
+
+
+
+   Page ID
+          146866
+
+   \( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup}
+   {\mathbf{#1}} } \)
+
+   \(
+   \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smas
+   h {#1}}} \)
+
+   \( \newcommand{\dsum}{\displaystyle\sum\limits} \)
+
+   \( \newcommand{\dint}{\displaystyle\int\limits} \)
+
+   \( \newcommand{\dlim}{\displaystyle\lim\limits} \)
+
+   \( \newcommand{\id}{\mathrm{id}}\) \(
+   \newcommand{\Span}{\mathrm{span}}\)
+
+   ( \newcommand{\kernel}{\mathrm{null}\,}\) \(
+   \newcommand{\range}{\mathrm{range}\,}\)
+
+   \( \newcommand{\RealPart}{\mathrm{Re}}\) \(
+   \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+
+   \( \newcommand{\Argument}{\mathrm{Arg}}\) \( \newcommand{\norm}[1]{\|
+   #1 \|}\)
+
+   \( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+
+   \( \newcommand{\Span}{\mathrm{span}}\)
+
+   \( \newcommand{\id}{\mathrm{id}}\)
+
+   \( \newcommand{\Span}{\mathrm{span}}\)
+
+   \( \newcommand{\kernel}{\mathrm{null}\,}\)
+
+   \( \newcommand{\range}{\mathrm{range}\,}\)
+
+   \( \newcommand{\RealPart}{\mathrm{Re}}\)
+
+   \( \newcommand{\ImaginaryPart}{\mathrm{Im}}\)
+
+   \( \newcommand{\Argument}{\mathrm{Arg}}\)
+
+   \( \newcommand{\norm}[1]{\| #1 \|}\)
+
+   \( \newcommand{\inner}[2]{\langle #1, #2 \rangle}\)
+
+   \( \newcommand{\Span}{\mathrm{span}}\) \(
+   \newcommand{\AA}{\unicode[.8,0]{x212B}}\)
+
+   \( \newcommand{\vectorA}[1]{\vec{#1}}      % arrow\)
+
+   \( \newcommand{\vectorAt}[1]{\vec{\text{#1}}}      % arrow\)
+
+   \( \newcommand{\vectorB}[1]{\overset { \scriptstyle \rightharpoonup}
+   {\mathbf{#1}} } \)
+
+   \( \newcommand{\vectorC}[1]{\textbf{#1}} \)
+
+   \( \newcommand{\vectorD}[1]{\overrightarrow{#1}} \)
+
+   \( \newcommand{\vectorDt}[1]{\overrightarrow{\text{#1}}} \)
+
+   \(
+   \newcommand{\vectE}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\sma
+   sh{\mathbf {#1}}}} \)
+
+   \( \newcommand{\vecs}[1]{\overset { \scriptstyle \rightharpoonup}
+   {\mathbf{#1}} } \)
+
+   \(
+   \newcommand{\vecd}[1]{\overset{-\!-\!\rightharpoonup}{\vphantom{a}\smas
+   h {#1}}} \)
+   \(\newcommand{\avec}{\mathbf a}\) \(\newcommand{\bvec}{\mathbf b}\)
+   \(\newcommand{\cvec}{\mathbf c}\) \(\newcommand{\dvec}{\mathbf d}\)
+   \(\newcommand{\dtil}{\widetilde{\mathbf d}}\)
+   \(\newcommand{\evec}{\mathbf e}\) \(\newcommand{\fvec}{\mathbf f}\)
+   \(\newcommand{\nvec}{\mathbf n}\) \(\newcommand{\pvec}{\mathbf p}\)
+   \(\newcommand{\qvec}{\mathbf q}\) \(\newcommand{\svec}{\mathbf s}\)
+   \(\newcommand{\tvec}{\mathbf t}\) \(\newcommand{\uvec}{\mathbf u}\)
+   \(\newcommand{\vvec}{\mathbf v}\) \(\newcommand{\wvec}{\mathbf w}\)
+   \(\newcommand{\xvec}{\mathbf x}\) \(\newcommand{\yvec}{\mathbf y}\)
+   \(\newcommand{\zvec}{\mathbf z}\) \(\newcommand{\rvec}{\mathbf r}\)
+   \(\newcommand{\mvec}{\mathbf m}\) \(\newcommand{\zerovec}{\mathbf 0}\)
+   \(\newcommand{\onevec}{\mathbf 1}\) \(\newcommand{\real}{\mathbb R}\)
+   \(\newcommand{\twovec}[2]{\left[\begin{array}{r}#1 \\ #2
+   \end{array}\right]}\)
+   \(\newcommand{\ctwovec}[2]{\left[\begin{array}{c}#1 \\ #2
+   \end{array}\right]}\)
+   \(\newcommand{\threevec}[3]{\left[\begin{array}{r}#1 \\ #2 \\ #3
+   \end{array}\right]}\)
+   \(\newcommand{\cthreevec}[3]{\left[\begin{array}{c}#1 \\ #2 \\ #3
+   \end{array}\right]}\)
+   \(\newcommand{\fourvec}[4]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4
+   \end{array}\right]}\)
+   \(\newcommand{\cfourvec}[4]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4
+   \end{array}\right]}\)
+   \(\newcommand{\fivevec}[5]{\left[\begin{array}{r}#1 \\ #2 \\ #3 \\ #4
+   \\ #5 \\ \end{array}\right]}\)
+   \(\newcommand{\cfivevec}[5]{\left[\begin{array}{c}#1 \\ #2 \\ #3 \\ #4
+   \\ #5 \\ \end{array}\right]}\)
+   \(\newcommand{\mattwo}[4]{\left[\begin{array}{rr}#1 \amp #2 \\ #3 \amp
+   #4 \\ \end{array}\right]}\)
+   \(\newcommand{\laspan}[1]{\text{Span}\{#1\}}\)
+   \(\newcommand{\bcal}{\cal B}\) \(\newcommand{\ccal}{\cal C}\)
+   \(\newcommand{\scal}{\cal S}\) \(\newcommand{\wcal}{\cal W}\)
+   \(\newcommand{\ecal}{\cal E}\)
+   \(\newcommand{\coords}[2]{\left\{#1\right\}_{#2}}\)
+   \(\newcommand{\gray}[1]{\color{gray}{#1}}\)
+   \(\newcommand{\lgray}[1]{\color{lightgray}{#1}}\)
+   \(\newcommand{\rank}{\operatorname{rank}}\)
+   \(\newcommand{\row}{\text{Row}}\) \(\newcommand{\col}{\text{Col}}\)
+   \(\renewcommand{\row}{\text{Row}}\) \(\newcommand{\nul}{\text{Nul}}\)
+   \(\newcommand{\var}{\text{Var}}\) \(\newcommand{\corr}{\text{corr}}\)
+   \(\newcommand{\len}[1]{\left|#1\right|}\)
+   \(\newcommand{\bbar}{\overline{\bvec}}\)
+   \(\newcommand{\bhat}{\widehat{\bvec}}\)
+   \(\newcommand{\bperp}{\bvec^\perp}\)
+   \(\newcommand{\xhat}{\widehat{\xvec}}\)
+   \(\newcommand{\vhat}{\widehat{\vvec}}\)
+   \(\newcommand{\uhat}{\widehat{\uvec}}\)
+   \(\newcommand{\what}{\widehat{\wvec}}\)
+   \(\newcommand{\Sighat}{\widehat{\Sigma}}\) \(\newcommand{\lt}{<}\)
+   \(\newcommand{\gt}{>}\) \(\newcommand{\amp}{&}\)
+   \(\definecolor{fillinmathshade}{gray}{0.9}\)
+
+    1. Puntos Clave
+    2. Términos Clave
+
+   La cultura es un concepto central en la antropología, abarcando la gama
+   de fenómenos humanos que no pueden atribuirse a la herencia genética.
+
+   Objetivos de aprendizaje
+     * Parafraseando lo que actualmente se piensa que es la razón del
+       desarrollo del lenguaje y la cultura compleja
+
+Puntos Clave
+
+     * El término “cultura” tiene dos significados: (1) la capacidad
+       humana evolucionada para clasificar y representar experiencias con
+       símbolos, y actuar creativamente; y (2) las distintas formas en que
+       las personas que viven en diferentes partes del mundo actuaron
+       creativamente y clasificaron o representaron sus experiencias.
+     * Actualmente se hacen distinciones entre los artefactos físicos
+       creados por una sociedad, su llamada cultura material y todo lo
+       demás, incluidos los intangibles como el lenguaje, las costumbres,
+       etc. que son el principal referente del término “cultura”.
+     * El origen del lenguaje, entendido como la capacidad humana de
+       comunicación simbólica compleja, y el origen de la cultura compleja
+       se piensa a menudo que provienen del mismo proceso evolutivo en el
+       hombre primitivo.
+     * Tanto el lenguaje como la cultura surgieron como un medio de usar
+       símbolos para construir la identidad social y mantener la
+       coherencia dentro de un grupo social demasiado grande para depender
+       exclusivamente de las formas prehumanas de construir comunidad (por
+       ejemplo, el grooming).
+
+Términos Clave
+
+     * comunidad: Un grupo que comparte un entendimiento común y a menudo
+       el mismo idioma, modales, tradición y derecho. Ver civilización.
+     * horticultura: El arte o ciencia de cultivar jardines; jardinería.
+
+   Cultura (latín: cultura, lit. “cultivo”) es un concepto moderno basado
+   en un término utilizado por primera vez en la antigüedad clásica por el
+   orador romano, Cicerón: “cultura animi”. El término “cultura” apareció
+   primero en su sentido actual en Europa en los siglos XVIII y ^^XIX,
+   para connotar un proceso de cultivo o mejora, como en agricultura u
+   horticultura. En el ^siglo XIX, el término se desarrolló para referirse
+   primero al mejoramiento o refinamiento del individuo, especialmente a
+   través de la educación, y luego al cumplimiento de aspiraciones o
+   ideales nacionales. A mediados del ^siglo XIX, algunos científicos
+   utilizaron el término “cultura” para referirse a una capacidad humana
+   universal.
+
+   En el siglo ^XX, la “cultura” surgió como un concepto central en la
+   antropología, abarcando la gama de fenómenos humanos que no pueden
+   atribuirse a la herencia genética. Específicamente, el término
+   “cultura” en la antropología estadounidense tenía dos significados: (1)
+   la capacidad humana evolucionada para clasificar y representar
+   experiencias con símbolos, y actuar imaginativa y creativamente; y (2)
+   las distintas formas en que las personas que viven en diferentes partes
+   del mundo actuaban creativamente y clasificaban o representaron sus
+   experiencias. Actualmente se hacen distinciones entre los artefactos
+   físicos creados por una sociedad, su llamada cultura material y todo lo
+   demás, incluidos los intangibles como el lenguaje, las costumbres, etc.
+   que son el principal referente del término “cultura”.
+
+   El origen del lenguaje, entendido como la capacidad humana de
+   comunicación simbólica compleja, y el origen de la cultura compleja se
+   piensa a menudo que provienen del mismo proceso evolutivo en el hombre
+   primitivo. El antropólogo evolutivo Robin I. Dunbar ha propuesto que el
+   lenguaje evolucionó a medida que los primeros humanos comenzaron a
+   vivir en grandes comunidades que requerían el uso de una comunicación
+   compleja para mantener la coherencia social. El lenguaje y la cultura
+   surgieron entonces como un medio de usar símbolos para construir la
+   identidad social y mantener la coherencia dentro de un grupo social
+   demasiado grande para depender exclusivamente de formas prehumanas de
+   construir comunidad (por ejemplo, el aseo personal).
+
+   Sin embargo, las lenguas, ahora entendidas como el conjunto particular
+   de normas de habla de una comunidad en particular, también forman parte
+   de la cultura más amplia de la comunidad que las habla. Los humanos
+   utilizan el lenguaje como una forma de señalar la identidad con un
+   grupo cultural y la diferencia con los demás. Incluso entre hablantes
+   de un idioma, existen varias formas diferentes de usar el idioma, y
+   cada una se usa para señalar la afiliación con subgrupos particulares
+   dentro de una cultura más amplia.
+   imagen Nómadas: Los antropólogos rechazaron la idea de que la cultura
+   era única de la sociedad occidental y adoptaron una nueva definición de
+   cultura que se aplicaba a todas las sociedades, alfabetizadas y no
+   alfabetizadas, asentadas y nómadas.
+     __________________________________________________________________
+
+   3.3A: Los orígenes de la cultura is shared under a CC BY-SA license and
+   was authored, remixed, and/or curated by LibreTexts.
+
+    1. Volver arriba
+    2.
+          + 3.3: Cultura y Adaptación
+          + 3.3B: Mecanismos de Cambio Cultural
+
+Artículos recomendados
+
+    1.
+
+        Tipo de artículo
+                Tema
+
+        License
+                CC BY-SA
+
+        Show TOC
+                no
+
+    2.
+
+        Etiquetas
+
+              1. columns:two
+              2. source[translate]-socialsci-7947
+
+    1. © Copyright 2025 LibreTexts Español
+    2. Powered by CXone Expert ®
+
+   The LibreTexts libraries are Powered by NICE CXone Expert and are
+   supported by the Department of Education Open Textbook Pilot Project,
+   the UC Davis Office of the Provost, the UC Davis Library, the
+   California State University Affordable Learning Solutions Program, and
+   Merlot. We also acknowledge previous National Science Foundation
+   support under grant numbers 1246120, 1525057, and 1413739. Privacy
+   Policy. Terms & Conditions. Accessibility Statement. For more
+   information contact us at info@libretexts.org.

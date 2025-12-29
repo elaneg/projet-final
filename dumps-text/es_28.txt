@@ -1,0 +1,628 @@
+
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WRSZVB
+
+   Calidad Europea
+   (BUTTON) BuscarAcceso estudiantes
+   Solicita información (BUTTON) Menú
+     * Oferta académica
+       VER LA OFERTA ACADÉMICA
+          + Licenciaturas
+          + Maestrías
+          + Másteres Europeos
+          + Educación Continua
+          + Educación
+          + Ingeniería
+          + Economía y Negocios
+          + Comunicación y Mercadotecnia
+          + Ciencias de la Salud
+          + Derecho
+          + Humanidades y Arte
+          + Ciencias Sociales
+     * Licenciaturas
+       Ver todas las licenciaturas
+          + Licenciatura en Ingeniería en Sistemas Computacionales
+          + Licenciatura en Diseño Gráfico Digital
+          + Licenciatura en Administración de Empresas
+          + Licenciatura en Derecho
+          + Licenciatura en Arquitectura
+          + Licenciatura en Contaduría Pública y Finanzas
+          + Licenciatura en Ingeniería Industrial Administrativa
+     * Maestrías
+          + Educación
+            Ver todas las maestrías de Educación
+               o Maestría en Aprendizaje, Cognición y Desarrollo Educativo
+               o Maestría en Educación
+               o Maestría en Atención a las Necesidades Educativas del
+                 Desarrollo
+               o Maestría en Psicopedagogía
+               o Maestría en Enseñanza del Inglés como Lengua Extranjera
+               o Maestría en Liderazgo y Dirección de Centros Educativos
+               o Maestría en Tecnología Educativa y Competencias Digitales
+          + Ingeniería
+            Ver todas las maestrías de Ingeniería
+               o Maestría en Inteligencia Artificial
+               o Maestría en Ciberseguridad
+               o Maestría en Análisis y Visualización de Datos Masivos –
+                 Big Data
+               o Maestría en Prevención de Riesgos Laborales
+               o Maestría en Ingeniería de Software y Sistemas
+                 Informáticos
+               o Maestría en Sistemas Integrados de Gestión
+               o Maestría en Desarrollo y Operaciones de Software (DevOps)
+          Economía y Negocios
+            Ver todas las maestrías en Economía
+               o Maestría en Administración de Empresas (MBA)
+               o Maestría en Finanzas
+               o Maestría en Dirección y Gestión de Recursos Humanos
+               o Maestría en Dirección de Operaciones y Calidad
+               o Maestría en Inteligencia de Negocios
+               o Maestría en Contabilidad e Impuestos
+               o Maestría en Negocios Internacionales y Comercio Exterior
+               o Maestría en Gerencia Comercial y Ventas
+          Comunicación y Mercadotecnia
+               o Maestría en Marketing Digital
+               o Maestría en Neuromarketing
+               o Maestría en Comunicación Transmedia
+               o Maestría en Comunicación y Marketing Político
+               o Maestría en Comunicación Corporativa
+               o Maestría en Mercadotecnia Farmacéutica
+          Salud
+               o Maestría en Dirección y Administración en Salud
+               o Maestría en Dirección y Administración de Equipos de
+                 Salud
+          Derecho
+            Ver todas las maestrías de Derecho
+               o Maestría en Administración Pública
+               o Maestría en Derecho Fiscal
+               o Maestría en Derecho Corporativo y Empresarial
+               o Maestría en Derecho Digital
+               o Maestría en Derechos Humanos
+               o Maestría en Litigación en Juicios Orales
+          Humanidades y Arte
+               o Maestría en Escritura Creativa
+               o Maestría en Educación Musical
+               o Maestría en Teatro y Artes escénicas
+               o Maestría en Gestión del Patrimonio Cultural
+               o Maestría en Gestión y Emprendimiento de Proyectos
+                 Culturales
+          Ciencias Sociales
+               o Maestría en Intervención Social
+               o Maestría en Cooperación Internacional al Desarrollo
+          + Másteres Europeos
+               o Ingeniería
+                    # Máster Universitario en Animación 3D para las
+                      Industrias del Entretenimiento
+                    # Máster Universitario en Astrofísica y Técnicas de
+                      Observación en Astronomía
+                    # Máster Universitario en Computación Cuántica
+                    # Máster Universitario en Desarrollo y Operaciones
+                      (DevOps)
+                    # Máster Universitario en Dirección Logística
+                    # Máster Universitario en Dirección y Gestión de
+                      Tecnologías de la Información (TI)
+                    # Máster Universitario en Diseño de Experiencia de
+                      Usuario
+               o Ciencias de la Salud
+                    # Máster Universitario en Psicoterapia: Terapias de
+                      Tercera Generación
+                    # Máster Universitario en Neuropsicología Clínica
+                    # Máster Universitario en Metodología de la
+                      Investigación en Ciencias de la Salud
+                    # Máster Universitario en Intervención Psicológica en
+                      Niños y Adolescentes
+                    # Máster Universitario en Dirección y Gestión
+                      Sanitaria
+                    # Máster Universitario en Cuidados Paliativos
+                    # Máster Universitario en Cuidados Paliativos
+                      Pediátricos
+                    # Máster de Formación Permanente en Medicina Estética
+                      y Antienvejecimiento
+               Derecho
+                    # Máster Universitario en Derecho Digital
+                    # Máster Universitario en Derecho de la Ordenación del
+                      Territorio y del Urbanismo
+                    # Máster Universitario en Derecho Matrimonial Canónico
+                    # Máster Universitario en Derecho de los Mercados
+                      Financieros
+                    # Máster Universitario en Estudios Avanzados en
+                      Terrorismo: Análisis y Estrategias
+                    # Máster Universitario en Propiedad Intelectual e
+                      Industrial
+                    # Máster Universitario en Arbitraje Internacional
+               Ciencias Sociales
+                    # Máster Universitario en Cooperación Internacional al
+                      Desarrollo: Gestión y Dirección de Proyectos
+                    # Máster Universitario en Dirección e Intervención
+                      Sociosanitaria
+                    # Máster Universitario en Métodos y Técnicas de
+                      Investigación Social Aplicada
+                    # Máster de Formación Permanente en Resolución de
+                      Problemas Complejos
+               Humanidades y Arte
+                    # Máster Universitario en Musicoterapia
+                    # Máster Universitario en Estudios sobre Danza
+                    # Máster Universitario en Escritura Creativa
+                    # Máster Universitario en Pedagogía Musical
+                    # Máster Universitario en Composición Musical con
+                      Nuevas Tecnologías
+                    # Máster Universitario en Jazz y Música Moderna
+                    # Máster de Formación Permanente en Dirección y
+                      Pedagogía Coral
+               Educacion
+                    # Máster Universitario en Atención Temprana y
+                      Desarrollo Infantil
+                    # Máster Universitario en Enseñanza de Español como
+                      Lengua Extranjera
+                    # Máster Universitario en Psicopedagogía
+                    # Máster Universitario en Educación Especial
+                    # Máster Universitario en Educación del Carácter
+                    # Máster de Formación Permanente en Trastornos y
+                      Dificultades del Aprendizaje
+               Comunicación y Mercadotecnia
+                    # Máster Universitario en Gestión de Marca
+                    # Máster Universitario en Protocolo y Eventos
+                    # Máster Universitario en Redes Sociales / Master in
+                      Social Media
+                    # Máster Universitario en Innovación en la Experiencia
+                      del Cliente
+                    # Máster Universitario en Marketing Deportivo
+                    # Máster de Formación Permanente en Marketing de Moda
+               Economía y Negocios
+                    # Máster Universitario en Dirección de Procesos
+                      Estratégicos
+                    # Máster Universitario en Dirección y Gestión
+                      Financiera
+                    # Máster Universitario en Gestión del Desarrollo
+                      Sostenible
+                    # Máster de Formación Permanente en Gestión de Riesgos
+                    # Máster de Formación Permanente en Coaching y
+                      Mentoring
+                    # Máster de Formación Permanente en Liderazgo y
+                      Desarrollo Personal
+                    # Máster de Formación Permanente en Product Manager
+               o Estudiar en UNIR
+                 Ir a estudiar en UNIR
+                    # Metodología en línea
+                    # Reconocimiento de créditos
+                    # Opiniones sobre UNIR México
+                    # Campus virtual
+                    # Graduación
+                    # Preguntas frecuentes
+                    # Procesos de Titulación
+                    # Exámenes
+                    # Atención a estudiantes
+                    # Becas universitarias y promociones
+                    # Cómo matricularse
+                    # Requisitos de acceso
+                    # Calculadora de becas
+                    # Convenios institucionales
+               o La Universidad
+                 Ir a la universidad
+                    # Nuestra historia
+                    # Manifiesto UNIR México
+                    # Áreas de estudio
+                    # Actualidad
+                    # Revista
+                    # Eventos
+                    # Validez RVOE y Calidad Europea
+                    # Acreditación FIMPES
+                    # Plan Estratégico
+                    # Sistema de Calidad
+                    # Carta del Rector
+                    # Nuestros alumnos
+                    # Órganos de gobierno
+                    # Normas de funcionamiento
+                    # Claustro
+               o Solicita información
+
+   Acceso estudiantes
+
+     * Inicio
+     * Revista - Noticias
+     * Educación
+     * Qué es la diversidad cultural y cuál es su importancia en la
+       educación
+
+   Volver
+
+Qué es la diversidad cultural y cuál es su importancia en la educación
+
+   09 / 10 / 2024
+
+   La diversidad cultural es tan necesaria para el género humano como la
+   diversidad biológica para los organismos vivos. (Art. 1. Declaración
+   Universal de la Unesco sobre la Diversidad Cultural, 2001).
+     *
+     *
+     *
+     *
+     *
+     * Enlace copiado
+
+   Qué es la diversidad cultural y cuál es su importancia en la educación
+
+   El crecimiento de la migración interna y externa de los últimos años,
+   así como el crecimiento que estamos experimentando con la evolución de
+   las nuevas tecnologías de la información, las redes sociales y los
+   procesos de reconocimiento que se están impulsando los pueblos
+   indígenas nos hace pensar en la importancia de tomar conciencia del
+   mundo diverso en el que vivimos. Es por eso que en los últimos años la
+   diversidad cultural ha tomado importancia a nivel mundial.
+
+   Aspectos tan importantes como qué es la diversidad cultural y cuál es
+   su importancia, además de cómo trabajarla en el aula y cómo promoverla
+   en la escuela se aprenden en la Maestría en Educación Inclusiva e
+   Intercultural de UNIR México.
+
+¿Qué es la diversidad cultural?
+
+   En el mundo, todas las personas y comunidades se caracterizan porque
+   tienen una manera específica de relacionarse con su entorno, de ver el
+   mundo y de comprenderlo, de abordar sus problemas y de enfrentarlos
+   para solucionarlos. Tienen una forma de organización, reglas, normas
+   que cada uno de sus integrantes tiene a su disposición y los cuales
+   deben acatar. Es por esto que cada comunidad tiene características
+   específicas que los hacen diversos y diferentes a los demás. Entonces
+   para definir la diversidad cultural es importante mencionar la variedad
+   de formas de vida, considerando las costumbres, las tradiciones,
+   creencias, los valores, el lenguaje y las expresiones artísticas que
+   existen y forman parte de nuestra sociedad. Es importante reconocer
+   también que cada cultura es única y nos aporta una gran riqueza, es por
+   eso que debemos reconocer y apreciar que no hay una única forma
+   correcta de pensar, ser o vivir. La interacción que se puede dar entre
+   las diferentes culturas nos permite enriquecer la experiencia humana al
+   darnos la oportunidad de conocer nuevas perspectivas, conocimientos y
+   formas de pensar.
+   Maestría en Educación Inclusiva e Intercultural
+   Solicita información
+
+   En su artículo 1, La diversidad cultural, patrimonio común de la
+   humanidad, la UNESCO, nos dice que: “La cultura adquiere formas
+   diversas a través del tiempo y del espacio. Esta diversidad se
+   manifiesta en la originalidad y la pluralidad de las identidades que
+   caracterizan los grupos y las sociedades que componen la humanidad.
+   Fuente de intercambios, de innovación y de creatividad, la diversidad
+   cultural es, para el género humano, tan necesaria como la diversidad
+   biológica para los organismos vivos. En este sentido, constituye el
+   patrimonio común de la humanidad y debe ser reconocida y consolidada en
+   beneficio de las generaciones presentes y futuras”.
+
+La diversidad cultural en la educación
+
+   Hablar de diversidad cultural en el aula es pensar en la gran
+   oportunidad que no da para enriquecer la experiencia educativa, el
+   desarrollo y crecimiento de nuestros estudiantes, permitiéndoles
+   relacionarse con personas de otras culturas, ideas y pensamientos. La
+   UNESCO refiere que las escuelas con aulas culturalmente diversas pueden
+   fomentar el pensamiento crítico, la empatía y la creatividad de los
+   estudiantes, esto a la vez permite un mejor desempeño y desarrollo
+   académico.
+
+   Promover el trabajo colaborativo, las relaciones sanas, así como
+   asegurando el material sea diverso, relevante y accesible para todos,
+   contribuye a alcanzar la convivencia armónica orientada hacía la de
+   paz.
+
+La importancia de la diversidad cultural en la educación
+
+   Actualmente vivimos en un mundo más interconectado, por lo que la
+   diversidad cultural es hoy parte de nuestra realidad y es parte de
+   nuestro día a día ya que está presente en cada rincón de nuestra
+   sociedad. Hoy en día los docentes tenemos la gran labor de enseñar a
+   nuestros estudiantes la importancia de respetar, valorar y convivir con
+   la diversidad de las culturas en todas sus formas y el valor de la
+   diferencia. Orientando la labor educativa hacía una cultura de paz,
+   promoviendo una convivencia armónica y procurando el trabajo
+   colaborativo, que permita construir una sociedad más tolerante y
+   empática, entendiendo y aceptando todo lo que nos hace diferentes.
+
+   En el mundo actual donde la diversidad cultural es una realidad la
+   escuela debe adaptarse al entorno y por tanto debe ser capaz de educar
+   acorde a nuestra nueva realidad.
+
+¿Cómo promover la diversidad cultural en la escuela?
+
+   Para dar respuesta a esta interrogante debemos entender que educar para
+   la diversidad cultural debe llevarnos a una valoración positiva, hacía
+   la comunicación y la interacción entre culturas. Debemos reconocer que,
+   para educar para la diversidad debe orientarnos hacia la comprensión de
+   la diversidad como factor importante de aprendizaje positivo y
+   necesario en los diferentes niveles educativos. Podemos hablar de
+   escuelas interculturales en la medida en la que aceptemos y
+   enriquezcamos el aprendizaje colaborativo, propiciando un ambiente de
+   armonía orientado hacia la cultura de paz, debemos dirigirnos hacía una
+   construcción educativa cooperativa que nos lleve principalmente a
+   mejorar la convivencia escolar.
+
+   Entendemos entonces que la educación intercultural no se enfoca
+   únicamente al estudiante inmigrante, sino a todo el alumnado en general
+   sin ningún tipo de excepción. Cuando tocamos el tema de la
+   interculturalidad y la educación, hablamos de educación inclusiva y
+   esto supone un proceso de humanización donde se debe promover la
+   convivencia en armonía, el respeto y la tolerancia.
+
+Beneficios de la diversidad cultural en la educación
+
+   Así pues, entendemos que es clara la importancia de la diversidad
+   cultural en el aula, pues proporciona una serie de beneficios a los
+   estudiantes, enriqueciendo los aprendizajes, brinda la oportunidad de
+   poder experimentar diferentes costumbres y tradiciones, así como puntos
+   de vista y los prepara para hacer frente al mundo multicultural en el
+   que vivimos actualmente.
+
+   Trabajar la diversidad en el aula implica una serie de acciones que
+   permitan alcanzar los objetivos de la educación inclusiva e
+   intercultural, podemos tomar como referencia a Banks y McGee (2020)
+   quienes nos hablan de cinco puntos:
+     * La integración de contenidos en el plan de estudios este punto
+       tiene que ver con los temas, el abordaje y los ejemplos que se
+       pueden tomar a partir de la relación con otras culturas o grupos en
+       las clases.
+     * La construcción del conocimiento donde se promueva a que los
+       estudiantes indaguen y reflexionen con relación a las perspectivas
+       y marcos de referencia que pueden llegar a afectar los procesos de
+       validación del conocimiento.
+     * Reducción de prejuicios se refiere a la transmisión de imágenes
+       positivas de los diferentes grupos étnicos apoyados de los
+       materiales didácticos y libros de texto. Aprovechar las dinámicas
+       de clase favoreciendo el contacto integral, promoviendo la igualdad
+       y la cooperación.
+     * El empoderamiento de la cultura escolar, garantizar la
+       participación libre y plena del estudiantado evitando que se
+       produzca algún tipo de discriminación.
+     * La pedagogía de la equidad, los docentes deben adaptar la
+       metodología y los estilos de enseñanza para que todos los
+       estudiantes, independientemente de su cultura, nivel socioeconómico
+       o lingüístico, alcancen los objetivos de aprendizaje.
+
+Actividades para trabajar la diversidad en el aula
+
+   Aprovechar el espacio educativo, así como el contenido temático para
+   trabajar la diversidad en el aula, nos permite crear lazos de amistad,
+   respeto y tolerancia en nuestros estudiantes dándoles la oportunidad de
+   una mejor experiencia educativa que contribuya a un mejor desarrollo.
+     * Educación física (deportes): es una buena actividad ya que permite
+       la integración social de los estudiantes, favoreciendo la sana
+       convivencia, además de afianzar los valores.
+     * Actividades fuera de la escuela (con la comunidad, la naturaleza):
+       permite a los estudiantes poder compartir fuera del aula, sus
+       experiencias, conocimientos y los más importante, les permite
+       socializar con otros ambientes, otras culturas y personas.
+     * Las artes (teatro, danza, música): enriquece y fomenta las
+       diferentes habilidades en los estudiantes, los diferentes roles que
+       se pueden interpretar en estos espacios permites a los estudiantes
+       ser conscientes de la diversidad.
+     * Foros, diálogos, debates sobre la diversidad: permite a los
+       estudiantes externar y defender sus posturas, conocer otros puntos
+       de vista y fomenta el respeto, la tolerancia y el trabajo
+       colaborativo.
+
+   Entendemos que promover y trabajar la diversidad cultural en el aula,
+   permitirá que los estudiantes puedan tener la oportunidad de
+   desarrollarse positivamente en la sociedad. Fomentar el respeto, la
+   tolerancia, el trabajo colaborativo y la igualdad  a través de un plan
+   de atención a la diversidad, preparará a los estudiantes para hacer
+   frente a los desafíos de las sociedades actuales, promoviendo
+   sociedades más justas y equitativas para todos y todas.
+
+
+   Autor: Orlando Velasco Salas, Coordinador de la maestría en Educación
+   inclusiva e Intercultural de UNIR México
+
+
+Comparte esta noticia
+
+     *
+     *
+     *
+     *
+     *
+     * Enlace copiado
+
+   Solicita informacion
+
+¿Tienes alguna duda?
+
+     * +52 5588393963
+     * ¿te llamamos?
+
+Comparte esta noticia
+
+     *
+     *
+     *
+     *
+     *
+     * Enlace copiado
+
+Noticias relacionadas
+
+   Racismo en las aulas
+
+Racismo en las aulas: ¿cómo se manifiesta y claves para abordarlo?
+
+   Las medidas contra el racismo en las aulas deben tratarse de forma
+   transversal, implicando a toda la comunidad educativa y adaptando las
+   dinámicas a cada edad.
+   ¿Qué estudiar para ser maestro en México?
+
+¿Qué estudiar para ser maestro en México?
+
+   Existen diferentes opciones a estudiar para desempeñarse dentro de la
+   docencia en México, solamente es cuestión de analizar qué tipo de
+   maestro se quiere ser y dónde se quieren dar clases.
+   El aula inclusiva, todo un reto de la educación del siglo XXI
+
+El aula inclusiva, todo un reto de la educación del siglo XXI
+
+   ¿Sabes por qué es tan importante apostar por la inclusión en el aula?
+   En UNIR México abordamos las claves de un aula inclusiva y la
+   diversidad en la escuela.
+
+   video footer tutor
+
+Un tutor personal siempre a tu lado
+
+   video footer alumnos
+
+¿Quieres conocer la experiencia de nuestros alumnos?
+
+   video footer universidad
+
+Nuestra vida académica y social
+
+   (BUTTON)
+
+   (BUTTON)
+   ____________________
+   Buscar
+   (BUTTON)
+   Solicita información
+
+   Rellena el siguiente formulario y uno de nuestros asesores se pondrá en
+   contacto contigo en las próximas 24 horas.
+
+   O si lo prefieres:
+   +52 5588393963 ¿Te llamamos?
+
+   De 9:00 a 20:00 de lunes a jueves
+   y de 9:00 a 19:00 los viernes
+   Solicita información
+   Solicita información
+   (BUTTON)
+     * +52 5588393963
+     * ¿te llamamos?
+     * Solicita información
+     * inscripciones@unirmexico.mx
+
+   (BUTTON)
+
+   :name
+
+   :intro
+
+   Formación
+
+   :Formación
+
+   Experiencia
+
+   :Experiencia
+
+   Líneas de investigación
+
+   :Líneas de investigación
+
+   Algunos estudios en los que imparte clase
+     * :link
+
+   Centro de exámenes
+   (BUTTON)
+     * Mexico y Latam
+     * España
+
+   sedes examen latam
+
+   Sedes internacionales fijas
+     * Quito (Ecuador)
+     * Guayaquil (Ecuador)
+     * Bogotá (Colombia)
+     * Barranquilla (Colombia)
+     * Bucaramanga (Colombia)
+     * Medellín (Colombia)
+     * Cali (Colombia)
+
+     * Lima (Perú)
+     * Ciudad de México (México)
+
+
+   Sedes internacionales bajo demanda
+     * Manta (Ecuador)
+     * Buenos Aires (Argentina)
+     * Santa Cruz de la Sierra (Bolivia)
+
+   Sedes nacionales fijas
+     * A Coruña
+     * Badajoz
+     * Barcelona
+     * Bilbao
+     * Santa Cruz de Tenerife
+     * Logroño
+     * Madrid
+     * Málaga
+     * Murcia
+     * Palma de Mallorca
+     * Sevilla
+     * Valencia
+     * Zaragoza
+
+
+   Sedes nacionales bajo demanda
+     * León
+     * Las Palmas de Gran Canaria
+     * Girona
+     * Tarragona
+
+   (BUTTON)
+
+   Llama ahora
+
+   y un asesor te informará sin compromiso
+   +52 5588393963
+
+   o si lo prefieres
+   (BUTTON) ¿te llamamos?
+   (BUTTON)
+   Copiar
+     *
+     * Enlace copiado
+
+   Universidad Internacional de La Rioja
+
+   Oferta académica
+     * Maestrías en línea
+     * Licenciaturas en línea
+     * Másteres Europeos
+     * Cursos Europeos
+     * Títulos Americanos
+     * Alianza Newman
+
+   Oferta académica
+     * Maestrías en línea
+     * Licenciaturas en línea
+     * Másteres Europeos
+     * Cursos Europeos
+     * Títulos Americanos
+     * Alianza Newman
+
+   Sobre nosotros
+     * UNIR en México
+     * Nuestros alumnos
+     * Únete a nosotros
+     * Actualidad
+     * Solicita información
+
+   Sobre nosotros
+     * UNIR en México
+     * Nuestros alumnos
+     * Únete a nosotros
+     * Actualidad
+     * Solicita información
+
+   Aspectos legales
+     * Datos identificativos
+     * Política de privacidad
+     * Canal de consultas y denuncias
+
+     * Síguenos en Facebook
+     * Síguenos en Instagram
+     * Síguenos en LinkedIn
+     * Síguenos en YouTube
+     * Encuéntranos en Google Maps
+     * Síguenos en Tik Tok
+
+   © UNIR - Universidad Internacional de La Rioja 2025
+
+   Usamos cookies propias y de terceros para ofrecer un mejor servicio. Si
+   continúa navegando, consideramos que acepta su uso.Cerrar+info

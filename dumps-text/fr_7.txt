@@ -1,0 +1,375 @@
+   #Vegenov Atom Feed Vegenov » Flux Vegenov » Flux des commentaires
+   Vegenov » Culture in vitro, retour aux bases Flux des commentaires
+   oEmbed (JSON) oEmbed (XML) JSON
+
+   Vegenov - Activateur d'idées végétales
+     * Accueil
+     * Création variétale
+     * Santé des plantes
+     * Qualité des végétaux
+     * Objectif innovation
+     * Contact
+     * A propos
+
+   Vegenov - Activateur d'idées végétales
+
+   Accueil
+   Création variétale
+   Santé des plantes
+   Qualité des végétaux
+   Objectif innovation
+   Contact
+   A propos
+     * Accueil
+     * Création variétale
+     * Santé des plantes
+     * Qualité des végétaux
+     * Objectif innovation
+     * Contact
+     * A propos
+
+   Création variétale, Qualité des végétaux
+
+Culture in vitro, retour aux bases
+
+La culture in vitro est une technique importante en production végétale,
+notamment pour les espèces à multiplication végétative. Elle permet la
+production en quantité de jeunes plants et garantit la circulation de
+matériel végétal sain. Quel est son principe ? Comment faire ? Revenons sur
+les bases de cette technique !
+     __________________________________________________________________
+
+Qu’est-ce que la culture in vitro ?
+
+   Son principe repose sur la totipotence cellulaire végétale, une
+   caractéristique propre aux végétaux. Certaines cellules végétales
+   différenciées peuvent revenir à un stade indifférencié. Elles ont alors
+   les mêmes qualités que les cellules embryonnaires et peuvent régénérer
+   dans les conditions adéquates, une nouvelle plante identique à la
+   plante mère.
+
+   La technique de culture in vitro consiste donc à placer en conditions
+   artificielles et contrôlées des organes de plantes, parfois très
+   petits, afin de reproduire plus vite ou en plus grande quantité des
+   plantes entières.
+
+   L’utilisation de la culture in vitro de végétaux, aussi appelée
+   micropropagation ou microbouturage, s’est généralisée à la fin des
+   années 1960.
+     __________________________________________________________________
+
+Les trois phases de la culture in vitro
+
+   On considère classiquement que pour du microbouturage, la culture se
+   déroule en trois phases.
+
+Introduction in vitro de matériel sain
+
+   La première phase est l’introduction in vitro de matériel sain,
+   c’est-à-dire indemne de bactérie ou champignon de surface. La quantité
+   de sucre apportée à la plante dans le milieu de culture in vitro pour
+   se développer est suffisante pour permettre également aux champignons
+   et bactéries de se multiplier, et ce, encore plus rapidement que le
+   végétal ! Il est donc nécessaire de désinfecter tout le matériel
+   utilisé pour ne pas les introduire dans la culture, y compris les
+   fragments de plantes, et de travailler en conditions stériles.
+   Prélèvement de matériel végétal sous hottes stériles
+
+   Ce matériel de départ peut provenir de parties très variées de la
+   plante et subit une désinfection avec une solution de chlore actif (eau
+   de javel ou hypochlorite de calcium) et un rinçage soigneux à l’eau
+   stérile.
+
+   Pour du microbouturage, on part en général d’un apex ou d’un nœud
+   prélevé sur la tige, voire d’un méristème. Parfois il est possible
+   d’induire des pousses feuillées à partir de pièces florales (alliums,
+   choux, chrysanthèmes…) ou de fragments de feuilles (saintpaulia,
+   bégonia, tabac …). La vitesse de redémarrage de l’explant dépend
+   souvent de sa taille au départ, et de l’espèce végétale.
+
+   Ensuite, les explants sont placés en salle de culture contrôlée, avec
+   une température et une durée du jour stables (par exemple : 20-22°C,
+   16h de jour).
+   Pousses feuillées de tabac régénérées à partir de disques foliaires
+
+Micropropagation
+
+   La deuxième phase est celle de multiplication, ou micropropagation, par
+   ramification le long de la tige ou bourgeonnement à la base du plant.
+   Cette étape est en général stimulée par un apport de cytokinines
+   (hormone de croissance produite naturellement par les végétaux) dans le
+   milieu de culture.
+
+   Le nombre de cycles de multiplication dépend du taux de multiplication
+   à chaque subculture et de l’objectif de production.
+
+   Une subculture in vitro dure de 2 à 6 semaines, ce qui permet de
+   réaliser des cycles de multiplication rapides.
+
+Préparation à l’acclimatation
+
+   La troisième étape est celle de préparation à l’acclimatation. En
+   général, on cherche à produire des pousses feuillées portant un apex et
+   des racines, stimulées par les auxines du milieu. Ces racines ne sont
+   pas fonctionnelles une fois la plante placée dans du terreau
+   d’acclimatation, mais elles contribuent à une bonne reprise et à la
+   néoformation de racines sur le jeune plant une fois celui-ci en terre.
+     __________________________________________________________________
+
+La sortie de culture in vitro ou acclimatation
+
+   Une fois enracinés, les plants peuvent être acclimatés en serre. Cela
+   consiste à les sortir d’in vitro, les placer dans du terreau horticole
+   et les adapter progressivement aux conditions de culture normales, plus
+   sèches et avec une intensité lumineuse plus importante qu’en
+   laboratoire.
+
+   La phase d’acclimatation des jeunes plants prend quelques jours à
+   quelques semaines.
+   Plantules de lavande in vitro à différents stades
+     __________________________________________________________________
+
+Le milieu de culture in vitro
+
+   Un des éléments majeurs des conditions contrôlées de culture in vitro
+   est l’apport des éléments nutritifs sous forme d’un substrat
+   synthétique de composition précise. Ce substrat s’appelle « milieu de
+   culture ». Il comporte, outre de l’eau et des éléments minéraux
+   nécessaires à toute plante, un gélifiant (permettant de donner une
+   texture ferme au milieu), du sucre, des vitamines et des hormones
+   végétales.
+
+   Ces composants permettent la croissance du tissu isolé en organe, même
+   s’il n’est pas relié à la plante mère habituellement source d’éléments
+   nutritifs.
+
+   Le sucre apporte aux fragments de plante, parfois réduits à juste
+   quelques cellules isolées, l’énergie nécessaire pour se multiplier et
+   donner une nouvelle plante en conditions d’hétérotrophie.
+   L’hétérotrophie est la nécessité pour un organisme vivant de se nourrir
+   de constituants organiques préexistants.
+
+   Les hormones végétales permettent, elles, d’orienter le développement
+   des tissus vers la prolifération de pousses feuillées ou la croissance
+   de racines. En cours de culture, il faut donc faire varier les hormones
+   végétales en fonction du type de croissance recherché : des cytokinines
+   pour favoriser la multiplication des microboutures, puis des auxines
+   pour favoriser l’enracinement préparatoire à l’acclimatation.
+
+   Le milieu de culture in vitro a une composition complexe et adaptée à
+   chaque espèce végétale et à chaque stade de développement de la plante
+   in vitro. D’une espèce à l’autre, les éléments minéraux changent afin
+   de s’adapter aux besoins physiologiques de l’espèce.
+     __________________________________________________________________
+
+Des applications variées
+
+   L’environnement de culture des plants in vitro et les compétences des
+   opérateurs impliquent des coûts de production assez élevés. En effet,
+   très peu d’opérations sont automatisées. Mais le jeu en vaut bien la
+   chandelle ! Les outils de culture in vitro de végétaux reposent sur la
+   même technique de base, mais en fonction du matériel végétal de départ,
+   diverses d’applications (décrites dans La culture in vitro au service
+   de la qualité des semences et plants) sont possibles :
+     * produire des végétaux de meilleure qualité,
+     * faciliter l’exploitation des ressources génétiques,
+     * accélérer la création variétale.
+
+   Le recours à la culture in vitro permet de produire rapidement un grand
+   nombre de plants, ce qui est intéressant dans le cas d’une innovation
+   que l’on veut rapidement proposer sur le marché. Mais ce sont surtout
+   les avantages offerts en termes de qualité des jeunes plants qui
+   justifient le recours à cette technique coûteuse. La question de
+   l’assainissement sera d’ailleurs le thème de notre prochain billet.
+     __________________________________________________________________
+
+   Pour conclure sur la culture in vitro, gardez en tête que si une
+   application peut être très utilisée chez une espèce végétale donnée,
+   d’autres espèces peuvent y être récalcitrantes. Toute la difficulté de
+   la technique consiste à mettre au point la composition optimale du
+   milieu de culture en fonction de l’objectif fixé au départ !
+     __________________________________________________________________
+
+
+
+Crédits photos : Monsieur Media - Vegenov
+
+   Download PDF
+
+Partager :
+
+     * Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenêtre)
+       Facebook
+     * Cliquer pour partager sur X(ouvre dans une nouvelle fenêtre) X
+     * Cliquez pour partager sur LinkedIn(ouvre dans une nouvelle fenêtre)
+       LinkedIn
+     *
+
+   23 mars 2020
+   [MB_avatar.jpg]
+   Ce billet a été rédigé par Manuelle Bodin
+   C’est avec plus de 15 ans d’expérience dans le développement d’outils
+   de biologie cellulaire pour les sélectionneurs que Manuelle, grâce à
+   son équipe, met en place des solutions techniques adaptées à chaque
+   espèce végétale.
+
+Sur le même thème
+
+(1) Haplométhodes, dans le secret des labos
+
+   12 mai 2014
+
+Du verre aux glaçons : un cocktail de solutions pour conserver des ressources
+génétiques
+
+   14 décembre 2015
+   Haplométhodes
+
+Haploïdes doublés : les méthodes d’induction in vitro
+
+   17 octobre 2024
+
+17 commentaires
+    1. Leulier 24 juillet 2021 at 4 h 09 min
+       Bonjour,
+       Je suis le propriétaire d’echinacées qui présentent une mutation au
+       niveau des rangs de pétales rendant les fleurs avec 3 à 10 rangs de
+       pétales surnuméraires. Je recherche un multiplicateur qui pourrait
+       multiplier mes plantes. Auriez-vous des noms de professionnels à me
+       conseiller.
+       Je vous remercie par avance pour votre réponse.
+       Cordialement
+          + [JC_avatar-1.jpg]
+            Juliette Clément 26 juillet 2021 at 16 h 44 min
+            Bonjour,
+            Vegenov maîtrise la micropropagation de nombreuses espèces. Ma
+            collègue Cécile Madre va prendre contact avec vous par mail
+            pour échanger au sujet de votre demande. Cordialement.
+               o Julien 31 mars 2022 at 15 h 25 min
+                 oui.
+    2. Grace 11 février 2022 at 11 h 49 min
+       Bonjour,
+       Je suis actuellement en terminale STL et pour mon grand oral j’ai
+       choisi la mise en culture en vitro d’une cellule végétale. Dans mon
+       lycée il n’y a pas les matériaux nécessaires pour que je puisse
+       faire ma mise en culture un vitro cependant je vais me débrouiller
+       avec les matériaux que j’ai dans mon lycée. Je voulais donc savoir
+       si ça serait possible que je puisse visiter votre laboratoire afin
+       de pouvoir voir comment on réalise une culture un vitro d’une
+       cellule végétale avec des matériaux spécifiques à la mise en
+       culture d’une cellule végétale en un vitro.
+          + [JC_avatar-1.jpg]
+            Juliette Clément 14 février 2022 at 7 h 51 min
+            Bonjour,
+            Une de mes collègues va vous recontacter à ce sujet. Bien
+            cordialement,
+               o Grace 7 mars 2022 at 6 h 52 min
+                 Bonjour, je n’ai toujours pas reçu de mail par rapport au
+                 commentaire que j’avais écrit.
+                    # [JC_avatar-1.jpg]
+                      Juliette Clément 19 avril 2022 at 12 h 20 min
+                      Bonjour, Je vais relancer mes collègues.
+                      Cordialement,
+                         @ [JC_avatar-1.jpg]
+                           Juliette Clément 19 avril 2022 at 14 h 15 min
+                           Bonjour, Je viens de relancer ma collègue. Elle
+                           m’a indiqué qu’elle vous avait envoyé un email
+                           le 11 février dernier en vous proposant de la
+                           recontacter par téléphone afin d’étudier avec
+                           vous la possibilité d’une visite. Son email est
+                           peut être arrivé dans vos spams. Je vous le
+                           retransfère. Cordialement,
+    3. janati 4 mars 2022 at 2 h 05 min
+       Bonjour
+       je suis actuellement en master et je vais travail sur la culture in
+       vitro de anacyclus pyrethrum mais pendant la recherche j’ai pas
+       trouvée les articles suffisante sur cette plante pour initiée ce
+       travail. vous peut m’aider s’il vous plait avec des documentation.
+       merci d’avance
+       cordialement
+          + [JC_avatar-1.jpg]
+            Juliette Clément 7 mars 2022 at 6 h 38 min
+            Bonjour, J’ai réalisé une recherche rapide sur la culture in
+            vitro d’Anacyclus pyrethrum. Je n’ai pas trouvé beaucoup de
+            publications sur le sujet. La publication principale qui
+            ressort est la suivante :
+            https://link.springer.com/article/10.1007/s11240-015-0755-x.
+            J’espère que cela pourra vous aider. Si vous souhaitez plus de
+            précision ou une aide dans la mise au point d’un protocole,
+            vous pouvez également contacter ma collègue Cécile Madre via
+            le formulaire de contact de notre site web. Bien cordialement,
+               o khider meriem 10 juin 2022 at 20 h 02 min
+                 bonjour madame
+                 je suis une étudiante en première année doctorat, je veux
+                 me renseigner sur la culture in vitro, sur l’enceinte
+                 climatique et son utilisation si vous pourriez m’aider
+                 j’en ai vraiment besoin !
+                 laissez moi une adresse ou je peux vous contacté.
+                 salutation.
+                    # [JC_avatar-1.jpg]
+                      Juliette Clément 13 juin 2022 at 9 h 30 min
+                      Bonjour, Je vous invite à prendre contact avec ma
+                      collègue Cécile Madre par mail à l’adresse suivante
+                      : madre@vegenov.com. Bien cordialement,
+    4. Lahlou Nabil 27 mai 2023 at 17 h 16 min
+       Bonjour.
+       Je souhaite démarrer un labo de biotechnologie in vitro et suis à
+       la recherche d’un partenaire scientifique ayant une expérience dans
+       la production de plant de palmier dattier.
+       Me contacter via mon e-mail : n.lahlou@champima.com
+          + [JC_avatar-1.jpg]
+            Juliette Clément 31 mai 2023 at 16 h 30 min
+            Bonjour, Ma collègue Cécile Madre va vous contacter par mail.
+            Bien cordialement,
+    5. Ramdane 9 octobre 2023 at 13 h 31 min
+       Bonjour
+       Je souhaite me lancer dans la production de plants maraichers tels
+       que le melon ,le poivron etc via la technique in vitro ,je vous
+       pries de me renseigner sur les etapes à suivre et le materiel
+       necessaire pour ca
+       avec mes remerciements anticipées
+          + [JC_avatar-1.jpg]
+            Juliette Clément 10 octobre 2023 at 8 h 13 min
+            Bonjour, Pour plus d’information sur le sujet, je vous invite
+            à prendre contact avec ma collègue Cécile Madre
+            (madre@vegenov.com). Bien cordialement,
+               o Ramdane 11 octobre 2023 at 11 h 40 min
+                 Bonjour Madame
+                 Je vous remercie beaucoup
+                 Cordialement
+
+   « Article précédent
+   Assainissement de plants, sus aux virus et phytoplasmes !
+   Article suivant »
+   Créer de nouvelles variétés pour l’agriculture biologique – quels sont
+   les opportunités et défis à relever ?
+
+Rendez-vous sur le site de Vegenov
+
+                     [LOGO-VEGENOV-COULEUR-SMALL-1.png]
+
+Nous Suivre
+
+     * LinkedIn
+     * X
+
+   ____________________
+
+   IFRAME: https://news.vegenov.com/wgt/xww3i/ziv/form?c=b2dba19f
+
+Thématiques
+
+   agriculture agriculture biologique analyse sensorielle biocontrôle
+   biologie moléculaire Biostimulant biotechnologie création variétale
+   culture in vitro Ecophyto Elicitra entreprise financement Fruits
+   innovation Légumes management marché marqueur moléculaire
+   micro-organisme microbiote Moyens de lutte mécanismes de défense
+   organismes de quarantaine plante PME produits de biocontrôle projet
+   Protection des cultures Protection intégrée des cultures qualité
+   organoleptique R&D recherche appliquée recherche et développement
+   Réduction des produits phytopharmaceutiques réglementation santé Santé
+   des plantes sol stimulateur des défenses stratégie sélection séquençage
+   éliciteur évaluation sensorielle
+
+
+    © Vegenov — 2018

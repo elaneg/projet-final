@@ -1,0 +1,1431 @@
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
+
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
+
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Historique et délimitation
+       (BUTTON) Afficher / masquer la sous-section Historique et
+       délimitation
+          + 1.1 Historique
+          + 1.2 Délimitations
+     * 2 Problématiques
+       (BUTTON) Afficher / masquer la sous-section Problématiques
+          + 2.1 Protection des biens culturels
+          + 2.2 Restitution des biens culturels
+          + 2.3 La « maladie de Baumol » et l'économie du spectacle vivant
+          + 2.4 Les marchés des œuvres d'art
+               o 2.4.1 Marché et qualité
+               o 2.4.2 Le cas de la peinture
+                    # 2.4.2.1 La formation du prix
+                    # 2.4.2.2 Marché de l'art et spéculation
+          + 2.5 Analyse économique du patrimoine culturel
+               o 2.5.1 Quel rôle pour les musées ?
+               o 2.5.2 Vieilles pierres
+          + 2.6 Les biens culturels : des biens pas comme les autres ?
+               o 2.6.1 Définition des biens culturels
+               o 2.6.2 Caractéristiques des biens culturels
+               o 2.6.3 L'offre propose, la demande dispose ?
+               o 2.6.4 L'importance des effets d'apprentissage
+               o 2.6.5 Les majors et les indépendants
+                    # 2.6.5.1 L'oligopole à frange ou la théorie du centre
+                      et de la périphérie
+                    # 2.6.5.2 Les majors
+               o 2.6.6 Listes des biens culturel les plus vendus en France
+          + 2.7 Économie du travail des artistes
+               o 2.7.1 Le Star System
+               o 2.7.2 Trop d'artistes ?
+               o 2.7.3 Gestion du risque
+               o 2.7.4 L'artiste et son œuvre
+     * 3 Politiques culturelles
+       (BUTTON) Afficher / masquer la sous-section Politiques culturelles
+          + 3.1 Les ratés du marché de la culture
+          + 3.2 Le multiplicateur culturel
+     * 4 Notes et références
+     * 5 Bibliographie
+       (BUTTON) Afficher / masquer la sous-section Bibliographie
+          + 5.1 Ouvrages généraux
+          + 5.2 Ouvrages portant sur un aspect spécifique
+     * 6 Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 6.1 Articles connexes
+          + 6.2 Liens externes
+
+   [ ] Basculer la table des matières
+
+Économie de la culture
+
+   [ ] 20 langues
+     * العربية
+     * Azərbaycanca
+     * Български
+     * Deutsch
+     * English
+     * Español
+     * فارسی
+     * עברית
+     * Հայերեն
+     * Bahasa Indonesia
+     * 日本語
+     * 한국어
+     * ਪੰਜਾਬੀ
+     * Português
+     * Română
+     * Slovenščina
+     * Српски / srpski
+     * Українська
+     * Tiếng Việt
+     * 中文
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Wikipédia:Bons articles
+
+   Vous lisez un « bon article » labellisé en 2007.
+
+   L’économie de la culture est la branche de l'économie s'intéressant aux
+   aspects économiques de la création, de la distribution et de la
+   consommation d'œuvres d'art. Longtemps cantonné aux beaux-arts, à
+   l'édition, aux arts décoratifs, à la musique et aux spectacles vivants
+   dans la tradition anglo-saxonne, son champ d'études s'est élargi depuis
+   le début des années 1980 à l'étude des particularités des industries
+   culturelles (cinéma, édition de livres ou de musique) ainsi qu'à
+   l'économie des institutions culturelles (musées, bibliothèques,
+   monuments historiques).
+
+Historique et délimitation
+
+   [modifier | modifier le code]
+
+Historique
+
+   [modifier | modifier le code]
+   Article détaillé : Histoire de la pensée économique des arts et de la
+   culture.
+   [250px-%C3%89douard_Manet_-_Le_D%C3%A9jeuner_sur_l%27herbe.jpg] Le
+   Déjeuner sur l'herbe de Manet. Les tableaux sont l'exemple-type de
+   l'œuvre d'art unique et non reproductible : il n'existe qu'un seul
+   original de la main de Manet.
+
+   L'analyse économique de l'art et des biens culturels en général est
+   longtemps restée en dehors des limites de l'analyse économique. En
+   effet, les œuvres d'art sont uniques : il n'y a pas deux Déjeuner sur
+   l'herbe. Cette absence d'équivalent ou de concurrent conduisit ainsi
+   David Ricardo à dire qu'il était impossible de les évaluer (Principles
+   of Economics, tome 1). De même, Alfred Marshall remarque que la demande
+   pour un type de bien culturel est fonction de la consommation du dit
+   bien (plus on connaît un genre musical, plus on est à même de
+   l'apprécier), ce qui faisait sortir ce type de consommation du cadre
+   marginaliste dominé par la décroissance de l'utilité marginale.
+
+   Si les institutionnalistes américains (Kenneth Boulding, John Kenneth
+   Galbraith) soulignent l'importance économique croissante de l'art^[1],
+   la fondation de l'économie de la culture en champ propre est due
+   essentiellement aux travaux de William Baumol et William Bowen^[2] sur
+   le spectacle vivant, à ceux de Gary Becker sur les biens addictifs et à
+   ceux d'Alan Peacock (école du choix public). Sur le plan
+   institutionnel, l'économie de la culture se dote d'un journal en 1977
+   (Journal of Cultural Economics^[3]), et la reconnaissance de son
+   existence par la communauté des économistes est reconnue en 1994 à
+   travers la parution d'une revue de littérature par David Throsby dans
+   le Journal of Economic Litterature^[4]. Deux manuels faisant le point
+   sur l'état de la littérature ont ensuite été élaborés, d'abord par Ruth
+   Towse^[5] en 2003, puis par Victor Ginsburgh et David Throsby^[6].
+
+   L'économie de la culture correspond aux cotes Z1 (économie de la
+   culture) et Z11 (économie des arts) de la classification du Journal of
+   Economic Literature.
+
+Délimitations
+
+   [modifier | modifier le code]
+   [250px-Breger_kanna.jpg] Les frontières de l'économie de la culture
+   sont floues. Où finit la sculpture et où commence le design ? Les
+   logiques économiques des deux secteurs présentent de grandes
+   similarités.
+
+   La délimitation de l'économie de la culture pose le même problème que
+   la délimitation de la culture elle-même. Le cœur de l'économie de la
+   culture, et historiquement son premier domaine, est donc l'étude des
+   beaux-arts et des spectacles vivants (théâtre, opéra). Ces thèmes
+   constituent encore une part importante des articles de recherche.
+
+   Toutefois, un fait saillant des XIX^e et XX^e siècles est l'apparition
+   de la culture de masse par le biais de biens à contenu culturel, mais
+   produits selon des méthodes industrielles : les livres à grand tirage,
+   la musique enregistrée, le cinéma, ainsi que le développement des
+   médias du flux, radio et télévision, ou de contenu (internet). La
+   question se pose alors de savoir dans quelle mesure ces biens relèvent
+   de la culture : Harry Potter est-il aussi « culturel » que Le Père
+   Goriot ? Les économistes de la culture ont fait valoir la difficulté à
+   faire des distinctions dans ce domaine, qui relèvent le plus souvent de
+   jugements de valeur subjectifs. Ils ont également mis en avant des
+   spécificités dans la sélection des produits, leur fabrication et leur
+   demande qui permettaient de différencier les biens culturels. Ainsi,
+   ils ont pour trait commun d'incorporer un élément créatif dans leurs
+   caractéristiques essentielles. Cependant, cette caractérisation est
+   trop large. L'importance croissante du design fait que pour certains
+   produits pouvant difficilement être considérés comme culturels
+   (vêtements, baladeurs numériques), la dimension de créativité fait
+   l'essentiel de la valeur.
+
+   C'est pourquoi les économistes du champ ont adopté le concept
+   d'industries de contenu pour désigner l'ensemble du secteur produisant
+   des biens dont l'essentiel de la valeur tient à leur contenu symbolique
+   plutôt qu'à leurs caractéristiques physiques. Ainsi, un livre est un
+   bien culturel, que le texte soit relié ou non, la couverture solide ou
+   non, tandis qu'un baladeur numérique hors-service n'a plus de valeur
+   malgré son design.
+
+   Par ailleurs, le concept d'économie de la culture rejoint certains des
+   débats propres à l'économie immatérielle, à l'image de cette définition
+   formulée par Olivier Bomsel (L’Économie immatérielle, industries et
+   marchés d’expériences, Gallimard, 2010) : « La dématérialisation de
+   l’économie tient à une représentation croissante de marchandises non
+   pas sous forme d’objets, mais en termes d’utilité associée à une
+   expérience, laquelle est à la fois individuelle et sociale. Dans de
+   nombreux cas, cette dématérialisation s’accompagne d’un essor de
+   services – la location se substitue à la vente, l’usage à la possession
+   -, ou de la disparition du support matériel de certains biens. Mais son
+   essence est avant tout conceptuelle : elle fait passer de la chose à
+   son expérience consommée, et par là même, à l’information sous-jacente,
+   au désir et au sens. De là l’essor des marques, des mots appelant à
+   l’expérience et lui donnant socialement un sens ».
+
+   L'économie de la culture pour des œuvres immatérielles est à distinguer
+   de l'économie du savoir ou économie de la connaissance par le statut de
+   leurs auteurs. Autant un chercheur est évalué par ses pairs et donc
+   peut être rémunéré forfaitairement par une institution publique ou
+   privée et verser automatiquement ses œuvres au domaine public, autant
+   un artiste est évalué par l'émotion que procurent ses œuvres à tout un
+   chacun, mesuré principalement par l'acte d'achat des instances
+   (immatérielles) des mêmes œuvres au prix du marché, rémunération plus
+   équitable et non biaisée comme peut l'être une rémunération forfaitaire
+   qui exclut les amateurs. La liberté de création est d'autant mieux
+   préservée que chaque citoyen, artiste ou pas peut disposer d'un revenu
+   de base inconditionnel.
+
+Problématiques
+
+   [modifier | modifier le code]
+
+Protection des biens culturels
+
+   [modifier | modifier le code]
+
+   Les destructions de biens culturels au cours de la Seconde Guerre
+   mondiale entraînent la création en 1954 de la Convention de La Haye
+   pour la protection des biens culturels en cas de conflit armé.
+   L'importation de biens culturels de pays colonisés favorise la
+   formation de la Convention de l’UNESCO de 1970 qui protège le
+   patrimoine immobilier dans le contexte de la décolonisation. Les États
+   membres de l'UNESCO adoptent en 1972 la Convention du patrimoine
+   mondial qui met en place en 1976 un « Comité du patrimoine mondial » et
+   un « Fonds du patrimoine mondial »^[7]. Cette convention est complétée
+   en 1995 par celle d'UNIDROIT sur les biens culturels privés volés ou
+   illicitement exportés^[8].
+
+   Le trafic illicite des biens culturels est souvent cité par les médias
+   comme le troisième trafic dans le monde après celui des drogues et des
+   armes mais le manque de données (Interpol déplore à ce titre un déficit
+   de remontée d'information) rend ce classement incertain^[9].
+
+   L'organisme de police français chargé de la recherche des biens
+   culturels (notamment les œuvres d'art) volés à des particuliers ou des
+   institutions culturelles est l'Office central de lutte contre le trafic
+   des biens culturels.
+
+Restitution des biens culturels
+
+   [modifier | modifier le code]
+
+   Les enjeux internationaux liés au retour et à la restitution des biens
+   culturels (en) se développent. Depuis la fin des années 1990, les
+   demandes de restitution se multiplient, notamment de la part des États
+   d'Amérique du Sud, du Proche et Moyen-Orient et de pays africains
+   anciennement colonisés^[9].
+
+   En 1978, l'UNESCO offre un cadre de discussion et de négociation à cet
+   effet en créant le Comité intergouvernemental pour la promotion du
+   retour de biens culturels à leur pays d'origine ou de leur restitution
+   en cas d'appropriation illégale^[10].
+
+   Sont révélateurs à cet égard la demande officielle de la Grèce depuis
+   plus de trente ans de la restitution de la frise du Parthénon au
+   British Museum, la demande de l'Égypte en 2011 de restitution du buste
+   de Néfertiti exposé au Neues Museum de Berlin, ou le trésor de Troie
+   qui est restitué en septembre 2012 à la Turquie par l'université de
+   Philadelphie^[11]. En France, malgré le principe d’inaliénabilité des
+   collections publiques (voir l'édit de Moulins de 1566) réaffirmé par la
+   loi du 4 janvier 2002 relative aux musées de France^[12], les restes de
+   Saartjie Baartman, la « Vénus hottentotte », sont restitués à l'Afrique
+   du Sud en 2002, 21 têtes maoris sont rendues à la Nouvelle-Zélande en
+   2010 et la tête d'Ataï restituée aux clans kanaks de Nouvelle-Calédonie
+   en 2014. D'importants débats secouent la France sur la restitution
+   d'art premier aux pays africains à la suite du rapport Savoy-Sarr en
+   2018. En 2020, plusieurs restitutions ont eu lieu, au Bénin (26 œuvres
+   dont 3 totems et le trône du roi d'Abomey Béhanzin), à Madagascar
+   (couronne du dais de la reine Ranavalona III), au Sénégal (sabre d'Omar
+   Saïdou) et à l'Algérie (24 crânes dont ceux de résistants lors de la
+   prise de l'oasis de Zaatcha en 1849), et en 2021 à la Côte d'Ivoire
+   (tambour parleur des Ébriés).
+
+La « maladie de Baumol » et l'économie du spectacle vivant
+
+   [modifier | modifier le code]
+   [250px-Noh3.jpg] Théâtre nô au temple d'Itsukushima. En raison de son
+   extrême codification et d'un répertoire pratiquement inchangé, le nô
+   fournit une illustration pratiquement parfaite d'un art touché par la
+   maladie de Baumol. Son existence est actuellement tributaire du système
+   de trésor nationaux vivants du Japon.
+
+   L'article fondateur de Baumol et Bowen (voir infra^[13]) met en
+   évidence un différentiel de productivité touchant les arts, et
+   particulièrement le spectacle vivant. En effet, pour jouer le Tartuffe,
+   il fallait en 1664 deux heures et douze acteurs. En 2006, il faut
+   toujours deux heures et douze comédiens : aucun gain de productivité en
+   plus de trois siècles. Or, comme le faisait déjà remarquer Adam Smith,
+   le métier d'artiste exige un fort investissement en capital humain, et
+   doit donc recevoir une rémunération à la hauteur. La rémunération des
+   artistes doit donc, au minimum, croître comme celle de la population en
+   général, suivant la productivité générale dans l'économie. Le coût
+   d'une pièce augmente donc au rythme de la productivité, tandis que la
+   productivité des acteurs n'augmente pas. Baptisée maladie des coûts par
+   Bowen et Baumol, cette croissance inexorable du coût relatif des
+   spectacles vivants explique la dépendance croissante de ceux-ci à
+   l'égard de subventions publiques sans lesquelles cette activité serait
+   condamnée.
+
+   La littérature sur l'économie des spectacles vivants procède largement
+   de cette analyse, et se répartit selon deux axes majeurs : la
+   contestation de la pertinence de cette maladie des coûts, et l'étude
+   des modes de subvention des activités culturelles^[14].
+
+   La première branche relève l'existence de gains de productivité réels
+   dans ce secteur. Ainsi, une meilleure conception des salles de
+   spectacle, des micros, la diffusion télévisée ou radiophonique ainsi
+   que les enregistrements font qu'une même représentation peut être vue
+   par un nombre de spectateurs sans commune mesure avec ce qui était
+   possible avant les techniques de la diffusion de masse. Les industries
+   culturelles fournissent ainsi d'importants financements aux spectacles
+   vivants dont elles tirent la matière de leurs produits. Liée à
+   l'économie de l'innovation, ce courant voit dans l'économie de la
+   culture un cas particulier préfigurant des échanges économiques de plus
+   en plus dématérialisés.
+
+   La deuxième branche, qui tient plus au choix public et à l'organisation
+   industrielle, s'intéresse plus à la manière dont sont ou devraient être
+   employées les subventions à la culture. Ces subventions sont en effet
+   l'objet de critiques portant sur leur caractère régressif (les
+   spectateurs des théâtres ou de l'opéra sont plutôt des ménages aisés,
+   donc les subventions culturelles favorisent des populations déjà
+   favorisées) ou la possibilité de leur confiscation pour certains
+   acteurs (par exemple un directeur de salle ne faisant jouer que des
+   œuvres absconses, au public très restreint, mais lui fournissant une
+   image de promoteur de haute culture). Cette littérature s'attache donc
+   à justifier l'existence des subventions en démontrant qu'elles
+   permettent l'accès à la culture à un public plus large et en proposant
+   des modes de contrôles s'assurant que les subventions sont utilisées
+   conformément aux intérêts du public.
+
+Les marchés des œuvres d'art
+
+   [modifier | modifier le code]
+   Article détaillé : Marché de l'art.
+
+   Les œuvres d'art font l'objet d'échanges sur des marchés aux structures
+   très variées. Dans les cas les plus simples, l'artiste vend directement
+   sa production à ses clients, mais le plus souvent l'œuvre passe entre
+   les mains de multiples intermédiaires^[15]. Ces niveaux
+   d'intermédiation définissent autant de marchés, explicites, comme dans
+   le cas de la librairie, ou implicites, comme dans le cas de la chaîne
+   de production d'un film^[16]. De même, certains marchés sont très
+   étroits, avec peu de biens et de transactions, les tableaux de maîtres
+   anciens par exemple, alors que d'autres sont des marchés de masse
+   (livres, musique enregistrée).
+
+Marché et qualité
+
+   [modifier | modifier le code]
+
+   Bruno Frey^[17] souligne la croyance commune chez les intellectuels
+   qu'un art de qualité ne peut exister qu'à la faveur d'un soutien public
+   à la production artistique, le marché étant réputé conduire à une
+   production de masse et de faible qualité. Frey remarque que la
+   structure de marché ne fait que fournir le type de biens rencontrant
+   une demande solvable. Dans le cas des biens culturels, il fournit ainsi
+   à la fois des biens de très haute qualité à des prix très élevés, ainsi
+   qu'un assortiment de biens en quantité et de qualités très diverses. En
+   l'absence de norme consensuelle sur ce qui est de bonne ou de mauvaise
+   qualité, affirme-t-il, le marché constitue un mode d'organisation des
+   relations intéressant en cela qu'il permet à une grande variété de
+   biens d'être produits^[18].
+
+Le cas de la peinture
+
+   [modifier | modifier le code]
+   Portrait du docteur Gachet par Van Gogh Vincent van Gogh,
+   Auvers-sur-Oise - Portait du docteur Gachet (1890, juin). Ce tableau a
+   fait l'objet d'une vente spectaculaire en 1990 pour la somme de 82,5
+   millions de francs. Du fait de tels montants exceptionnels et de
+   l'existence de données anciennes sur les transactions, le marché de la
+   peinture a fait l'objet d'une attention particulière de la part des
+   économistes de la culture.
+
+   Le marché de la peinture se sépare en deux volets : celui des œuvres
+   connues, classées, déjà jugées par l'histoire et dont la valeur est
+   bien connue, et celui des œuvres contemporaines, plus sujet aux
+   découvertes soudaines et aux effets de mode. Si le premier a beaucoup
+   attiré l'attention par des transactions colossales, Portrait du Dr
+   Gachet avec branche de digitale, de Vincent van Gogh, adjugé 82,5
+   millions de francs en 1990, les deux marchés partagent une même
+   structure d'oligopole, avec un nombre limité d'acheteur et de galeries
+   importantes^[19].
+
+   Deux questions animent le débat économique autour de ce secteur :
+   comment se forme la valeur, parfois très importante, d'une œuvre, et
+   quelle est la rentabilité d'une œuvre art en comparaison avec des
+   actifs financiers ?
+
+La formation du prix
+
+   [modifier | modifier le code]
+
+   Les matériaux bruts d'une œuvre, toile et peinture ou bloc de pierre,
+   ont en général une valeur marchande très inférieure à celle du produit
+   fini. De même, le temps passé par l'artiste sur son œuvre ne semble pas
+   expliquer les grandes différences de prix entre les œuvres. Leur valeur
+   dépend donc fortement de la perception qu'en a le public potentiel,
+   ainsi que les experts chargés d'établir cette valeur. On peut la
+   décomposer dans trois éléments. Le premier est une valeur sociale,
+   correspondant à un « capital artistique » de l'artiste, traduisant la
+   considération que l'acquéreur reçoit du fait de la possession de
+   l'œuvre. Le second représente la valeur artistique propre de l'œuvre au
+   sein de l'ensemble de la production de l'artiste et de l'époque
+   considérée, son importance pour les artistes ultérieurs, etc. La
+   troisième est fondée sur le prix auquel s'est déjà échangée
+   précédemment l'œuvre, traduisant une valeur spéculative sur laquelle
+   l'acquéreur pourra se fonder au moment d'une revente éventuelle^[20].
+
+   Chacune de ces valeurs est ainsi déterminée par des acteurs propres. La
+   première procède du comportement d'un certain nombre d'experts tels les
+   propriétaires de galeries, les directeurs de grands musées ou les
+   commissaires-priseurs, dont les comportements servent de guides pour
+   déterminer l'intérêt et la notoriété d'un artiste donné. La seconde
+   valeur relève plus du jugement des historiens de l'art. Quant à la
+   dernière, elle dépend essentiellement de la présence sur le marché
+   d'acteurs qui ne sont intéressés par les œuvres qu'en tant que
+   placement financier possible^[21]. Cet aspect fait l'objet de la
+   section suivante^[15].
+
+Marché de l'art et spéculation
+
+   [modifier | modifier le code]
+
+   Cet aspect du marché de l'art a reçu une attention particulière pour
+   deux raisons. D'une part, certains acteurs financiers (banques,
+   assurances) ont vu au cours des années 1990 dans le marché des œuvres
+   d'art la possibilité de réaliser des gains sans commune mesure avec
+   ceux réalisables sur un marché des valeurs déprimé. D'autre part, ces
+   transactions ont souvent lieu dans le cadre de ventes aux enchères.
+   Elles se réalisent donc de manière très transparente, ce qui permet
+   d'établir des bases de données renseignant les prix auxquels s'est
+   vendu un même bien (une même œuvre) à des moments différents, parfois
+   depuis 1652^[22].
+
+   Les études empiriques sur la question font apparaître que si certains
+   collectionneurs au nez creux ont pu multiplier leur mise par dix en
+   quelques années, le rendement moyen des œuvres d'art est nettement
+   inférieur à celui des actions, pour une volatilité au moins aussi
+   importante. Avant d'interpréter cette différence comme le plaisir
+   artistique de la possession d'une œuvre, ces études ne prennent pas en
+   compte l'avantage fiscal dont bénéficient les œuvres d'art, exonérées
+   de l'impôt sur la fortune et des droits de succession dans de nombreux
+   pays^[22].
+
+   En 1986, Baumol estimait le taux moyen de rendement sur vingt années
+   des placements en œuvres d'art à 0,55 % par an. En comparaison, celui
+   des titres financiers était de 2,5 %.
+
+Analyse économique du patrimoine culturel
+
+   [modifier | modifier le code]
+
+   Le patrimoine culturel se décline en deux volets : celui qu'on peut
+   exposer dans un musée (peintures, sculptures, installations) et le
+   patrimoine immobilier^[23].
+
+Quel rôle pour les musées ?
+
+   [modifier | modifier le code]
+   Façade pavoisée du Metropolitan Museum of Art de New York Façade du
+   Metropolitan Museum of Art, 30 mai 2004. Par sa taille et son budget,
+   ce musée fait partie des établissements dont la politique de
+   conservation et d'exposition a des conséquences internationales.
+   Article détaillé : Théorie économique des musées.
+
+   Les musées ont un double rôle : conserver les œuvres qui leur sont
+   confiées, et les exposer au public. Bien que les statuts soient très
+   divers (du musée national à l'établissement privé), la quasi-totalité
+   des musées sont explicitement à but non lucratif. Ils ont donc une
+   nature de bien public, et posent les problèmes de financement qui y
+   sont associés : le musée doit-il se suffire à lui-même, ou recevoir des
+   subventions correspondant à autant d'impôts ? Ce problème est exacerbé
+   par le fait qu'alors que la valeur des collections des musées est
+   colossale, leurs budgets sont très restreints. De plus, souvent situés
+   en centre-ville, il leur est très coûteux d'étendre leurs surfaces
+   d'exposition au rythme de leurs acquisitions. C'est ainsi que les
+   musées américains n'exposent que la moitié de leurs réserves, part
+   encore très importante par rapport aux musées européens (moins de 5 %
+   des collections sont exposées au centre Georges-Pompidou ou au musée du
+   quai Branly).
+
+   Parallèlement, il existe un conflit entre les deux fonctions des
+   musées. En effet, l'impératif de conservation pousse à une exposition
+   limitée (l'exposition endommage les œuvres), de préférence des œuvres
+   peu connues et s'adressant à un public spécialiste, afin de faire
+   connaître les artistes peu connus et de faire progresser la recherche.
+   Inversement, l'impératif d'exposition procède d'une volonté de
+   permettre à l'ensemble du public de voir les œuvres essentielles des
+   différentes cultures, et appelle donc à des expositions larges
+   d'artistes connus, à même d'attirer au musée le plus grand nombre. Il
+   est donc essentiel de comprendre quel rôle jouent les différents
+   acteurs (directeurs de musées, conservateurs, commissaires
+   d'exposition) et de leur fournir des incitations à trouver le juste
+   équilibre entre leurs deux rôles. Ce pan de l'analyse économique des
+   musées fait donc une large part aux outils de l'organisation
+   industrielle, en particulier la théorie des contrats.
+
+   Un dernier élément est venu récemment s'ajouter aux précédents, celui
+   de la gestion de la propriété intellectuelle. L'essentiel des
+   collections muséales sont en effet dans le domaine public. Or, une part
+   croissante des revenus des musées provient de produits dérivés (cartes
+   postales, catalogues, etc.), ce qui les incite à limiter, voire à
+   interdire la reproduction de ces œuvres à la fois pour des raisons de
+   conservation (les flashs endommagent les tableaux) et de préservation
+   de cette source de financement. Le problème se redouble quand on
+   considère un ensemble d'œuvres. Si chacune est dans le domaine public,
+   leurs choix parmi toutes les œuvres possibles, les rapprochements entre
+   elles sont le fruit du travail du commissaire d'exposition, et partant
+   procèdent de la propriété intellectuelle. Cet élément participe donc au
+   débat sur les droits des personnes amenés à créer des éléments
+   originaux dans le cadre de leurs fonctions.
+
+Vieilles pierres
+
+   [modifier | modifier le code]
+   Vue panoramique du château de Chambord Le château de Chambord, classé
+   depuis 1981 au patrimoine mondial de l'UNESCO, illustre l'importance
+   prise par le patrimoine culturel immobilier dans les politiques
+   culturelles.
+
+   Le patrimoine culturel immobilier constitue un ensemble toujours
+   croissant de bâtiments et de structures fixes auquel est attribuée une
+   signification culturelle particulière. Dans de nombreux pays, à l'image
+   de ce qui se fait en France, existe un système de classement
+   (l'Inventaire des monuments historiques) donnant droit aux
+   propriétaires de ces biens à des réductions fiscales et à des aides à
+   la restauration, en échange de limitations sur les possibilités de
+   modification des bâtiments et d'une obligation d'ouverture partielle au
+   public.
+
+   L'étude des effets de ces mesures reste balbutiante. Si pour les grands
+   sites (château de Chambord, chapelle Sixtine), le même arbitrage que
+   pour les musées existe entre préservation et exposition, on peut se
+   demander s'il est vraiment nécessaire de restaurer tous les châteaux
+   français. De même, l'évaluation des inefficacités d'allocation du
+   capital entraîné par ces niches fiscales reste pratiquement
+   inexistante.^[pas clair]
+
+Les biens culturels : des biens pas comme les autres ?
+
+   [modifier | modifier le code]
+   Article connexe : Industrie culturelle.
+
+Définition des biens culturels
+
+   [modifier | modifier le code]
+
+   Une définition des biens culturels^[24] figure dans l'article premier
+   de la Convention pour la protection des biens culturels en cas de
+   conflit armé signée en 1954 à La Haye. Chaque État dresse une liste de
+   biens mobiliers ou immobiliers qu'il considère comme important pour son
+   patrimoine (produit des fouilles archéologiques, collections
+   scientifiques, manuscrits rares, œuvres d'art, objets d'antiquité,
+   d'intérêt artistique ou historique, etc.).
+
+Caractéristiques des biens culturels
+
+   [modifier | modifier le code]
+
+   Alors qu'une œuvre originale, un tableau ou une sculpture sont peu
+   reproductibles (il manque à la copie quelque chose qui donne toute sa
+   valeur à l'original), il existe une vaste gamme de biens culturels pour
+   lesquelles le support n'a pas d'importance, et où le paramètre
+   important est la valeur des nombreuses copies d'un original : les
+   livres, les disques, le cinéma, etc. Ces biens constituent le cœur des
+   industries culturelles. Leur délimitation précise pose de nombreux
+   problèmes de définition. On considérera ici qu'il s'agit
+   essentiellement de l'édition de livres, de disques, d'œuvres de cinéma,
+   de télévision et de radiodiffusion.
+
+   Les industries culturelles sont caractérisées par plusieurs principes
+   qui distinguent les biens culturels^[25] :
+     * (en) nobody knows : le succès (donc la demande) pour un bien
+       culturel donné est très difficilement prédictible, même par les
+       agents spécialisés du secteur concerné. Cette caractéristique
+       procède de leur nature de biens d'expérience purs (on parle
+       également de biens de prototype)^[pas clair].
+     * infinie variété : alors que les biens usuels (voiture, ordinateur)
+       sont différenciés sur un nombre fini et relativement faible de
+       caractéristiques, les biens culturels sont différenciés sur un
+       nombre très important de caractéristiques, les rendant peu
+       comparables. De plus, la plupart de ces caractéristiques sont de
+       nature subjective, et donc ne peuvent pas faire l'objet de
+       processus de comparaison objectifs.
+     * forte concentration des ventes : la majeure partie des ventes est
+       concentré sur un petit nombre de variétés à succès (best-sellers ou
+       blockbusters).
+     * cycle de vie court : l'essentiel des ventes pour un bien donné se
+       réalise dans les semaines suivant sa mise en vente. Si les ventes
+       ont été mauvaises durant cette période, il faut un événement
+       exceptionnel pour les relancer.
+     * des coûts fixes très importants : l'essentiel des coûts est
+       supporté avant la mise en vente de la première unité. Par exemple,
+       les frais de tournage d'un film sont plusieurs ordres de grandeur
+       plus importants que le coût à en tirer une nouvelle
+       copie^[pas clair].
+
+   L'analyse économique des industries culturelles s'intéresse aux
+   fondements de ces caractéristiques (étude de la demande de biens
+   culturels), aux mécanismes mis en place par l'offre pour tenir compte
+   de ces contraintes (avec les outils de l'organisation industrielle),
+   ainsi qu'à leurs conséquences quant à la qualité et à la variété des
+   biens produits.
+
+L'offre propose, la demande dispose ?
+
+   [modifier | modifier le code]
+
+   François Rouet fait remarquer^[26] que dans le cas du livre, le choix
+   éditorial repose moins sur un choix au sein de l'offre de ce qui semble
+   répondre à une demande que sur la possibilité de créer une demande
+   correspondant aux œuvres retenues. Il illustre par là l'obscurité de la
+   relation entre offre et demande de biens culturels. D'un côté, on
+   observe^[27] que les dépenses publicitaires servent non seulement de
+   signal sur la qualité du bien, mais ont un rôle dans la formation des
+   préférences des consommateurs, en faisant apparaître tel ou tel sujet
+   ou genre comme appartenant à un niveau culturel ou un style de vie
+   donnés. Toutefois, Caves démontre dans le même chapitre que la
+   corrélation est loin d'être robuste, et que des films ont engagé des
+   dépenses considérables (comme Le Bûcher des vanités de Brian De Palma)
+   sans parvenir à augmenter significativement la demande.
+
+   La caractéristique de « variété infinie » combinée à l'incertitude
+   implique donc qu'il existe pour les biens culturels des phénomènes de
+   filière inversée (terme de John Kenneth Galbraith) dans le sens où
+   l'offre, en l'occurrence la production, fait toujours un choix propre
+   dans l'espace de dimension infinie des biens disponible. Toutefois, la
+   propriété de nobody knows mise en avant ci-dessus implique que le tri
+   final entre les biens rencontrant un succès commercial ou critique
+   relève essentiellement de préférences inconnues de la demande,
+   difficilement manipulables par l'offre.
+
+L'importance des effets d'apprentissage
+
+   [modifier | modifier le code]
+
+   Comme le note R. McCain^[28], la consommation des biens culturels
+   repose sur l'existence d'un actif économique spécifique qu'il nomme le
+   goût. Ce goût pour une classe de biens est directement lié à la
+   formation reçue à apprécier ces biens, comme un cours d'histoire de
+   l'art de la Renaissance pour un tableau du Titien et au nombre de biens
+   du même type consommés auparavant. On peut ainsi argumenter que la
+   lecture de Harry Potter et l'Ordre du phénix est d'autant plus agréable
+   qu'on a déjà lu les tomes précédents.
+
+   Le goût s'analyse donc comme une forme de capital s'accumulant du
+   simple fait de la consommation de biens culturels. La consommation de
+   biens culturels relève donc pour partie des phénomènes d'addiction
+   rationnelle^[29], qui permettent d'analyser de manière dynamique la
+   réponse de la consommation des biens culturels à des variations de prix
+   et d'offre. En particulier, du fait de la complémentarité entre la
+   valeur du stock de capital et l'utilité retirée d'une consommation
+   présente, la demande de biens culturels ne répond qu'avec retard à une
+   hausse du revenu ou des prix^[30], le premier effet amplifiant la
+   « Maladie de Baumol »^[31].
+
+Les majors et les indépendants
+
+   [modifier | modifier le code]
+
+L'oligopole à frange ou la théorie du centre et de la périphérie
+
+   [modifier | modifier le code]
+
+   Les principales industries culturelles, édition de livres, musique et
+   cinéma, sont dominées chacune par un oligopole à frange formé d'un
+   petit nombre d'entreprises intervenant le plus souvent sur tous les
+   marchés à la fois, et désignées sous le nom de majors. Pourtant, chacun
+   de ces secteurs comporte un nombre très important d'entreprises, avec
+   une myriade de très petites entreprises (éditeurs ou producteurs
+   indépendants par exemple). Chacun de ces secteurs présente donc une
+   structure d'oligopole à frange. Autour de très grosses entreprises,
+   disposant de moyens de production, de distribution et de promotion très
+   importants, gravitent des petites entreprises, qui jouent le rôle de
+   premier filtre au sein de l'offre artistique. Ainsi, il est commun que
+   le succès d'un artiste produit par une petite maison ait pour résultat
+   le rachat de la maison par un grand groupe.
+
+   Dans le domaine de la musique enregistrée, Mario d'Angelo a étudié le
+   phénomène en appliquant l'approche système (le secteur est considéré
+   comme un système fondé sur l'interdépendance entre ses membres, ceux
+   qui sont qualifiés de majors et ceux qui sont qualifiés
+   d'indépendants). Les stratégies peuvent alors s'analyser en fonction de
+   positions centrales ou périphériques dans le système caractérisé par un
+   oligopole non figé qui se nourrit en permanence de sa périphérie^[32] :
+     * au centre, les entreprises sont des organisations multinationales,
+       diversifiées dans les différents métiers de la chaîne de la musique
+       enregistrée et appartiennent à un grand groupe mondial investi dans
+       plusieurs branches des industries culturelles et des médias. Elles
+       sont également structurées pour assurer la distribution à l'échelle
+       mondiale et cette maîtrise de la promotion et des marchés est liée
+       à leur capacité à gérer la notoriété de leurs artistes,
+     * à la périphérie, une multitude d'entreprises, locales (liées à un
+       ou quelques marchés territoriaux), donc de faible taille avec une
+       diversification variable mais plus souvent une activité de
+       production. Leur force repose sur leur capacité d'innovation et de
+       créativité, le plus souvent liée à la proximité voire au contrôle
+       de ces entreprises de production par des artistes. Toutefois, les
+       entreprises de la périphérie dépendent pour beaucoup des
+       entreprises du centre qui sont leurs donneurs d'ordre, soit parce
+       qu'elles commercialisent leurs productions, soit parce qu'elles
+       assurent la défense de la profession (lobbying par exemple pour la
+       législation protégeant les droits des producteurs).
+
+   Dans l'analyse de d'Angelo, les stratégies de concentration reflètent
+   l'histoire de la constitution des majors dans le disque : le centre
+   n'est pas monolithique ni figé, mais au contraire renouvelé constamment
+   par la périphérie. Paradoxalement, les conflits idéologiques entre
+   grands (centre de l'oligopole à frange) et petits (périphérie ou frange
+   de l'oligopole) sont forts alors que sur le terrain, la complémentarité
+   a longtemps prévalu dans des stratégies ajustées permettant des
+   rachats, des fusions, des prises de participation.
+
+   Cette théorie du centre et de la périphérie trouve également son
+   application dans l'ensemble des industries culturelles où l'action des
+   groupes mondiaux a été déterminante jusqu'au début des années 2000.
+   Cependant on ne saurait parler d'un oligopole pour tout cet ensemble de
+   branches. Le terme de major devant quant à lui être limité strictement
+   à une branche. Ainsi en 2002, le groupe Sony, étudié par Mario
+   d'Angelo, occupe une position de major dans le secteur du cinéma (via
+   sa filiale Columbia Tristar), la musique (via sa filiale Sony Music),
+   les jeux vidéo. En revanche ce groupe est quasi absent de la scène
+   mondiale dans le livre et la presse, la diffusion radio et télévision.
+   Dans la constitution de la vingtaine de géants qui façonnent les
+   industries culturelles et des médias, les stratégies financières et
+   l'accès aux technologies ont été plus déterminantes que les stratégies
+   de produits/marchés (ou de contenus). Dans les industries de l'écrit
+   Mario d'Angelo analyse que les aires linguistiques ont longtemps été
+   (et sont encore) des freins naturels considérables à une expansion
+   d'entreprises en position centrale. C'est donc la capacité financière
+   utilisée dans des stratégies d'opportunités (en particulier lorsqu'il y
+   a possibilité de rachat d'un indépendant sur un marché dans une autre
+   aire linguistique) qui sont les plus payantes (par exemple, la
+   déconfiture de Vivendi Universal et les restrictions apportées par les
+   autorités de régulation du marché de l'Union européenne au rachat de
+   ses activités d'édition par Lagardère (via sa filiale Hachette) se sont
+   finalement soldés par la vente obligée de certaines des filiales
+   opérant dans le livre et la presse à des groupes non français, comme
+   Bertelsmann.
+
+   On doit toutefois à présent s'interroger sur le devenir de ce modèle de
+   concentration et de croissance dans les industries culturelles et des
+   médias, dans la mesure où Internet, non seulement favorise de nouveaux
+   entrants sans expérience des industries de contenus, mais aussi modifie
+   les règles du jeu qui prévalaient longtemps. La physionomie et les
+   composantes de l'oligopole à frange ont entamé leur mutation.
+
+Les majors
+
+   [modifier | modifier le code]
+
+   Par major, on désigne des entreprises internationales opérant
+   essentiellement sur les marchés des pays riches, et dont la production
+   et l'édition de biens culturels constitue l'essentiel de l'activité. Le
+   phénomène des majors est ancien, puisqu'il existait déjà dans les
+   années 1920 de grands conglomérats (RKO Pictures par exemple)
+   regroupant des activités de cinéma et de télévision. Toutefois, les
+   majors constituées dans les années 1990 relèvent d’une autre logique.
+   Elles se sont en effet construites soit par l'extension aux marchés
+   voisins de groupes de contenu (News Corporation, Pearson), soit par
+   rachat de fournisseurs de contenus anciens (Time Warner, Universal) par
+   des groupes de contenant ou de réseaux (Vivendi, Sony, AOL). Les
+   acteurs attendaient de cette union dans un même groupe des contenants
+   et des contenus des synergies en matière d'efficacité de la production
+   (économies d'échelle) et de pouvoir de marché. Les unes comme les
+   autres ne se sont pas réalisées, du fait de l'incertitude inhérente aux
+   biens culturels, et surtout parce que chaque groupe a éprouvé la perte
+   qu'il y avait à exclure les contenus des concurrents de son propre
+   réseau de distribution, et réciproquement de celle à ne pas être
+   distribué par les réseaux concurrents. Il en a résulté, au début des
+   années 2000, une vague de réorganisation de ces groupes dans le sens
+   d'un recentrage sur un certain nombre d'activités complémentaires
+   (presse et édition, cinéma, télévision et musique), aboutissant à la
+   création de groupes sectoriels.
+
+Listes des biens culturel les plus vendus en France
+
+   [modifier | modifier le code]
+
+   Classement à relativiser. Car la consommation musicale et
+   filmographique se fait majoritairement par abonnement à un service de
+   streaming.
+
+   CAPTION:
+
+   Année Biens culturels Nombre de ventes Éditeur Société Catégorie Source
+   2019 FIFA 20 1,192 millions EA Sports Electronic Arts Jeux vidéo ^[33]
+   2018 FIFA 19 1,353 millions EA Sports Electronic Arts Jeux vidéo ^[34]
+   2017 FIFA 18 1 364 millions EA Sports Electronic Arts Jeux vidéo ^[35]
+   2016 FIFA 17 1,426 millions EA Sports Electronic Arts Jeux vidéo ^[36]
+   2015 FIFA 16 1,272 millions EA Sports Electronic Arts Jeux vidéo ^[37]
+   2014 FIFA 15 1,292 millions EA Sports Electronic Arts Jeux vidéo ^[38]
+   2013 Grand Theft Auto 5 1,359 millions Rockstar Games Take-Two
+   interactives Jeux vidéo ^[39]
+
+Économie du travail des artistes
+
+   [modifier | modifier le code]
+   Article détaillé : Économie du travail des artistes.
+
+   À l'opposé d'une vision de l'artiste comme tout entier dévoué à la
+   cause artistique, l'analyse économique de l'offre de travail des
+   artistes part de la perspection de rationalité des agents pour
+   comprendre les spécificités de l'offre de travail des artistes. Le
+   marché du travail des artistes présente en effet quatre caractères
+   distinctifs^[40] :
+     * une distribution très déséquilibrée des gains, désignée sous le nom
+       de star system, où un très faible nombre d'agents reçoivent une
+       part très importante du total des rémunérations ;
+     * un excès d'offre systématique : il y a toujours plus de personnes
+       voulant gagner leur vie par une activité artistique que de
+       demande :
+     * des gains non monétaires conduisant les agents sur ce marché à
+       accepter des rémunérations nettement inférieures à celles que leur
+       vaudrait ailleurs leur niveau de qualification ;
+     * une non-séparation de l'artiste et de l'œuvre : les artistes sont
+       intéressés dans l'image que leur production donne d'eux-mêmes.
+
+Le Star System
+
+   [modifier | modifier le code]
+   Photo de l'acteur Brad Pitt Par ses revenus et l'attention qu'il
+   concentre, l'acteur Brad Pitt incarne le fonctionnement du Star System.
+
+   Par Star System^[41], on désigne le fait qu'en matière de rémunération
+   des artistes, une poignée d'entre eux, les Stars, reçoivent une part
+   très importante des rémunérations. Initiée par Sherwin Rosen,
+   l'explication de ce phénomène repose sur la double incertitude qui
+   caractérise les marchés des biens culturels : le consommateur ne sait
+   pas si un bien culturel va lui plaire avant de le consommer (penser au
+   roman policier : c'est rarement avant les dernières pages qu'on peut se
+   faire une opinion sur la qualité de l'intrigue), et le producteur ne
+   sait pas si un produit donné va marcher ou nom. Du coup, le
+   consommateur va se fier à un signal supposé indiquer une certaine
+   qualité : prix, reconnaissance, ou présence sur la couverture ou à
+   l'affiche d'un nom connu. Anticipant cela, le producteur va donc être
+   prêt à payer très cher les artistes dont le nom fonctionne comme une
+   garantie de qualité : les stars. Moshe Adler, ainsi que Ginsburgh et
+   Van Ours montrent en outre que le statut de star repose moins sur un
+   hypothétique talent supérieur que sur des questions de chance et de
+   hasard. Ainsi, on constate que les résultats du concours
+   Reine-Élisabeth sont fortement corrélés avec le rang de passage. Or,
+   les lauréats de ce concours se voient proposés des contrats nettement
+   plus rémunérateurs que ceux proposés à leurs concurrents moins chanceux
+   dans l'ordre de passage^[42].
+
+   Le Star System a en outre été amplifié par les évolutions
+   technologiques des supports des biens culturels. Au XIX^e siècle et au
+   début du XX^e siècle, l'audience, et donc les recettes produites par
+   une célébrité comme Sarah Bernhardt étaient limitées par la capacité
+   d'accueil des salles de spectacle. Le développement de la musique
+   diffusée (radiodiffusion) ou enregistrée permet de toucher un public
+   beaucoup plus large, ce qui multiplie le montant des gains accessibles.
+   Dans la mesure où l'intégralité de cette rente supplémentaire n'est pas
+   capturée par la star, les producteurs de musique ont une incitation
+   forte à détecter et à recruter les futures stars, donc à donner une
+   première chance à un grand nombre de débutants.
+
+Trop d'artistes ?
+
+   [modifier | modifier le code]
+
+   L'immense majorité des personnes se définissant comme « artistes »
+   tirent d'activités non artistiques l'essentiel de leurs revenus.
+   Comment expliquer que parmi celles-ci, une part ne se retire pas du
+   marché du travail artistique, et continue à proposer un travail créatif
+   qui ne rencontre pas de demande ? Deux explications dominent. D'une
+   part, les artistes reçoivent du fait même de leur activité des gains
+   non monétaires en matière de statut social et de considération au sein
+   de leur propre milieu social. D'autre part, les gains de certains, les
+   stars, sont si importants que beaucoup sont incités à tenter leur
+   chance, de la même manière que les gains très importants au Loto font
+   oublier à la plupart des joueurs que l'espérance mathématique de leurs
+   gains est inférieure au prix du billet.
+
+   Comme le note Alain Herscovici, seule une infime partie de la
+   production parvient à se rentabiliser : en 1986, 1 % des ayants droit
+   affiliés à la SACEM touchaient plus de 300 000 francs, tandis que 71 %
+   devaient se contenter de moins de 4 000 francs.
+
+Gestion du risque
+
+   [modifier | modifier le code]
+
+   Si la perspective de gains importants et les gains non monétaires
+   expliquent que les artistes gagnent en moyenne 6 % de moins que des
+   personnes de qualification comparable (Randall Filer, 1986), leurs
+   revenus monétaires totaux sont cependant équivalents du fait de la
+   pratique fréquente d'une activité secondaire « alimentaire » permettant
+   de lisser les hauts et les bas d'une carrière artistique. On constate
+   empiriquement une asymétrie de situation entre les deux activités.
+   Quand le niveau de rémunération de l'activité alimentaire augmente, on
+   constate que les artistes ont tendance à diminuer le temps passé à
+   cette activité (qui ne leur sert donc qu'à se garantir un revenu
+   minimum) au profit du temps passé à des activités artistiques.
+
+L'artiste et son œuvre
+
+   [modifier | modifier le code]
+
+   Dans l'analyse économique générale, la nature ou la qualité d'un bien
+   produit importe peu au salarié payé à le produire, tant que cela n'a
+   pas de répercussion sur son salaire. Ainsi, un ouvrier pourra être
+   indifférent entre fabriquer des voitures ou des machines à laver si le
+   travail demandé et le salaire sont les mêmes. Il n'en va pas de même
+   des artistes. La plupart considèrent soit que l'œuvre est une
+   expression, donc une part d'eux-mêmes, soit qu'ils ont un droit de
+   regard sur son utilisation car elle conditionne fortement leurs revenus
+   futurs. Cela implique une organisation fondamentalement différente de
+   la production des biens culturels.
+
+Politiques culturelles
+
+   [modifier | modifier le code]
+   Article détaillé : Politiques publiques de la culture et des arts.
+
+   Directement ou indirectement, un grand nombre d'activités culturelles
+   bénéficient de subventions ou de soutiens, voire sont gérées
+   directement par des collectivités publiques^[43]. Hormis l'intégration
+   directe dans la sphère de gestion publique, les soutiens publics aux
+   activités culturelles prennent trois formes essentielles :
+     * Les subventions directes : elles sont accordées à des organisations
+       non commerciales (des associations et des non profit organizations)
+       ou à des organisations commerciales (dans les industries
+       culturelles par exemple, notamment la production
+       cinématographique). Pour ce qui est des musées, dans la plupart des
+       pays européens, ils sont soit des établissements publics, soit
+       reçoivent des aides des collectivités publiques dont ils
+       dépendent^[44].
+     * Les dispositions favorables principalement d'ordre fiscal : baisse
+       de TVA (les livres bénéficient d'un taux de TVA réduit dans de
+       nombreux pays européens), abattements pour les entreprises mécènes,
+       crédits d'impôts pour des investisseurs (les SOFICA, Société pour
+       le financement de l'industrie cinématographique et audiovisuelle,
+       en France qui financent la production cinématographique par
+       exemple) ou pour des donations. Pour les beaux-arts, les œuvres
+       sont souvent exclues de l'impôt sur la fortune ou de l'évaluation
+       des successions.
+     * Les dispositions régulant les rapports dans une chaîne (ou une
+       filière) entre les différents acteurs qui y interviennent et en
+       particulier entre les producteurs et les diffuseurs (par exemple,
+       les organismes de télévision devant consacrer une partie de leur
+       chiffre d'affaires (entre 1 et 5 % selon les pays) à investir dans
+       la production audiovisuelle et cinématographique. Dans le domaine
+       du livre, dix pays en Europe ont une forme de prix unique du livre.
+
+   Ces politiques ont pour justification l'existence de défaillances de
+   marché et d'un effet multiplicateur de la dépense culturelle.
+
+Les ratés du marché de la culture
+
+   [modifier | modifier le code]
+
+   En plus des problèmes de biens publics posés par les musées et les
+   bibliothèques, on peut argumenter que la consommation de biens
+   culturels produit des effets bénéfiques pour l'ensemble de la société
+   qui ne sont pas pris en compte par le marché. Une population mieux
+   éduquée, dont le sens critique est entretenu par la lecture régulière,
+   sera mieux à même de prendre de bonnes décisions lorsqu'elle est
+   consultée qu'une population ignorante, par exemple. Victor Hugo mettait
+   cet effet en avant lorsqu'il disait qu'ouvrir une école signifiait
+   fermer une prison. De ce fait, la société peut être fondée à
+   subventionner la consommation de biens culturels ainsi que leur
+   production, soit directement, soit indirectement par le biais de taux
+   de taxes réduites (tous les pays de l'Union européenne, sauf un, ont un
+   taux réduit de TVA sur les livres) ou de dérogations aux règles
+   normales de la concurrence (prix unique du livre).
+
+   Cependant, cette argumentation postule un effet positif difficile à
+   prouver, et que les quantités et qualités fournies par le marché
+   seraient insuffisantes. En l'absence de critères objectifs pour juger
+   de la qualité de la production ou de la quantité optimale, ce débat
+   relève moins de l'économie que de la politique, l'économie de la
+   culture tâchant d'évaluer autant que faire se peut les conséquences
+   quantitatives des différentes politiques.
+
+Le multiplicateur culturel
+
+   [modifier | modifier le code]
+
+   Les dépenses culturelles visant à rendre accessibles des monuments ou à
+   organiser des festivals génèrent dans la région une activité économique
+   parfois considérable, souvent nettement supérieure à la dépense
+   initiale. De ce fait, elles peuvent être une forme efficace d'action de
+   la puissance publique, qui génère de l'activité sans subventionner
+   d'acteurs agissant dans des secteurs concurrentiels.
+
+   Ainsi, Alain Rafesthain, président de la région Centre, considère que
+   le Printemps de Bourges vaut bien la subvention de la région, de près
+   de 2,5 millions de francs, aide logistique comprise, pour un budget
+   culturel de 105 millions de francs. Si le budget total du festival
+   dépasse 20 millions de francs, les retombées touristiques et
+   commerciales sont évidentes pour la ville de Bourges. De même, Benhamou
+   estime que l'effet multiplicateur du Festival d'Avignon est voisin de
+   deux. Or, ces deux festivals affichent des résultats exceptionnels.
+   L'effet multiplicateur d'un festival dépasse rarement 1,05 à 1,3.
+
+   Si cet effet est facilement mesurable, il est plus difficile d'évaluer
+   l'ampleur de l'effet de substitution : où se seraient portées ces
+   dépenses en l'absence de la politique publique ? De plus, ces dépenses
+   peuvent toujours être accusées de favoriser tel lieu géographique, tel
+   monument, tel mode d'expression ou tel artiste, et de profiter souvent
+   à un public plutôt aisé, et donc avoir un effet anti-redistributif.
+
+   Dans l'un ou l'autre cas, le problème essentiel des politiques
+   culturelles dans les pays démocratiques est le contournement de
+   l'accusation d'art officiel : l'action de la puissance publique se doit
+   d'être au-dessus des effets de modes, de la tentation de la censure ou
+   du favoritisme envers un art connu, sous peine de négliger l'émergence
+   d'artistes novateurs. De ce fait, les choix d'attribution sont souvent
+   délégués à des agents qui sont eux-mêmes partie prenante dans le
+   secteur culturel, avec des intérêts propres.
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ (en) John Kenneth Galbraith, Economics and the public purpose,
+       Boston, Houghton Mifflin, 1973, 334 p. (ISBN 0-395-17894-0).
+    2. ↑ (en) William Baumol, William Bowen, Performing Arts-The Economic
+       Dilemma : A Study of Problems Common to Theater, Opera, Music and
+       Dance, Ashgate Publishing, 1966, 582 p. (ISBN 978-0-7512-0106-2)
+    3. ↑ (en) Journal of Cultural Economics, Springer US, ISSN 0885-2545
+       (imprimé) 1573-6997 (en ligne).
+    4. ↑ (en) David Throsby, « The Production and Consumption of the Arts:
+       A View of Cultural Economics », Journal of Economic Literature,
+       vol. 32, n^o 1,‎ 1994, p. 1-29.
+    5. ↑ A Handbook of Cultural Economics.
+    6. ↑ Handbook of the Economics of Art and Culture.
+    7. ↑ [PDF] Orientations devant guider la mise en œuvre de la
+       Convention du patrimoine mondial, Comité intergourvernemental de la
+       protection du patrimoine mondial culturel et naturel, 2 février
+       2005.
+    8. ↑ Convention d'UNIDROIT sur les biens culturels volés ou
+       illicitement exportés (Rome, 1995).
+    9. ↑ ^a et b Édouard Planche, spécialiste de la Protection juridique
+       du Patrimoine culturel, responsable à l’UNESCO du programme de
+       lutte contre le trafic illicite des biens culturels et en faveur de
+       leur restitution, « Les biens culturels dans la géopolitique
+       mondiale », émission Géopolitique, le débat sur RFI, 21 avril 2013.
+   10. ↑ « Comité intergouvernemental pour la promotion du retour de biens
+       culturels à leur pays d'origine ou de leur restitution en cas
+       d'appropriation illégale : UNESCO-CULTURE », sur portal.unesco.org
+       (consulté le 30 avril 2020)
+   11. ↑ Guillaume Perrier, « La Turquie réclame le retour de ses trésors
+       antiques », sur lemonde.fr, 8 février 2013.
+   12. ↑ Loi n^o 2002-5 du 4 janvier 2002 relative aux musées de France.
+   13. ↑ Performing Arts-The Economic Dilemma.
+   14. ↑ Françoise Benhamou, L'Économie de la culture, Paris, La
+       Découverte, coll. « Repères », 2004, 5^e éd., 123 p.
+       (ISBN 2-7071-4410-X), chap. II.1, p. 29 et suivantes.
+   15. ↑ ^a et b Caves 2002, chapitre 2.
+   16. ↑ Caves 2002, chapitre 5.
+   17. ↑ Frey 2003, p. 11.
+   18. ↑ Frey 2003, p. 13.
+   19. ↑ Ce qui suit s'inspire largement de Françoise Benhamou, L'Économie
+       de la culture, Paris, La Découverte, coll. « Repères », 2004,
+       5^e éd., 123 p. (ISBN 2-7071-4410-X), chap. III, p. 42 et
+       suivantes.
+   20. ↑ Benhamou 2004, p. 45-46.
+   21. ↑ Eric d'Espiguers, Art et investissement, de la valeur esthétique
+       à la valeur patrimoniale, Paris, Ars vivens, 2014, 240 p.
+       (ISBN 978-2-916613-37-6).
+   22. ↑ ^a et b Benhamou 2004, p. 47.
+   23. ↑ Françoise Benhamou, L'Économie de la culture, Paris, La
+       Découverte, coll. « Repères », 2004, 5^e éd., 123 p.
+       (ISBN 2-7071-4410-X), chap. III.3, p. 58 et suivantes.
+   24. ↑ Sont considérés comme biens culturels les biens qui, à titre
+       religieux ou profane, sont désignés par chaque État comme étant
+       d'importance pour l'archéologie, la préhistoire, l'histoire, la
+       littérature, l'art ou la science, et qui appartiennent aux
+       catégories ci-après : Collections et spécimens rares de zoologie,
+       de botanique, de minéralogie et d'anatomie; objets présentant un
+       intérêt paléontologique ; biens concernant l'histoire, y compris
+       l'histoire des sciences et des techniques, l'histoire militaire et
+       sociale ainsi que la vie des dirigeants, penseurs, savants et
+       artistes nationaux, et les événements d'importance nationale ;
+       produit des fouilles archéologiques (régulières et clandestines) et
+       des découvertes archéologiques ; éléments provenant du démembrement
+       de monuments artistiques ou historiques et des sites
+       archéologiques ; objets d'antiquité ayant plus de cent ans d'âge,
+       tels qu'inscriptions, monnaies et sceaux gravés ; matériel
+       ethnologique ; biens d'intérêt artistique tels que tableaux,
+       peintures et dessins faits entièrement à la main sur tout support
+       et en toutes matières (à l'exclusion des dessins industriels et des
+       articles manufacturés à la main) ; productions originales de l'art
+       statuaire et de la sculpture, en toutes matières ; gravures,
+       estampes et lithographies originales ; assemblages et montages
+       artistiques originaux, en toutes matières ; manuscrits rares et
+       incunables, livres, documents et publications anciens d'intérêt
+       spécial (historique, artistique, scientifique, littéraire, etc.)
+       isolés ou en collections ; timbres-poste, timbres fiscaux et
+       analogues, isolés ou en collections ; archives, y compris les
+       archives phonographiques, photographiques et cinématographiques ;
+       objets d'ameublement ayant plus de cent ans d'âge et instruments de
+       musique anciens.
+   25. ↑ Cette classification est issue de (en) Richard E. Caves, Creative
+       Industries, Harvard, Harvard University Press; New edition, 2002,
+       454 p. (ISBN 0-674-00808-1), « Introduction », p. 2 et suivantes.
+   26. ↑ Le Livre, Mutations d'une industrie culturelle, François Rouet,
+       La Documentation française, 2000, p. 131.
+   27. ↑ Caves, op. cit., p. 136.
+   28. ↑ Roger McCain dans Handbook of the Economics of Art and Culture
+       chapitre 5, Defining Cultural and Artistic Goods, section 4 :
+       Implication for consumers of art.
+   29. ↑ Gary Becker et Kevin Murphy, A Theory of Rational Addiction, The
+       Journal of Political Economy, 1988, 96, p. 675-700.
+   30. ↑ Paulo Brito et Carlos Barros, "Learning-by-Consuming and the
+       Dynamics of the Demand and Prices of Cultural Goods", Journal of
+       Cultural Economics, 2005, 29, p. 83-106.
+   31. ↑ voir infra.
+   32. ↑ Mario d'Angelo, La Renaissance du disque. Les mutations mondiales
+       d'une industrie culturelle. La Documentation française, 1990.
+   33. ↑ « essentiel_du_jeu_video_-_fevrier_2020.pdf », sur sell.fr
+   34. ↑ « Top 20 des jeux vidéo les plus vendus en France en 2018 », sur
+       Begeek.fr, 23 février 2019 (consulté le 28 février 2020)
+   35. ↑ « essentiel_du_jeu_video_fevrier_2018_0.pdf », sur sell.fr
+   36. ↑ « FIFA 17: le bien culturel le plus vendu en France », sur
+       Challenges (consulté le 28 février 2020)
+   37. ↑ « Fifa 2016 est (encore) le produit culturel le plus vendu en
+       2015 », sur LExpress.fr, 9 février 2016 (consulté le 28 février
+       2020)
+   38. ↑ « Le bien culturel le plus vendu en France en 2014 est un jeu
+       vidéo », sur Franceinfo, 10 février 2015 (consulté le 28 février
+       2020)
+   39. ↑ « Les jeux les plus vendus en France en 2013 sont… », sur
+       Jeuxvideo.com (consulté le 28 février 2020)
+   40. ↑ La présentation qui suit est directement inspirée de (en) Richard
+       E. Caves, Creative Industries : Contracts Between Art and Commerce,
+       Harvard, Harvard University Press; New edition, 2002, 454 p.
+       (ISBN 0-674-00808-1), chap. I, p. 19-84.
+   41. ↑ Cette expression, ainsi que l'analyse qui suit, proviennent de
+       Françoise Benhamou, L'Économie du Star System, Paris, Éditions
+       Odile Jacob, 2002, 367 p. (ISBN 2-7381-1149-1, lire en ligne).
+   42. ↑ Expert Opinion and Compensation: Evidence from a Musical
+       Competition Ginsburgh & Van Ours in American Economic Review
+       (2003), 289-29 [PDF].
+   43. ↑ Par exemple, en France, de nombreuses scènes lyriques sont en
+       gestion directe ou établissements publics (ou assimilés) ; faisant
+       d'une ou de plusieurs collectivités publiques les tutelles
+       directes. Voir Mario d'Angelo, Perspectives de gestion des
+       institutions musicales en Europe, série Activités et institutions
+       musicales, n^o 4, OMF, Paris-Sorbonne, 2006.
+   44. ↑ Catherine Ballé, Musées, changement et organisation,, Paris,
+       Culture et musées, 2003, chap. 2.
+
+Bibliographie
+
+   [modifier | modifier le code]
+
+Ouvrages généraux
+
+   [modifier | modifier le code]
+     * (en) Victor Ginsburgh, David Throsby, Handbook of the Economics of
+       Art and Culture, North-Holland, 2006 (ISBN 978-0444508706), Manuel
+       de référence du domaine.
+     * (en) Ruth Towse (en), A Handbook of Cultural Economics, Edward
+       Elgar, 2003, 494 p. (ISBN 978-1-84064-338-1)
+     * Françoise Benhamou, L'Économie de la culture, Paris, La Découverte,
+       coll. « Repères », 2004 (réimpr. 5^e éd.), 123 p.
+       (ISBN 2-7071-4410-X, lire en ligne)
+       Ouvrage de vulgarisation très accessible
+     * (en) Bruno Frey (en), Arts & Economics : Analysis & Cultural
+       Policy, Springer, 2003, 246 p. (ISBN 3-540-00273-1, lire en ligne)
+     * (en) Richard Caves, Creative Industries [détail de l’édition]
+       Une analyse des relations économiques dans le domaine des arts avec
+       les outils de l'organisation industrielle.
+     * Ghislain Deslandes, Le Management des médias, La découverte, Paris,
+       2008.
+     * (en) David Throsby, Economics and Culture : David Throsby,
+       Cambridge, Cambridge University Press, 2001, 208 p.
+       (ISBN 0-521-58406-X)
+     * (en) Journal of Cultural Economics, Springer US, ISSN 0885-2545
+       (imprimé) 1573-6997 (en ligne)
+     * Le poids économique direct de la culture, Ministère de la Culture
+       et de la Communication - DEPS, 2013 (en ligne)
+
+Ouvrages portant sur un aspect spécifique
+
+   [modifier | modifier le code]
+     * (fr) Isabelle Barbéris et Martial Poirson, L'Économie du spectacle
+       vivant, Que sais-je?, Presses universitaires de France, 2013.
+     * Mario d'Angelo, La Renaissance du disque: les mutations mondiales
+       d'une industrie culturelle, La Documentation Française, Paris, 1990
+     * Mario d'Angelo, Les Groupes médiatico-culturels face à la diversité
+       culturelle, coll. Innovations & Développement n^o 6, éd. IDEE
+       Europe, Paris, 2000 (réédition 2002) (ISBN 2-909941-05-1).
+     * (en) Mario d'Angelo, Paul Vespérini, Cultural Policies in Europe: A
+       Comparative Approach, Council of Europe Publishing, Strasbourg,
+       1998
+     * Françoise Benhamou, L'Économie de la culture, Paris, La Découverte,
+       coll. « Repères, 192 », 2003 (réimpr. 4^e éd.), 125 p.
+       (ISBN 2-7071-3943-2)
+       L'ouvrage de vulgarisation de référence en langue française
+     * Françoise Benhamou, Les Dérèglements de l'exception culturelle,
+       Paris, Éditions du Seuil, coll. « La Couleur des idées », octobre
+       2006, 353 p. (ISBN 2-02-081844-2)
+     * Bruno Colin et Arthur Gautier (dir.), Pour une autre économie de
+       l'art et de la culture [Manifeste], Ramonville Saint-Agne, Éd.
+       Érès, coll. « Sociologie économique », 2008, 172 p.
+       (ISBN 978-2-7492-0992-0)
+     * Claude Forest, L'Industrie du cinéma en France. De la pellicule au
+       pixel, Paris, La Documentation française, coll. « Les études »,
+       mars 2013, 184 p. (ISSN 1763-6191)
+     * Jean-Baptiste Nouvion, Les valeurs cachées de l'art, Lyon, EM Lyon,
+       1998 (présentation en ligne).  Ouvrage utilisé pour la rédaction de
+       l'article
+
+Voir aussi
+
+   [modifier | modifier le code]
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Industrie culturelle
+     * Économie des industries culturelles
+     * Propriété intellectuelle
+     * Économie du secteur culturel en France
+     * Patrimoine (culture)
+     * Mécénat
+     * Politiques publiques de la culture et des arts
+     * Antiquités de sang
+
+Liens externes
+
+   [modifier | modifier le code]
+
+     *
+     *
+     *
+     * Notices d'autorité Voir et modifier les données sur Wikidata  :
+          + Tchéquie
+     * Département des études, de la prospective et des statistiques du
+       ministère de la Culture et de la Communication
+     * Quelle politique culturelle pour la France ? [MP3], table ronde à
+       l'ENS de Paris du 3 mai 2006, avec Françoise Benhamou, Thierry
+       Pariente et Nathalie Sauvanet.
+
+   v · m
+   Disciplines de l’étude de l’art
+   [40px-Venus_botticelli_detail.jpg]
+     * Anthropologie de l'art
+     * Critique d'art
+     * Études culturelles
+     * Économie de la culture
+     * Esthétique
+     * Esthétique analytique
+     * Herméneutique
+     * Histoire culturelle
+     * Histoire de l'art
+     * Marché de l'art
+     * Neuroesthétique
+     * Propriété littéraire et artistique
+     * Psychologie de l'art
+     * Sémiologie
+     * Sociologie de l'art
+     * Théorie de l'art
+
+   v · m
+   Branches des sciences économiques
+     * Macroéconomie
+     * Microéconomie
+
+     * Économie quantitative
+     * Économie internationale
+     * Économie monétaire
+     * Économie financière
+     * Économie publique
+     * Économie du bonheur
+     * Économie du bien-être
+     * Économie de l'éducation
+     * Économie du travail
+     * Analyse économique du droit
+     * Organisation industrielle
+     * Économie d'entreprise
+     * Histoire économique
+     * Économie comportementale
+     * Économie de la culture
+     * Économie du développement
+     * Économie de l'environnement
+     * Économie expérimentale
+     * Économie géographique
+     * Économie des institutions
+     * Économie de l'information
+     * Économie politique
+     * Économie de l'attention
+     * Économie circulaire
+     * Économie du savoir
+     * Économie du transport
+     * Économie des organisations
+
+     * icône décorative Portail de la culture
+     * icône décorative Portail de l’économie
+     * icône décorative Portail des arts
+
+   Cet article est reconnu comme « bon article » depuis sa version du 6
+   mai 2007 (comparer avec la version actuelle).
+   Pour toute information complémentaire, consulter sa page de discussion
+   et le vote l'ayant promu.
+   La version du 6 mai 2007 de cet article a été reconnue comme « bon
+   article », c'est-à-dire qu'elle répond à des critères de qualité
+   concernant le style, la clarté, la pertinence, la citation des sources
+   et l'illustration.
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Économie_de_la_culture&old
+   id=226628131 ».
+   Catégories :
+     * Branche de l'économie
+     * Économie de la culture
+     * Marché de l'art
+
+   Catégories cachées :
+     * Article contenant un appel à traduction en anglais
+     * Page utilisant un modèle Bases inactif
+     * Article utilisant le modèle Dictionnaires inactif
+     * Article de Wikipédia avec notice d'autorité
+     * Portail:Culture/Articles liés
+     * Portail:Économie/Articles liés
+     * Portail:Société/Articles liés
+     * Portail:Arts/Articles liés
+     * Bon article
+
+     * La dernière modification de cette page a été faite le 19 juin 2025
+       à 15:22.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Économie de la culture
+   (BUTTON) 20 langues Ajouter un sujet
