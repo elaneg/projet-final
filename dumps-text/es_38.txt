@@ -1,42 +1,42 @@
    IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TQKRBZ9
 
    ABC
-   28 de diciembre de 2025
+   29 de diciembre de 2025
    Ir a ABC en el Este
-   En Detalles
-   ABC TV de 20:00:00 a 20:59:00
+   Peligro de Gol
+   ABC TV de 21:00:00 a 22:30:00
    Ver ABC TV
-   Fútbol Paraguayo. Torneo Apertura
-   ABC Cardinal AM de 17:00 a 20:59
+   De Todo un Poco
+   ABC Cardinal AM de 21:00 a 23:59
    Escuchar ABC AM
    Solo Música
-   ABC FM 12:00 a 23:59
+   ABC FM 18:00 a 23:59
    Escuchar ABC FM
    Solo Música
-   ABC FM 12:00 a 23:59
+   ABC FM 18:00 a 23:59
    Escuchar ABC FM
-   En Detalles
-   ABC TV de 20:00:00 a 20:59:00
+   Peligro de Gol
+   ABC TV de 21:00:00 a 22:30:00
    Ver ABC TV
-   Fútbol Paraguayo. Torneo Apertura
-   ABC Cardinal AM de 17:00 a 20:59
+   De Todo un Poco
+   ABC Cardinal AM de 21:00 a 23:59
    Escuchar ABC AM
    Solo Música
-   ABC FM 12:00 a 23:59
+   ABC FM 18:00 a 23:59
    Escuchar ABC FM
-   En Detalles
-   ABC TV de 20:00:00 a 20:59:00
+   Peligro de Gol
+   ABC TV de 21:00:00 a 22:30:00
    Ver ABC TV
-   Fútbol Paraguayo. Torneo Apertura
-   ABC Cardinal AM de 17:00 a 20:59
+   De Todo un Poco
+   ABC Cardinal AM de 21:00 a 23:59
    Escuchar ABC AM
    Solo Música
-   ABC FM 12:00 a 23:59
+   ABC FM 18:00 a 23:59
    Escuchar ABC FM
-   30º
+   26º
    Ahora
    ver más
-   31º
+   26º
    Mañana
    ver más
    G. 6.350
@@ -107,38 +107,38 @@
      * ePaper
      * ABC Revista
 
-   30º
+   26º
    Ahora
    HOY
    Min
    24º
    Máx
    35º
-   undefined 2025-12-29
-   Min
-   22º
-   Máx
-   34º
    undefined 2025-12-30
    Min
-   21º
+   23º
    Máx
    30º
    undefined 2025-12-31
    Min
-   22º
+   21º
    Máx
-   34º
+   31º
    undefined 2026-01-01
    Min
    23º
    Máx
-   36º
+   34º
    undefined 2026-01-02
    Min
-   22º
+   20º
    Máx
    35º
+   undefined 2026-01-03
+   Min
+   20º
+   Máx
+   33º
 
    Ver Pronóstico del Tiempo
    Cotizaciones del día
@@ -182,24 +182,23 @@
 
 Lo más leído
 
-   Clima
-   Alerta por lluvias y tormentas: estas son las ocho zonas afectadas esta
-   tarde
+   Nacionales
+   Conocé a Rocky, el perro héroe que será homenajeado por su servicio a
+   la seguridad nacional
+   Ver más
+   Tecnología
+   ¡Apagón de WhatsApp!: Los celulares en los que dejará de funcionar en
+   2026
    Ver más
    Clima
-   Meteorología: alertan de tormentas fuertes para ocho departamentos este
-   domingo
+   Meteorología anuncia lluvias y tormentas en nueve departamentos
    Ver más
-   Economía
-   Asegurados de IPS alertan sobre peligro de vaciamiento del fondo
-   jubilatorio
+   Clima
+   Meteorología: lluvias y alerta de tormentas en la recta final del año
+   en Paraguay
    Ver más
-   Política
-   Autorizan ingreso de militares de EE.UU. hasta julio de 2026
-   Ver más
-   Policiales
-   Triple choque en Mariano Roque Alonso deja dos heridos y un conductor
-   ebrio detenido
+   Clima
+   Meteorología alerta sobre tormentas para siete departamentos
    Ver más
    Cultural
    20 de agosto de 2017 - 02:08
@@ -207,7 +206,7 @@ Lo más leído
 Cultura y agricultura
 
    Este artículo tiene 8 años de antigüedad
-   /pf/resources/images/abc-placeholder.png?d=2395
+   /pf/resources/images/abc-placeholder.png?d=2397
 
 «Los campesinos son aliados del tiempo. Trabajan con él, y no, como nosotros,
 contra él», escribe la poeta y filósofa anarquista Montserrat Álvarez.
