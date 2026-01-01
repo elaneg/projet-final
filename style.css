@@ -7,7 +7,7 @@ body {
 }
 
 .navbar {
-    background-color: #f6d6de; 
+    background-color: #6b4f3f; 
     padding: 15px 40px;
 }
 
@@ -21,7 +21,7 @@ body {
 
 .menu a {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
     font-weight: bold;
 }
 
@@ -37,7 +37,7 @@ body {
     top: 100%;
     left: 0;
     background-color: #ffffff;
-    border: 1px solid #f0c1cd;
+    border: 1px solid #6b4f3f;
     padding: 10px;
     margin-top: 0;
     list-style: none;
@@ -50,6 +50,7 @@ body {
 
 .dropdown-menu a {
     font-weight: normal;
+    color: #000000
 }
 
 /* Modification de cette partie pour que le menu reste visible tant qu'on laisse la souris dessus */
@@ -68,17 +69,20 @@ h1 {
     text-align: center;
     font-size: 2.2em;
     margin-bottom: 50px;
+    color: #000000
 }
 
 h2 {
     font-size: 1.4em;
-    border-bottom: 2px solid #f6d6de;
+    border-bottom: 2px solid #6b4f3f;
     padding-bottom: 5px;
+    color:#000000
 }
 
 h3 {
     font-style: italic;
     margin-top: 5px;
+    color :#000000
 }
 
 .definitions {
@@ -88,7 +92,7 @@ h3 {
 }
 
 .definitions article {
-    background-color: #fff7f9;
+    background-color: #f5efe6;
     padding: 25px;
     border-radius: 6px;
     width: 33%;
@@ -96,20 +100,18 @@ h3 {
 
 .justification,
 .hypotheses {
-    background-color: #fff7f9;
+    background-color: #f5efe6;
     padding: 30px;
     border-radius: 6px;
     margin-bottom: 40px;
 }
 
-/* =========================
-   Ajout de la partie qui prend en compte les tableaux 
-   ========================= */
+/*Ajout de la partie qui prend en compte les tableaux */
 main table {
-    width: 100%;
+    width: calc(100% - 2cm);      /* largeur quasi totale en laissant 1cm de marge à gauche/droite */
+    margin: 0 auto 40px auto;     
     border-collapse: collapse; 
-    margin-bottom: 40px;
-    background-color: #fff7f9;
+    background-color: #fff7f9;    
     font-size: 0.95em;
 }
 
@@ -117,17 +119,57 @@ main th, main td {
     border: 2px solid #000000; 
     padding: 10px; 
     text-align: left;
+    min-width: 120px;             
 }
 
 main th {
-    background-color: #f6d6de; 
+    background-color: #6b4f3f;    
     font-weight: bold;
+    color:#f5f5dc
 }
 
 main tr:nth-child(even) td {
-    background-color: #ffeef2; 
+    background-color: #f5f5dc;    /* beige clair pour les lignes paires */
+}
+/* Ajout du style pour la page à propos*/
+
+.equipe {
+    margin-bottom: 60px;
 }
 
-main th, main td {
-    min-width: 120px; 
+.membres-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 40px;
+}
+
+.membre {
+    background-color: #f5efe6;
+    border: 2px solid #6b4f3f;
+    border-radius: 8px;
+    width: 30%;
+    padding: 25px;
+    text-align: center;
+}
+
+.membre h3 {
+    margin-bottom: 15px;
+    font-style: normal;
+}
+
+.membre a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #000000;
+}
+
+.membre a:hover {
+    text-decoration: underline;
+}
+
+.conclusion {
+    background-color: #f5efe6;
+    padding: 30px;
+    border-radius: 6px;
 }
