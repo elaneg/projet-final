@@ -94,6 +94,13 @@ while read -r line || [ -n "$line" ]; do
    #on récupère quelques variables utiles, encodage & code http (on reprend ce qu'on a fait dans le miniprojet)
    data=$(curl -s -i -L -w "%{http_code}\n%{content_type}" -o .data.tmp "$line")
    http_code=$(echo "$data" | head -1)
+
+   # on ignore les URLs qui renvoient autre chose que 200
+  if [[ "$http_code" != "200" ]]; then
+      echo "URL ignorée (code $http_code)"
+      sleep 1
+      continue
+  fi
    #-------------------------
 
    #on rècupère le contenu de l'article et le met dans un fichier temporaire
