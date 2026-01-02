@@ -1,17 +1,168 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 143960581
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:38 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 See also
+     * 2 References
+
+   [ ] Toggle the table of contents
+
+Culture plate
+
+   [ ] Add languages
+
+   Add links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Low flat-bottomed container for growing microbes
+
+   In microbiology, a culture plate is a low flat-bottomed laboratory
+   container for growing a layer of organisms such as bacteria, molds, and
+   cells on a thin layer of nutrient medium. The most common types are the
+   petri dish^[1]^[2] and multiwell plates.^[3]
+   [330px-Multiwell_cell_culture_plates-set.jpg] Multiwell culture
+   plates[250px-Penicillia_on_Petri_dish.jpg] Penicillium mold colonies in
+   a Petri dish
+
+See also
+
+   [edit]
+     * Roux culture bottle
+     * Inoculation loop
+     * Test tube
+
+References
+
+   [edit]
+    1. ^ Dubey, Dr R. C. (5 November 2018). A Textbook of Biotechnology
+       For Class XI. S. Chand Publishing. p. 469. ISBN 9788121924177.
+    2. ^ "Square Petri Dish with Grid". Thomas Scientific Online Catalog.
+       Thomas Scientific. 2019. Archived from the original on 19 August
+       2022. Retrieved 25 October 2019.
+    3. ^ "Cell Culture Plates". Thermo Fisher Online Catalog. Thermo
+       Fisher Scientific. July 2017. Archived from the original on 26
+       October 2019. Retrieved 25 October 2019.
+
+   Stub icon
+
+   This microbiology-related article is a stub. You can help Wikipedia by
+   expanding it.
+     * v
+     * t
+     * e
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Culture_plate&oldid=1161456
+   882"
+   Categories:
+     * Microbiology stubs
+     * Microbiology equipment
+
+   Hidden categories:
+     * Articles with short description
+     * Short description matches Wikidata
+     * All stub articles
+
+     * This page was last edited on 22 June 2023, at 20:51 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Culture plate
+   (BUTTON) Add languages Add topic

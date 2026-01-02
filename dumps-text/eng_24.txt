@@ -1,17 +1,693 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 143736643
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:38 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Culture
+     * 2 Cultural invention
+     * 3 Social conflict
+     * 4 Diffusion
+     * 5 Acculturation
+     * 6 Achieving culture change
+     * 7 See also
+     * 8 Notes
+     * 9 References
+     * 10 External links
+
+   [ ] Toggle the table of contents
+
+Culture change
+
+   [ ] 11 languages
+     * العربية
+     * Čeština
+     * Deutsch
+     * Español
+     * فارسی
+     * 한국어
+     * Hrvatski
+     * Bahasa Indonesia
+     * ਪੰਜਾਬੀ
+     * தமிழ்
+     * Tiếng Việt
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Term in public policy
+
+   Culture change is a term used in public policy making and in workplaces
+   that emphasizes the influence of cultural capital on individual and
+   community behavior. It has been sometimes called repositioning of
+   culture,^[1] which means the reconstruction of the cultural concept of
+   a society.^[1] It places stress on the social and cultural capital
+   determinants of decision making and the manner in which these interact
+   with other factors like the availability of information or the
+   financial incentives facing individuals to drive behavior.
+   [250px-Culture_change_model.jpg] Model of culture change
+
+   These cultural capital influences include the role of parenting,
+   families and close associates; organizations such as schools and
+   workplaces; communities and neighborhoods; and wider social influences
+   such as the media. It is argued that this cultural capital manifests
+   into specific values, attitudes or social norms which in turn guide the
+   behavioral intentions that individuals adopt in regard to particular
+   decisions or courses of action. These behavioral intentions interact
+   with other factors driving behavior such as financial incentives,
+   regulation and legislation, or levels of information, to drive actual
+   behavior and ultimately feed back into underlying cultural capital.
+
+   In general, cultural stereotypes present great resistance to change and
+   to their own redefinition. Culture, often appears fixed to the observer
+   at any one point in time because cultural mutations occur
+   incrementally.^[2] Cultural change is a long-term process. Policymakers
+   need to make a great effort to improve some basics aspects of a
+   society's cultural traits.
+
+Culture
+
+   [edit]
+   [250px-Beatles_ad_1965_just_the_beatles_crop.jpg] The Beatles are an
+   example of changing cultural dynamics, including music, fashion, and
+   lifestyle. Over a half century after their emergence, they continue to
+   have a worldwide cultural impact.
+
+   Raimon Panikkar identified 29 ways in which cultural change can be
+   brought about, including growth, development, evolution, involution,
+   renovation, reconception, reform, innovation, revivalism, revolution,
+   mutation, progress, diffusion, osmosis, borrowing, eclecticism,
+   syncretism, modernization, nudging ^[3] indigenization, and
+   transformation.^[4] In this context, modernization could be viewed as
+   adoption of Enlightenment era beliefs and practices, such as science,
+   rationalism, industry, commerce, democracy, and the notion of progress.
+   Rein Raud, building on the work of Umberto Eco, Pierre Bourdieu and
+   Jeffrey C. Alexander, has proposed a model of cultural change based on
+   claims and bids, which are judged by their cognitive adequacy and
+   endorsed or not endorsed by the symbolic authority of the cultural
+   community in question.^[5]
+
+Cultural invention
+
+   [edit]
+   [250px-Indig2.jpg] A 19th-century engraving showing Australian natives
+   opposing the arrival of Captain James Cook in
+   1770[250px-Young_Assyrian_child_dressed_in_traditional_clothes.jpg] An
+   Assyrian child wearing traditional clothing
+
+   Cultural invention has come to mean any innovation that is new and
+   found to be useful to a group of people and expressed in their behavior
+   but which does not exist as a physical object. Humanity is in a global
+   "accelerating culture change period," driven by the expansion of
+   international commerce, the mass media, and above all, the human
+   population explosion, among other factors. Culture repositioning means
+   the reconstruction of the cultural concept of a society.^[1]
+   [250px-Gorskii_04412u.jpg] Full-length profile portrait of Turkman
+   woman, standing on a carpet at the entrance to a yurt, dressed in
+   traditional clothing and jewelry
+
+   Cultures are internally affected by both forces encouraging change and
+   forces resisting change. These forces are related to both social
+   structures and natural events, and are involved in the perpetuation of
+   cultural ideas and practices within current structures, which
+   themselves are subject to change.^[6] (See structuration.)
+
+Social conflict
+
+   [edit]
+
+   Social conflict and the development of technologies can produce changes
+   within a society by altering social dynamics and promoting new cultural
+   models, and spurring or enabling generative action. These social shifts
+   may accompany ideological shifts and other types of cultural change.
+   For example, the U.S. feminist movement involved new practices that
+   produced a shift in gender relations, altering both gender and economic
+   structures. Environmental conditions may also enter as factors. For
+   example, after tropical forests returned at the end of the last ice
+   age, plants suitable for domestication were available, leading to the
+   invention of agriculture, which in turn brought about many cultural
+   innovations and shifts in social dynamics.^[7]
+
+Diffusion
+
+   [edit]
+
+   Cultures are externally affected via contact between societies, which
+   may also produce—or inhibit—social shifts and changes in cultural
+   practices. War or competition over resources may impact technological
+   development or social dynamics. Additionally, cultural ideas may
+   transfer from one society to another, through diffusion or
+   acculturation. In diffusion, the form of something (though not
+   necessarily its meaning) moves from one culture to another. For
+   example, Western restaurant chains and culinary brands sparked
+   curiosity and fascination to the Chinese as China opened its economy to
+   international trade in the late 20th-century.^[8] "Stimulus diffusion"
+   (the sharing of ideas) refers to an element of one culture leading to
+   an invention or propagation in another. "Direct borrowing," on the
+   other hand, tends to refer to technological or tangible diffusion from
+   one culture to another. Diffusion of innovations theory presents a
+   research-based model of why and when individuals and cultures adopt new
+   ideas, practices, and products.
+
+Acculturation
+
+   [edit]
+
+   Acculturation has different meanings. Still, in this context, it refers
+   to the replacement of traits of one culture with another, such as what
+   happened to certain Native American tribes and many indigenous peoples
+   across the globe during the process of colonization. Related processes
+   on an individual level include assimilation (adoption of a different
+   culture by an individual) and transculturation. The transnational flow
+   of culture has played a major role in merging different cultures and
+   sharing thoughts, ideas, and beliefs.
+
+Achieving culture change
+
+   [edit]
+
+   The term is used by Knott et al. of the Prime Minister's Strategy Unit
+   in their 2008 publication Achieving Culture Change: A Policy
+   Framework.^[9] The paper sets out how public policy can achieve social
+   and cultural change through 'downstream' interventions including fiscal
+   incentives, legislation, regulation and information provision and also
+   'upstream' interventions such as parenting, peer and mentoring
+   programs, or development of social and community networks.
+
+   The key concepts the paper is based on include:
+     * Cultural capital - such as the attitudes, values, aspirations and
+       sense of self-efficacy which influence behavior. Cultural capital
+       is itself influenced by behavior over time
+     * The shifting social zeitgeist - whereby social norms and values
+       that predominate within the cultural capital in society evolve in
+       over time
+     * The process by which political narrative and new ideas and
+       innovations shift the social zeitgeist over time within the
+       constraint of the 'elastic band' of public opinion
+     * The process of behavioral normalization - whereby behavior and
+       actions pass through into social and cultural norms (for example,
+       Knott et al. argue that the UK experience of seat belt enforcement
+       established and reinforced this as a social norm)
+     * The use of customer insight
+     * The importance of tailoring policy programmes around an ecological
+       model of human behavior to account for how policy will interact
+       with cultural capital and affect it over time.
+
+     * Family Planning clinic aimed at improving sexual health
+       Family Planning clinic aimed at improving sexual health
+     * The Gates foundation proposes a financial incentive for waste
+       management
+       The Gates foundation proposes a financial incentive for waste
+       management
+     * Anti-smoking campaign taken to the streets of Jakarta
+       Anti-smoking campaign taken to the streets of Jakarta
+
+   Knott et al. use examples from a range of policy areas to demonstrate
+   how the culture change framework can be applied to policymaking. for
+   example:
+     * To encourage educational aspiration they recommend more use of
+       early years and parenting interventions, an improved childhood
+       offer, and development of positive narratives on education as well
+       as integrated advisory systems, financial assistance and targeted
+       social marketing approaches.
+     * To promote healthy living and personal responsibility they
+       recommend building healthy living into community infrastructure,
+       building partnerships with schools and employers, more one-to-one
+       support for wellbeing alongside use of regulation and legislation
+       on unhealthy products, provision of robust health information and
+       health marketing to promote adaptive forms of behaviour.
+     * To develop environmentally sustainable norms they recommend
+       reinforcing sustainability throughout policy narratives, using
+       schools and the voluntary sector to promote environmental messages,
+       development of infrastructure that make sustainable choices easy,
+       together with a wider package of measures on fiscal incentives,
+       regulation, advisory services and coalition movements.
+
+See also
+
+   [edit]
+     * Behavioural economics – Academic disciplinePages displaying short
+       descriptions of redirect targets
+     * Cultural capital – Concept of social status and social mobility
+     * Cultural economics – Branch of economics
+     * Cultural engineering document – 2013 Iranian cultural guidelines
+     * Cultural geography – Subfield within human geography
+     * Cultural psychology – How cultures reflect and shape their
+       psychology
+     * Market failure – Inefficiently allocated markets
+     * Mediatization (media) – Process whereby the mass media influence
+       other sectors of society
+     * Social change – Any significant alteration in societal order
+     * Social psychology – Study of social effects on people's thoughts,
+       feelings, and behaviors
+     * Sociocultural evolution – Evolution of societies
+     * Structuration – Social theory proposed by Giddens that attempts to
+       resolve the structure-agent debatePages displaying short
+       descriptions of redirect targets
+     * Theory of planned behavior – Theory that links behavior and beliefs
+
+Notes
+
+   [edit]
+    1. ^ ^a ^b ^c Chigbu, Uchendu Eugene (2015-07-03). "Repositioning
+       culture for development: Women and development in a Nigerian rural
+       community". Community, Work & Family. 18 (3): 334–350.
+       doi:10.1080/13668803.2014.981506. ISSN 1366-8803. S2CID 144448501.
+    2. ^ Petrakis, Panagiotis; Kostis, Pantelis (2013). "Economic growth
+       and cultural change". The Journal of Socio-Economics. 47: 147–157.
+       doi:10.1016/j.socec.2013.02.011.
+    3. ^ Nudge: Improving Decisions,About Health, Wealth, and Happiness,
+       Richard H. Thaler and Bass. R. Sunstein, Penguin Books 2009
+    4. ^ Panikkar, Raimon (1991). Pathil, Kuncheria (ed.). Religious
+       Pluralism: An Indian Christian Perspective. ISPCK. pp. 252–99.
+       ISBN 978-81-7214-005-2. OCLC 25410539.
+    5. ^ Rein, Raud (2016-08-29). Meaning in Action: Outline of an
+       Integral Theory of Culture. Cambridge: Polity.
+       ISBN 978-1-5095-1124-2. OCLC 944339574.
+    6. ^ O'Neil, Dennis (2006). "Culture Change: Processes of Change".
+       Culture Change. Palomar College. Archived from the original on
+       October 27, 2016. Retrieved October 29, 2016.
+    7. ^ Pringle, Heather (November 20, 1998). "The Slow Birth of
+       Agriculture". Science. 282 (5393): 1446.
+       doi:10.1126/science.282.5393.1446. ISSN 0036-8075. S2CID 128522781.
+    8. ^ Wei, Clarissa (March 20, 2018). "Why China Loves American Chain
+       Restaurants So Much". Eater. Retrieved September 29, 2019.
+    9. ^ Knott, David; Muers, Stephen; Aldridge, Stephen (16 January
+       2008), Achieving Culture Change: A Policy Framework (PDF), London:
+       Cabinet Office, archived from the original (PDF) on 25 January 2010
+
+References
+
+   [edit]
+     * Groh, Arnold (2019). Theories of Culture. London: Routledge,
+
+   ISBN 978-1-138-66865-2.
+
+     Knott, David; Muers, Stephen; Aldridge, Stephen (2008). [1]
+
+     GSR Behaviour Change Knowledge Review (2008). Reference Report: An
+   overview of behaviour change models and their uses
+
+External links
+
+   [edit]
+     * Baconbutty on Culture Change
+     * Cut crime with drink tax, Gordon Brown told, Daily Telegraph
+     * The naughty nation, New Statesman [2]
+     * Winning Hearts and Minds [3]
+     * Transformer une culture : un cadre d'action pour les politiques
+       publiques [4] (in French)
+     * Leading Teams on Culture Change [5]
+
+     * v
+     * t
+     * e
+
+   Culture
+
+   Outline
+
+   Sciences
+
+     * Cultural anthropology
+     * Cultural astronomy
+     * Cultural ecology
+     * Cultural geography
+     * Cultural neuroscience
+     * Cultural studies
+     * Culturology
+     * Culture theory
+
+   Subfields
+
+     * Bioculture
+     * Cross-cultural studies
+          + Cross-cultural communication
+          + Cross-cultural leadership
+          + Cross-cultural psychiatry
+          + Cross-cultural psychology
+     * Cultural analytics
+     * Cultural economics
+     * Cultural entomology
+     * Cultural history
+     * Cultural mapping
+     * Cultural mediation
+     * Cultural psychology
+     * Cultural values
+     * Culturomics
+     * Intercultural learning
+     * Intercultural relations
+     * Philosophy of culture
+     * Popular culture studies
+     * Postcritique
+     * Semiotics of culture
+     * Sociology of culture
+     * Sound culture
+     * Theology of culture
+     * Transcultural nursing
+
+   Types
+
+     * Constructed culture
+     * Dominant culture
+     * Folk culture
+     * High culture
+     * Individualistic culture
+     * Legal culture
+     * Microculture
+     * Official culture
+     * Political culture
+          + Civic
+     * Popular culture
+          + Low culture
+          + Media culture
+          + Recombinant culture
+          + Remix culture
+          + Trash culture
+          + Urban
+     * Primitive culture
+     * Resistance through culture
+     * Subculture
+          + Alternative culture
+          + Counterculture
+          + Fandom
+          + Far-right subcultures
+          + Underground culture
+          + Youth subculture
+          + list
+     * Super culture
+     * Supporter Culture
+     * Vernacular culture
+     * Culture by location
+
+   Aspects
+
+     * Acculturation
+     * Cultural appreciation
+     * Cultural appropriation
+     * Cultural area
+     * Cultural artifact
+     * Cultural baggage
+     * Cultural bias
+     * Cultural capital
+          + Cross-cultural
+     * Cultural communication
+     * Cultural conflict
+     * Cultural cringe
+     * Cultural dissonance
+     * Cultural emphasis
+     * Cultural framework
+     * Cultural heritage
+          + Destroyed
+     * Cultural icon
+     * Cultural identity
+     * Cultural industry
+     * Cultural invention
+     * Cultural landscape
+     * Cultural learning
+     * Cultural leveling
+     * Cultural memory
+     * Cultural pluralism
+     * Cultural practice
+     * Cultural property
+     * Cultural reproduction
+     * Cultural system
+     * Cultural technology
+     * Cultural universal
+     * Cultureme
+     * Enculturation
+     * High- and low-context cultures
+     * High-trust and low-trust societies
+     * Interculturality
+     * Internet culture
+     * Manuscript culture
+     * Material culture
+     * Non-material culture
+     * Organizational culture
+          + Assessment culture
+          + Design culture
+          + Journalism culture
+     * Print culture
+     * Protoculture
+     * Relational mobility
+     * Safety culture
+     * Symbolic culture
+     * Technoculture
+     * Trans-cultural diffusion
+     * Transculturation
+     * Visual culture
+
+   Politics
+
+     * Colonial mentality
+     * Consumer capitalism
+     * Cross cultural sensitivity
+     * Cultural assimilation
+     * Cultural attaché
+     * Cultural backwardness
+     * Cultural Bolshevism
+     * Cultural conservatism
+     * Cultural contracts
+     * Cultural deprivation
+     * Cultural diplomacy
+     * Cultural environmentalism
+     * Cultural exception
+     * Cultural feminism
+     * Cultural genocide
+     * Cultural globalization
+     * Cultural hegemony
+     * Cultural imperialism
+     * Cultural intelligence
+     * Cultural liberalism
+     * Cultural nationalism
+     * Cultural pessimism
+     * Cultural policy
+     * Cultural racism
+     * Cultural radicalism
+     * Cultural retention
+     * Cultural Revolution
+     * Cultural rights
+     * Cultural safety
+     * Cultural silence
+     * Cultural subsidy
+     * Cultural Zionism
+     * Culture change
+     * Culture minister
+     * Culture of fear
+     * Culture war
+     * Deculturalization
+     * Dominator culture
+     * Interculturalism
+     * Monoculturalism
+     * Multiculturalism
+          + Biculturalism
+     * Multiracial democracy
+     * Pluriculturalism
+     * Polyculturalism
+     * Transculturism
+
+   Religions
+
+     * Buddhism
+     * Christianity
+          + Catholicism
+          + Cultural Christians
+          + Protestantism
+          + Role of Christianity in civilization
+          + Eastern Orthodoxy
+          + Mormonism
+     * Cultural Hindus
+     * Islam
+          + Cultural Muslims
+     * Judaism
+     * Sikhism
+
+   Related
+
+     * Algorithmic culture
+     * Animal culture
+     * Archaeological culture
+     * Bennett scale
+     * Cannabis culture
+     * Circuit of culture
+     * Civilization
+     * Coffee culture
+     * Cringe culture
+     * Cross-cultural
+     * Cultural center
+     * Cultural competence
+     * Cultural critic
+     * Cultural determinism
+     * Cultural diversity
+     * Cultural evolutionism
+     * Cultural homogenization
+     * Cultural institution
+     * Cultural jet lag
+     * Cultural lag
+     * Cultural literacy
+     * Cultural mosaic
+     * Cultural movement
+     * Cultural mulatto
+     * Cultural probe
+     * Cultural relativism
+     * Cultural tourism
+          + Pop-culture
+     * Cultural translation
+     * Cultural turn
+     * Cultural sensibility
+     * Culture and menstruation
+     * Culture and positive psychology
+     * Culture and social cognition
+     * Culture gap
+     * Culture hero
+     * Culture industry
+     * Culture shock
+     * Culturgen
+     * Children's culture
+     * Culturalism
+     * Cyberculture
+     * Death and culture
+     * Disability culture
+          + Deaf culture
+     * Drinking culture
+     * Drug culture
+     * Eastern culture
+     * Emotions and culture
+     * Free-culture movement
+     * Historical culture
+     * Intercultural communication
+     * Intercultural competence
+     * Languaculture
+     * Living things in culture
+     * Media culture
+     * Oppositional culture
+     * Participatory culture
+     * Permission culture
+     * Rape culture
+     * Tea culture
+     * Transformation of culture
+     * Urban culture
+     * Welfare culture
+     * Western culture
+     * Youth culture
+
+     * Category
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Culture_change&oldid=131488
+   6746"
+
+   Categories:
+     * Policy
+     * Change
+     * Social psychology
+     * Cultural geography
+     * Cultural economics
+
+   Hidden categories:
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Pages displaying short descriptions of redirect targets via
+       Module:Annotated link
+
+     * This page was last edited on 3 October 2025, at 18:44 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Culture change
+   (BUTTON) 11 languages Add topic

@@ -1,265 +1,255 @@
-   #alternate alternate alternate alternate alternate alternate alternate
-   alternate Rodale Institute » Feed Rodale Institute » Comments Feed
-   Rodale Institute » iCal Feed JSON alternate
+   #Caldor » Flux Caldor » Flux des commentaires alternate alternate
+   alternate
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-TCHGHBQ
+     contact@caldor.fr   +33 (0)4.42.63.15.25
+     Register   Login
+     *
+     *
+     *
+     *
+     *
 
-   Passer au contenu
+   Conseils et solutions pour chauffage de serres agricoles
+   Menu (BUTTON)
 
-   rodale institute logo
-
-   (BUTTON) Menu
-     * Pourquoi biologique ?
-          + Retour
-          + Pourquoi biologique ?
-          + Organic Basics
-               o Retour
-               o Toutes les bases organiques
-               o Organique vs conventionnel
-               o Certification Biologique
-               o Agriculture biologique régénérative
-               o Comment puis-je faire une différence?
-               o FAQ bio
-          + Pratiques d'agriculture biologique
-               o Retour
-               o Toutes les pratiques d'agriculture biologique
-               o La santé du sol
-               o Cultures de couverture
-               o Rotations des cultures
-               o Compost
-               o No-Till biologique
-               o Lutte antiparasitaire
-               o Gestion du bétail
-               o Pâturage en rotation
-          + Problèmes et priorités
-               o Retour
-               o Aperçu des problèmes et des priorités
-               o Santé humaine
-               o Densité nutritive
-               o Climat
-               o La séquestration du carbone
-               o Pollution de l'eau
-               o Variabilité biologique
-               o Équité des travailleurs agricoles
-               o de confidentialité
-     * Science
-          + Retour
-          + Essai des systèmes agricoles
-          + Essai des systèmes végétaux
-          + Essai d'impact sur les bassins versants
-          + Essai de chanvre industriel
-          + Agroforesterie
-          + Intégration de l'élevage des cultures
-          + Porc au pâturage
-          + Gestion intégrée des mauvaises herbes
-          + Articles de recherche
-     * Formation
-          + Retour
-          + Aperçu de l'éducation
-          + Webinaires
-          + Journées champêtres et ateliers
-          + Cours en Ligne
-          + Conseil organique
-          + Santé régénérative
-          + Les programmes de formation
-               o Retour
-               o Aperçu des programmes de formation
-               o Rodale Institute Formation des agriculteurs (RIFT)
-               o Formation de fermier vétéran
-               o Formation des agriculteurs du Heartland (RIFT)
-          + Ressources
-               o Retour
-               o Ressources
-               o Ressources téléchargeables gratuites
-               o Le prix du bon agriculteur aux États-Unis
-               o Financement de la ferme biologique
-               o Programme de jardinage scolaire
-               o Le programme de la plus grande petite ferme
-     * Conseil
-     * À propos
-          + Retour
-          + À propos Rodale Institute
-          + Notre histoire
-          + Staff
-          + Conseil d'administration
-          + Financiers :
-          + Médias et presse
-          + Emplois
-          + Stages
-          + Réseau d'ambassadeurs
-          + Emplacements
-               o Retour
-               o Tous les pays
-               o Rodale Institute Siège social
-               o Rodale Institute Ferme des fondateurs
-               o Centre biologique de Californie
-               o Centre biologique du Midwest (Iowa)
-               o Southeast Organic Center (Géorgie)
-               o Centre biologique du nord-ouest du Pacifique (Washington)
-               o Centre biologique Pocono
-          + Partenariats
-               o Retour
-               o À propos Rodale Institute Partenariats
-               o Certifié Bio Régénératif®
-               o Saint-Luc-Rodale Institute Ferme biologique
-               o Manoir de CornwallRodale Institute Ferme biologique de
-                 Trailside
-               o Groupe Davines -Rodale Institute Centre Européen de
-                 Régénération Biologique
-     * S'impliquer
-          + Retour
-          + Comment s'impliquer
-          + Devenez un donateur mensuel
-          + Rejoignez notre société de leadership
-          + Devenir une entreprise partenaire
-          + Inscrivez-vous à notre newsletter
-          + Bénévolat
-          + Assister à des événements
-               o Retour
-               o Tous les évènements
-               o Journée champ bio
-               o Marché bio de printemps et vente de plantes
-               o Série de dîners biologiques de saison
-               o Tomber à la ferme
-               o Calendrier des événements
-          + Acheter bio
-               o Boutique en ligne
-               o Commandes de porc personnalisées
-
-     * Blog
-     * Boutique
+     * Cultures sous serre
+          + Tomate
+          + Fraise
+          + Culture maraîchère
+          + Horticulture
+          + Jeunes Plants
+     * Solutions de Chauffage
+          + Chaudière basse température
+          + Générateur d’air chaud
+          + Aérotherme gaz
+          + Aérotherme eau chaude
+          + Chaudière à haute température
+          + Co-génération
+          + Énergies renouvelables
+     * Nos Produits
+          + Les Chaudières à condensation Caldor
+          + Générateur d’air chaud AGRI
+          + Aérotherme gaz modulant à condensation MIXTY série PMX
+          + Brumisation Haute pression
+          + Déshumidificateur de serres
+          + Ventilateur brasseur d’air
+          + Economiseur et Condenseur
+          + Produits d’occasion
+          + Chauffage de stades
+     * Société
+          + Actualités
+          + Documentation Caldor
+     * Gestion du climat
+          + Diffusion de la chaleur en serre
+          + Récupération de CO2
+          + Contrôle de l’hygrométrie
+          + Contrôle de la lumière
+          + Écran thermique de serres
+          + Les Ordinateurs climatiques
      * Contact
-     * Rendez nous visite
-          + Retour
-          + Direction au MAM
-          + Centre de visiteurs
-          + Visites de groupe privées
-          + Visites hebdomadaires
-          + Visites à pied autoguidées
-     * Faire un don
      *
+          + Search ____________________ Search
 
-   maison Pourquoi biologique ? Pratiques d'agriculture biologique
-   Rotations des cultures
+Culture en sol
 
-Rotations des cultures
+   La culture en sol a été remplacée ces dernières années par la culture
+   hors-sol, à cause notamment, du besoin de produire le plus possible au
+   mètre carré et également à cause des bactéries présentes dans la terre.
 
-Qu'est-ce que la rotation des cultures?
+   Cependant elle reste encore préconisée pour de nombreuses cultures.
 
-   La rotation des cultures est la pratique de planter différentes
-   cultures séquentiellement sur la même parcelle de terre pour améliorer
-   la santé du sol, optimise les nutriments du sol et lutte contre la
-   pression des ravageurs et des mauvaises herbes.
+Culture hors sol
 
-   Par exemple, disons qu'un agriculteur a planté un champ de maïs.
-   Lorsque la récolte de maïs est terminée, il peut planter des haricots,
-   car le maïs consomme beaucoup d'azote et de haricots retour d'azote au
-   sol.
+   Pour celle-ci, la terre est remplacée par des roches volcaniques ou des
+   fibres naturelles. Les plants de tomates sont installés sur des rangées
+   de substrats en laine de roche, laine de verre, de tourbe ou de fibres
+   de coco. Ces éléments neutres évitent toutes les contraintes apportées
+   par la terre et la présence éventuelle de bactéries ou maladies. Les
+   éléments minéraux indispensables et l’eau sont directement apportés par
+   des tuyaux en goutte-à-goutte, jusqu’aux racines des plantes.
+   Milieu de culture Avantages Inconvénients
+   En sol : --> --> sols contaminés par des agents pathogènes
+   --> mauvaise qualité de sol
+   Hors-sol : --> réduction du risque de maladies pouvant se développer
+   dans la terre
+   --> économie d'eau et d'engrais : les racines sont alimentées selon
+   leurs besoins, l’eau non absorbée est récupérée
+   --> les plantes peuvent être suspendues à hauteur d’homme ce qui
+   facilite la récolte
+   --> réduction de l’utilisation d’engrais et de produits phytosanitaires
+   --> permet une production toute l'année en maîtrisant la température,
+   l'hydrométrie.
+   --> Le gain de précocité est estimé pour une culture de tomate de 4 à 7
+   jours (Sud de la France), à 10 jours (Belgique), jusqu’à 3 semaines - 1
+   mois (Bretagne)
+   --> L’aspect extérieur des fruits et légumes. Les produits récoltés
+   sont plus attrayants pour le consommateur. Ils ne sont pas souillés par
+   la terre et n’ont donc pas besoin d’être lavés. La cuticule cireuse
+   conserve ainsi son aspect brillant.
+   --> La diminution des résidus de pesticides. Les cultures hors sol
+   reçoivent moins de traitements phytosanitaires.
+   --> augmentation des rendements :Les rendements obtenus pour cette
+   technologie sont deux fois plus élevés pour la tomate et trois fois
+   plus élevés pour le concombre.
+   -->température à surveiller de près car sa réactivité est rapide
+   --> préserver des fortes chaleur d'été et du froid de l'hiver
+   -->surveiller la salinité (concentration totale en engrais) dont dépend
+   la conductivité du substrat (risque de pousse démesurée de la plante)
+   -->la culture hors-sol peut doubler la consommation énergétique
 
-   Une rotation simple peut impliquer deux ou trois cultures, et des
-   rotations complexes peuvent en inclure une douzaine ou plus.
+Des questions?
 
-   récolte de soja rodale
+   Contactez-nous au 04.42.63.15.25
+   ou à Contact@caldor.fr
 
-   At Rodale Institute's Farming Systems Trial, le soja fait partie d'une
-   rotation des cultures complexe qui comprend le maïs, le blé, l'avoine
-   et d'autres petites céréales
+   Notre équipe vous accompagnera dans tous vos projets.
 
-En quoi est-ce important?
+Articles récents
 
-   Différentes plantes ont des besoins nutritionnels différents et sont
-   sensibles à différents agents pathogènes et ravageurs.
+     * Aérotherme gaz : le meilleur choix pour vos serres de ventes
+     * La chaudière Caldor C100 / C200 : la chaudière parfaitement adaptée
+       aux petites serres maraichères et horticoles
+     * Protéger vos cultures du froid : quelques conseils pour les
+       producteurs
+     * La brumisation haute pression pour rafraichir vos serres
+     * Dernières Installations de chaudières Caldor dans le Gard, pour des
+       cultures de fraises en serres
 
-   Si un agriculteur plante exactement la même culture au même endroit
-   chaque année, comme cela est courant dans l'agriculture
-   conventionnelle, il puise continuellement les mêmes nutriments hors du
-   sol. Les ravageurs et les maladies se font un foyer permanent car leur
-   source de nourriture préférée est garantie. Avec des monocultures comme
-   celles-ci, des niveaux croissants d'engrais chimiques et de pesticides
-   deviennent nécessaires pour maintenir les rendements élevés tout en
-   gardant les insectes et les maladies à distance.
+     * Popular
+     * Recent
+     * Tags
 
-   La rotation des cultures aide à restituer les nutriments au sol sans
-   intrants synthétiques.
+     * Réalisation d’une chaudière Caldor 1200 kw pour les Joyaux de
+       Provence Réalisation d’une chaudière Caldor… 19/09/2016
+     * Les CEE, Certificats d’économies… 21/11/2018
+     * Aérotherme MIXTY : l’aérotherme gaz à condensation idéal pour vos
+       serres Aérotherme MIXTY : l’aérotherme… 06/02/2018
+     * Nos 10 conseils en gestion climatique de serres Nos 10 conseils en…
+       23/08/2019
+     * Dernières Installations de chaudières… 24/02/2022
 
-   La pratique fonctionne également pour interrompre les cycles des
-   ravageurs et des maladies, améliorer la santé du sol en augmentant la
-   biomasse des structures racinaires des différentes cultures et en
-   augmentant biodiversité à la ferme. La vie dans le sol prospère grâce à
-   la variété, et les insectes bénéfiques et les pollinisateurs sont
-   également attirés par la variété au-dessus du sol.
+     * Aérotherme gaz : le meilleur choix pour vos serres de ventes
+       Aérotherme gaz : le meilleur choix pour vos serres de ventes
+       20/02/2023
+     * La chaudière Caldor C100 / C200 : la chaudière parfaitement adaptée
+       aux petites serres maraichères et horticoles La chaudière Caldor
+       C100 / C200 : la chaudière parfaitement adaptée aux petites serres
+       maraichères et horticoles 23/01/2023
+     * Protéger vos cultures du froid : quelques conseils pour les
+       producteurs Protéger vos cultures du froid : quelques conseils pour
+       les producteurs 21/11/2022
+     * La brumisation haute pression pour rafraichir vos serres La
+       brumisation haute pression pour rafraichir vos serres 09/06/2022
+     * Dernières Installations de chaudières Caldor dans le Gard, pour des
+       cultures de fraises en serres 24/02/2022
 
-Vous voulez de l'aide pour planifier votre rotation des cultures?
+     * basse température (3)
+     * chaudière Caldor (3)
+     * fraise (3)
+     * chauffage de serre (2)
+     * tomate (2)
+     * chaudiere à condensation (2)
+     * minical (2)
+     * générateur d'air chaud (2)
+     * porosité air (1)
+     * chaudière C400 (1)
+     * chauffage serre horticole (1)
+     * hygrométrie (1)
+     * gestion climatique (1)
+     * remplacement BIG (1)
+     * chaudière bi-foyer (1)
+     * bouture (1)
+     * chaufferie en conteneur (1)
+     * substrat (1)
+     * rétention d'eau (1)
+     * aérotherme eau chaude (1)
+     * chaudiere 550kW (1)
+     * remplacement ancienne chaudiere (1)
+     * chaudière à condensation Caldor (1)
+     * aérotherme gaz (1)
+     * chauffage ERP (1)
 
-   Contactez nos consultants en cultures biologiques! Avec des hubs à
-   travers les États-Unis, nous sommes là pour vous aider à construire un
-   sol sain, à cultiver des aliments riches en nutriments et à gérer une
-   exploitation biologique rentable.
-   En savoir plus
+Newsletter
 
-Continuez à explorer
+   Restez informé ____________________
 
-Essai des systèmes agricoles
+   Abonnez-vous
+   Leave this field empty if you're human: ____________________
 
-Chanvre industriel
+Nos coordonnées
 
-Essai des systèmes végétaux
+   CALDOR
 
-Recevez les dernières nouvelles organiques dans votre boîte de réception
+   5135, Route d'Avignon, Espace Célestin Coq
 
-     * LinkedIn
-       ____________________
-       Ce champ est à des fins de validation et devrait être laissé
-       inchangé.
-     * Courriel*
-       ____________________
+   13540 Puyricard
 
-   Souscrivez
-   ______________________________
-   rodale institute logo
+   04.42.63.15.25
 
-   Rodale Institute développe le mouvement biologique grâce à la
-   recherche, à la formation des agriculteurs et à l’éducation des
-   consommateurs.
-     *
-     *
-     *
-     *
-     *
+   04.42.21.68.45
 
-   Rechercher: ____________________ Rechercher
-   ______________________________ 6768
-     * Faire un don
-     * Visitez notre ferme
-     * Magasinez notre boutique en ligne
-     * Contactez-nous
-     * Médias et presse
-     * Abonnez-vous à notre newsletter électronique
-     * Emploi et stages
-     * Certifié Bio Régénératif®
-     * Conseil organique
-     * Don des employés
-     * Politique de confidentialité
+   contact@caldor.fr
 
-Améliorez la santé des personnes et de la planète.
+Caldor
 
-   Faire un don aujourd'hui
+   Société
 
-   Rodale Institute est une organisation à but non lucratif 501 (c) (3).
-   Consultez nos informations financières.
+   Cultures
 
-   © 2025 Rodale Institute.
+   Gestion du climat
 
-   Dernière chance pour les dons de 2025
+   Solutions de chauffage
 
-Alerte dons jumelés : Votre don d’aujourd’hui peut avoir un double impact
+   Nos Produits
 
-   Faites correspondre mon don
-   (BUTTON) X
+   Contact
 
-     * Dernière chance de faire un don déductible d'impôt pour 2025
-       Faites correspondre mon cadeau
-       00jours00Heures00Minutes00Sec
-     * Bonne année à partir de Rodale Institute!
+   Mentions légales
 
-   (BUTTON)
+Newsletter
+
+   Restez informé ____________________
+
+   Abonnez-vous
+   Leave this field empty if you're human: ____________________
+
+Contactez-nous
+
+   Nom (obligatoire)
+   ________________________________________
+
+   Email (obligatoire)
+   ________________________________________
+
+   Téléphone
+   ________________________________________
+
+   Sujet
+   ________________________________________
+
+   Votre message
+
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+
+   IFRAME:
+   https://www.google.com/recaptcha/api/fallback?k=6Le4MwwUAAAAAH5dny8gWIn
+   i0HGt4QFRA9ykwjSL
+
+
+   				________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+
+   Envoyer
+
+   Scroll

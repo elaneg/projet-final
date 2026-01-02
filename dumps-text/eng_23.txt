@@ -1,17 +1,3419 @@
-   Wikimedia
+   #Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 151324474
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:38 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Etymology
+     * 2 Definitions
+       (BUTTON) Toggle Definitions subsection
+          + 2.1 Historical
+          + 2.2 Recent
+               o 2.2.1 United Nations
+               o 2.2.2 Inter-American Commission on Human Rights
+               o 2.2.3 World Bank
+               o 2.2.4 Amnesty International
+               o 2.2.5 Scholars
+               o 2.2.6 Other views
+     * 3 History
+       (BUTTON) Toggle History subsection
+          + 3.1 Classical antiquity
+          + 3.2 Africa
+          + 3.3 Americas
+          + 3.4 Oceania
+          + 3.5 European justifications for colonization
+          + 3.6 Settler independence and continuing colonialism
+     * 4 Population and distribution
+       (BUTTON) Toggle Population and distribution subsection
+          + 4.1 Environmental and economic benefits of the Indigenous
+            stewardship of land
+     * 5 Indigenous peoples and the environment
+     * 6 Indigenous peoples by region
+       (BUTTON) Toggle Indigenous peoples by region subsection
+          + 6.1 Africa
+               o 6.1.1 Sub-Saharan Africa
+               o 6.1.2 North Africa
+          + 6.2 Americas
+               o 6.2.1 North America
+               o 6.2.2 Central and South America
+          + 6.3 Asia
+               o 6.3.1 West Asia
+               o 6.3.2 South Asia
+               o 6.3.3 Northeast Asia
+               o 6.3.4 Southeast Asia
+          + 6.4 Europe
+          + 6.5 Oceania
+               o 6.5.1 Australia
+               o 6.5.2 Pacific Islands
+     * 7 Indigenous rights and other issues
+       (BUTTON) Toggle Indigenous rights and other issues subsection
+          + 7.1 Human rights violations
+          + 7.2 Health issues
+          + 7.3 Racism and discrimination
+          + 7.4 Cultural appropriation
+          + 7.5 Environmental injustice
+          + 7.6 Use of indigenous knowledge
+     * 8 See also
+     * 9 Notes
+     * 10 References
+     * 11 Sources
+     * 12 Further reading
+     * 13 External links
+       (BUTTON) Toggle External links subsection
+          + 13.1 Institutions
+
+   [ ] Toggle the table of contents
+
+Indigenous peoples
+
+   [ ] 97 languages
+     * Afrikaans
+     * Alemannisch
+     * العربية
+     * অসমীয়া
+     * अवधी
+     * Azərbaycanca
+     * تۆرکجه
+     * Basa Bali
+     * বাংলা
+     * 閩南語 / Bân-lâm-gí
+     * Башҡортса
+     * Беларуская
+     * Български
+     * Català
+     * Чӑвашла
+     * Čeština
+     * Cymraeg
+     * Dansk
+     * الدارجة
+     * Davvisámegiella
+     * Deutsch
+     * Eesti
+     * Ελληνικά
+     * Español
+     * Esperanto
+     * Euskara
+     * فارسی
+     * Français
+     * Galego
+     * ГӀалгӀай
+     * 한국어
+     * Հայերեն
+     * हिन्दी
+     * Hrvatski
+     * Ido
+     * Bahasa Indonesia
+     * ᐃᓄᒃᑎᑐᑦ / inuktitut
+     * Íslenska
+     * Italiano
+     * עברית
+     * Jawa
+     * ಕನ್ನಡ
+     * ქართული
+     * Қазақша
+     * Кыргызча
+     * ລາວ
+     * Latina
+     * Latviešu
+     * Lietuvių
+     * Madhurâ
+     * മലയാളം
+     * मराठी
+     * Bahasa Melayu
+     * Minangkabau
+     * 閩東語 / Mìng-dĕ̤ng-ngṳ̄
+     * Монгол
+     * မြန်မာဘာသာ
+     * Nederlands
+     * नेपाली
+     * नेपाल भाषा
+     * 日本語
+     * Нохчийн
+     * Norsk bokmål
+     * Norsk nynorsk
+     * Oʻzbekcha / ўзбекча
+     * ਪੰਜਾਬੀ
+     * Pangasinan
+     * Plattdüütsch
+     * Polski
+     * Português
+     * Qırımtatarca
+     * Română
+     * Runa Simi
+     * Русский
+     * Саха тыла
+     * ᱥᱟᱱᱛᱟᱲᱤ
+     * Scots
+     * Seeltersk
+     * සිංහල
+     * Simple English
+     * Slovenščina
+     * کوردی
+     * Српски / srpski
+     * Srpskohrvatski / српскохрватски
+     * Suomi
+     * Svenska
+     * Tagalog
+     * தமிழ்
+     * ไทย
+     * Тоҷикӣ
+     * Türkçe
+     * Türkmençe
+     * Українська
+     * Tiếng Việt
+     * 吴语
+     * 粵語
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * View source
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * View source
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikiquote
+     * Wikisource
+     * Wikivoyage
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   Page extended-confirmed-protected
+   From Wikipedia, the free encyclopedia
+
+   "First nations" redirects here. For other uses, see First nations
+   (disambiguation). "First peoples" redirects here. For the study of
+   human origins, see Anthropogeny. "Indigenous studies" redirects here.
+   For the academic field studying the Indigenous peoples of North
+   America, see Native American studies.
+
+   icon
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed.
+   Find sources: "Indigenous peoples" – news · newspapers · books ·
+   scholar · JSTOR (November 2025) (Learn how and when to remove this
+   message)
+
+   [500px-Cakchiquel_family.JPG] A Kaqchikel family in the hamlet of
+   Patzutzun, Sololá, Guatemala (1993)
+
+   Indigenous peoples^[a] are non-dominant people groups descended from
+   the original inhabitants of their territories, especially territories
+   that have been colonized.^[1]^[2]^[3] The term lacks a precise
+   authoritative definition,^[4]^[3]^[5] although in the 21st century
+   designations of Indigenous peoples have focused on self-identification,
+   cultural difference from other groups in a state, a special
+   relationship with their traditional territory, and an experience of
+   subjugation and discrimination under a dominant cultural model.^[6]
+
+   Estimates of the population of Indigenous peoples range from 250
+   million to 600 million.^[7] There are some 5,000 distinct Indigenous
+   peoples spread across every inhabited climate zone and inhabited
+   continent of the world.^[8]^[9] Most Indigenous peoples are in a
+   minority in the state or traditional territory they inhabit and have
+   experienced domination by other groups, especially non-Indigenous
+   peoples.^[10]^[11] Although many Indigenous peoples have experienced
+   colonization by settlers from European nations,^[12] Indigenous
+   identity is not determined by Western colonization.^[6]
+
+   The rights of Indigenous peoples are outlined in national legislation,
+   treaties and international law. The 1989 International Labour
+   Organization (ILO) Convention on Indigenous and Tribal Peoples protects
+   Indigenous peoples from discrimination and specifies their rights to
+   development, customary laws, lands, territories and resources,
+   employment, education and health.^[13] In 2007, the United Nations (UN)
+   adopted a Declaration on the Rights of Indigenous Peoples including
+   their rights to self-determination and to protect their cultures,
+   identities, languages, ceremonies, and access to employment, health,
+   education and natural resources.^[14]
+
+   Indigenous peoples continue to face threats to their sovereignty,
+   economic well-being, languages, cultural heritage, and access to the
+   resources on which their cultures depend.^[15] In the 21st century,
+   Indigenous groups and advocates for Indigenous peoples have highlighted
+   numerous apparent violations of the rights of Indigenous peoples.
+
+Etymology
+
+   Indigenous is derived from the Latin word indigena, meaning "sprung
+   from the land, native".^[16] The Latin indigena is based on the Old
+   Latin indu "in, within" + gignere "to beget, produce". Indu is an
+   extended form of the Proto-Indo-European en or "in".^[17]^[18]
+
+Definitions
+
+   [250px-Amis_postcard.jpg] Colorized photograph of an Amis couple in
+   traditional clothing. Taken in pre–World War II Japanese-ruled Taiwan.
+
+   There is no generally accepted definition of Indigenous peoples in the
+   United Nations or international law.^[19] Various national and
+   international organizations, non-government organizations, governments,
+   Indigenous groups and scholars have developed definitions or have
+   declined to provide a definition.^[5]
+
+Historical
+
+   As a reference to a group of people, the term "indigenous" was first
+   used by Europeans to differentiate the Indigenous peoples of the
+   Americas from enslaved Africans. The first known use was by Sir Thomas
+   Browne in 1646, who wrote "and although in many parts thereof there be
+   at present swarms of Negroes serving under the Spaniard, yet were they
+   all transported from Africa, since the discovery of Columbus; and are
+   not indigenous or proper natives of America."^[20]^[21]
+
+   In the 1970s, the term was used as a way of linking the experiences,
+   issues, and struggles of groups of colonized people across
+   international borders. At this time 'indigenous people(s)' also began
+   to be used to describe a legal category in Indigenous law created in
+   international and national legislation. The use of the plural 'peoples'
+   recognizes the cultural differences between various Indigenous
+   peoples.^[22]^[page needed]^[23]
+
+   The first meeting of the United Nations Working Group on Indigenous
+   Populations (WGIP) was on 9 August 1982 and this date is now celebrated
+   as the International Day of the World's Indigenous Peoples.^[24]
+
+Recent
+
+   In the 21st century, the concept of Indigenous peoples is understood in
+   a wider context than only the colonial experience. The focus has been
+   on self-identification as indigenous peoples, cultural difference from
+   other groups in a state, a special relationship with their traditional
+   territory, and an experience of subjugation and discrimination under a
+   dominant cultural model.^[6]
+
+United Nations
+
+   No definition of Indigenous peoples has been adopted by a United
+   Nations agency. The Secretariat of the Permanent Forum on Indigenous
+   Issues states, "in the case of the concept of 'indigenous peoples', the
+   prevailing view today is that no formal universal definition of the
+   term is necessary, given that a single definition will inevitably be
+   either over- or under-inclusive, making sense in some societies but not
+   in others."^[2]
+
+   However, a number of UN agencies have provided statements of coverage
+   for particular international agreements concerning Indigenous peoples
+   or "working definitions" for particular reports.^[2]
+
+   The International Labour Organization's (ILO) Indigenous and Tribal
+   Peoples Convention, 1989 (ILO Convention No. 169), states that the
+   convention covers
+
+     peoples in independent countries who are regarded as indigenous on
+     account of their descent from the populations which inhabited the
+     country, or a geographical region to which the country belongs, at
+     the time of conquest or colonisation or the establishment of present
+     state boundaries and who, irrespective of their legal status, retain
+     some or all of their own social, economic, cultural and political
+     institutions.^[25]
+
+   The convention also covers "tribal peoples" who are distinguished from
+   Indigenous peoples and described as "tribal peoples in independent
+   countries whose social, cultural and economic conditions distinguish
+   them from other sections of the national community and whose status is
+   regulated wholly or partially by their own customs or traditions or by
+   special laws or regulations."^[26]
+
+   The convention states that self-identification as indigenous or tribal
+   is a fundamental criterion for determining the groups to which the
+   convention applies.^[19] The UN Declaration on the Rights of Indigenous
+   Peoples does not define Indigenous peoples but affirms their right to
+   self-determination including determining their own identity.^[27]
+
+Inter-American Commission on Human Rights
+
+   The Inter-American Commission on Human Rights does not provide a
+   definition of Indigenous peoples stating that, "such a definition is
+   not necessary for purposes of protecting their human rights." In
+   determining coverage of Indigenous peoples, the commission uses the
+   criteria developed in documents such as ILO Convention No. 169 and the
+   United Nations Declaration on the Rights of Indigenous Peoples. The
+   commission states that self-identification as indigenous is a
+   fundamental criterion.^[3]
+
+World Bank
+
+   The World Bank states, "Indigenous Peoples are distinct social and
+   cultural groups that share collective ancestral ties to the lands and
+   natural resources where they live, occupy or from which they have been
+   displaced."^[28]
+
+Amnesty International
+
+   Amnesty International does not provide a definition of Indigenous
+   peoples but states that they can be identified according to certain
+   characteristics:^[29]
+     * Self identification as Indigenous peoples
+     * A historical link with those who inhabited a country or region at
+       the time when people of different cultures or ethnic origins
+       arrived
+     * A strong link to territories and surrounding natural resources
+     * Distinct social, economic or political systems
+     * A distinct language, culture and beliefs
+     * Marginalized and discriminated against by the state
+     * They maintain and develop their ancestral environments and systems
+       as distinct peoples
+
+Scholars
+
+   Academics and other scholars have developed various definitions of
+   Indigenous peoples. In 1986–87, José Martínez Cobo, the UN Special
+   Rapporteur on the problem of discrimination against indigenous
+   populations, developed the following "working definition":
+
+     Indigenous communities, peoples, and nations are those that, having
+     a historical continuity with pre-invasion and pre-colonial societies
+     that developed on their territories, consider themselves distinct
+     from other sectors of the societies now prevailing in those
+     territories, or parts of them. They form at present non-dominant
+     sectors of society and are determined to preserve, develop, and
+     transmit to future generations their ancestral territories, and
+     their ethnic identity, as the basis of their continued existence as
+     peoples, in accordance with their own cultural patterns, social
+     institutions and legal systems.^[30]
+
+   Martínez Cobo states that the following factors are relevant to
+   historical continuity: occupation of ancestral lands, or at least of
+   part of them; common ancestry with the original occupants of these
+   lands; cultural factors such as religion, tribalism, dress, etc.;
+   language; residence in certain parts of the country, or in certain
+   regions of the world; and other relevant factors.^[31]
+   [250px-Chichicastenango-004.jpg] Guatemalan girls in their traditional
+   clothing from the town of Santa Catarina Palopó on Lake Atitlán
+
+   In 2004, professor of human rights law and policy James Anaya, defined
+   Indigenous peoples as "living descendants of pre-invasion inhabitants
+   of lands now dominated by others. They are culturally distinct groups
+   that find themselves engulfed by other settler societies born of forces
+   of empire and conquest".^[32]
+
+   In 2012, Indigenous studies scholars Eve Tuck and K. Wayne Yang
+   proposed a criterion based on accounts of origin: "Indigenous peoples
+   are those who have creation stories, not colonization stories, about
+   how we/they came to be in a particular place – indeed how we/they came
+   to be a place. Our/their relationships to land comprise our/their
+   epistemologies, ontologies, and cosmologies".^[33] Indigenous peoples
+   such as the Maasai and the Māori have oral traditional histories
+   involving migration to their current location from somewhere else.^[34]
+
+   Anthropologist Manvir Singh states that the term may lack coherence,
+   pointing to inconsistencies in which ethnic groups are called
+   Indigenous or not, and notes several scholars who suggest that it
+   instead acts as a relabeling of discredited and colonial ideas about
+   "primitive" people.^[34] Singh states that some Indigenous people argue
+   that the term and identity has resulted in pressure to appear
+   "primordial" and "unchanging", and erases complex and modern
+   identities.^[34]
+
+   Other scholars, such as Dominic O'Sullivan and Marjo Lindroth, have
+   analysed and defined Indigenous peoples as those in a specific
+   power-relationship with the state, called "indigeneity", that has come
+   about due to the process of settler-colonialism.^[35]^[36]^[37]
+
+Other views
+
+   It is sometimes argued that all Africans are Indigenous to Africa, all
+   Asians are Indigenous to parts of Asia, or that there can be no
+   Indigenous peoples in countries which did not experience large-scale
+   Western settler colonialism.^[6] Many countries have avoided the term
+   "Indigenous peoples" or have denied that indigenous peoples exist in
+   their territory, and have classified minorities who identify as
+   Indigenous in other ways, such as 'hill tribes' in Thailand, 'scheduled
+   tribes' in India, 'national minorities' in China, 'cultural minorities'
+   in the Philippines, 'isolated and alien peoples' in Indonesia, and
+   various other terms.^[5]
+
+History
+
+Classical antiquity
+
+   Greek sources of the Classical period acknowledge Indigenous people
+   whom they referred to as "Pelasgians". Ancient writers saw these people
+   either as the ancestors of the Greeks,^[38] or as an earlier group of
+   people who inhabited Greece before the Greeks.^[39] The disposition and
+   precise identity of this former group is elusive, and sources such as
+   Homer, Hesiod and Herodotus give varying, partially mythological
+   accounts. Dionysius of Halicarnassus in his book, Roman Antiquities,
+   gives a synoptic interpretation of the Pelasgians based on the sources
+   available to him then, concluding that Pelasgians were Greek.^[40]
+
+Africa
+
+   In European late antiquity, many Berbers, Copts and Nubians of north
+   Africa converted to various forms of Christianity under Roman rule,
+   although elements of traditional religious beliefs were retained.^[41]
+   Following the Arab invasions of North Africa in the 7th century, many
+   Berbers were enslaved or recruited into the army. The majority of
+   Berbers, however, remained nomadic pastoralists who also engaged in
+   trade as far as sub-Saharan Africa.^[42] Coptic Egyptians remained in
+   possession of their lands and many preserved their language and
+   Christian religion. By the 10th century, however, the majority of the
+   population of north Africa spoke Arabic and practiced Islam.^[43]
+   [330px-AlonsoFernandezdeLugo2.JPG] Alonso Fernández de Lugo presenting
+   the captured Guanche kings of Tenerife to Ferdinand and Isabella
+
+   From 1402, the Guanche of the Canary Islands resisted Spanish attempts
+   at colonization. The islands finally came under Spanish control in
+   1496. Mohamed Adhikari has called the conquest of the islands a
+   genocide.^[44]^[45]
+
+   Early 15th-century Portuguese exploration of the west coast of Africa
+   was motivated by a quest for gold and crusading against Islam.^[46]
+   Portugal's first attempt at colonization in what is now Senegal ended
+   in failure.^[47] In the 1470s, the Portuguese established a fortified
+   trading post on the West coast of Africa, south of the Akan goldfields.
+   The Portuguese engaged in extensive trade of goods for gold and, in
+   later years, slaves for their sugar plantations in the islands off West
+   Africa and in the New World.^[48] In 1488, Portuguese ships rounded the
+   Cape of Good Hope^[49] and by the 17th century, Portugal had
+   established seaborn trading routes and fortified coastal trading posts
+   from West Africa to India and Southern China, and a settler colony in
+   Brazil.^[50]
+
+   In 1532, the first African slaves were transported directly to the
+   Americas. The trade in slaves expanded sharply in the 17th century,
+   with the involvement of the French, Dutch and English, before declining
+   in the 19th century. At least 12 million slaves were transported from
+   Africa.^[51] The slave trade increased inter-tribal warfare and stunted
+   population growth and economic development in the west African
+   interior.^[52]^[53]
+
+Americas
+
+   See also: Age of Discovery
+
+   Indigenous encounters with Europeans increased during the age of
+   discovery. The Europeans were motivated by a range of factors including
+   trade,^[44]^[54] the exploitation of natural resources,^[44]^[55]
+   spreading Christianity,^[56] and establishing strategic military bases,
+   colonies and settlements.^[57]
+
+   From 1492, the Arawak peoples of the Caribbean islands encountered
+   Spanish colonizers initially led by Christopher Columbus. The Spanish
+   enslaved some of the native population and forced others to work on
+   farms and gold mines in a system of labor called encomienda. Spanish
+   settlements spread from Hispaniola to Puerto Rico, the Bahamas and
+   Cuba, leading to a severe decline in the Indigenous populations from
+   disease, malnutrition, settler violence and cultural
+   disruption.^[58]^[59]
+
+   In the 1520s, the peoples of Mesoamerica encountered the Spanish who
+   entered their lands in search of gold and other resources. Some
+   indigenous peoples chose to ally with the Spanish to end Aztec rule.
+   The Spanish incursions led to the conquest of the Aztec Empire and its
+   fall. The Cempoalans, Tlaxcalans and other allies of the Spanish were
+   given some autonomy, but the Spanish were de facto rulers of Mexico.
+   Smallpox devastated the indigenous population and aided the Spanish
+   conquest.^[60]
+   [500px-Age_of_Discovery_explorations_in_English.png] Map with the main
+   travels of the Age of Discovery (which began in the 15th century)
+
+   In 1530, the Spanish sailed south from Panama to the lands of the Inca
+   Empire in the west of South America. The Inca, weakened by a smallpox
+   epidemic and civil war, were defeated by the Spanish at Cajamarca in
+   1532, and the emperor Atahualpa was captured and executed. The Spanish
+   appointed a puppet emperor and captured the Inca capital of Cuzco with
+   the support of a number of native peoples. The Spanish established a
+   new capital in 1535 and defeated an Inca rebellion in 1537, thus
+   consolidating the conquest of Peru.^[61]
+
+   In the 1560s, the Spanish established colonies in Florida and in 1598
+   founded a colony in New Mexico.^[62] However, the heartland of the
+   Spanish colonies remained New Spain (including Mexico and most of
+   Central America) and Peru (including most of South America).^[63]
+
+   In the 17th century, French, English and Dutch trading posts multiplied
+   in northern America to exploit whaling, fishing and fur trading. French
+   settlements progressed up the St Lawrence river to the Great Lakes and
+   down the Mississippi to Louisiana.^[64] English and Dutch settlements
+   multiplied down the Atlantic coast from modern Massachusetts to
+   Georgia.^[65] Native peoples formed alliances with the Europeans in
+   order to promote trade, preserve their autonomy, and gain allies in
+   conflicts with other native peoples.^[64]^[66] However, horses and new
+   weapons made inter-tribal conflicts more deadly and the native
+   population was devastated by introduced diseases. Native peoples also
+   experienced losses from violent conflict with the colonists and the
+   progressive dispossession of their traditional lands.^[67]
+   [250px-LienzodeTlaxcalaLamina5.jpg] Depiction of a Spaniard entering
+   Chalco with three Tlaxcalan soldiers and an Indigenous porter in the
+   Lienzo de Tlaxcala (pre-1585)
+
+   In 1492, the population of the Americas as a whole was about 50 to
+   100 million. By 1700, introduced diseases had reduced the native
+   population by 90%.^[68] European migration and transfer of slaves from
+   Africa reduced the native population to a minority. By 1800 the
+   population of North America comprised about 5 million Europeans and
+   their descendants, one million Africans and 600,000 indigenous
+   Americans.^[69]
+
+   Native populations also encountered new animals and plants introduced
+   by Europeans. These included pigs, horses, mules, sheep and cattle;
+   wheat, barley, rye, oats, grasses and grapevines. These exotic animals
+   and plants radically transformed the local environment and disrupted
+   traditional agriculture and hunting practices.^[69]
+
+Oceania
+
+   The indigenous populations of the Pacific had increasing contact with
+   Europeans in the 18th century as British, French and Spanish
+   expeditions explored the region. The natives of Tahiti had encounters
+   with the expeditions of Wallis (1766), Bougainville (1768), Cook (1769)
+   and many others before being colonized by the French.^[70] The
+   indigenous inhabitants of the Hawaiian Islands first encountered
+   Europeans in 1778 when Cook explored the region.^[71] Following
+   increasing contact with European missionaries, traders and scientific
+   expeditions, the indigenous population fell before their lands were
+   annexed by the United States in 1893.^[72]
+
+   The Māori of New Zealand also had sporadic encounters with Europeans in
+   the 17th and 18th centuries. Following encounters with Cook's
+   exploration parties in 1769–70, New Zealand was visited by numerous
+   European and North American whaling, sealing, and trading ships.^[73]
+   From the early 19th century, Christian missionaries began to settle New
+   Zealand, eventually converting most of the Māori population.^[74] The
+   Māori population declined to around 40% of its pre-contact level during
+   the 19th century; introduced diseases were the major factor.^[75] New
+   Zealand became a British Crown colony in 1841.^[76]^[77]
+
+   The Aboriginal inhabitants of Australia, after brief encounters with
+   European explorers in the 17th and 18th centuries, had extensive
+   contact with Europeans when the continent was progressively colonized
+   by the British from 1788. During colonization, the Aboriginal people
+   experienced depopulation from disease and settler violence,
+   dispossession of their land, and severe disruption of their traditional
+   cultures. By 1850, indigenous peoples were a minority in
+   Australia.^[78]
+
+European justifications for colonization
+
+   See also: Discovery doctrine
+
+   From the 15th to the 19th centuries, European powers used a number of
+   rationales for the colonization of newly encountered lands populated by
+   indigenous peoples. These included a duty to spread the Gospel to
+   non-Christians, to bring civilization to barbarian peoples, a natural
+   law right to explore and trade freely with other peoples, and a right
+   to settle and cultivate uninhabited or uncultivated land which they
+   considered terra nullius ("no one's land").^[79]
+
+   Robert J. Miller, Jacinta Ruru, Larissa Behrendt and Tracey Lindberg
+   argue that European powers rationalized their colonization of the New
+   World by the discovery doctrine, which they trace back to papal decrees
+   authorizing Spain and Portugal to conquer newly discovered
+   non-Christian lands and convert their populations to Christianity.^[80]
+   Kent McNeil, however, states, "While Spain and Portugal favoured
+   discovery and papal grants because it was generally in their interests
+   to do so, France and Britain relied more on symbolic acts, colonial
+   charters, and occupation."^[81] Benton and Strauman argue that European
+   powers often adopted multiple, sometimes contradictory, legal
+   rationales for their acquisition of territory as a deliberate strategy
+   in defending their claims against European rivals.^[82]
+
+Settler independence and continuing colonialism
+
+   See also: Settler colonialism
+
+   Although the establishment of colonies throughout the world by various
+   European powers aimed to expand those powers' wealth and influence,
+   settler populations in some localities became anxious to assert their
+   own autonomy. For example, settler independence movements in thirteen
+   of the British American colonies were successful by 1783, following the
+   American Revolutionary War. This resulted in the establishment of the
+   United States of America as an entity separate from the British Empire.
+   The United States continued and expanded European colonial doctrine
+   through adopting a version of the discovery doctrine as law in 1823
+   with the US Supreme Court case Johnson v. McIntosh. Statements at the
+   Johnson court case illuminated the United States' support for the
+   principles of the discovery doctrine:^[83]
+
+     The United States ... [and] its civilized inhabitants now hold this
+     country. They hold, and assert in themselves, the title by which it
+     was acquired. They maintain, as all others have maintained, that
+     discovery gave an exclusive right to extinguish the Indian title of
+     occupancy, either by purchase or by conquest; and gave also a right
+     to such a degree of sovereignty, as the circumstances of the people
+     would allow them to exercise. ... [This loss of native property and
+     sovereignty rights was justified, the Court said, by] the character
+     and religion of its inhabitants ... the superior genius of Europe
+     ... [and] ample compensation to the [Indians] by bestowing on them
+     civilization and Christianity, in exchange for unlimited
+     independence.
+
+Population and distribution
+
+   [500px-Isolierte-V%C3%B6lker.png] A map of uncontacted peoples, around
+   the start of the 21st century
+
+   21st-century estimates of the population of Indigenous peoples range
+   from 250 million to 750 million.^[7] In 2007, Mirjan Hirch, a
+   researcher with the Center for World Indigenous Studies, estimated the
+   population at 750 million to a billion, comprising six to seven
+   thousand distinct peoples.^[84] The United Nations estimated in 2009
+   that there were over 370 million Indigenous people living in over 90
+   countries worldwide, belonging to at least 5,000 distinct
+   peoples.^[85]^[86] In 2011, the World Bank estimated 300 million
+   indigenous peoples, including 23 million in Latin America, 106 million
+   in China, 95 million in South Asia, 30 million in Southeast Asia, 22
+   million in Africa, 15 million in the Arab States and 9 million in the
+   rest of the world.^[87] The International Labor Organization in 2019
+   estimated, based on census data, that there were 476 million Indigenous
+   people in 58 countries.^[88] Both the UN and the ILO described their
+   estimates as minimums with the latter calculated using "the most
+   reliable lower bound estimates available."^[89]
+
+   As there is no universally accepted definition of Indigenous Peoples,
+   their classification as such varies between countries and
+   organizations.^[5] In the Americas, Australia and New Zealand,
+   Indigenous status is often applied unproblematically to groups
+   descended from the peoples who lived there prior to European
+   settlement. However, In Asia and Africa, Indigenous status has
+   sometimes been rejected by certain peoples, denied by governments or
+   applied to peoples who may not be considered "Indigenous" in other
+   contexts.^[90] The concept of indigenous peoples is rarely used in
+   Europe, where very few indigenous groups are recognized, with the
+   exception of groups such as the Sámi.^[91]
+
+Environmental and economic benefits of the Indigenous stewardship of land
+
+   This article may be unbalanced toward certain viewpoints. Please help
+   improve it by adding information on neglected viewpoints. Relevant
+   discussion may be found on the talk page. (January 2022)
+   See also: Climate change and indigenous peoples
+
+   A WRI report mentions that "tenure-secure" Indigenous lands generates
+   billions and sometimes trillions of dollars' worth of benefits in the
+   form of carbon sequestration, reduced pollution, clean water and more.
+   It says that tenure-secure Indigenous lands have low deforestation
+   rates,^[92]^[93] they help to reduce GHG emissions, control erosion and
+   flooding by anchoring soil, and provide a suite of other local,
+   regional and global ecosystem services. However, many of these
+   communities find themselves on the front lines of the deforestation
+   crisis, and their lives and livelihoods threatened.^[94]^[95]^[96]
+
+Indigenous peoples and the environment
+
+   Misconceptions about the historical relationship between Indigenous
+   populations and their landbase has informed some Westerners view of
+   California's "wild Eden", which may influence policy decisions about
+   the "wilderness". Some academics assumed that the only pre-Colonial
+   human interactions with nature were as "hunter-gatherers". Others say
+   that the relationship was one of "calculated tempered use of nature as
+   active agents of environmental change and stewardship". They argue that
+   a view of "wilderness" as uninhabited nature has resulted in removal of
+   Indigenous inhabitants to preserve "the wild", and that depriving the
+   land of traditional Indigenous practices such as controlled burns,
+   harvesting, and seed scattering has yielded dense understory shrubbery
+   or tickets of young trees which are inhospitable to life. Recent
+   studies indicate that Indigenous peoples used land sustainably, without
+   causing substantial losses of biodiversity, for thousands of
+   years.^[97]
+
+   A goal is to ascertain an unbiased view of Indigenous practices of
+   resource management.^[98]^[page needed]^[99]^[page needed]^[100]^[101]
+   Historical literature, archaeological findings, ecological field
+   studies, and Native Peoples' cultures show indications that Indigenous
+   land management practices were largely successful in promoting habitat
+   heterogeneity, increasing biodiversity, and maintaining certain
+   vegetation types, sustaining human lives while conserving natural
+   resources.^[102]
+
+   Recently, it has come to light that the deforestation rate of
+   Indonesian rainforests has been far greater than estimated. Such a rate
+   could not have been the product of globalization as understood before;
+   rather, it seemed that ordinary local people dependent on these forests
+   for their livelihoods are in fact "joining distant corporations in
+   creating uninhabitable landscapes."^[103]^[page needed]
+
+   In eastern Penan, three categories of misrepresentation are noticeable:
+   The Molong concept is purely a stewardship notion of resource
+   management. Communities or individuals take ownership of specific
+   trees, maintaining and harvesting from them sustainably over a long
+   period of time. Some feel this practice has been romanticized in
+   environmentalist writings. Landscape features and particularly their
+   names in local languages provided geographical and historical
+   information for Penan people; whereas in environmentalist accounts, it
+   has turned into a spiritual practice where trees and rivers represent
+   forest spirits that are sacred to the Penan people. A typical
+   stereotype of some environmentalists' approach to ecological
+   ethnography is to present Indigenous "knowledge" of nature as
+   "valuable" to the outside world because of its hidden medicinal
+   benefits. In reality, eastern Penan populations do not identify a
+   medicinal stream of "knowledge". These misrepresentations in the
+   "narrative" of Indigeneity and "value" of Indigenous knowledge might
+   have been helpful for Penan's people in their struggle to protect their
+   environment, but it might also have disastrous consequences. What
+   happens if another case did not fit in this romantic narrative, or
+   another Indigenous knowledge did not seem beneficial to the outside
+   world. These people were being uprooted in the first place because
+   their communities did not fit well with the state's system of
+   values.^[104]
+
+   At the 2024 United Nations Biodiversity Conference (COP16), Nations
+   agreed to a new permanent body for Indigenous peoples, which will allow
+   them to advise and offer their view at biodiversity COPs
+   directly.^[105]
+
+Indigenous peoples by region
+
+   See also: List of Indigenous peoples
+
+   Indigenous populations are distributed in regions throughout the globe.
+   The numbers, condition and experience of Indigenous groups may vary
+   widely within a given region. A comprehensive survey is further
+   complicated by sometimes contentious membership and identification.
+
+Africa
+
+   Main article: Indigenous peoples of Africa
+
+   See also: Category:Indigenous peoples of Africa
+
+Sub-Saharan Africa
+
+   [250px-BushmenSan.jpg] Starting fire by hand, San people in
+   Botswana[250px-Pygm%C3%A9es_%28RDC%29.jpg] African Pygmies in Congo
+
+   In the postcolonial period, the concept of specific Indigenous peoples
+   within the African continent has gained wider acceptance, although not
+   without controversy. The highly diverse and numerous ethnic groups that
+   comprise most modern, independent African states contain within them
+   various peoples whose situation, cultures and pastoralist or
+   hunter-gatherer lifestyles are generally marginalized and set apart
+   from the dominant political and economic structures of the nation.
+   Since the late 20th century these peoples have increasingly sought
+   recognition of their rights as distinct Indigenous peoples, in both
+   national and international contexts.
+
+   Though the vast majority of African peoples are indigenous in the sense
+   that they originate from the continent, identity as an Indigenous
+   people via the modern definition of a political indigenous status is
+   more restrictive, and certainly not every African ethnic group claims
+   identification under these terms. Groups and communities who do claim
+   this recognition are those who, by a variety of historical and
+   environmental circumstances, have been placed outside of the dominant
+   state systems, and whose traditional practices and land claims often
+   come into conflict with the objectives and policies implemented by
+   governments, companies and surrounding dominant societies.
+
+North Africa
+
+   The indigenous peoples of North Africa predominantly comprise the
+   Berbers in the Maghreb and the Copts and Nubians in the Nile Valley.
+   The vast majority of them have been Arabized after the Islamic
+   conquests under the Rashidun and Umayyad caliphates.
+
+Americas
+
+   Main article: Indigenous peoples of the Americas
+
+   See also: Category:Indigenous peoples of the Americas
+
+   [250px-Qamutik_1_1999-04-01.jpg] Inuit on a traditional qamutik (dog
+   sled) in Cape Dorset, Nunavut,
+   Canada[250px-Tocado_tradicional_nahua.jpg] A girl wears the traditional
+   Nahua headdress in Yohualichan, Veracruz.
+
+   Indigenous peoples of the Americas are broadly recognized as being
+   those groups and their descendants who inhabited the region before the
+   arrival of European colonizers and settlers (i.e., pre-Columbian).
+   Indigenous peoples who maintain, or seek to maintain, traditional ways
+   of life are found from the high Arctic north to the southern
+   extremities of Tierra del Fuego.
+
+   The impacts of historical and ongoing European colonization of the
+   Americas on Indigenous communities have been in general quite severe,
+   with many authorities estimating ranges of significant population
+   decline primarily due to disease, land theft and violence. Several
+   peoples have become extinct, or very nearly so. But there are and have
+   been many thriving and resilient Indigenous nations and communities.
+
+North America
+
+   North America is sometimes referred to by Indigenous peoples as Abya
+   Yala or Turtle Island.
+
+   In Mexico, about 11 million people, or 9% of Mexico's total population,
+   self-reported as Indigenous in 2015, making it the country with the
+   highest Indigenous population in North America.^[106]^[107] In the
+   southern states of Oaxaca (65.73%) and Yucatán (65.40%), the majority
+   of the population is Indigenous, as reported in 2015. Other states with
+   high populations of Indigenous peoples include Campeche (44.54%),
+   Quintana Roo, (44.44%), Hidalgo, (36.21%), Chiapas (36.15%), Puebla
+   (35.28%), and Guerrero (33.92%).^[108]^[109]
+
+   Indigenous peoples in Canada comprise the First Nations,^[110]
+   Inuit^[111] and Métis.^[112] The descriptors "Indian" and "Eskimo" have
+   fallen into disuse in Canada.^[113]^[114] More currently, the term
+   "Aboriginal" is being replaced with "Indigenous". Several national
+   organizations in Canada changed their names from "Aboriginal" to
+   "Indigenous". Most notable was the change of Aboriginal Affairs and
+   Northern Development Canada (AANDC) to Indigenous and Northern Affairs
+   Canada (INAC) in 2015, which then split into Indigenous Services Canada
+   and Crown-Indigenous Relations and Northern Development Canada in
+   2017.^[115] According to the 2016 Census, there are around 1,670,000
+   Indigenous people in Canada.^[116] There are currently over 600
+   recognized First Nations governments or bands spread across Canada,
+   such as the Cree, Mohawk, Mikmaq, Blackfoot, Coast Salish, Innu, Dene
+   and more, with distinctive Indigenous cultures, languages, art, and
+   music.^[117]^[118] First Nations peoples signed 11 numbered
+   treaties^[119] across much of what is now known as Canada between 1871
+   and 1921, except in parts of British Columbia.^[citation needed]
+
+   The Inuit have achieved a degree of administrative autonomy with the
+   creation in 1999 of the territories of Nunavik (in Northern Quebec),
+   Nunatsiavut (in Northern Labrador) and Nunavut, which was until 1999 a
+   part of the Northwest Territories. The autonomous territory of
+   Greenland within the Kingdom of Denmark is also home to a recognized
+   Indigenous and majority population of Inuit (about 85%) who settled the
+   area in the 13th century, displacing the Indigenous European
+   Greenlandic Norse.^[120]^[121]^[122]^[123]
+
+   In the United States, the combined populations of Native Americans,
+   Inuit and other Indigenous designations totaled 2,786,652 (constituting
+   about 1.5% of 2003 U.S. census figures). Some 563 scheduled tribes are
+   recognized at the federal level, and a number of others recognized at
+   the state level.
+
+Central and South America
+
+   [250px-Quechuawomanandchild.jpg] Quechua woman and child in the Sacred
+   Valley, Andes, Peru
+
+   In some countries (particularly in Latin America), Indigenous peoples
+   form a sizable component of the overall national population – in
+   Bolivia, they account for an estimated 56–70% of the total nation, and
+   at least half of the population in Guatemala and the Andean and
+   Amazonian nations of Peru. In English, Indigenous peoples are
+   collectively referred to by different names that vary by region, age
+   and ethnicity of speakers, with no one term being universally accepted.
+   While still in use in-group, and in many names of organizations,
+   "Indian" is less popular among younger people, who tend to prefer
+   "Indigenous" or simply "Native", with most preferring to use the
+   specific name of their tribe or Nation instead of generalities. In
+   Spanish or Portuguese speaking countries, one finds the use of terms
+   such as índios, pueblos indígenas, amerindios, povos nativos, povos
+   indígenas, and, in Peru, Comunidades Nativas (Native Communities),
+   particularly among Amazonian societies like the Urarina^[124] and
+   Matsés. In Chile, there the most populous indigenous peoples are the
+   Mapuche in the Center-South and the Aymaras in the North.^[125] Rapa
+   Nui of Easter Island, who are a Polynesian people, are the only
+   non-Amerindian indigenous people in Chile.^[citation needed]
+
+   Indigenous peoples make up 0.4% of all Brazilian population, or about
+   700,000 people.^[126] Indigenous peoples are found in the entire
+   territory of Brazil, although the majority of them live in Indian
+   reservations in the North and Center-Western part of the country. On 18
+   January 2007, FUNAI reported that it had confirmed the presence of 67
+   different uncontacted peoples in Brazil, up from 40 in 2005. With this
+   addition Brazil has now overtaken the island of New Guinea as the
+   country having the largest number of uncontacted peoples.^[127]
+
+Asia
+
+   See also: Category:Indigenous peoples of Asia
+
+   [250px-Kalasha_Girls.jpg] Kalash girls in Pakistan
+
+West Asia
+
+     * Armenians are the Indigenous people of the Armenian
+       Highlands.^[128]^[129]^[130]^[131] There are currently more
+       Armenians living outside their ancestral homeland because of the
+       Armenian genocide of 1915.
+     * Anatolian Greeks, including the Pontic Greeks and Cappadocian
+       Greeks, are the Greek-speaking minorities that existed in Anatolia
+       millennia before Turkic conquest. They are indigenous to Asiatic
+       Turkey.^[128]^[132]^[133]^[134] Most were either killed in the
+       Greek genocide or displaced during the following population
+       exchange; however, some remain in Turkey.^[135]^[136] There has
+       been a Greek presence in Anatolia since at least the 1000s
+       BCE,^[137]^[138] and Greek traders visited western Anatolia
+       beginning in 1900 BCE.^[139]
+     * Assyrians are indigenous to Mesopotamia.^[140]^[141]^[128]^[142]
+       They claim descent from the ancient Neo-Assyrian Empire, and lived
+       in what was Assyria, their original homeland, and still speak
+       dialects of Aramaic, the official language of the Assyrian
+       Empire.^[citation needed]
+     * Copts are an ethnoreligious group, indigenous to Egypt and parts of
+       the Sudan and Libya, one of the oldest Christian communities in the
+       world.^[143]^[144]
+     * Kurds are one of the Indigenous peoples of
+       Mesopotamia.^[145]^[146]^[147]^[148]^[149]
+     * Yazidis are indigenous to Upper
+       Mesopotamia.^[150]^[128]^[151]^[152]^[153]
+
+   Due to changes in the demographic history of Palestine, there are
+   competing claims that Jews and Palestinian Arabs are indigenous to the
+   region.^[154]^[155]^[156] The argument entered the Israeli–Palestinian
+   conflict, with Jews claiming indigeneity, citing historical and
+   religious connections to the land as their ancient
+   homeland.^[157]^[158]^[159] Palestinians claim Indigenous status as a
+   pre-existing population displaced by Jewish settlement, and currently
+   constituting a minority in the State of Israel.^[160]^[161] In 2007,
+   the Negev Bedouin were officially recognized as Indigenous peoples of
+   Israel by the United Nations.^[162] This has been criticized both by
+   scholars associated with the Israeli state, who dispute the Bedouin's
+   claim to indigeneity,^[163] and those who argue that recognizing just
+   one group of Palestinians as indigenous risks undermining others'
+   claims and "fetishizing" nomadic cultures.^[164]
+
+South Asia
+
+   India's Andaman and Nicobar Islands in the Indian Ocean are also home
+   to several Indigenous groups such as the Andamanese of Strait
+   Island,^[165] the Jarawas of Middle Andaman and South Andaman
+   Islands,^[165] the Onge of Little Andaman Island^[165] and the
+   uncontacted Sentinelese of North Sentinel Island.^[165]
+
+   In Sri Lanka, the Indigenous Vedda people constitute a small minority
+   of the population today.^[166]
+   [250px-Nivkh_Marina_Temina_%C3%81rran-konfer%C3%A1nssas_2019_03.jpg]
+   Marina A. Temina, a native speaker and teacher of the Nivkh language
+
+Northeast Asia
+
+   Further information: Indigenous peoples of Siberia
+
+   [250px-Ainu_man.jpg] Ainu man performing a traditional Ainu dance
+
+   Ainu people are an ethnic group indigenous to Hokkaido, the Kuril
+   Islands, and much of Sakhalin. As Japanese settlement expanded, the
+   Ainu were pushed northward and fought against the Japanese in
+   Shakushain's Revolt and Menashi–Kunashir Rebellion, until by the Meiji
+   period they were confined by the government to a reservation near Lake
+   Akan in Hokkaido.^[167] In a ground-breaking 1997 decision involving
+   the Ainu people of Japan, the Japanese courts recognized their claim in
+   law, stating that "If one minority group lived in an area prior to
+   being ruled over by a majority group and preserved its distinct ethnic
+   culture even after being ruled over by the majority group, while
+   another came to live in an area ruled over by a majority after
+   consenting to the majority rule, it must be recognized that it is only
+   natural that the distinct ethnic culture of the former group requires
+   greater consideration."^[168]
+
+   The Dzungar Oirats are indigenous to the Dzungaria in Northern
+   Xinjiang.^[citation needed]
+
+   The Sarikoli Pamiris are indigenous to Tashkurgan in
+   Xinjiang.^[citation needed]
+
+   The Tibetans are indigenous to Tibet.^[citation needed]
+
+   The Ryukyuan people are indigenous to the Ryukyu Islands.^[citation
+   needed]
+
+   The languages of Taiwanese aborigines have significance in historical
+   linguistics, since in all likelihood Taiwan was the place of origin of
+   the entire Austronesian language family, which spread across
+   Oceania.^[169]^[170]^[171]
+
+   In Hong Kong, the indigenous inhabitants of the New Territories are
+   defined in the Sino-British Joint Declaration as people descended
+   through the male line from a person who was in 1898, before Convention
+   for the Extension of Hong Kong Territory.^[172] There are several
+   different groups that make up the indigenous inhabitants, the Punti,
+   Hakka, Hoklo, and Tanka. All are nonetheless considered part of the
+   Cantonese majority, although some like the Tanka have been shown to
+   have genetic and anthropological roots in the Baiyue people, the
+   pre-Han Chinese inhabitants of Southern China.^[citation needed]
+
+   The Russians invaded Siberia and conquered the indigenous people in the
+   17th–18th centuries.^[citation needed]
+
+   Nivkh people are an ethnic group indigenous to Sakhalin, having a few
+   speakers of the Nivkh language, but their fisher culture has been
+   endangered due to the development of oil field of Sakhalin from
+   1990s.^[173]
+
+   In Russia, definition of "Indigenous peoples" is contested largely
+   referring to a number of population (less than 50,000 people), and
+   neglecting self-identification, origin from indigenous populations who
+   inhabited the country or region upon invasion, colonization or
+   establishment of state frontiers, distinctive social, economic and
+   cultural institutions.^[174]^[175] Thus, indigenous peoples of Russia
+   such as Sakha, Komi, Karelian and others are not considered as such due
+   to the size of the population (more than 50,000 people), and
+   consequently they "are not the subjects of the specific legal
+   protections."^[176] The Russian government recognizes only 40 ethnic
+   groups as indigenous peoples, even though there are 30 other groups to
+   be counted as such. The reason of nonrecognition is the size of the
+   population and relatively late advent to their current regions, thus
+   indigenous peoples in Russia should be numbered less than 50,000
+   people.^[175]^[177]^[178]^[page needed]
+
+Southeast Asia
+
+   [250px-Dayak_dancer%2C_Sarawak.jpg] Dayak people in Borneo
+
+   The Malay Singaporeans are the Indigenous people of Singapore,
+   inhabiting it since the Austronesian migration.^[citation needed] They
+   had established the Kingdom of Singapura back in the 13th century. The
+   name "Singapore" is an anglicisation of the Malay name Singapura which
+   is derived from the Sanskrit word for 'lion city'. The native Malay
+   name for the main island of Singapore is Pulau Ujong.^[citation needed]
+
+   Dayak People are one of the Indigenous groups of Borneo. It is a loose
+   term for over 200 riverine and hill-dwelling ethnic groups, located in
+   Borneo, each with its own dialect, customs, laws, territory, and
+   culture, although common distinguishing traits are readily
+   identifiable.^[citation needed]
+
+   The Cham are the Indigenous people of the former state of Champa which
+   was conquered by Vietnam in the Cham–Vietnamese wars during Nam tiến.
+   The Cham in Vietnam are only recognized as a minority, and not as an
+   Indigenous people by the Vietnamese government despite being indigenous
+   to the region.^[citation needed]
+
+   The Degar (Montagnards) are indigenous to Central Highlands (Vietnam)
+   and were conquered by the Vietnamese in the Nam tiến.^[citation needed]
+
+   The Khmer Krom are the Indigenous people of the Mekong Delta and Saigon
+   which were acquired by Vietnam from Cambodian King Chey Chettha II in
+   exchange for a Vietnamese princess.^[citation needed]
+
+   In Indonesia, there are 50 to 70 million people who are classified as
+   Indigenous peoples by the local Indigenous rights advocacy group
+   Aliansi Masyarakat Adat Nusantara.^[179] However, the Indonesian
+   government does not recognize the existence of indigenous peoples,
+   classifying every Native Indonesian ethnic group as "indigenous"
+   despite the clear cultural distinctions of certain groups.^[180] This
+   problem is shared by many other countries in the ASEAN
+   region.^[citation needed]
+
+   In the Philippines, there are 135 ethno-linguistic groups, 110 of which
+   are considered as Indigenous peoples by the National Commission on
+   Indigenous Peoples.^[181] The Indigenous people of Cordillera
+   Administrative Region and Cagayan Valley in the Philippines are the
+   Igorot people. The Indigenous peoples of Mindanao are the Lumad peoples
+   and the Moro (Tausug, Maguindanao Maranao and others) who also live in
+   the Sulu archipelago. There are also others sets of Indigenous peoples
+   in Palawan, Mindoro, Visayas, and the rest central and south Luzon. The
+   country has one of the largest Indigenous peoples population in the
+   world. The recognition of the rights of Indigenous peoples was legally
+   enshrined in 1997 with the Indigenous Peoples' Rights Act.^[181]
+
+   In Myanmar, indigenous peoples include the Shan, the Karen, the
+   Rakhine, the Karenni, the Chin, the Kachin and the Mon. However, there
+   are more ethnic groups that are considered indigenous, for example, the
+   Akha, the Lisu, the Lahu or the Mru, among others.^[182]
+
+Europe
+
+   Main article: Ethnic groups in Europe
+
+   See also: Genetic history of Europe and Category:Indigenous peoples of
+   Europe
+
+   [250px-Sami_family_Finland_1936.jpg] Sámi family in Lapland, 1936
+
+   Various ethnic groups have lived in Europe for millennia. However, the
+   concept of Indigenous peoples is rarely used in the European
+   context.^[why?]^[183]
+
+   Indigenous minority populations in Europe include the Sámi peoples of
+   northern Norway, Sweden, and Finland and northwestern Russia (in an
+   area also referred to as Sápmi);^[184]^[185] the Nenets of northern
+   Russia,^[185] the Basques of Spain and France,^[186]^[187] the Inuit of
+   Greenland,^[185]^[188] and the Irish travelers (also referred to as
+   Pavees or Mincérs) of Ireland.^[189]^[b] Some sources describe the Sámi
+   as the only recognized Indigenous peoples in Europe,^[190]^[191]^[192]
+   with others describing them as the only Indigenous people in the
+   European Union.^[193]
+
+   Other groups, particularly in Central, Western and Southern Europe,
+   that might be considered to fit the description of Indigenous peoples
+   in the Indigenous and Tribal Peoples Convention, 1989, such as the
+   Sorbs, are generally categorized as national minorities instead.^[183]
+
+Oceania
+
+   Main article: Indigenous peoples of Oceania
+
+   See also: Category:Indigenous peoples of Oceania
+
+Australia
+
+   [250px-1981_event_Australian_aboriginals.jpg] Aboriginal Australian
+   dancers
+
+   In Australia, the Indigenous populations are the Aboriginal Australian
+   peoples (comprising many different nations and language groups) and the
+   Torres Strait Islander peoples (also with sub-groups). These two groups
+   are often referred to as Indigenous Australians,^[194] although terms
+   such as First Nations^[195] and First Peoples are also used.^[196]
+
+Pacific Islands
+
+   Polynesian, Melanesian and Micronesian peoples originally populated
+   many of the present-day Pacific Island countries in the Oceania region
+   over the course of thousands of years. European, American, Chilean and
+   Japanese colonial expansion in the Pacific brought many of these areas
+   under non-Indigenous administration, mainly during the 19th century.
+   During the 20th century, several of these former colonies gained
+   independence and nation-states formed under local control. However,
+   various peoples have put forward claims for Indigenous recognition
+   where their islands are still under external administration; examples
+   include the Chamorros of Guam and the Northern Marianas, and the
+   Marshallese of the Marshall Islands. Some islands remain under
+   administration from Paris, Washington, London or Wellington.
+   [250px-Papua_20160808_0449.jpg] Dani people from the central highlands
+   of western New Guinea
+
+   The remains of at least 25 miniature humans, who lived between 1,000
+   and 3,000 years ago, were recently found on the islands of Palau in
+   Micronesia.^[197]
+
+   In most parts of Oceania, Indigenous peoples outnumber the descendants
+   of colonists. Exceptions include Australia, New Zealand and Hawaii. In
+   New Zealand, based on various factors including census data and
+   self-identification, the proportion of full or part Māori of the
+   population on 30 June 2021 was estimated to be 17%.^[198] Māori
+   developed from Polynesian people who settled in New Zealand after
+   migrations from other Pacific islands, probably in the 13th
+   century.^[199] Many leaders of Māori nations (iwi) signed a written
+   agreement with the British Crown in 1840, known as the Treaty of
+   Waitangi.^[200]^[201]^[202]
+
+   A majority of the Papua New Guinea population is Indigenous, with more
+   than 700 different nationalities recognized in a total population of
+   8 million.^[203] The country's constitution and key statutes identify
+   traditional or custom-based practices and land tenure, and explicitly
+   set out to promote the viability of these traditional societies within
+   the modern state. However, conflicts and disputes concerning land use
+   and resource rights continue between indigenous groups, the government,
+   and corporate entities.
+
+Indigenous rights and other issues
+
+   Part of a series on
+       Indigenous rights
+   Indalo symbol
+             Rights
+     * Ancestral domain
+     * Cultural rights
+     * Intellectual property
+     * Land rights
+     * Language
+     * Traditional knowledge
+     * Treaty rights
+     * Water and sanitation
+          + Protection
+
+   Governmental organizations
+     * ACHPR
+     * AID
+     * Arctic Council
+     * BIA
+     * CIP
+     * CIRNAC
+     * DTA
+     * FUNAI
+     * INPI
+     * JAKOA
+     * NCIP
+     * NIAA
+     * MCHTA
+     * TPK
+     * UNPFII
+
+   United Nations initiatives
+     * 9 August
+     * UNPFII
+     * WIPO IGC
+     * BBNJ ABS Committee
+     * Indigenous Caucus
+
+     International Treaties
+     * ILO 107
+     * ILO 169
+     * United Nations Declaration (UNDRIP)
+     * GRATK Anti-Biopiracy Treaty
+
+   NGOs and political groups
+     * AFN
+     * Amazon Conservation Team
+     * Amazon Watch
+     * CAP
+     * COICA
+     * CONAECDA
+     * CONAIE
+     * Cultural Survival
+     * EZLN
+     * fPcN
+     * IPACC
+     * IPCB
+     * IWGIA
+     * Land Back
+     * NARF
+     * ONIC
+     * Survival International
+     * The Red Nation
+     * UNPO
+     * KAFFED
+          + more ...
+
+             Issues
+     * Aboriginal titles
+     * Biopiracy
+     * Civilizing mission
+     * Climate change
+     * Co-governance
+     * Discovery doctrine
+     * Discrimination
+     * Ecocide
+     * Genocide
+          + MMIW
+     * Indigenous decolonization
+     * Inhabited lands
+     * Indigenism
+     * Settler colonialism
+     * Truth commissions
+     * Uncontacted peoples
+
+           Countries
+     * Argentina
+     * Australia
+     * Brazil
+     * Denmark
+     * Finland
+     * Malaysia
+     * Mexico
+     * Namibia
+     * New Zealand
+     * Papua New Guinea
+     * Paraguay
+     * Peru
+     * Philippines
+     * Suriname
+     * Tanzania
+     * Taiwan
+     * Venezuela
+     * United States
+
+   Category
+
+     * v
+     * t
+     * e
+
+   endorses Declaration on the Rights of Indigenous People, 2010 The New
+   Zealand delegation, including Māori members, endorses the United
+   Nations Declaration on the Rights of Indigenous Peoples in 2010
+
+   The 1989 ILO Convention on Indigenous and Tribal Peoples mainly
+   concerns non-discrimination but also covers indigenous peoples' rights
+   to development, customary laws, lands, territories and resources,
+   employment, education and health. By 2013, the convention had been
+   ratified by 22 countries, mainly in Latin America.^[13]
+
+   In 2007, the United Nations (UN) adopted a Declaration on the Rights of
+   Indigenous Peoples (UNDRIP) specifying the collective rights of
+   Indigenous peoples, including their rights to self-determination and to
+   protect their cultures, identities, languages, ceremonies, and access
+   to employment, health, education and natural resources.^[14] The
+   declaration is not a formally binding treaty but some provisions might
+   be considered customary international law. The declaration has been
+   endorsed by at least 148 states but its provisions have not been
+   consistently implemented.^[204]
+
+   Indigenous peoples confront a diverse range of concerns associated with
+   their status and interaction with other cultural groups, as well as
+   changes in their inhabited environment. Some challenges are specific to
+   particular groups; however, other challenges are commonly
+   experienced.^[205]
+
+   Wherever Indigenous cultural identity is asserted, common societal
+   issues and concerns arise. These concerns are often not unique to
+   Indigenous groups. Despite the diversity of Indigenous peoples, they
+   share common problems and issues in dealing with the prevailing, or
+   invading, society.^[citation needed] They are generally concerned that
+   the cultures and lands of Indigenous peoples are being lost and that
+   Indigenous peoples suffer both discrimination and pressure to
+   assimilate into the surrounding or colonizing societies. This is borne
+   out by the fact that the lands and cultures of nearly all of the
+   peoples listed at the end of this article are under threat. Notable
+   exceptions are the Sakha and Komi peoples (two northern Indigenous
+   peoples of Russia), who now control their own autonomous republics
+   within the Russian state, and the Canadian Inuit, who form a majority
+   of the territory of Nunavut (created in 1999). Despite the control of
+   their territories, many Sakha people have lost their lands as a result
+   of the Russian Homestead Act, which allows any Russian citizen to own
+   any land in the Far Eastern region of Russia.^[citation needed]
+
+   In Australia, a landmark case, Mabo v Queensland (No 2),^[206] saw the
+   High Court of Australia reject the idea of terra nullius. This
+   rejection ended up recognizing that there was a pre-existing system of
+   law practiced by the Meriam people.^[207]
+
+   A 2009 United Nations publication says:^[208]
+
+     Although indigenous peoples are often portrayed as a hindrance to
+     development, their cultures and traditional knowledge are also
+     increasingly seen as assets. It is argued that it is important for
+     the human species as a whole to preserve as wide a range of cultural
+     diversity as possible, and that the protection of indigenous
+     cultures is vital to this enterprise.
+
+Human rights violations
+
+   [250px-Indigenous_march_right_to_self-determination.jpg] Indigenous
+   peoples march for their right to self-determination in Davao City
+   (2008).
+
+   According to Samuel Totten, some governments do not respect the rights
+   of Indigenous peoples.^[209] In the latter part of the twentieth
+   century the genocide of Indigenous peoples in Australia and Namibia
+   attracted more attention from the international community including
+   scholars and human rights organizations.^[210]
+
+   The Bangladeshi government has stated that there are "no indigenous
+   peoples in Bangladesh".^[211] This statement has angered the Indigenous
+   peoples of Chittagong Hill Tracts, Bangladesh, collectively known as
+   the Jumma.^[212] Experts have protested against this move of the
+   Bangladesh government and have questioned the government's definition
+   of the term "indigenous peoples".^[213]^[214] This move by the
+   Bangladesh government is seen by the Indigenous peoples of Bangladesh
+   as another step by the Government to further erode their already
+   limited rights.^[215]
+
+   Hindu Chams and Muslim Chams have both experienced religious and ethnic
+   persecution and restrictions on their faith under the current
+   Vietnamese government, with the Vietnamese state confiscating Cham
+   property and forbidding Cham from observing their religious beliefs.
+   Hindu temples were turned into tourist sites against the wishes of the
+   Cham Hindus. In 2010 and 2013 several incidents occurred in Thành Tín
+   and Phươc Nhơn villages where Cham were murdered by Vietnamese. In
+   2012, Vietnamese police in Chau Giang village stormed into a Cham
+   Mosque, stole the electric generator, and also raped Cham girls.^[216]
+   Cham in the Mekong Delta have also been economically marginalized, with
+   ethnic Vietnamese settling on land previously owned by Cham people with
+   state support.^[217]
+
+   The Indonesian government has outright denied the existence of
+   Indigenous peoples within the countries' borders. In 2012, Indonesia
+   stated that 'The Government of Indonesia supports the promotion and
+   protection of indigenous people worldwide ... Indonesia, however, does
+   not recognize the application of the indigenous peoples concept ... in
+   the country'.^[218] Along with the brutal treatment of the country's
+   Papuan people (a conservative estimate places the violent deaths at
+   100,000 people in West New Guinea since Indonesian occupation in 1963,
+   see Papua conflict) has led to Survival International condemning
+   Indonesia for treating its Indigenous peoples as the worst in the
+   world.^[218]
+
+   The Vietnamese viewed and dealt with the Indigenous Montagnards from
+   the Central Highlands of Vietnam as "savages", which caused a
+   Montagnard uprising against the Vietnamese.^[219] The Vietnamese were
+   originally centered around the Red River Delta but engaged in conquest
+   and seized new lands such as Champa, the Mekong Delta (from Cambodia)
+   and the Central Highlands during Nam Tien. While the Vietnamese
+   received strong Chinese influence in their culture and civilization and
+   were Sinicized, and the Cambodians and Laotians were Indianized, the
+   Montagnards in the Central Highlands maintained their own Indigenous
+   culture without adopting external culture and were the true Indigenous
+   of the region. To hinder encroachment on the Central Highlands by
+   Vietnamese nationalists, the term Pays Montagnard du Sud-Indochinois
+   (PMSI) emerged for the Central Highlands along with the indigenous
+   being addressed by the name Montagnard.^[220] The tremendous scale of
+   Vietnamese Kinh colonists flooding into the Central Highlands has
+   significantly altered the demographics of the region.^[221] The
+   anti-ethnic minority discriminatory policies by the Vietnamese,
+   environmental degradation, deprivation of lands from the Indigenous
+   people, and settlement of Indigenous lands by an overwhelming number of
+   Vietnamese settlers led to massive protests and demonstrations by the
+   Central Highland's indigenous ethnic minorities against the Vietnamese
+   in January–February 2001. This event gave a tremendous blow to the
+   claim often published by the Vietnamese government that in Vietnam
+   "There has been no ethnic confrontation, no religious war, no ethnic
+   conflict. And no elimination of one culture by another."^[222]
+   [250px-Indian_protesters_from_Vale_do_Javar%C3%AD_in_Bel%C3%A9m_2009_15
+   30FP8886.jpg] Indigenous protesters from Vale do Javari, one of the
+   largest indigenous territories in Brazil
+
+   In May 2016, the Fifteenth Session of the United Nations Permanent
+   Forum on Indigenous Issues (UNPFII) affirmed that Indigenous peoples
+   are distinctive groups protected in international or national
+   legislation as having a set of specific rights based on their
+   linguistic and historical ties to a particular territory, prior to
+   later settlement, development or occupation of a region.^[223] The
+   session affirms that, since Indigenous peoples are vulnerable to
+   exploitation, marginalization, oppression, forced assimilation, and
+   genocide by nation states formed from colonizing populations or by
+   different, politically dominant ethnic groups, individuals and
+   communities maintaining ways of life indigenous to their regions are
+   entitled to special protection.^[citation needed]
+
+   The Indigenous people from Tanzania's Maasai community were reportedly
+   subjected to eviction from their ancestral land to make way for a
+   luxury game reserve by Otterlo Business Corporation in June 2022. The
+   game reserve was reportedly being set up for the royals of the United
+   Arab Emirates also linked to OBC or the Otterlo Business Corporation.
+   According to lawyers and human rights groups and activists,
+   approximately 30 Maasai people were injured by security forces in the
+   process of eviction and delimiting a land area of 1,500 km^2
+   (580 sq mi). A 2019 UN report has described OBC as a 'UAE-based'
+   luxury-game hunting company, granted a license to hunt by the Tanzanian
+   government in 1992 for "the UAE royal family to organize private
+   hunting trips", denying the Maasai people access to their own
+   land.^[224]
+
+Health issues
+
+   In December 1993, the United Nations General Assembly proclaimed the
+   International Decade of the World's Indigenous People, and requested UN
+   specialized agencies to consider with governments and indigenous people
+   how they can contribute to the success of the Decade of Indigenous
+   People, commencing in December 1994. As a consequence, the World Health
+   Organization (WHO), at its Forty-seventh World Health Assembly,
+   established a core advisory group of Indigenous representatives with
+   special knowledge of the health needs and resources of their
+   communities, thus beginning a long-term commitment to the issue of the
+   health of Indigenous peoples.^[225]
+
+   The WHO noted in 2003 that "Statistical data on the health status of
+   indigenous peoples is scarce. This is especially notable for indigenous
+   peoples in Africa, Asia and eastern Europe", but snapshots from various
+   countries (where such statistics are available) show that indigenous
+   people are in worse health than the general population, in advanced and
+   developing countries alike: higher incidence of diabetes in some
+   regions of Australia;^[226] higher prevalence of poor sanitation and
+   lack of safe water among Twa households in Rwanda;^[227] a greater
+   prevalence of childbirths without prenatal care among ethnic minorities
+   in Vietnam;^[228] suicide rates among Inuit youth in Canada are eleven
+   times higher than the national average;^[229] infant mortality rates
+   are higher for Indigenous peoples everywhere.^[230]
+
+   The first UN publication on the State of the World's Indigenous Peoples
+   revealed alarming statistics about indigenous peoples' health. Health
+   disparities between indigenous and non-indigenous populations are
+   evident in both developed and developing countries. Native Americans in
+   the United States are 600 times more likely to acquire tuberculosis and
+   62% more likely to commit suicide than the non-Indian population.
+   Tuberculosis, obesity, and type 2 diabetes are major health concerns
+   for the indigenous in developed countries.^[231]^[page needed]
+   Globally, health disparities touch upon nearly every health issue,
+   including HIV/AIDS, cancer, malaria, cardiovascular disease,
+   malnutrition, parasitic infections, and respiratory diseases, affecting
+   indigenous peoples at much higher rates. Many causes of Indigenous
+   children's mortality could be prevented. Poorer health conditions
+   amongst indigenous peoples result from longstanding societal issues,
+   such as extreme poverty and racism, but also the intentional
+   marginalization and dispossession of Indigenous peoples by dominant,
+   non-Indigenous populations and societal structures.^[231]
+
+Racism and discrimination
+
+   [250px-Mokka_and_their_house.jpg] "Savages of Mokka and Their House in
+   Formosa", pre-1945, Taiwan under Japanese rule
+
+   Indigenous peoples have frequently been subjected to various forms of
+   racism and discrimination. Indigenous peoples have been denoted as
+   being barbaric, primitive, savage^[232] or uncivilized. These terms
+   were commonly used during the heyday of European colonial expansion,
+   and they are still being used by certain societies in modern
+   times.^[233]^[full citation needed]
+
+   During the 17th century, Europeans commonly labeled Indigenous peoples
+   "uncivilized". Some philosophers, such as Thomas Hobbes (1588–1679),
+   considered Indigenous people mere "savages". Others (especially
+   literary figures in the 18th century) popularized the concept of "noble
+   savages". Those who were close to the Hobbesian view tended to believe
+   that they had a duty to "civilize" and "modernize" the Indigenous.
+
+   Survival International runs a campaign to stamp out media portrayals of
+   Indigenous peoples as "primitives" or "savages".^[234]
+
+   After World War I (1914–1918), many Europeans came to doubt the
+   morality of the means which were used to "civilize" peoples. At the
+   same time, the anti-colonial movement, and advocates for the rights of
+   Indigenous peoples, argued that words such as "civilized" and "savage"
+   were products and tools of colonialism, and they also argued that
+   colonialism itself was savagely destructive. In the mid-20th century,
+   European attitudes began to shift to the view that Indigenous and
+   tribal peoples are the only peoples who should have the right to decide
+   what should happen to their ancient cultures and their ancestral
+   lands.^[235]
+
+Cultural appropriation
+
+   New Age and Neopagan adherents often look to the cultures of Indigenous
+   peoples seeking to find ancient traditional truths and spiritual
+   practices to appropriate into their lifestyles and worldviews.^[236]
+
+Environmental injustice
+
+   [250px-Helena_Gualinga.jpg] Helena Gualinga, an indigenous
+   environmental and human rights activist^[237]
+
+   At an international level, Indigenous peoples have received increased
+   recognition of their environmental rights since 2002, but few countries
+   respect these rights in reality. The UN Declaration on the Rights of
+   Indigenous Peoples, adopted by the General Assembly in 2007,
+   established Indigenous peoples' right to self-determination, stating
+   rights to manage natural resources, and cultural and intellectual
+   property. In countries where these rights are recognized, land titling
+   and demarcation procedures are often put on delay, or leased out by the
+   state as concessions for extractive industries without consulting
+   Indigenous communities.^[231]
+
+   Many in the United States federal government are in favor of exploiting
+   oil reserves in the Arctic National Wildlife Refuge, where the Gwich'in
+   Indigenous people rely on herds of caribou. Oil drilling could destroy
+   thousands of years of culture for the Gwich'in. On the other hand, some
+   of the Inupiat people, from another Indigenous community in the region,
+   favor oil drilling because they could benefit economically.^[238]
+
+   The introduction of industrial agricultural technologies such as
+   fertilizers, pesticides, and large plantation schemes have destroyed
+   ecosystems that Indigenous communities formerly depended on, forcing
+   resettlement. Development projects such as dam construction, pipelines
+   and resource extraction have displaced large numbers of Indigenous
+   peoples, often without providing compensation. Governments have forced
+   Indigenous peoples off of their ancestral lands in the name of
+   ecotourism and national park development. Indigenous women are
+   especially affected by land dispossession because they must walk longer
+   distances for water and fuel wood. These women also become economically
+   dependent on men when they lose their livelihoods. Indigenous groups
+   asserting their rights has most often resulted in torture,
+   imprisonment, or death.^[231]
+
+   The building of dams can hurt Indigenous peoples by hurting the
+   ecosystems that provide them water, food. For example, the Munduruku
+   people in the Amazon rainforest are opposing the building of Tapajós
+   dam^[239] with the help of Greenpeace.^[240]
+
+   Most Indigenous populations are already subject to the deleterious
+   effects of climate change. Climate change has not only environmental,
+   but also human rights and socioeconomic implications for Indigenous
+   communities. The World Bank acknowledges climate change as an obstacle
+   to Millennium Development Goals, notably the fight against poverty,
+   disease, and child mortality, in addition to environmental
+   sustainability.^[231]
+
+Use of indigenous knowledge
+
+   Main article: Traditional knowledge
+
+   [330px-College_of_DuPage_Celebrates_Native_American_Culture_2020_54.jpg
+   ] Native American dancer of the Save Our Ancestors Remains and
+   Resources Indigenous Network Group (SOARRING) Foundation, a
+   not-for-profit organization whose mission is to educate people about
+   Indigenous ways of life
+
+   Indigenous knowledge is considered as very important for issues linked
+   with sustainability.^[241]^[242] Indigenous peoples play an essential
+   role in conserving biodiversity around the world. An oft-cited
+   statistic is that Indigenous peoples steward lands which comprise 80%
+   of the world's biodiversity. In 2024, Fernández-Llamazares et al.
+   investigated the origin of this claim in Nature and found that it is
+   without basis, also stating that "biodiversity" is broad and not
+   precisely definable, and that the claim may do more harm than good.
+   With a specific description, such as "natural lands" (that being lands
+   with low levels of ecological disturbance), it can be said that at
+   least 37% of remaining natural lands fall within the territories of
+   Indigenous peoples. Fernández-Llamazares et al. state that the 80%
+   claim "could undermine these and other rigorous studies — as well as
+   effective efforts to conserve biodiversity by Indigenous Peoples on the
+   ground".^[243]
+
+   The Western and Eastern Penan people are two major groups of Indigenous
+   populations in Malaysia. The Eastern Penan are famous for their
+   resistance to loggers threatening their natural resources, specifically
+   Sago palms and various fruit bearing trees. Because of the Penan's
+   international fame, environmentalists often visited the area to
+   document such happenings and learn more about and from the people
+   there, including their perspective on the land's invasion.^[244]
+
+   Environmentalists such as Davis and Henley, who Brosius writes lumped
+   all native groups of Malaysia into one homogeneous group with the same
+   ideas and traditions, and lacked dialectical connections needed to
+   deeply understand the Penan, lacked full knowledge of the situation's
+   specific weight to the Indigenous peoples.^[245] The two embarked on a
+   mission, stating they wished to help with conservation of the Penan's
+   land resources, but Brosious states they were among the many who
+   repackaged traditional knowledge into something that fit a Western
+   narrative and agenda, and that Davis and Henley romanticized and
+   misconstrued the traditional Penan concept of molong (meaning: "to
+   preserve" – the Penan marked trees for personal use and to preserve
+   them for future harvesting of fruits or for materials).^[245]
+
+   Another common occurrence is to extend Indigenous knowledge beyond its
+   limits and into unrelated meanings that western consumers find
+   spiritually profound. This tendency of journalists extends beyond Davis
+   and Henley. It serves non-Natives to add a narrative and value beyond
+   that which already exists within the knowledge base of Indigenous
+   peoples. Not only do these fictionalized accounts of some Indigenous
+   knowledge and traditions skew the beliefs of onlookers, but they also
+   contribute to cultural genocide as the actual spiritual and religious
+   beliefs of the Indigenous people are disappeared and replaced with the
+   westernized fiction.^[245]
+
+See also
+
+     * icon Civilizations portal
+     * World portal
+
+     * Collective rights
+     * Colonialism
+     * Cultural appropriation
+     * Ethnic minority
+     * Ecotourism § Impact on Indigenous people and Indigenous land
+     * Genocide of Indigenous peoples
+     * Human rights
+     * The Image Expedition
+     * Indigenism
+     * Indigenous Futurisms
+     * Indigenous intellectual property
+     * Indigenous Peoples Climate Change Assessment Initiative
+     * Indigenous rights
+     * Intangible cultural heritage
+     * International Day of the World's Indigenous Peoples
+     * National Indigenous Peoples Day, Canada
+     * Indigenous Peoples' Day (United States)
+     * Isuma
+     * Jus sanguinis, 'right of blood'
+     * List of active non-governmental organizations of national
+       minorities, Indigenous and diasporas
+     * List of ethnic groups
+     * List of Indigenous peoples
+     * Missing and murdered Indigenous women
+     * Uncontacted peoples
+     * United Nations Permanent Forum on Indigenous Issues
+     * Unrepresented Nations and Peoples Organization
+     * Virgin soil epidemic
+
+Notes
+
+    1. ^ Also known as first peoples, first nations, Aboriginal peoples,
+       native peoples, Indigenous natives, or autochthonous peoples. Since
+       2020, most style guides have recommended capitalization of
+       "Indigenous" when referring to specific Indigenous peoples as
+       ethnic groups, nations, and the citizens or members of these
+       groups.^[246]^[247]^[248]^[249]^[250]
+    2. ^ "Irish Travellers are a minority community indigenous to Ireland
+       who have existed on the margins of Irish society for centuries.
+       They share common cultural practices, such as nomadism, early
+       marriage, and a tradition of self-employment. They have distinct
+       rituals of death and cleansing, and their own language, Gammon or
+       Cant." (Keane 43)
+
+References
+
+    1. ^ "Indigenous peoples". UNESCO World Heritage Convention. UNESCO.
+       Retrieved 10 November 2025.
+    2. ^ ^a ^b ^c Secretariat of the Permanent Forum on Indigenous Issues
+       (2009). State of the World's Indigenous Peoples (PDF). New York:
+       United Nations. pp. 4–7. Archived from the original on 15 January
+       2015.
+    3. ^ ^a ^b ^c "Indigenous and Tribal People's Rights Over Their
+       Ancestral Lands and Natural Resources". Inter-American Commission
+       on Human Rights. Archived from the original on 1 June 2020.
+       Retrieved 30 May 2020.
+    4. ^ United Nations Human Rights, Office of the High Commissioner
+       (2013). "Indigenous Peoples and the United Nations Human Rights
+       System, Fact Sheet No. 9/Rev.2". United Nations. p. 2. Retrieved 29
+       December 2023.
+    5. ^ ^a ^b ^c ^d McIntosh, Ian (September 2000). "Are there Indigenous
+       Peoples in Asia?". Cultural Survival Quarterly Magazine. Archived
+       from the original on 22 April 2021. Retrieved 1 April 2021.
+    6. ^ ^a ^b ^c ^d Secretariat of the Permanent Forum on Indigenous
+       Issues 2009, p. 6.
+    7. ^ ^a ^b Muckle, Robert J. (2012). Indigenous Peoples of North
+       America: A Concise Anthropological Overview. University of Toronto
+       Press. p. 18. ISBN 978-1-4426-0416-2.
+    8. ^ "Indigenous Peoples and the United Nations Human Rights System"
+       (PDF). United Nations. p. 2. Archived from the original (PDF) on 2
+       June 2025. Retrieved 21 May 2023.
+    9. ^ Acharya, Deepak and Shrivastava Anshu (2008): Indigenous Herbal
+       Medicines: Tribal Formulations and Traditional Herbal Practices,
+       Aavishkar Publishers Distributor, Jaipur, India.
+       ISBN 978-81-7910-252-7. p. 440
+   10. ^ UNHR Fact Sheet No. 9 2013, p. 3.
+   11. ^ Taylor Saito, Natsu (2020). "Unsettling Narratives". Settler
+       Colonialism, Race, and the Law: Why Structural Racism Persist
+       (eBook). NYU Press. ISBN 978-0-8147-0802-6. Archived from the
+       original on 15 March 2023. Retrieved 21 December 2020. "...several
+       thousand nations have been arbitrarly (and generally involuntarily)
+       incorporated into approximately two hundred political constructs we
+       call independent states..."
+   12. ^ Miller, Robert J.; Ruru, Jacinta; Behrendt, Larissa; Lindberg,
+       Tracey (2010). Discovering Indigenous Lands: The Doctrine of
+       Discovery in the English Colonies. Oxford University Press.
+       pp. 9–13. ISBN 978-0-19-957981-5.
+   13. ^ ^a ^b UNHR Fact Sheet No. 9 2013, p. 9.
+   14. ^ ^a ^b Bodley 2008, p. 2.
+   15. ^ UNHR Fact Sheet No. 9 2013, p. 4.
+   16. ^ "indigene, adj. and n." OED Online. Oxford University Press,
+       September 2016. Web. 22 November 2016.
+   17. ^ "indigenous (adj.)". Online Etymology Dictionary. Archived from
+       the original on 9 March 2021. Retrieved 4 March 2021.
+   18. ^ Peters, Michael A.; Mika, Carl T. (10 November 2017). "Aborigine,
+       Indian, indigenous or first nations?". Educational Philosophy and
+       Theory. 49 (13): 1229–1234. doi:10.1080/00131857.2017.1279879.
+       ISSN 0013-1857.
+   19. ^ ^a ^b UNHR Fact Sheet No. 9 2013, p. 2
+   20. ^ Mathewson, Kent (2004). "Drugs, Moral Geographies, and Indigenous
+       Peoples: Some Initial Mappings and Central Issues". Dangerous
+       Harvest: Drug Plants and the Transformation of Indigenous
+       Landscapes. Oxford University Press. p. 13. ISBN 978-0-19-514319-5.
+       "As Sir Thomas Browne remarked in 1646, (this seems to be the first
+       usage in its modern sense)."
+   21. ^ Browne, Sir Thomas (1646). "Pseudodoxia Epidemica, Chap. X. Of
+       the Blackness of Negroes". University of Chicago. Archived from the
+       original on 15 March 2023. Retrieved 3 March 2021.
+   22. ^ Smith, Linda Tuhiwai (2012). Decolonizing methodologies :
+       research and indigenous peoples (2nd ed.). Dunedin, New Zealand:
+       Otago University Press. ISBN 978-1-877578-28-1. OCLC 805707083.
+   23. ^ Robert K. Hitchcock, Diana Vinding, Indigenous Peoples' Rights in
+       Southern Africa, IWGIA, 2004, p. 8 based on Working Paper by the
+       Chairperson-Rapporteur, Mrs. Erica-Irene A. Daes, on the concept of
+       indigenous people. UN-Dokument E/CN.4/Sub.2/AC.4/1996/2 ([1]
+       Archived 14 September 2016 at the Wayback Machine, unhchr.ch)
+   24. ^ "International Day of the World's Indigenous Peoples - 9 August".
+       United Nations. Archived from the original on 19 January 2019.
+       Retrieved 11 March 2020.
+   25. ^ Sanders, Douglas E. (1999). "Indigenous peoples: Issues of
+       definition". International Journal of Cultural Property. 8 (1):
+       4–13. doi:10.1017/s0940739199770591.
+   26. ^ Secretariat of the Permanent Forum on Indigenous Issues 2009,
+       p. 5.
+   27. ^ UNHR Fact Sheet No. 9 2013, pp. 4–5.
+   28. ^ "Indigenous Peoples". The World Bank. 6 April 2023. Archived from
+       the original on 24 July 2025. Retrieved 28 December 2023.
+   29. ^ Amnesty International (2023). "Indigenous Peoples". Amnesty
+       International. Archived from the original on 2 July 2025. Retrieved
+       30 December 2023.
+   30. ^ "A working definition, by José Martinez Cobo". IWGIA -
+       International Work Group for Indigenous Affairs. 9 April 2011.
+       Archived from the original on 26 October 2019. Retrieved 11 March
+       2020.
+   31. ^ Secretariat of the Permanent Forum on Indigenous Issues 2009,
+       pp. 4–5.
+   32. ^ Anaya, S. James (2004). Indigenous Peoples in International Law
+       (2nd ed.). Oxford University Press. p. 3. "Professor Anaya teaches
+       Native American Law, and is the third Commission on Human Rights
+       Special Rapporteur on the Human Rights and Fundamental Freedoms of
+       Indigenous People"
+   33. ^ Tuck, Eve; Yang, K. Wayne (2012). "Decolonization is not a
+       metaphor". Tabula Rasa. 38: 61–111.
+   34. ^ ^a ^b ^c Singh, Manvir (20 February 2023). "It's Time to Rethink
+       the Idea of the "Indigenous"". The New Yorker. Archived from the
+       original on 27 June 2025. Retrieved 3 November 2024.
+   35. ^ O'Sullivan, Dominic (2017). "The politics of indigeneity".
+       Indigeneity: A Politics of Potential: Australia, Fiji and New
+       Zealand. Bristol University Press. pp. 35–50.
+   36. ^ Lindroth, Marjo; Sinevaara-Niskanen, Heidi (2019). "Colonialism
+       invigorated? The manufacture of resilient indigeneity". Resilience.
+       7 (3): 240–254. doi:10.1080/21693293.2019.1601860.
+   37. ^
+          +
+       Weaver, Jace (2005). "Indigenousness and Indigeneity". In Schwarz,
+       Henry; Ray, Sangeeta (eds.). A Companion to Postcolonial Studies.
+       Blackwell Publishing. pp. 221–235. ISBN 0-631-20663-9.
+   38.
+
+   Merlan, Francesca (June 2009). "Indigeneity: Global and Local". Current
+   Anthropology. 50 (3): 303–333. doi:10.1086/597667.
+   JSTOR 10.1086/597667. PMID 19827331.
+
+     Trigger, David S.; Dalley, Cameo (2010). "Negotiating Indigeneity:
+   Culture, Identity, and Politics". Reviews in Anthropology. 39 (1):
+   46–65. doi:10.1080/00938150903548618.
+
+     Byrd, Jodi A.; Rothberg, Michael (2011). "Between Subalternity and
+   Indigineity". Interventions. 13 (1): 1–12.
+   doi:10.1080/1369801X.2011.545574.
+
+     Graham, Laura R.; Penny, H. Glenn (2014). "Performing Indigeneity:
+   Emergent Identity, Self-Determination, and Sovereignty". Performing
+   Indigeneity: Global Histories and Contemporary Experiences. University
+   of Nebraska Press. pp. 1–31. doi:10.2307/j.ctt1d9nmw6.5.
+
+     Radcliffe, Sarah A. (2015). "Geography and indigeneity I:
+   Indigeneity, coloniality and knowledge". Progress in Human Geography.
+   41 (2): 220–229. doi:10.1177/0309132515612952.
+
+     Matute, Inés Durán (June 2020). "Indigeneity as a transnational
+   battlefield: disputes over meanings, spaces and peoples".
+   Globalizations. 18 (2): 256–272. doi:10.1080/14747731.2020.1771962.
+
+     ^ Abel, V. Lynne Snyder (1966). Fifth Century B.C. Concepts of the
+   Pelasgians. Stanford University. pp. 12 & 49.
+
+     ^ Colvin, Stephen (5 December 2013). A Brief History of Ancient
+   Greek. John Wiley & Sons. ISBN 978-1-118-61072-5. Archived from the
+   original on 15 March 2023. Retrieved 15 August 2021.
+
+     ^ Dionysius of Halicarnassus. Roman Antiquities, 1.17 Archived 15
+   December 2022 at the Wayback Machine.
+
+     ^ Shillington, Kevin (2019). History of Africa (4th ed.). London: Red
+   Globe Press. pp. 188–91. ISBN 978-1-137-50403-6.
+
+     ^ Shillington (2019). p. 202
+
+     ^ Shillington (2019). pp. 194–95
+
+     ^ ^a ^b ^c Taylor 2013, pp. 15–16.
+
+     ^ Adhikari, Mohamed (7 September 2017). "Europe's First Settler
+   Colonial Incursion into Africa: The Genocide of Aboriginal Canary
+   Islanders". African Historical Review. 49 (1): 1–26.
+   doi:10.1080/17532523.2017.1336863.
+
+     ^ Pagden 2001, pp. 58–59.
+
+     ^ Pagden 2001, p. 93.
+
+     ^ Shillington (2019). pp. 343–46
+
+     ^ Burkholder, Mark A.; Johnson, Lyman L. (2001). Colonial Latin
+   America (4th ed.). New York: Oxford University Press. p. 33.
+   ISBN 0-19-513702-7.
+
+     ^ Pagden 2001, pp. 59–60, 93.
+
+     ^ Shillington (2019). p. 350.
+
+     ^ Shillington (2019). pp. 350-52
+
+     ^ Pagden 2001, pp. 108–111.
+
+     ^ Pagden 2001, pp. 91–95.
+
+     ^ Padgen (2001). pp. 84-85
+
+     ^ Pagden 2001, pp. 72–73.
+
+     ^ Benton, Lauren; Straumann, Benjamin (February 2010). "Acquiring
+   empire by law: From Roman doctrine to early modern European practice".
+   Law and History Review. 28 (1). American Society for Legal History:
+   1–38 [34–36]. doi:10.1017/S0738248009990022. JSTOR 40646121.
+
+     ^ Burkholder and Johnson (2001). pp. 34-39
+
+     ^ Taylor 2013, p. 17.
+
+     ^ Burkholder and Johnson (2001). pp. 42-50.
+
+     ^ Burkholder and Lyman (2001). pp. 50-56
+
+     ^ Taylor 2013, pp. 28–30.
+
+     ^ Taylor 2013, p. 33.
+
+     ^ ^a ^b Taylor 2013, pp. 35–38, 83.
+
+     ^ Taylor 2013, pp. 51–76, 80.
+
+     ^ Pagden 2001, pp. 95–96.
+
+     ^ Taylor 2013, pp. 43, 76.
+
+     ^ Taylor 2013, pp. 17–18.
+
+     ^ ^a ^b Taylor 2013, p. 20.
+
+     ^ Pagden 2001, pp. 120–126.
+
+     ^ Pagden 2001, pp. 30–31.
+
+     ^ Pagden 2001, pp. 129–131.
+
+     ^ King (2003). p. 122
+
+     ^ Wagstrom, Thor (2005). "Broken Tongues and Foreign Hearts". In
+   Brock, Peggy (ed.). Indigenous Peoples and Religious Change. Boston:
+   Brill Academic Publishers. pp. 71 and 73. ISBN 978-90-04-13899-5.
+
+     ^ Lange, Raeburn (1999). May the people live: a history of Māori
+   health development 1900–1920. Auckland University Press. p. 18.
+   ISBN 978-1-86940-214-3.
+
+     ^ "Crown colony era – the Governor-General". NZHistory. New Zealand
+   Ministry for Culture and Heritage. March 2009. Archived from the
+   original on 28 June 2022. Retrieved 7 January 2011.
+
+     ^ Moon, Paul (2010). New Zealand Birth Certificates – 50 of New
+   Zealand's Founding Documents. AUT Media. p. 66. ISBN 978-0-95829971-8.
+
+     ^ Macintyre, Stuart (2020). A Concise History of Australia (5th ed.).
+   Melbourne: Cambridge University Press. pp. 38–39, 71–77, 83.
+   ISBN 978-1-108-72848-5.
+
+     ^ Slattery, Brian (2005). "Paper Empires: The legal dimensions of
+   French and English Ventures in North America". In McLaren, John; Buck,
+   A. R.; Wright, Nancy E. (eds.). Despotic Dominion, property Rights in
+   British Settler Societies. Vancouver: University of British Columbia
+   Press. pp. 51, 55, 58, 62–65, 67, 69.
+
+     ^ Miller, Robert J.; Ruru, Jacinta; Behrendt, Larissa; Lindberg,
+   Tracey (2010). Discovering indigenous lands, the doctrine of discovery
+   in the English colonies. New York: Oxford University Press. pp. 9–12.
+   ISBN 9780199651856.
+
+     ^ McNeil (2016). p. 707
+
+     ^ Benton and Strauman (2010). pp. 3, 12
+
+     ^ Miller, Robert J. (2006). Native America, Discovered and Conquered:
+   Thomas Jefferson, Lewis & Clark, and Manifest Destiny. Praeger
+   Publications. pp. 9–10. ISBN 978-0-275-99011-4.
+
+     ^ Hirch, Mirjan (20 September 2007). "What the UN Declaration Means".
+   Center for World Indigenous Studies. Archived from the original on 28
+   April 2025. Retrieved 19 February 2025.
+
+     ^ UN Permanent Forum on Indigenous Issues (2009). State of the
+   world's indigenous peoples. New York: United Nations.
+   ISBN 978-92-1-130283-7.
+
+     ^ Secretariat of the Permanent Forum on Indigenous Issues 2009, p. 1.
+
+     ^ World Bank (2011). Indigenous Peoples: Still among the poorest of
+   the poor (PDF). Washington. Archived from the original (PDF) on 16 June
+   2025.
+
+     ^ The countries included were: Angola, Argentina, Australia,
+   Bangladesh, Belize, Bolivia, Brazil, Burkina Faso, Cambodia, Cameroon,
+   Canada, Chad, Chile, China, Colombia, Congo, Democratic Republic of the
+   Congo, Costa Rica, Denmark, Dominica, Ecuador, Ethiopia, Fiji, Finland,
+   Gabon, Guatemala, Honduras, India, Indonesia, Kenya, Lao People's
+   Democratic Republic, Mali, Mexico, Mongolia, Morocco, Namibia, Nepal,
+   New Caledonia, New Zealand, Nicaragua, Niger, Nigeria, Norway,
+   Pakistan, Panama, Paraguay, Peru, Philippines, Russian Federation,
+   Senegal, South Africa, Suriname, Uganda, United States, Uruguay,
+   Venezuela, and Viet Nam. The report accepted the UN count of at least
+   90 countries with Indigenous peoples, but did not including the
+   remaining 32 countries in its count. Kumar Dhir, Rishabh; Cattaneo,
+   Umberto; Cabrera Ormaza, Maria Victoria; Coronado, Hernan; Oelz, Martin
+   (2019). Implementing the ILO Indigenous and Tribal Peoples Convention
+   No. 169: Towards an inclusive, sustainable and just future.
+   International Labour Organization. Archived from the original on 14
+   June 2025. Retrieved 14 February 2025.
+
+     ^ Kumar Dhir, Rishabh; Cattaneo, Umberto; Cabrera Ormaza, Maria
+   Victoria; Coronado, Hernan; Oelz, Martin (2019). Implementing the ILO
+   Indigenous and Tribal Peoples Convention No. 169: Towards an inclusive,
+   sustainable and just future. International Labour Organization. p. 51.
+   Archived from the original on 14 June 2025. Retrieved 14 February 2025.
+   "Country-level data on indigenous peoples' population could only be
+   gathered for the 58 most populous countries, where indigenous peoples
+   are considered to live. As a result, the true extent of the indigenous
+   peoples' population is likely to be found to be even greater than the
+   estimates presented below. However, working with the data currently
+   available, it is difficult to determine the range within which the
+   "true" value lies. The figures presented below are the most reliable
+   lower bound estimates available, based on the sources listed in
+   Appendix A.2"
+
+     ^ McIntosh, Ian (September 2000). "Are there Indigenous Peoples in
+   Asia?". Cultural Survival Quarterly Magazine. Archived from the
+   original on 22 April 2021. Retrieved 1 April 2021. "the word itself now
+   has little meaning outside of the struggle for rights and dignity on
+   the part of minorities and the oppressed."
+
+     ^ Grote, Rainer (2006). "On the Fringes of Europe: Europe's Largely
+   Forgotten Indigenous Peoples". American Indian Law Review. 31 (2):
+   425–443. doi:10.2307/20070794. JSTOR 20070794.
+
+     ^ Veit, Peter; Ding, Helen (7 October 2016). "Protecting Indigenous
+   Land Rights Makes Good Economic Sense". World Resources Institute.
+   Archived from the original on 8 October 2019. Retrieved 21 October
+   2019.
+
+     ^ Ding, Helen; Veit, Peter; Gray, Erin; Reytar, Katie; Altamirano,
+   Juan-Carlos; Blackman, Allen; Hodgdon, Benjamin (10 June 2016). Climate
+   Benefits, Tenure Costs. ISBN 978-1-56973-894-8. Archived from the
+   original on 17 October 2019. Retrieved 21 October 2019 – via
+   www.wri.org.
+
+     ^ "Defending the defenders: tropical forests in the front line".
+   Unep. 13 May 2019. Archived from the original on 20 October 2019.
+   Retrieved 21 October 2019.
+
+     ^ "Protect indigenous people's land rights and the whole world will
+   benefit | DISD". United Nations. Archived from the original on 12
+   August 2020. Retrieved 21 October 2019.
+
+     ^ Birch, Sharon (11 May 2015). "What role do indigenous people and
+   forests have in a sustainable future?". United Nations. Archived from
+   the original on 20 October 2019. Retrieved 21 October 2019.
+
+     ^ Ellis, Erle C.; Gauthier, Nicolas; Goldewijk, Kees Klein; Bird,
+   Rebecca Bliege; Boivin, Nicole; Díaz, Sandra; Fuller, Dorian Q.; Gill,
+   Jacquelyn L.; Kaplan, Jed O.; Kingston, Naomi; Locke, Harvey;
+   McMichael, Crystal N. H.; Ranco, Darren; Rick, Torben C.; Shaw, M.
+   Rebecca; Stephens, Lucas; Svenning, Jens-Christian; Watson, James E. M.
+   (27 April 2021). "People have shaped most of terrestrial nature for at
+   least 12,000 years". Proceedings of the National Academy of Sciences.
+   118 (17) e2023483118. Bibcode:2021PNAS..11823483E.
+   doi:10.1073/pnas.2023483118. PMC 8092386. PMID 33875599.
+
+     ^ Diamond, Jared M. (1991). The rise and fall of the third
+   chimpanzee. Radius. ISBN 978-0-09-174268-3.
+
+     ^ Harari, Yuval N. (2015). Sapiens: a brief history of humankind (1st
+   U.S. ed.). New York: Harper. ISBN 9780062316097.
+
+     ^ Mein Smith, Philippa (2012). A Concise History of New Zealand.
+   Cambridge University Press. pp. 2, 5–6. ISBN 978-1107402171.
+
+     ^ Milberg, Per; Tyrberg, Tommy (1993). "Naïve birds and noble savages
+   – a review of man-caused prehistoric extinctions of island birds".
+   Ecography. 16 (3): 229–250. Bibcode:1993Ecogr..16..229M.
+   doi:10.1111/j.1600-0587.1993.tb00213.x.
+
+     ^ Natcher, David C. (5 April 2007). "M. Kat Anderson: Tending the
+   Wild: Native American Knowledge and the Management of California's
+   Natural Resources: Berkeley: University of California Press 2005
+   (526pp). ISBN 0-520-23856-7". Human Ecology. 35 (3): 381–382.
+   Bibcode:2007HumEc..35..381N. doi:10.1007/s10745-006-9075-4.
+
+     ^ Lowenhaupt Tsing, Anna (2005). Friction: an ethnography of global
+   connection. Princeton University Press. ISBN 0-691-12065-X.
+   OCLC 937000280.
+
+     ^ Bicker, Alan; Ellen, Roy; Parkes, Peter, eds. (2003). "Endangered
+   Forest, Endangered People Environmentalist Representations of
+   Indigenous Knowledge". Indigenous Environmental Knowledge and its
+   Transformations. pp. 302–327. doi:10.4324/9780203479568-18.
+   ISBN 978-0-203-47956-8.
+
+     ^ Chandrasekhar, Aruna; Dunne, Daisy; Dwyer, Orla; Quiroz, Yanine;
+   Viglione, Giuliana (2 November 2024). "COP16: Key outcomes agreed at
+   the UN biodiversity conference in Cali, Colombia". Carbon Brief.
+   Archived from the original on 23 July 2025. Retrieved 3 November 2024.
+
+     ^ "In the 2010 census "Indigenous" people were defined as persons who
+   live in a household where an Indigenous language is spoken by one of
+   the adult family members or people who self identified as Indigenous
+   ("Criteria del hogar: De esta manera, se establece, que los hogares
+   indígenas son aquellos en donde el jefe y/o el cónyuge y/o padre o
+   madre del jefe y/o suegro o suegra del jefe hablan una lengua indígena
+   y también aquellos que declararon pertenecer a un grupo indígena".
+   Cdi.gob.mx. Archived from the original on 25 December 2019. Retrieved 9
+   April 2018.
+
+     ^ "Persons who speak an indigenous language but who do not live in
+   such a household (Por lo antes mencionado, la Comisión Nacional Para el
+   Desarrollo de los Pueblos Indígenas de México (CDI) considera población
+   indígena (PI) a todas las personas que forman parte de un hogar
+   indígena, donde el jefe(a) del hogar, su cónyuge y/o alguno de los
+   ascendientes (madre o padre, madrastra o padrastro, abuelo(a),
+   bisabuelo(a), tatarabuelo(a), suegro(a)) declaro ser hablante de lengua
+   indígena. Además, también incluye a personas que declararon hablar
+   alguna lengua indígena y que no forman parte de estos hogares".
+   Cdi.gob.mx. Archived from the original on 1 May 2011. Retrieved 9 April
+   2018.
+
+     ^ "John P. Schmal". Somosprimos.com. Archived from the original on 20
+   September 2008. Retrieved 19 April 2016.
+
+     ^ "Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
+   México" [National Commission for the Development of Indigenous Peoples.
+   Mexico] (in Spanish). Cdi.gob.mx. Archived from the original on 15
+   November 2004. Retrieved 22 April 2013.
+
+     ^ "Civilization.ca – Gateway to Aboriginal Heritage–Culture".
+   Canadian Museum of Civilization Corporation. Government of Canada. 12
+   May 2006. Archived from the original on 11 August 2011. Retrieved 18
+   September 2009.
+
+     ^ "Inuit Circumpolar Council (Canada) – ICC Charter". Inuit
+   Circumpolar Council > ICC Charter and By-laws > ICC Charter. 2007.
+   Archived from the original on 5 March 2010. Retrieved 18 September
+   2009.
+
+     ^ "In the Kawaskimhon Aboriginal Moot Court Factum of the Federal
+   Crown Canada" (PDF). Faculty of Law. University of Manitoba. 2007.
+   p. 2. Archived from the original (PDF) on 26 March 2009. Retrieved 18
+   September 2009.
+
+     ^ "Words First An Evolving Terminology Relating to Aboriginal Peoples
+   in Canada". Communications Branch of Indian and Northern Affairs
+   Canada. 2004. Archived from the original on 14 December 2007. Retrieved
+   26 June 2010.
+
+     ^ "Terminology of First Nations, Native, Aboriginal and Métis" (PDF).
+   Aboriginal Infant Development Programs of BC. 2009. Archived from the
+   original (PDF) on 14 July 2010. Retrieved 26 June 2010.
+
+     ^ "Why we say "Indigenous" instead of "Aboriginal"". Indigenous
+   Innovation. Archived from the original on 25 September 2020. Retrieved
+   22 September 2020.
+
+     ^ Statistics Canada, [2] Archived 15 December 2022 at the Wayback
+   Machine (table), Census Profile, 2016 Census of Population, Catalogue №
+   98-316-X2016001 (Ottawa: 2017‑11‑29); ———, Aboriginal Peoples Reference
+   Guide Archived 12 December 2019 at the Wayback Machine, 2016 Census of
+   Population, Catalogue № 98‑500‑X2016009 (Ottawa: 2017‑10‑25),
+   ISBN‑13:978‑0‑660‑05518‑3, [accessed 2019‑10‑08].
+
+     ^ "Assembly of First Nations - Assembly of First Nations-The Story".
+   Assembly of First Nations. Archived from the original on 2 August 2009.
+   Retrieved 2 October 2009.
+
+     ^ "Civilization.ca-Gateway to Aboriginal Heritage-object". Canadian
+   Museum of Civilization Corporation. 12 May 2006. Archived from the
+   original on 4 November 2013. Retrieved 2 October 2009.
+
+     ^ "Treaties with Indigenous Peoples in Canada | the Canadian
+   Encyclopedia". Archived from the original on 22 September 2020.
+   Retrieved 22 September 2020.
+
+     ^ Kintisch, Eli (10 November 2016). "Why did Greenland's Vikings
+   disappear?". Science | AAAS. Archived from the original on 11 November
+   2021. Retrieved 29 December 2019.
+
+     ^ "The World Is Changing for Greenland's Native Inuit People [sic]".
+   oceanwide-expeditions.com. Archived from the original on 7 July 2019.
+   Retrieved 29 December 2019.
+
+     ^ Wade, Nicholas (30 May 2008). "DNA Offers Clues to Greenland's
+   First Inhabitants". The New York Times. Archived from the original on
+   13 December 2019. Retrieved 29 December 2019.
+
+     ^ "Reverse Colonialism - How the Inuit Conquered the Vikings".
+   Canadian Geographic. 27 July 2015. Archived from the original on 29
+   December 2019. Retrieved 29 December 2019.
+
+     ^ Dean, Bartholomew 2009 Urarina Society, Cosmology, and History in
+   Peruvian Amazonia, Gainesville: University Press of Florida
+   ISBN 978-0-8130-3378-5 [3] Archived 17 July 2011 at the Wayback Machine
+
+     ^ "Los 10 principales pueblos indígenas de Chile" [The 10 main
+   indigenous peoples of Chile]. marcachile.cl (in Spanish). 24 June 2021.
+   Archived from the original on 31 December 2021. Retrieved 15 December
+   2021.
+
+     ^ "Brazil urged to protect Indians". BBC News. 30 March 2005.
+   Archived from the original on 17 November 2017. Retrieved 11 October
+   2011.
+
+     ^ "Brazil sees traces of more isolated Amazon tribes". Reuters.
+   Archived from the original on 17 November 2017. Retrieved 11 October
+   2011.
+
+     ^ ^a ^b ^c ^d Travis, Hannibal (March 2009). "The Cultural and
+   Intellectual Property Interests of the Indigenous Peoples of Turkey and
+   Iraq". Texas Wesleyan Law Review. 15 (2): 415–494.
+   doi:10.37419/TWLR.V15.I2.6. SSRN 1549804. "The U.N. Declaration on the
+   Rights of Indigenous Peoples requires states to provide an effective
+   remedy to indigenous peoples deprived of their cultural, religious, or
+   intellectual property (IP) without their free, prior and informed
+   consent. The Declaration could prove to be an important safeguard for
+   the indigenous peoples of Iraq and Turkey, the victims for centuries of
+   massacres, assaults on their religious and cultural sites, theft and
+   deterioration of their lands and cultural objects, and forced
+   assimilation. These peoples, among them the Armenians, Assyrians,
+   Greeks, and Yezidis of Turkey and Turkish-occupied Cyprus, and the
+   Armenians, Assyrians, Yezidis, and Mandaeans of Iraq, have lost more
+   than two-thirds of their peak populations, most of their cultural and
+   religious sites, and thousands of priceless artifacts and specimens of
+   visual art."
+
+     ^ Abramian, Jackie (27 September 2021). "A Year After Unleashing War
+   Crimes Against Indigenous Armenians, Azerbaijan's Threats And
+   Violations Continue". Forbes. Archived from the original on 3 August
+   2022. Retrieved 3 August 2022.
+
+     ^ "Armenian (people)". Encyclopedia Britannica. Archived from the
+   original on 26 April 2019. Retrieved 3 August 2022.
+
+     ^ Morris, Glenn T.; Maghakyan, Simon (29 April 2021). "The U.S. has
+   finally acknowledged the genocide of Armenians. What about Native
+   Americans?". The Washington Post. Archived from the original on 21
+   November 2021. Retrieved 3 August 2022.
+
+     ^ Zografou, Magda; Pipyrou, Stavroula (2016). "Dance and Difference:
+   Toward an Individualization of the Pontian Self". In Meglin, Joellen
+   A.; Matluck Brooks, Lynn (eds.). Preserving Dance Across Time and
+   Space. Taylor & Francis. p. 267. ISBN 9781134906383. "The Pontians are
+   a population that originate from the historical area of Pontus in
+   Anatolia, originally located around the southern and eastern coasts of
+   the Black Sea."
+
+     ^ Mackridge, Peter (1991). "The Pontic Dialect: A Corrupt Version of
+   Ancient Greek?". Journal of Refugee Studies. 4 (4): 335–339.
+   doi:10.1093/jrs/4.4.335. "These people originate from the eastern half
+   of the southern shores of the Black Sea."
+
+     ^ Michailidis, Nikos (2016). Soundscapes of Trabzon: Music, Memory,
+   and Power in Turkey (PhD). Princeton University. p. 62.
+
+     ^ "Rediscovering Romeyka". Romeyka Project. Archived from the
+   original on 30 December 2021. Retrieved 30 December 2021.
+
+     ^ Head, Jonathan (7 January 2011). "Greek community in Turkey fears
+   for its survival". BBC News. Archived from the original on 30 December
+   2021. Retrieved 30 December 2021.
+
+     ^ Hajnal, Ivo (2018). "120. Graeco-Anatolian contacts in the
+   Mycenaean period". Handbook of Comparative and Historical Indo-European
+   Linguistics. pp. 2037–2055. doi:10.1515/9783110542431-041.
+   ISBN 978-3-11-054243-1.
+
+     ^ Crouch, Dora P. (2003). "Eastern Greco-Roman Cities". Geology and
+   Settlement: Greco-Roman Patterns. Oxford University Press. p. 185.
+   ISBN 9780197560457.
+
+     ^ Crouch, Dora P. (2004). Geology and Settlement: Greco-Roman
+   Patterns. New York: Oxford University Press. p. 183.
+   ISBN 9780197560457.
+
+     ^ Donabed, Sargon George; Tower, Daniel Joseph (1 January 2018).
+   "Reframing Indigeneity: The Case of Assyrians in Northern Mesopotamia".
+   Perspectives on History. American Historical Association. Archived from
+   the original on 3 August 2022. Retrieved 3 August 2022.
+
+     ^ Kelley, Katelyn. "Indigenous Persistence Despite Government and
+   Religious Persecution". History Corps. University of Iowa. Archived
+   from the original on 24 August 2022. Retrieved 3 August 2022.
+
+     ^ United Nations High Commissioner for Refugees. "Refworld – World
+   Directory of Minorities and indigenous Peoples – Turkey: Assyrians".
+   Refworld. Archived from the original on 3 May 2019. Retrieved 18 July
+   2015.
+
+     ^ Sauter, Megan (7 February 2023). "What Is Coptic and Who Were the
+   Copts in Ancient Egypt?". Biblical Archaeology Society. Retrieved 27
+   October 2023.
+
+     ^ Refugees, United Nations High Commissioner for. "Refworld | World
+   Directory of Minorities and Indigenous Peoples - Egypt : Copts of
+   Egypt". Refworld. Retrieved 27 October 2023.
+
+     ^ Elassar, Alaa (10 October 2019). "Who are the Kurds and why are
+   they under attack?". CNN. Archived from the original on 3 August 2022.
+   Retrieved 3 August 2022.
+
+     ^ O'Grady, Siobhán; Berger, Miriam (14 October 2019). "Who are the
+   Kurds, and why is Turkey attacking them?". The Washington Post.
+   Archived from the original on 8 December 2021. Retrieved 3 August 2022.
+
+     ^ Blakemore, Erin (16 August 2019). "Today, the Kurds are spread
+   across four nations. Who are they?". National Geographic. Archived from
+   the original on 3 August 2022. Retrieved 3 August 2022.
+
+     ^ "Who Are the Kurds?". BBC News. 31 October 2017. Archived from the
+   original on 24 September 2020. Retrieved 8 July 2018.
+
+     ^ "Kurds and Kurdistan: Facts and Figures". Archived from the
+   original on 25 February 2021. Retrieved 8 July 2018.
+
+     ^ atlasofhumanity.com. "Iraq, Yazidis". Atlas Of Humanity. Archived
+   from the original on 22 September 2020. Retrieved 1 February 2021.
+
+     ^ Asher-Schapiro, Avi (11 August 2014). "Who Are the Yazidis, the
+   Ancient, Persecuted Religious Minority Struggling to Survive in Iraq?".
+   National Geographic. Archived from the original on 10 August 2022.
+   Retrieved 3 August 2022.
+
+     ^ Evans, K.R. (6 June 2017). "The Yazidis - An Ancient Indigenous
+   People". SAY Magazine. Archived from the original on 3 July 2022.
+   Retrieved 3 August 2022.
+
+     ^ Grimm, Matthew (20 September 2014). "A Brief History of the Yazidis
+   of Iraq". JSTOR Daily. Archived from the original on 5 October 2022.
+   Retrieved 3 August 2022.
+
+     ^ Busbridge, Rachel (January 2018). "Israel-Palestine and the Settler
+   Colonial 'Turn': From Interpretation to Decolonization". Theory,
+   Culture & Society. 35 (1): 91–115. doi:10.1177/0263276416688544.
+
+     ^ Ukashi, Ran (2018). "Zionism, Imperialism, and Indigeneity in
+   Israel/Palestine: A Critical Analysis". Peace and Conflict Studies.
+   doi:10.46743/1082-7307/2018.1442.
+
+     ^ Goldberg, Carole (2020). "Invoking the Indigenous, for and against
+   Israel". Swimming against the Current. pp. 298–318.
+   doi:10.1515/9781644693087-019. ISBN 978-1-64469-308-7.
+
+     ^ Troen, S. Ilan (2013). "Israeli Views of the Land of
+   Israel/Palestine". Israel Studies. 18 (2): 100–114.
+   doi:10.2979/israelstudies.18.2.100.
+   JSTOR 10.2979/israelstudies.18.2.100.
+
+     ^ Kattan, Victor. "'Invented' Palestinians, 'Indigenous' Jews: The
+   Roots of Israel's Annexation Plan, and Why the World Must Stop
+   Netanyahu, Before It's Too Late". Haaretz. Archived from the original
+   on 1 August 2021. Retrieved 1 August 2021.
+
+     ^ Pappe, Ilan (1 January 2018). "Indigeneity as Cultural Resistance:
+   Notes on the Palestinian Struggle within Twenty-First-Century Israel".
+   South Atlantic Quarterly. 117 (1): 157–178.
+   doi:10.1215/00382876-4282082. hdl:10871/28176.
+
+     ^ Troen, Ilan; Troen, Carol (2019). "Indigeneity". Israel Studies. 24
+   (2): 17–32. doi:10.2979/israelstudies.24.2.02.
+   JSTOR 10.2979/israelstudies.24.2.02.
+
+     ^ Ted, Swedenburg (2003). Memories of Revolt: the 1936-1939 Rebellion
+   and the Palestinian National Past. University of Arkansas Press.
+   pp. 81–82. ISBN 1-55728-763-5. OCLC 834799171. Archived from the
+   original on 15 March 2023. Retrieved 11 July 2022.
+
+     ^ Frantzman, Seth J.; Yahel, Havatzelet; Kark, Ruth (2012).
+   "Contested Indigeneity: The Development of an Indigenous Discourse on
+   the Bedouin of the Negev, Israel". Israel Studies. 17 (1): 78–104.
+   doi:10.2979/israelstudies.17.1.78. Project MUSE 460759.
+
+     ^ Yiftachel, Oren; Roded, Batya; Kedar, Alexandre (Sandy) (1 November
+   2016). "Between rights and denials: Bedouin indigeneity in the
+   Negev/Naqab". Environment and Planning A: Economy and Space. 48 (11):
+   2129–2161. Bibcode:2016EnPlA..48.2129Y. doi:10.1177/0308518X16653404.
+
+     ^ Tatour, Lana (26 November 2019). "The culturalisation of
+   indigeneity: the Palestinian-Bedouin of the Naqab and indigenous
+   rights". The International Journal of Human Rights. 23 (10): 1569–1593.
+   doi:10.1080/13642987.2019.1609454. ISSN 1364-2987.
+
+     ^ ^a ^b ^c ^d Deryck O. Lodrick, People of Andaman and Nicobar
+   Islands at the Encyclopædia Britannica
+
+     ^ Rathnayake, Zinara (28 March 2022). "Sri Lanka's last indigenous
+   people". BBC Travel. Archived from the original on 22 July 2025.
+   Retrieved 20 January 2024.
+
+     ^ "Recognition at last for Japan's Ainu". BBC News. Archived from the
+   original on 8 November 2017.
+
+     ^ Judgment of the Sapporo District Court, Civil Division No. 3, 27
+   March 1997, in (1999) 38 ILM, p. 419
+
+     ^ Blust, R. (1999), "Subgrouping, circularity and extinction: some
+   issues in Austronesian comparative linguistics" in E. Zeitoun & P.J.K
+   Li, ed., Selected papers from the Eighth International Conference on
+   Austronesian Linguistics. Taipei: Academia Sinica
+
+     ^ Fox, James J."Current Developments in Comparative Austronesian
+   Studies" (PDF). Archived from the original (PDF) on 12 October 2006.
+   Retrieved 21 December 2006. (105 KB). Paper prepared for Symposium
+   Austronesia Pascasarjana Linguististik dan Kajian Budaya. Universitas
+   Udayana, Bali 19–20 August 2004.
+
+     ^ Diamond, Jared M. "Taiwan's gift to the world" (PDF). Archived from
+   the original (PDF) on 17 June 2009. (107 KB). Nature, Volume 403,
+   February 2000, pp. 709–10
+
+     ^ "ANNEX III of Sino-British Joint Declaration". Archived from the
+   original on 8 October 2016. Retrieved 21 August 2016.
+
+     ^ "Natives in Russia's far east worry about vanishing fish". The
+   Economic Times. India. Agence France-Presse. 25 February 2009.
+   Retrieved 5 March 2011.
+
+     ^ "Who are the indigenous and tribal peoples?". www.ilo.org. 22 July
+   2016. Archived from the original on 2 May 2019. Retrieved 2 May 2019.
+
+     ^ ^a ^b IWGIA (2012). Briefing note. Indigenous peoples in the
+   Russian Federation
+
+     ^ Fondahl, G., Filippova, V., Mack, L. (2015). Indigenous peoples in
+   the new Arctic. In B.Evengard, O.Nymand Larsen, O.Paasche (Eds), The
+   New Arctic (pp. 7–22). Springer
+
+     ^ Lehtola, M. (2012). HoWhy theory and the cultural transition in the
+   Sakha Republic. In T.Aikas, S.Lipkin, A.K.Salmi (Eds.), Archaeology of
+   social relations: ten case studies by Finnish archaeologists (pp.
+   51–76). Oulu University
+
+     ^ Slezkine, Y. (1994). Arctic mirrors: Russia and the small peoples
+   of the North. New York, NY: Cornell University Press
+
+     ^ "Indonesia". Archived from the original on 17 January 2018.
+   Retrieved 17 January 2018.
+
+     ^ "Indonesia and the Denial of Indigenous Peoples' Existence". 17
+   August 2013. Archived from the original on 17 January 2018. Retrieved
+   17 January 2018.
+
+     ^ ^a ^b Errico, Stefania (2017). The Rights of Indigenous Peoples in
+   Asia: Human Rights-based Overview of National Legal and Policy
+   Frameworks Against the Backdrop of Country Strategies for Development
+   and Poverty Reduction (PDF). International Labor Organization.
+   ISBN 978-92-2-130490-6.^[page needed]
+
+     ^ "Myanmar - IWGIA - International Work Group for Indigenous
+   Affairs". www.iwgia.org. Archived from the original on 3 June 2020.
+   Retrieved 30 May 2020.
+
+     ^ ^a ^b Grote, Rainer (2006). "On the Fringes of Europe: Europe's
+   Largely Forgotten Indigenous Peoples". American Indian Law Review. 31
+   (2): 425–443. doi:10.2307/20070794. JSTOR 20070794.
+
+     ^ "What Defines an Indigenous People?". Norwegian Ministry of Local
+   Government and Regional Development. 22 March 2019. Retrieved 26 August
+   2023.
+
+     ^ ^a ^b ^c "Who are Europe's indigenous peoples and what are their
+   struggles?". Euronews. 8 September 2019. Archived from the original on
+   14 January 2020. Retrieved 22 November 2019.
+
+     ^ Kalso, Reed (2024). "Basques | EBSCO Research Starters".
+   www.ebsco.com. Retrieved 19 June 2025.
+
+     ^ Hualde, J.I. (2006). "Basque". Encyclopedia of Language &
+   Linguistics. pp. 695–697. doi:10.1016/B0-08-044854-2/04381-9.
+   ISBN 978-0-08-044854-1.
+
+     ^ "Greenlanders should take pride in their indigenous identity".
+   United Nations Regional Information Centre for Western Europe. 8 August
+   2023. Archived from the original on 25 July 2025. Retrieved 28 August
+   2023.
+
+     ^
+
+     *
+
+   "World Directory of Minorities and Indigenous Peoples - Ireland :
+   Travellers". Refworld. Archived from the original on 16 December 2024.
+   Retrieved 14 August 2024.
+
+     "Travellers in Ireland". Minority Rights Group. Retrieved 14 August
+   2024.
+
+     "Irish Travellers granted formal recognition as ethnic minority". BBC
+   News. 1 March 2017. Retrieved 15 August 2024.
+
+     Keane, David (2005). "International Law and the Ethnicity of Irish
+   Travellers". Washington and Lee Journal of Civil Rights and Social
+   Justice. 11 (1): 43.
+
+     ^ Baer, Lars-Anders (2005). "The Rights of Indigenous Peoples – A
+   Brief Introduction in the Context of the Sámi". International Journal
+   on Minority and Group Rights. 12 (2/3): 245–267.
+   doi:10.1163/157181105774740589. JSTOR 24675300.
+
+     ^ Gouverneur, Cédric (1 January 2017). "Europe's only indigenous
+   people". Le Monde Diplomatique. Retrieved 28 August 2023.
+
+     ^ "Europe's only recognized indigenous peoples live in Sweden".
+   Swedish Development Forum. 27 March 2018. Retrieved 28 August 2023.
+
+     ^
+
+     *
+
+   "The Sámi: The People, Their Culture and Languages". Council of Europe.
+   2015. Retrieved 28 August 2023.
+
+     "Rights of the Sámi People". Finnish Ministry of Justice. Archived
+   from the original on 29 July 2025. Retrieved 28 August 2023.
+
+     Jaakkola, Jouni J. K.; Juntunen, Suvi; Näkkäläjärvi, Klemetti (2018).
+   "The Holistic Effects of Climate Change on the Culture, Well-Being, and
+   Health of the Saami, the Only Indigenous People in the European Union".
+   Current Environmental Health Reports. 5 (4): 401–417.
+   Bibcode:2018CEHR....5..401J. doi:10.1007/s40572-018-0211-2.
+   PMC 6306421. PMID 30350264.
+
+     Valkonen, Sanna; Valkonen, Jarno (2017). "The Non-State Sámi". In
+   Wiesner, Claudia; Björk, Anna; Kivistö, Hanna-Mari; Mäkinen, Katja
+   (eds.). Shaping Citizenship: A Political Concept in Theory, Debate and
+   Practice. Routledge. pp. 138–152. doi:10.4324/9781315186214-11.
+   ISBN 9781315186214.
+
+     ^ "Indigenous Australians: Aboriginal and Torres Strait Islander
+   People". Australian Institute of Aboriginal and Torres Strait
+   Islanders. 12 July 2020. Archived from the original on 22 September
+   2021. Retrieved 29 September 2021.
+
+     ^ "First Nations Arts and Culture". Australia Council for the Arts.
+   Archived from the original on 16 October 2021. Retrieved 16 October
+   2021.
+
+     ^ "Australia's First Peoples". AIATSIS. 30 June 2021. Archived from
+   the original on 16 October 2021. Retrieved 16 October 2021.
+
+     ^ Pygmy human remains found on rock islands Archived 28 December 2016
+   at the Wayback Machine, Science | The Guardian, 12 March 2008.
+
+     ^ "Māori population estimates: At 30 June 2021 | Stats NZ".
+   www.stats.govt.nz. Archived from the original on 16 January 2022.
+   Retrieved 16 January 2022.
+
+     ^ "A Brief History of New Zealand | New Zealand Now".
+   www.newzealandnow.govt.nz. Archived from the original on 16 January
+   2022. Retrieved 16 January 2022.
+
+     ^ "Signing of the Treaty | Waitangi Tribunal".
+   www.waitangitribunal.govt.nz. Archived from the original on 16 January
+   2022. Retrieved 16 January 2022.
+
+     ^ "Declaration of Independence". nzhistory.govt.nz. Archived from the
+   original on 11 July 2017. Retrieved 16 January 2022.
+
+     ^ "Archives New Zealand || The declaration of the independence of new
+   zealand". www.archives.govt.nz. Archived from the original on 16
+   January 2022. Retrieved 16 January 2022.
+
+     ^ "Papua New Guinea country profile". BBC News. 2018. Archived from
+   the original on 2 February 2018. Retrieved 1 February 2018.
+
+     ^ UNHR Fact Sheet No. 9 2013, pp. 4, 8.
+
+     ^ Dean, Bartholomew; Levi, Jerome M., eds. (2003). At the Risk of
+   Being Heard: Identity, Indigenous Rights, and Postcolonial States.
+   University of Michigan Press. ISBN 978-0-472-06736-7.^[page needed]
+
+     ^ "Mabo v Queensland" (PDF). Archived (PDF) from the original on 24
+   February 2021. Retrieved 2 January 2020.
+
+     ^ Ritter, David (1 March 1996). "The "Rejection of Terra Nullius" in
+   Mabo: A Critical Analysis" (PDF). Sydney Law Review. 18 (1): 5–33.
+   Archived from the original (PDF) on 11 June 2025.
+
+     ^ State of the World's Indigenous Peoples, Secretariat of Permanent
+   Forum on Indigenous Issues, UN, 2009 (PDF) (Report). pp. 1–2. Archived
+   from the original (PDF) on 15 February 2010.
+
+     ^ Totten, Samuel; Hitchcock, Robert K. (2011). Genocide of Indigenous
+   Peoples: A Critical Bibliographic Review. Transaction Publishers.
+   pp. 5–6. ISBN 978-1-4128-4455-0. "See table 1 for some examples of
+   indigenous groups that have been labeled negatively by governments in
+   the twentieth and twenty-first centuries."
+
+     ^ Jones, Adam (2010). Genocide: A Comprehensive Introduction.
+   Routledge. p. 224. ISBN 978-1-136-93797-2. "The cases of the aboriginal
+   populations of British-colonized Australia and German-colonized Namibia
+   further illuminate the fate of indigenous peoples worldwide. In both
+   instances, decades of denial gave way, at the twentieth century's
+   close, to a greater readiness to acknowledge the genocidal character of
+   some colonial actions."
+
+     ^ No 'indigenous', reiterates Shafique Archived 19 March 2012 at the
+   Wayback Machine. bdnews24.com (18 June 2011). Retrieved on 11 October
+   2011.
+
+     ^ Ministry of Chittagong Hill Tracts Affairs. mochta.gov.bd.
+   Retrieved on 28 March 2012.
+
+     ^ INDIGENOUS PEOPLEChakma Raja decries non-recognition Archived 19
+   March 2012 at the Wayback Machine. bdnews24.com (28 May 2011).
+   Retrieved on 11 October 2011.
+
+     ^ 'Define terms minorities, indigenous' Archived 18 November 2011 at
+   the Wayback Machine. bdnews24.com (27 May 2011). Retrieved on 11
+   October 2011.
+
+     ^ Disregarding the Jumma Archived 19 June 2011 at the Wayback
+   Machine. Himalmag.com. Retrieved on 11 October 2011.
+
+     ^ "Mission to Vietnam Advocacy Day (Vietnamese-American Meet up 2013)
+   in the U.S. Capitol. A UPR report By IOC-Campa". Chamtoday.com. 14
+   September 2013. Archived from the original on 22 February 2014.
+   Retrieved 17 June 2014.
+
+     ^ Taylor, Philip (December 2006). "Economy in Motion: Cham Muslim
+   Traders in the Mekong Delta". The Asia Pacific Journal of Anthropology.
+   7 (3): 237–250. doi:10.1080/14442210600965174.
+
+     ^ ^a ^b "Indonesia denies it has any indigenous peoples". Archived
+   from the original on 27 March 2017. Retrieved 17 January 2018.
+
+     ^ Cosmas, Graham A. (2006). MACV: The Joint Command in the Years of
+   Escalation, 1962–1967. Government Printing Office. pp. 145–.
+   ISBN 978-0-16-072367-4. Archived from the original on 15 March 2023.
+   Retrieved 12 November 2020.
+
+     ^ Salemink 2003, p. 28.
+
+     ^ Salemink 2003, p. 29.
+
+     ^ McElwee, Pamela (2004). "Becoming socialist or becoming kinh?
+   Government policies for ethnic minorities in the socialist republic of
+   Viet Nam". Civilizing the Margins: Southeast Asian government policies
+   for the development of minorities. Cornell University Press.
+   pp. 182–213. ISBN 978-0-8014-8930-3.
+
+     ^ Coates 2004:12
+
+     ^ "Tanzanian Maasai battle eviction from ancestral land". Financial
+   Times. 18 June 2022. Archived from the original on 10 December 2022.
+   Retrieved 18 June 2022.
+
+     ^ "Resolutions and Decisions. WHA47.27 International Decade of the
+   World's Indigenous People. The Forty-seventh World Health Assembly"
+   (PDF). World Health Organization. Archived (PDF) from the original on
+   22 October 2012. Retrieved 17 April 2011.
+
+     ^ Hanley, Anthony J. Diabetes in Indigenous Populations Archived 10
+   March 2012 at the Wayback Machine, Medscape Today
+
+     ^ Ohenjo, Nyang'ori; Willis, Ruth; Jackson, Dorothy; Nettleton,
+   Clive; Good, Kenneth; Mugarura, Benon (June 2006). "Health of
+   Indigenous people in Africa". The Lancet. 367 (9526): 1937–1946.
+   doi:10.1016/S0140-6736(06)68849-1. PMID 16765763.
+
+     ^ Health and Ethnic Minorities in Viet Nam, Technical Series No. 1,
+   June 2003, WHO, p. 10
+
+     ^ Facts on Suicide Rates, First Nations and Inuit Health, Health
+   Canada
+
+     ^ "Health of indigenous peoples". Health Topics A to Z. Archived from
+   the original on 18 September 2011. Retrieved 17 April 2011.
+
+     ^ ^a ^b ^c ^d ^e United Nations Department of Economic and Social
+   Affairs (2009). State of the world's indigenous peoples. New York:
+   United Nations. ISBN 978-92-1-130283-7. OCLC 699622751.
+
+     ^ Greve, Charles Theodore (1904). Centennial History of Cincinnati
+   and Representative Citizens. Vol. 1. Biographical Publishing Company.
+   p. 35. Retrieved 22 May 2013.
+
+     ^ See Oliphant v. Suquamish Indian Tribe, 435 U.S. 191 (1978); also
+   see Robert Williams, Like a Loaded Weapon
+
+     ^ Survival International website – About Us/FAQ Archived 19 May 2017
+   at the Wayback Machine. Survivalinternational.org. Retrieved on 28
+   March 2012.
+
+     ^ "United Nations Declaration on the Rights of Indigenous Peoples |
+   United Nations For Indigenous Peoples". United Nations. 5 June 2015.
+   Archived from the original on 1 November 2015. Retrieved 22 January
+   2020.
+
+     ^ Pike, Sarah M. (2004). "4: The 1960s Watershed Years". New Age and
+   Neopagan Religions in America. Columbia Contemporary American Religion
+   Series. New York: Columbia University Press. p. 82.
+   ISBN 978-0-231-50838-4. Retrieved 19 February 2020. "Many young people
+   looked to American Indian traditions for alternative lifestyles, and
+   this was to shape New Agers' and Neopagans' subsequent turn to and
+   incorporation of indigenous peoples' practices into their own rituals
+   and belief systems. [...] The desire to share in native peoples'
+   perceived harmony with nature became a common theme of the 1960s
+   counterculture and in 1970s Neopaganism and New Age communities."
+
+     ^ FOGGIN, SOPHIE (31 January 2020). "Helena Gualinga is a voice for
+   Indigenous communities in the fight against climate change". Latin
+   America reports. Archived from the original on 11 March 2021. Retrieved
+   11 September 2020.
+
+     ^ Fisher, Matthew R. (2017). "1.5 Environmental Justice & Indigenous
+   Struggles". Environmental Biology. Archived from the original on 26
+   September 2020. Retrieved 17 April 2020.
+
+     ^ Branford, Sue (19 July 2017). "Brazil's indigenous Munduruku occupy
+   dam site, halt construction". Mongabay. Archived from the original on 5
+   September 2021. Retrieved 5 September 2021.
+
+     ^ Minami, Tica (21 March 2016). "Damn the Dam: The Threat One
+   Mega-Dam Poses to the Amazon and Those Who Live There". Greenpeace USA.
+   Archived from the original on 21 October 2021.
+
+     ^ Senanayake, S. G. J. N. (4 January 2006). "Indigenous knowledge as
+   a key to sustainable development". Journal of Agricultural Sciences –
+   Sri Lanka. 2 (1): 87–94. doi:10.4038/jas.v2i1.8117.
+
+     ^ "Traditional Techniques Provide Useful Models for Biodiversity
+   Policies". Convention on biological diversity. United Nations. Archived
+   from the original on 10 March 2021. Retrieved 25 March 2021.
+
+     ^ Fernández-Llamazares, Álvaro; Fa, Julia E.; Brockington, Dan;
+   Brondízio, Eduardo S.; Cariño, Joji; Corbera, Esteve; Farhan Ferrari,
+   Maurizio; Kobei, Daniel; v, Pernilla; Márquez, Guadalupe Yesenia H.;
+   Molnár, Zsolt; Tugendhat, Helen; Garnett, Stephen T. (5 September
+   2024). "No basis for claim that 80% of biodiversity is found in
+   Indigenous territories". Nature. 633 (8028): 32–35.
+   Bibcode:2024Natur.633...32F. doi:10.1038/d41586-024-02811-w.
+   PMID 39232141.
+
+     ^ "Indigenous peoples defend Earth's biodiversity—but they're in
+   danger". National Geographic. 16 November 2018. Archived from the
+   original on 21 February 2021. Retrieved 11 September 2023.
+
+     ^ ^a ^b ^c Brosius, J. Peter (1997). "Endangered Forest, Endangered
+   People: Environmentalist Representations of Indigenous Knowledge".
+   Human Ecology. 25 (1): 47–69. Bibcode:1997HumEc..25...47B.
+   doi:10.1023/A:1021983819369. JSTOR 4603225.
+
+     ^ "APA Style - Racial and Ethnic Identity". Section 5.7 of the APA
+   Publication Manual (Seventh ed.). Associated Press. 1 November 2019.
+   Archived from the original on 15 March 2023. Retrieved 3 February 2022.
+   "Racial and ethnic groups are designated by proper nouns and are
+   capitalized. ... capitalize terms such as "Native American,"
+   "Hispanic," and so on. Capitalize "Indigenous" and "Aboriginal"
+   whenever they are used. Capitalize "Indigenous People" or "Aboriginal
+   People" when referring to a specific group (e.g., the Indigenous
+   Peoples of Canada), but use lowercase for "people" when describing
+   persons who are Indigenous or Aboriginal (e.g., "the authors were all
+   Indigenous people but belonged to different nations")"
+
+     ^ "Reporter's Indigenous Terminology Guide". The Native American
+   Journalists Association. Archived from the original on 16 November
+   2018. Retrieved 2 February 2022.
+
+     ^ "NAJA AP Style Guide". The Native American Journalists Association.
+   Archived from the original on 18 December 2018. Retrieved 2 February
+   2022.
+
+     ^ "Editorial Guide". Indian Affairs. US Bureau of Indian Affairs.
+   Archived from the original on 18 January 2023. Retrieved 14 February
+   2023. "The term "indigenous" is a common synonym for the term "American
+   Indian and Alaska Native" and "Native American." But
+   "indigenous" doesn't need to be capitalized unless it's used in context
+   as a proper noun."
+
+     ^ "FAQ Item: Capitalization". The Chicago Manual of Style Online.
+   Archived from the original on 26 November 2022. Retrieved 14 February
+   2023. "We would capitalize "Indigenous" in both contexts: that of
+   Indigenous people and groups, on the one hand, and Indigenous culture
+   and society, on the other."
+
+Sources
+
+     *
+
+   Bodley, John H. (2008). Victims of Progress (5th ed.). Plymouth,
+   England: AltaMira Press. ISBN 978-0-7591-1148-6.
+
+     Pagden, Anthony (2001). Peoples and Empires. London: Weidenfeld &
+   Nicolson. ISBN 0-297-643703.
+
+     Salemink, Oscar (2003). The Ethnography of Vietnam's Central
+   Highlanders: A Historical Contextualization, 1850–1990. University of
+   Hawai'i Press. ISBN 978-0-8248-2579-9. Archived from the original on 15
+   March 2023. Retrieved 12 November 2020.
+
+     Taylor, Alan (2013). Colonial America: A Very Short Introduction. New
+   York: Oxford University Press.
+
+Further reading
+
+     *
+
+   African Commission on Human and Peoples' Rights (2003). "Report of the
+   African Commission's Working Group of Experts on Indigenous
+   Populations/Communities" (PDF). ACHPR & IWGIA. Archived from the
+   original (PDF) on 26 September 2007.
+
+     Alfred, Taiaiake; Corntassel, Jeff (2005). "Being Indigenous:
+   Resurgences against Contemporary Colonialism". Government and
+   Opposition. 40 (4): 597–614. doi:10.1111/j.1477-7053.2005.00166.x.
+
+     Baviskar, Amita (2007). "Indian Indigeneitites: Adivasi Engagements
+   with Hindu Nationalism in India". In Cadena, Marisol de la; Starn, Orin
+   (eds.). Indigenous Experience today. Oxford, UK: Berg Publishers.
+   ISBN 978-1-84520-519-5.
+
+     Clifford, James (2007). "Varieties of Indigenous Experience:
+   Diasporas, Homelands, Sovereignties". In Cadena, Marisol de la; Starn,
+   Orin (eds.). Indigenous Experience today. Oxford, UK: Berg Publishers.
+   ISBN 978-1-84520-519-5.
+
+     Coates, Ken S. (2004). A Global History of Indigenous Peoples:
+   Struggle and Survival. New York: Palgrave MacMillan.
+   ISBN 978-0-333-92150-0.
+
+     Farah, Paolo D.; Riccardo, Tremolada (2014). "Intellectual Property
+   Rights, Human Rights and Intangible Cultural Heritage". Rivista di
+   Diritto Industriale (2, part I): 21–47. ISSN 0035-614X. SSRN 2472388.
+
+     Farah, Paolo D.; Riccardo, Tremolada (2014). "Desirability of
+   Commodification of Intangible Cultural Heritage: The Unsatisfying Role
+   of IPRs". Transnational Dispute Management. 11 (2). ISSN 1875-4120.
+   SSRN 2472339.
+
+     Groh, Arnold A. (2018). Research Methods in Indigenous Contexts. New
+   York: Springer. ISBN 978-3-319-72774-5.
+
+     Gerharz, Eva; Uddin, Nasir; Chakkarath, Pradeep, eds. (2017).
+   Indigeneity on the move: Varying manifestations of a contested concept.
+   New York: Berghahn Books. ISBN 978-1-78533-723-9.
+
+     Henriksen, John B. (2001). "Implementation of the Right of
+   Self-Determination of Indigenous Peoples" (PDF). Indigenous Affairs.
+   Vol. 3/2001 (PDF ed.). Copenhagen: International Work Group for
+   Indigenous Affairs. pp. 6–21. ISSN 1024-3283. OCLC 30685615. Archived
+   from the original (PDF) on 2 June 2010. Retrieved 1 September 2007.
+
+     Hughes, Lotte (2003). The no-nonsense guide to indigenous peoples.
+   Verso Books. ISBN 978-1-85984-438-0. Archived from the original on 15
+   March 2023. Retrieved 18 October 2015.
+
+     Howard, Bradley Reed (2003). Indigenous Peoples and the State: The
+   struggle for Native Rights. DeKalb, Illinois: Northern Illinois
+   University Press. ISBN 978-0-87580-290-9.
+
+     Johansen, Bruce E. (2003). Indigenous Peoples and Environmental
+   Issues: An Encyclopedia. Westport, Connecticut: Greenwood Press.
+   ISBN 978-0-313-32398-0.
+
+     Martinez Cobo, J. (198). "United Nations Working Group on Indigenous
+   Populations". Study of the Problem of Discrimination Against Indigenous
+   Populations. UN Commission on Human Rights.^[permanent dead link]
+
+     Maybury-Lewis, David (1997). Indigenous Peoples, Ethnic Groups and
+   the State. Needham Heights, Massachusetts: Allyn & Bacon.
+   ISBN 978-0-205-19816-0.
+
+     Merlan, Francesca (2007). "Indigeneity as Relational Identity: The
+   Construction of Australian Land Rights". In Cadena, Marisol de la;
+   Starn, Orin (eds.). Indigenous Experience today. Oxford, UK: Berg
+   Publishers. ISBN 978-1-84520-519-5.
+
+     Pratt, Mary Louise (2007). "Afterword: Indigeneity Today". In Cadena,
+   Marisol de la; Starn, Orin (eds.). Indigenous Experience today. Oxford,
+   UK: Berg Publishers. ISBN 978-1-84520-519-5.
+
+     Sabbagh-Khoury, Areej (2022). "Tracing Settler Colonialism: A
+   Genealogy of a Paradigm in the Sociology of Knowledge Production in
+   Israel". Politics & Society. 50 (1): 44–83.
+   doi:10.1177/0032329221999906.
+
+     Tsing, Anna (2007). "Indigenous Voice". In Cadena, Marisol de la;
+   Starn, Orin (eds.). Indigenous Experience today. Oxford, UK: Berg
+   Publishers. ISBN 978-1-84520-519-5.
+
+     Wolfe, Patrick (2006). "Settler colonialism and the elimination of
+   the native". Journal of Genocide Research. 8 (4): 387–409.
+   doi:10.1080/14623520601056240.
+
+External links
+
+   English Wikisource has original text related to this article:
+   Portal:Aboriginals
+
+   Look up indigenous peoples in Wiktionary, the free dictionary.
+
+   Wikimedia Commons has media related to Indigenous peoples.
+
+     * Awareness raising film by Rebecca Sommer for the Secretariat of the
+       UNPFII Archived 27 July 2013 at the Wayback Machine
+     * "First Peoples" from PBS Archived 26 November 2021 at the Wayback
+       Machine
+     * "The Indigenous World" from International Work Group for Indigenous
+       Affairs
+
+Institutions
+
+     * IFAD and indigenous peoples (International Fund for Agricultural
+       Development, IFAD)
+     * IPS Inter Press Service News on indigenous peoples from around the
+       world
+
+     * v
+     * t
+     * e
+
+   Ethnicity
+
+   Concepts
+
+     * Clan
+     * Ethnic group
+          + Ethnographic group
+          + Ethnolinguistic group
+          + Ethnonational group
+          + Ethnoreligious group
+     * Ethnographic realism
+     * Diaspora
+          + Immigration / Emigration
+     * Hyphenated ethnicity
+     * Indigenous peoples
+     * In-group and out-groups
+     * Meta-ethnicity
+     * Metroethnicity
+     * Minority group
+          + Influence
+     * Monoethnicity
+     * Nation
+     * Nationality
+     * Panethnicity
+     * Polyethnicity
+     * Population
+     * Race
+     * Reactive ethnicity
+     * Supraethnicity
+     * Symbolic ethnicity
+     * Tribe
+
+   Ethnology
+
+     * Anthropology
+     * Ethnic studies
+     * Ethnoarchaeology
+     * Ethnobiology
+          + Ethnobotany
+          + Ethnoecology
+          + Ethnomycology
+          + Ethnozoology
+     * Ethnocinema
+     * Ethnogeology
+     * Ethnography
+          + Autoethnography
+          + Clinical
+          + Critical
+          + Institutional
+          + Netnography
+          + Online
+          + Person-centered
+          + Salvage
+          + Transidioethnography
+          + Video
+     * Ethnohistory
+     * Ethnolinguistics
+     * Ethnology
+     * Ethnomathematics
+          + Ethnostatistics
+     * Ethnomedicine
+     * Ethnomethodology
+     * Ethnomuseology
+     * Ethnomusicology
+     * Ethnophilosophy
+     * Ethnopoetics
+     * Ethnopsychopharmacology
+     * Ethnoscience
+     * Ethnosemiotics
+     * Ethnotaxonomy
+
+   Groups by region
+
+     * World
+          + Contemporary ethnic groups
+          + Countries by ethnic groups
+     * Africa
+     * Americas
+          + Indigenous
+          + Canada
+          + Greenland
+          + Mexico
+          + United States
+          + Caribbean
+          + Central America
+          + South America
+     * Asia
+          + Central Asia
+          + East Asia
+          + North Asia
+          + South Asia
+          + Southeast Asia
+          + West Asia
+     * Australia
+          + Aboriginal groups
+          + Torres Strait Islanders
+     * Europe
+     * Oceania
+          + Indigenous
+          + European
+
+   Identity and
+   ethnogenesis
+
+     * Cross-race effect
+     * Cultural assimilation
+     * Cultural identity
+     * Demonym
+     * Development
+     * Endonym
+     * Ethnarch
+     * Ethnic flag
+     * Ethnic option
+     * Ethnic origin
+     * Ethnic religion
+     * Ethnicity in censuses
+     * Ethnofiction
+     * Ethnonym
+     * Folk religion
+     * Historical
+     * Imagined community
+     * Kinship
+     * Legendary progenitor
+     * Linguistic homeland
+     * Mores
+     * Mythomoteur
+     * Nation-building
+     * Nation state
+     * National language
+     * National myth
+     * Origin myth
+     * Pantribal sodality
+     * Social construct
+     * Tribal name
+     * Tribalism
+          + Detribalization
+          + Neotribalism
+     * White ethnic
+
+   Multiethnic society
+
+     * Consociationalism
+     * Cultural appropriation
+     * Diaspora politics
+     * Dominant minority
+     * Ethnic democracy
+     * Ethnic enclave
+     * Ethnic interest group
+     * Ethnic majority
+     * Ethnic media
+     * Ethnic nationalism
+     * Ethnic pornography
+     * Ethnic theme park
+     * Ethnoburb
+     * Ethnocracy
+     * Ethnographic film
+     * Ethnographic village
+     * Ethnopluralism
+     * Indigenous rights
+     * Middleman minority
+     * Minority rights
+     * Model minority
+     * Model minority myth
+     * Multinational state
+
+   Ideology and
+   ethnic conflict
+
+     * Allophilia
+     * Communal violence
+     * Ethnic bioweapon
+     * Ethnic cleansing
+     * Ethnic hatred
+     * Ethnic joke
+     * Ethnic party
+     * Ethnic penalty
+     * Ethnic slurs
+     * Ethnic stereotype
+     * Ethnic violence
+          + Ethnic riots
+     * Ethnocentrism
+     * Ethnocide
+     * Ethnofuturism
+     * Ethnosymbolism
+     * Indigenism
+     * Indigenization
+     * Nativism
+     * Remigration
+     * Separatist movements
+     * Xenocentrism
+     * Xenophilia
+     * Xenophobia
+
+   Related
+
+     * Minzu (anthropology)
+
+     * v
+     * t
+     * e
+
+   Indigenous peoples of the world by continent
+
+   Location of Africa
+   Africa
+
+   Location of Eurasia
+   Eurasia
+
+   Location of North America
+   North America
+
+   Location of Oceania
+   Oceania
+
+   Location of South America
+   South America
+
+   Indigenous peoples by geographic regions
+
+     * v
+     * t
+     * e
+
+   International Indigenous and minority rights
+
+   Rights
+
+     * Ancestral domain
+     * Free, prior and informed consent
+     * Intellectual property
+     * Land rights
+     * Language
+     * Self-determination
+          + in Australia
+          + in Canada
+          + in the United States
+     * Traditional knowledge
+          + ecological
+          + medical
+     * Treaty rights
+          + in Australia
+          + in New Zealand
+
+   Non-governmental and
+   political organizations
+
+     * Amazon Watch
+     * Assembly of First Nations
+     * Confederation of Indigenous Nationalities of Ecuador
+     * Congress of Aboriginal Peoples
+     * Coordinator of Indigenous Organizations of the Amazon River Basin
+     * Cultural Survival
+     * Indigenous Environmental Network
+     * Indigenous Peoples Council on Biocolonialism
+     * International Work Group for Indigenous Affairs
+     * National Indigenous Organization of Colombia
+     * Native American Rights Fund
+     * Survival International
+     * Unrepresented Nations and Peoples Organization
+     * Zapatista Army of National Liberation
+     * (more ...)
+
+   Issues
+
+     * Civilizing mission
+     * Colonialism
+          + Internal colonialism
+          + Settler colonialism
+     * Biopiracy
+          + Bioprospecting
+     * Cultural appropriation
+          + Sports mascots
+          + Redface
+     * Dakota Access Pipeline protests
+     * Discovery doctrine
+     * Fortress conservation
+     * Green grabbing
+     * Homeland
+     * Lands inhabited by indigenous peoples
+          + Bantustan
+          + Autonomous okrugs
+          + American Indian reservation
+          + Indian colony
+          + Indian reserve
+          + Ranchería
+          + Rancherie
+          + Russian republics
+          + Urban Indian reserve
+     * Manifest destiny
+     * Plastic shaman
+     * Rainbow Warriors
+     * Two-spirit
+
+   Legal representation
+
+   Governmental
+   bodies
+     * Aotearoa-New Zealand
+          + Te Puni Kōkiri
+     * Brazil
+          + Fundação Nacional do Índio
+     * Canada
+          + Indigenous and Northern Affairs Canada
+     * Mexico
+          + National Institute of Indigenous Peoples
+     * Philippines
+          + National Commission on Indigenous Peoples
+     * Russia
+          + Ministry for the Development of the Russian Far East and
+            Arctic
+          + Government of Bashkortostan
+          + Government of the Sakha Republic
+          + Government of Tatarstan
+     * Taiwan
+          + Council of Indigenous Peoples
+     * US
+          + Bureau of Indian Affairs
+
+   Intergovernmental
+   bodies
+     * African Union
+          + African Commission on Human and Peoples' Rights
+     * Arctic Council
+     * WIPO
+          + Intergovernmental Committee on Intellectual Property, Genetic
+            Resources, Traditional Knowledge, and Folklore
+     * BBNJ ABS Committee
+
+   Indigenous-led
+   international
+   bodies
+     * UN Permanent Forum on Indigenous Issues
+     * Indigenous Caucus
+
+   Treaties and
+   Declarations of Rights
+     * 1989: Indigenous and Tribal Peoples Convention (ILO C169)
+     * 1992: Convention on Biological Diversity
+     * 2007: UN Declaration on the Rights of Indigenous Peoples (UNDRIP)
+     * 2010: Nagoya Protocol on Fair Access and Benefit-Sharing
+     * 2018: UN Declaration on the Rights of Peasants (UNDROP)
+     * 2023: High Seas Treaty (BBNJ Agreement)
+     * 2024: Treaty on Intellectual Property, Genetic Resources and
+       Associated Traditional Knowledge (GRATK)
+
+   Historical cases
+
+     * Chechen–Russian conflict
+     * Sri Lankan Civil War
+     * 2009 Peruvian political crisis
+     * Alta controversy
+     * Chiapas conflict
+     * Expulsion of the Chagossians
+     * High Arctic relocation
+     * Human rights in Tibet
+     * Indian removal
+     * Little Danes experiment
+     * Mapuche conflict
+     * Oka Crisis
+     * Residential schools
+          + Canada
+          + New Zealand
+          + South Africa
+          + United States
+     * Rubber boom
+     * San controversy
+     * Stolen Generations
+     * Persecution of Uyghurs in China
+
+     * Indigenous rights • Minority rights
+
+   Authority control databases Edit this at Wikidata
+   International
+     * GND
+     * FAST
+
+   National
+     * United States
+     * France
+     * BnF data
+     * Czech Republic
+     * Israel
+
+       Other
+     * NARA
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Indigenous_peoples&oldid=13
+   22637613"
+
+   Categories:
+     * Indigenous peoples
+     * Ethnic groups
+     * Ethnology
+
+   Hidden categories:
+     * Webarchive template wayback links
+     * CS1 Spanish-language sources (es)
+     * Articles with Encyclopædia Britannica links
+     * Wikipedia articles needing page number citations from August 2025
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Wikipedia extended-confirmed-protected pages
+     * Articles needing additional references from November 2025
+     * All articles needing additional references
+     * Use American English from July 2023
+     * All Wikipedia articles written in American English
+     * Use dmy dates from January 2021
+     * Articles containing Latin-language text
+     * Articles needing more viewpoints from January 2022
+     * All articles with unsourced statements
+     * Articles with unsourced statements from August 2025
+     * Wikipedia articles needing clarification from October 2024
+     * All articles with incomplete citations
+     * Articles with incomplete citations from August 2025
+     * CS1: long volume value
+     * All articles with dead external links
+     * Articles with dead external links from November 2017
+     * Articles with permanently dead external links
+     * Commons category link from Wikidata
+
+     * This page was last edited on 17 November 2025, at 08:49 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Indigenous peoples
+   (BUTTON) 97 languages Add topic

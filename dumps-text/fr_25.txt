@@ -38,64 +38,119 @@ Sommaire
 
    (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
-     * 1 Vue d'ensemble
-     * 2 Historique
+     * 1 Historique
        (BUTTON) Afficher / masquer la sous-section Historique
-          + 2.1 La culture de masse dans le monde antique
-          + 2.2 Journaux à grande diffusion
-          + 2.3 Diffusion par l'image
-          + 2.4 Images mobiles : le cinéma
-          + 2.5 Radiodiffusion
-          + 2.6 Américanisation
-               o 2.6.1 Cas de la France
-          + 2.7 La médiation culturelle
-          + 2.8 Évolution au XXI^e siècle
-          + 2.9 Arts visuels
-          + 2.10 Jeux
-               o 2.10.1 Jeux vidéo
-          + 2.11 Art
-          + 2.12 Artisanat
-          + 2.13 Nouvelles technologies
-     * 3 Autre culture, dite « populaire »
-     * 4 Industrialisation et enjeux financiers
-     * 5 Critiques
-     * 6 Notes et références
-     * 7 Annexes
-       (BUTTON) Afficher / masquer la sous-section Annexes
-          + 7.1 Bibliographie
-          + 7.2 Articles connexes
-          + 7.3 Liens externes
+          + 1.1 La culture populaire dans le monde rural européen
+          + 1.2 L'industrialisation
+          + 1.3 L'alphabétisation
+          + 1.4 La culture de masse
+     * 2 Domaines culturels
+       (BUTTON) Afficher / masquer la sous-section Domaines culturels
+          + 2.1 Musique
+          + 2.2 Tradition orale
+          + 2.3 Littérature
+     * 3 Critiques de la notion
+       (BUTTON) Afficher / masquer la sous-section Critiques de la notion
+          + 3.1 Le problème de définition du populaire
+          + 3.2 Études dans le champ de l'industrie culturelle
+     * 4 Sociologie des cultures populaires
+     * 5 Notes et références
+     * 6 Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 6.1 Bibliographie
+          + 6.2 Articles connexes
+          + 6.3 Liens externes
 
    [ ] Basculer la table des matières
 
-Culture de masse
+Culture populaire
 
-   [ ] 25 langues
+   [ ] 85 langues
      * العربية
+     * مصرى
+     * অসমীয়া
+     * Asturianu
      * Azərbaycanca
+     * Bikol Central
+     * Беларуская
+     * Български
+     * भोजपुरी
      * বাংলা
+     * Brezhoneg
+     * Bosanski
      * Català
+     * Cebuano
+     * کوردی
      * Čeština
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Zazaki
      * Ελληνικά
      * English
+     * Esperanto
      * Español
+     * Eesti
      * Euskara
      * فارسی
      * Suomi
-     * Furlan
+     * Frysk
+     * 贛語
+     * Kriyòl gwiyannen
+     * Gàidhlig
      * Galego
+     * Hausa
+     * עברית
+     * हिन्दी
+     * Hrvatski
+     * Magyar
+     * Հայերեն
      * Bahasa Indonesia
+     * Ido
+     * Íslenska
      * Italiano
-     * Qaraqalpaqsha
+     * 日本語
+     * Patois
+     * ქართული
+     * Қазақша
+     * ಕನ್ನಡ
      * 한국어
+     * Кыргызча
+     * Latina
+     * Limburgs
+     * Lietuvių
+     * Latviešu
+     * Minangkabau
+     * Македонски
+     * Bahasa Melayu
      * Nederlands
+     * Norsk bokmål
+     * Occitan
+     * ਪੰਜਾਬੀ
+     * Polski
      * Português
      * Română
      * Русский
+     * Русиньскый
+     * Sardu
+     * Srpskohrvatski / српскохрватски
+     * Simple English
      * Slovenčina
+     * Српски / srpski
+     * Svenska
+     * தமிழ்
+     * Тоҷикӣ
+     * ไทย
+     * Tagalog
+     * Türkçe
      * Українська
+     * اردو
      * Oʻzbekcha / ўзбекча
+     * Tiếng Việt
+     * 吴语
      * 中文
+     * 閩南語 / Bân-lâm-gí
+     * 粵語
 
    Modifier les liens
 
@@ -134,6 +189,7 @@ Culture de masse
      * Version imprimable
 
    Dans d’autres projets
+     * Wikimedia Commons
      * Élément Wikidata
 
    Apparence
@@ -141,12 +197,15 @@ Culture de masse
    Un article de Wikipédia, l'encyclopédie libre.
    Page d’aide sur l’homonymie
 
-   Ne doit pas être confondu avec Culture populaire.
+   Pour les articles homonymes, voir Pop.
+   Page d’aide sur l’homonymie
+
+   Ne doit pas être confondu avec Culture de masse.
    Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
    savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
    ici pour en savoir plus.
 
-   Cet article ne cite pas suffisamment ses sources (décembre 2018).
+   Cet article ne cite pas suffisamment ses sources (mars 2013).
 
    Si vous disposez d'ouvrages ou d'articles de référence ou si vous
    connaissez des sites web de qualité traitant du thème abordé ici, merci
@@ -154,734 +213,377 @@ Culture de masse
    vérifiabilité et en les liant à la section « Notes et références ».
    En pratique : Quelles sources sont attendues ? Comment ajouter mes
    sources ?
-   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
-   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
-   ici pour en savoir plus.
 
-   Cet article peut contenir un travail inédit ou des déclarations non
-   vérifiées (décembre 2018).
-   Vous pouvez aider en ajoutant des références ou en supprimant le
-   contenu inédit. Voir la page de discussion pour plus de détails.
-   [330px-Magazines-mode-Copenhague.jpg] La presse écrite constitue un
-   vecteur important de la culture de masse.
-   Magazines de mode à Copenhague.
+   La culture populaire désigne au sens strict la culture du peuple par le
+   peuple. Il ne faut pas confondre cette notion avec l'anglicisme « pop
+   culture », qui désigne la culture de masse. La culture populaire est
+   souvent présentée comme s'opposant à la « culture savante », alors que
+   cette dernière y trouve ses origines et les moyens de son innovation.
+   L'opposition entre culture populaire et culture savante est un schème
+   récurrent dans la hiérarchie sociale des sociétés modernes.
 
-   La culture de masse (à ne pas confondre avec culture populaire) désigne
-   une forme de culture liée à un commerce découlant des modes de
-   production et de consommation des sociétés industrielles modernes. Elle
-   est véhiculée par des produits destinés à être vendus au plus grand
-   nombre. Elle est ainsi étroitement associée à la société de
-   consommation, en particulier par le fait de dépendre des modes de
-   production et de rentabilité des entreprises capitalistes. Sous
-   l'influence (en) du marketing et des médias de masse^[1], elle peut
-   donner lieu à des modes plus ou moins passagères. Les modes les plus
-   durables peuvent influencer les modes de vie et cela à une échelle qui
-   est désormais mondiale.
+   Par abus de langage, anglicisme et un certain mépris, elle est souvent
+   confondue avec la culture de masse, la sous-culture ou la culture
+   médiatique. Contrairement à la culture de masse et en tant que culture
+   locale spécifique, elle est rarement connue ou appréciée du plus grand
+   nombre.
 
-   Le terme s’oppose à celui de « culture savante »^[2] et de culture
-   populaire. Dans un but de marketing ou de distinction sociale, une
-   confusion est parfois entretenue entre culture de masse et culture
-   populaire.
-
-Vue d'ensemble
-
-   [modifier | modifier le code]
-
-   La culture de masse, inhérente à une société qualifiée de manière
-   identique, est donc un mouvement social vers des connaissances
-   artistiques, culturelles, vers un système d'éducation, un mode de vie
-   sociale et de pensée, un style de comportement, et qui se traduit par
-   un acte de consommation ainsi que par des codes de reconnaissance
-   sociale^[3]. Ce mouvement pousse à une uniformisation de la perception
-   de la réalité à l'échelle intercommunautaire.
-
-   L'une des principales caractéristiques de ce phénomène est de
-   rationaliser les rapports et les échanges humains autour de la sphère
-   économique. Selon Alain Corbin, « le temps libre est rattrapé par le
-   temps commercial, qui l'intègre dans une économie avant tout soucieuse
-   de rationalité et de productivité ».
-
-   Dans ce sens, la culture de masse semble œuvrer pour la démocratie en
-   insérant des individus qui paraissent plus épanouis (plaisir et
-   dimension jubilatoire de la consommation culturelle) et mieux informés
-   dans les espaces publics où se négocie en permanence le lien collectif.
-   Cependant, cette culture de masse peut également avoir des effets
-   pervers et produire une certaine forme de dépolitisation. C'est ce que
-   démontre le linguiste Raffaelle Simone dans son ouvrage intitulé Le
-   Monstre doux. Il s 'appuie pour illustrer sa thèse sur l'exemple de
-   l'Italie contemporaine marquée par le berlusconisme, celle-ci incarnant
-   en effet la prégnance de cette nouvelle forme de totalitarisme soft où
-   l'injonction au divertissement et à la consommation substitue à la
-   figure du citoyen celle d'un consommateur narcissique et indifférent au
-   bien commun. Selon l'auteur, cette évolution valide les prophéties
-   d'Alexis de Tocqueville qui avait au XIX^e siècle mis en avant les
-   effets pervers potentiels de la massification induite par l'avènement
-   de la démocratie libérale. L'influence des médias, l'illusion du choix
-   des informations auxquelles on accède et l'identification à un
-   « phénomène » de groupe peuvent ainsi théoriquement permettre aux
-   individus de se rassembler autour de valeurs démocratiques communes.
-
-   Le terme « société de consommation » est la simplification du terme
-   « société industrielle de consommation dirigée », défini par Henri
-   Lefebvre comme étant l'état du capitalisme d'après la Seconde Guerre
-   mondiale. Cependant, les prémices de cette ère de consommation de masse
-   sont apparues bien avant, au moment de l'industrialisation massive de
-   nos sociétés occidentales.
+   La culture populaire est étudiée par les ethnologues, les sociologues
+   ruraux ou encore les folkloristes, tandis que la culture de masse est
+   l'objet des Cultural Studies. Comme souvent en science, il n'existe pas
+   de définition qui fasse l'unanimité^[1]. La culture populaire se
+   définit souvent indirectement, par opposition à d'autres formes de
+   culture.
 
 Historique
 
    [modifier | modifier le code]
 
-La culture de masse dans le monde antique
+   Durant l'Antiquité, la culture populaire est associée aux mythes et aux
+   légendes.
+
+La culture populaire dans le monde rural européen
+
+   [modifier | modifier le code]
+   [250px-Ferran_isabel_igualada.jpg] Les géants de Catalogne.
+
+   Les traditions populaires du monde rural ont été généralement décrites
+   sous le terme de folklore, terme savant à l'origine, passé depuis dans
+   le langage courant avec une forte connotation de mépris ou de
+   dévalorisation. C'est ainsi que les musées qui remettent cette culture
+   à l'honneur parlent généralement de « traditions populaires » et guère
+   de « folklore ».
+
+   L'année est rythmée par le calendrier rural, en particulier les
+   moissons. Les grands événements sont les foires, les fêtes religieuses
+   et les mariages. Au quotidien, les veillées sont le lieu de
+   transmission d'une culture orale de contes et légendes.
+
+   Certains de ces contes et mythes populaires ont été collectés et
+   transcrits dans le monde entier par les ethnologues et les
+   folkloristes. En Europe, les premières transcriptions livresques ont pu
+   subir des modifications afin de correspondre aux goûts du public
+   susceptible d'acheter ces livres. Parmi ces auteurs-collecteurs des
+   mythes européens, citons notamment  :
+     * Charles Perrault et M^me d'Aulnoy en France, au XVII^e siècle ;
+     * les frères Grimm en Allemagne, au XVIII^e siècle ;
+     * François-Marie Luzel en Bretagne, au XIX^e siècle ;
+     * Auguste Stöber en Alsace, au XIX^e siècle.
+
+L'industrialisation
 
    [modifier | modifier le code]
 
-   La culture de masse dans le monde antique est souvent associée à
-   l'expression latine panem et circenses (« Du pain et des jeux »). Les
-   combats de gladiateurs, les affrontements entre bêtes féroces, les
-   courses de chars et de chevaux, les représentations théâtrales
-   apparaissent comme la préfiguration de la notion de culture de masse
-   fabriquée par l'élite dans un but de distraction et surtout de
-   régulation sociale^[4].
+   À partir du XVIII^e siècle, l'industrialisation des pays occidentaux
+   amène la naissance d'une culture ouvrière dont la solidarité est une
+   forte composante. Certains loisirs sont encouragés dans le cadre du
+   paternalisme social de l'époque : sports, colombophilie, jardins
+   ouvriers et fanfares, afin d'encourager des loisirs perçus comme plus
+   vertueux que la fréquentation du bistrot. Le syndicalisme se développe,
+   entrant parfois en opposition avec des traditions religieuses toujours
+   fortes.
 
-Journaux à grande diffusion
+   L'industrialisation est également l'occasion d'un brassage de cultures,
+   dû à des flux migratoires vers les régions industrielles demandant de
+   la main-d'œuvre, ainsi qu'au développement des chemins de fer.
 
-   [modifier | modifier le code]
-
-   En France, la culture de masse a commencé à se développer dans les
-   années 1860, avec l'essor des premiers journaux à grande diffusion, de
-   leur développement et du principe de concurrence dans lequel ils sont
-   alors entrés, participant à l'essor des entreprises de distribution. En
-   1890, l'ampleur prise par ce phénomène a poussé Félix Vallotton à
-   qualifier l'époque d'« âge du papier » sur sa couverture du périodique
-   Le Cri de Paris^[5]. Pour exemple, la presse parisienne tire chaque
-   jour un million d'exemplaires en 1870 pour plus de cinq millions en
-   1914, tandis que la presse régionale passe de 300 000 exemplaires à
-   quatre millions^[6].
-   [250px-Newspaper_vendor.jpg] Vendeur de journaux, Paddington, Londres,
-   février 2005
-
-   Si ces journaux ont pu se développer, c'est principalement pour trois
-   raisons :
-     * L'élargissement du public alphabétisé, avec les avancées en matière
-       d'accès à l'école qu'a connues le XIX^e siècle (lois Ferry…). Les
-       journaux y ont gagné de nouveaux lecteurs et les éditeurs sont
-       pleinement entrés dans la distribution de manuels scolaires à
-       grande échelle pour satisfaire les nouveaux besoins issus de
-       l'augmentation de nombre d'élèves dans les écoles et de la durée de
-       leurs cursus.
-     * La libération du carcan administratif avec l'assouplissement de la
-       liberté de la presse qui s'est progressivement mis en place après
-       la révolution de 1789. Dès 1881, la République garantit la liberté
-       d'expression.
-     * Les progrès techniques dans les procédés d'impression et de
-       diffusion. Ainsi, l'évolution des techniques d'impression permet
-       d'offrir jusqu'à six ou douze pages par publication, par ailleurs
-       mieux mises en formes^[7], tandis que l'arrivée du train et du
-       télégraphe permettent à l'information de circuler plus rapidement
-       et de distribuer des journaux identiques rapidement dans toute la
-       France.
-
-   Ce phénomène a participé à un ample processus d'acculturation et
-   d'homogénéisation culturelle, puisque les Français ont pu accéder aux
-   mêmes informations. De plus, cette période du XIX^e siècle où les
-   villes se sont considérablement développées a mis en évidence la
-   nécessité de les rendre plus vivantes. Occuper les rues, les fêtes, les
-   foires, la vie dans les grands boulevards où les attractions sont
-   devenues un fer de lance commercial pour l'attractivité des villes. Ce
-   bond en avant de l'industrie de spectacle permet alors de rassembler,
-   par delà les distinctions sociales, le plus large public.
-
-   Il reste cependant des distinctions géographiques, l'exemple de Paris
-   nous montre à l'est le Bois de Vincennes et les guinguettes du bord de
-   Marne pour les ouvriers, employés… et l'ouest avec le Bois de Boulogne
-   pour la classe de haute bourgeoisie. Puis le centre des affaires (la
-   Bourse), de la politique, les quartiers de commerce avec le
-   développement des grands magasins. Aujourd'hui encore, les grandes
-   manifestations des villes n'attirent pas forcément le public des
-   banlieues (transport pas adapté par exemple).
-
-   Aux XIX^e et XX^e siècles, la culture de masse a considérablement
-   évolué en Occident, puis dans le monde entier avec le développement de
-   la presse écrite, de l'enregistrement sonore, de l'invention du cinéma,
-   de la radio et enfin de la télévision, qui ont permis aux populations
-   d'accéder à une culture très riche en images, textes et informations
-   diverses. Avec l'élévation du niveau de vie, apparaît dans les années
-   1960 la notion de civilisation des loisirs. Depuis les années 1990, la
-   diffusion et la commercialisation d'une culture de masse se sont encore
-   développées avec le réseau Internet ou avec le succès de supports
-   numériques tels que le CD audio ou le DVD. En 2004, on estime que 40 %
-   du commerce mondial est numérique^[réf. nécessaire]. Le nombre de
-   nouveaux films, livres ne fait qu'augmenter chaque année. De même la
-   multiplication des chaînes de télévision donne un choix toujours plus
-   large et varié au consommateur culturel.
-
-Diffusion par l'image
+L'alphabétisation
 
    [modifier | modifier le code]
 
-   On peut également lier le développement de la culture de masse à
-   l'utilisation de plus en plus intensive de l'image dans les médias et
-   aux différents progrès techniques qui ont rendu plus facile la
-   diffusion de l'image (photographie, télévision, magazines, Internet…).
-   Selon Dominique Kalifa, « la culture de masse est une culture de
-   l'image ». La presse en s'illustrant et la possibilité pour les
-   éditeurs de toucher le public des enfants avec des livres « très
-   imagés » ont rendu les populations demandeuses d'images.
+   Au cours du XIX^e siècle, la plupart des pays occidentaux s'engagent
+   dans l'alphabétisation de la population. Elle se généralise un peu plus
+   tôt dans les pays de religion protestante, où chacun doit être capable
+   de lire la Bible.
 
-   Aujourd'hui l'image est largement récupérée par les publicitaires et
-   les services marketing des entreprises qui se sont habitués à
-   communiquer de cette manière.
+   En France, en 1881-1882, les lois Ferry instituent l'école gratuite et
+   l'instruction obligatoire, qui permettra l'accès de tous à la culture
+   écrite. L'école institue également le français comme langue unique,
+   interdisant l'usage des langues régionales.
 
-   En 1860, « la revue photographique » parle ainsi de l'expansion du
-   format carte de visite qui permet alors de réduire les coûts du
-   portrait photographique. « C'est le triomphe de la démocratie et de
-   l'égalité sociale ». Enfin, chacun est devenu capable de jouir d'un
-   procédé technique innovant.
+   Les mouvements d'éducation populaire prennent leur essor, militant pour
+   une diffusion de la connaissance au plus grand nombre afin de permettre
+   à chacun de s'épanouir et de trouver la place de citoyen qui lui
+   revient.
 
-   Les photos et la facilité de leur reproduction, en bouleversant les
-   représentations de soi et des autres et en nous offrant des regards sur
-   le monde, ont ainsi permis d'unifier des modes de vie, des habitudes
-   vestimentaires au choix de l'endroit où nous pouvons porter notre
-   attention. Elles nous offrent synthèses et représentations de ce qu'est
-   la réalité.
-
-Images mobiles : le cinéma
+La culture de masse
 
    [modifier | modifier le code]
+   Article détaillé : Culture de masse.
 
-   L'arrivée des images « mobiles » c'est-à-dire du cinéma, n'a fait
-   qu'amplifier ce phénomène de culte et d'intérêt collectif pour l'image.
-   Ce phénomène de grande ampleur, qui touche la masse, c'est-à-dire dans
-   lequel chaque individu susceptible d'accéder à de l'information depuis
-   les différents médias, est ainsi à l'origine de ce qu'on appelle
-   aujourd'hui la culture de masse.
-
-   Les médias ont réussi, grâce aux faits « omnibus » qui intéressent tout
-   le monde sur un mode qui ne touche à rien d'important, à centrer les
-   hommes autour des mêmes représentations de ce qu'est la réalité.
-
-Radiodiffusion
-
-   [modifier | modifier le code]
-
-   En 1920, la radio était encore peu diffusée dans les foyers, puisqu'il
-   n'y avait que 500 000 postes de radio. En 1940, au moment du fameux
-   appel du 18 Juin du général de Gaulle, il y avait 5,5 millions de
-   postes.
-
-   La possibilité de « cibler » et de pouvoir homogénéiser des publics
-   éparpillés ont participé au développement de la publicité et donc de
-   l'intérêt des industriels dans la prise de contrôle des moyens de
-   diffusion.
-
-Américanisation
-
-   [modifier | modifier le code]
-
-Cas de la France
-
-   [modifier | modifier le code]
+   Au début du XX^e siècle, les droits aux congés payés sont acquis en
+   Allemagne, puis en France et en Belgique, permettant à une part
+   croissante de la population de partir en vacances.
 
    À la sortie de la Seconde Guerre mondiale, en négociant l'annulation de
-   la dette française envers les États-Unis, Léon Blum dut accepter, lors
-   des accords Blum-Byrnes de mai 1946, que les films hollywoodiens
+   la dette française envers les États-Unis, Léon Blum doit accepter, dans
+   les accords Blum-Byrnes de mai 1946, que les films hollywoodiens
    puissent être projetés dans les salles de cinéma françaises. Il
-   s'ensuivit une diffusion de l'american way of life, qui participa à une
-   certaine forme de développement de la culture de masse de la Culture
-   américaine. Les Français commencent à découvrir une culture qui se
-   dilue, largement, dans les sodas anglo-saxons.
+   s'ensuit une diffusion de l'American Way of Life, qui participe à une
+   certaine forme de développement de la culture de masse de la culture
+   américaine.
 
    Le développement massif de la culture de masse aux États-Unis, et ce
    qu'on a appelé « l'américanisation » du monde dans les années 1930, va
    amener de nombreux intellectuels et sociologues à se pencher sur
    l'influence de la culture de masse sur nos modes de vie.
 
-La médiation culturelle
+   Pour autant l'expression de « culture de masse » revêt, au même titre
+   que celle de « culture populaire » une connotation trop souvent
+   péjorative aux yeux de certains.
 
-   [modifier | modifier le code]
-   Cette section peut contenir un travail inédit ou des déclarations non
-   vérifiées (juillet 2021). Vous pouvez aider en ajoutant des références
-   ou en supprimant le contenu inédit.
-     * Si vous ne connaissez pas le sujet, laissez ce bandeau (vous pouvez
-       alors contacter les auteurs).
-     * Si vous supprimez le contenu mis en cause (vous pouvez
-       préalablement contacter les auteurs),
+   Ainsi serait-elle assimilée, de façon plus ou moins implicite, à une
+   forme de culture « facile », américanisée^[2], régie par de grandes
+   multinationales, surmédiatisée et globalement inférieure à la « vraie
+   culture », plus difficile d'accès. Les défenseurs de cette culture
+   avancent pour argument que cette dévalorisation qualitative est
+   relativement peu justifiable, bien qu'omniprésente, lorsque l'on sait
+   que de nombreux artistes tels que Elvis Presley ou les Beatles peuvent
+   tout à fait être rattachés à une forme de culture de masse, quand on
+   connaît l'importance de leur médiatisation à leurs époques
+   respectives : cette médiatisation n'a pour autant jamais nui à la
+   qualité artistique de leurs productions, pas plus qu'elle ne les a
+   empêchés d'être reconnus, avec le temps, comme de grands artistes.
+   Ainsi, la qualité des œuvres culturelles ne dépendrait donc en rien de
+   leur accessibilité auprès du public.
 
-          argumentez précisément cette suppression dans la page de
-          discussion
-          (un manque de référence n'est pas un argument ; une recherche
-          réelle de référence doit avoir été effectuée, être formellement
-          documentée).
+   Cet argument n'est cependant tenable qu'à condition de tenir ces
+   musiciens pour des musiciens de qualité, ce qui exige un gage
+   d'objectivité. Or, c'est bien trop souvent les mêmes partisans de cette
+   culture qui la jugent. Elvis Presley et les Beatles peuvent tout aussi
+   bien être considérés sous un autre angle, selon lequel ils seraient les
+   premiers véritables produits de masse dont la popularité repose moins
+   sur leurs qualités que sur leur image.
 
-   En France, depuis la fin de la Seconde Guerre mondiale, le Gouvernement
-   essaye de redonner un intérêt à l'art et à la culture. En 1959, André
-   Malraux, alors devenu le tout premier ministre de la culture sous la
-   présidence de Charles de Gaulle, lance la création des Maisons de la
-   Culture afin de valoriser l'art et la culture dans toutes les provinces
-   françaises et plus seulement en région parisienne. Il veut donner un
-   intérêt à l'art en province. Cependant, il ne valorise pas
-   l'apprentissage de la culture à l'école. Pour Malraux, il suffit de
-   placer les gens face à une œuvre d'art pour qu'il la comprennent. Il y
-   a donc deux approches de la culture selon lui : une sensible (où on
-   apprécie l'art tel qu'il est sans l'analyser ou sans le comprendre) et
-   une intellectuelle (où des médiateurs essayent de faire aimer l'art au
-   plus grand nombre).
+   Néanmoins, l'opposition d'une culture dite « basse » à une véritable
+   culture est tout aussi absurde. Car là encore, ce sont ceux qui
+   revendiquent la supériorité de leur culture la jugent ainsi.
 
-   Dans les années 1970, le Gouvernement français se rend compte que
-   l'ouverture de structures ne suffit pas à la démocratisation de la
-   culture. Il emploie alors des animateurs culturels^[8] afin de
-   favoriser le lien entre la population et l'art et afin de regrouper
-   différentes classes sociales. C'est un processus difficile à mettre en
-   place puisque que les plus riches stigmatisent les plus pauvres et ne
-   veulent pas être mélangés avec eux. La démocratisation de la culture
-   pour toutes les classes sociales est donc très compliquée à mettre en
-   place pour des raisons sociales. À la fin des années 1970, des émeutes
-   éclatent dans les cités.
-
-   Bourdieu va alors intervenir. Selon lui, il faut rendre accessible les
-   grandes œuvres d'art au plus grand nombre. Il va scinder la notion de
-   culture en deux sens différents : la culture anthropologique et la
-   culture cultivée.
-
-   La culture anthropologique définit la culture comme étant personnelle à
-   chaque individu, elle est donc différente d'une personne à une autre.
-   Elle ne sert qu'à conforter les individus dans leur propre culture sans
-   les cultiver davantage.
-
-   La culture « cultivée » (souvent dite « élitiste » car elle crée des
-   barrières sociales à cause de l'absence d’ascenseur social dans les
-   banlieues : on ne s'approche pas de l'art si on n'y a pas été éduqué).
-
-   En 1981, lorsque François Mitterrand arrive à la présidence de la
-   France, il fait de la culture un des piliers de son programme, il
-   augmente le budget alloué à la culture par l’État et nomme Jack Lang au
-   ministère de la culture.
-
-   Ce dernier va améliorer les décisions prises par Malraux durant son
-   mandat. En effet, il va apporter son soutien aux arts contemporains,
-   aux arts plastiques, aux Cités de la musique (il créera d'ailleurs la
-   Fête de la musique en 1982), il apporte également son soutien aux
-   artistes en essayant de leur donner une certaine notoriété. Il y a donc
-   une véritable ouverture vers des arts jusqu'alors jugés illégitimes.
-
-   Jack Lang crée également les Fonds régionaux d'art contemporain (FRAC),
-   en 1982, afin de décentraliser l'art en France et de le rendre
-   accessible à toutes les régions françaises.
-
-   Malheureusement, la médiation culturelle connaît un recul. En effet, de
-   plus en plus d'artistes deviennent directeurs d'institutions de l’État
-   (théâtres, cinémas…). Il y a donc médiation par l'artiste lui-même qui
-   transforme donc la médiation en spectacularisation^[9] et ne parle que
-   de ce qu'il connaît (son art) à des gens qui ont déjà une certaine
-   culture artistique.
-
-Évolution au XXI^e siècle
+Domaines culturels
 
    [modifier | modifier le code]
 
-   L'apparition d'internet oblige à reconsidérer le concept de culture de
-   masse. Alors qu'une majorité d'intellectuels, d'obédience marxiste et
-   dans le sillage de Noam Chomsky, y voient une « fabrique de
-   l'opinion »^[10] et avant toute chose l'exercice d'une domination
-   sociale, d'autres, qui mènent une réflexion sur le phénomène technique
-   dans son ensemble, et pas seulement des médias de masse, y voient la
-   marque d'une aliénation affectant tout le monde, aussi bien les classes
-   dominantes que les classes dominées.
+Musique
 
-Arts visuels
+   [modifier | modifier le code]
+   [250px-Marseillaisenoframe.jpg] Rouget de Lisle chantant La
+   Marseillaise, lithographie de Wentzel.
+
+   La lithographie de Wentzel dépeint Rouget de Lisle en train de chanter
+   La Marseillaise, tandis que l'éventail musical se déploie au-delà de ce
+   moment historique pour embrasser une diversité de genres. Les chants
+   régionaux, tels que le Kan ha diskan ou la polyphonie corse, illustrent
+   les traditions locales, tout comme les hymnes nationaux et les marches
+   populaires qui accompagnent les grands moments collectifs. Les
+   comptines, souvent chantées d'une génération à l'autre, apportent une
+   touche ludique et éducative, tandis que la musique traditionnelle, le
+   folk et la danse traditionnelle perpétuent les racines culturelles.
+   Au-delà, la pop, la variété et la musette dessinent le paysage de la
+   musique contemporaine et populaire, suivies par les genres plus
+   modernes comme le jazz, le rock, le blues, et le rhythm and blues. Le
+   reggae, avec ses rythmes envoûtants, et le rap, avec son expression
+   rythmique et poétique, complètent ce panorama riche et varié.
+
+Tradition orale
+
+   [modifier | modifier le code]
+   Article détaillé : Tradition orale.
+
+   Les contes et légendes, ainsi que les proverbes, jouent un rôle
+   essentiel dans la transmission de la culture et des traditions. En
+   France, la diversité linguistique est particulièrement riche avec la
+   présence de nombreuses langues régionales telles que l'alsacien, le
+   basque, le breton, le catalan, le corse, le flamand et l'occitan.
+   Chacune de ces langues contribue à préserver un patrimoine culturel
+   unique et à enrichir le tissu social du pays.
+
+Littérature
+
+   [modifier | modifier le code]
+   [250px-Epinal_image_quichote.jpg] Don Quichotte, image d'Épinal.
+
+   La littérature populaire, également appelée paralittérature^[3],
+   englobe diverses formes d'écrits destinés à un large public. Parmi ses
+   principales manifestations, on trouve le roman populaire et les
+   romans-feuilletons, souvent publiés en série dans des journaux ou des
+   magazines, ainsi que la littérature de gare, caractérisée par des
+   ouvrages accessibles et divertissants vendus dans les gares et autres
+   lieux de passage. La romance, qui explore principalement les relations
+   amoureuses, fait aussi partie de cette catégorie, et les pulps, des
+   magazines bon marché diffusant des histoires sensationnelles, y
+   occupent une place importante. La science-fiction et le fantastique,
+   avec leurs mondes imaginaires et leurs récits spéculatifs, sont
+   également des genres prédominants de la paralittérature. Enfin, la
+   fanfiction, où des amateurs créent des histoires à partir d'univers
+   existants, complète ce panorama de la littérature populaire.
+
+Critiques de la notion
 
    [modifier | modifier le code]
 
-   Les arts visuels incluent une variété d'expressions culturelles et
-   festives telles que la kermesse, le guignol, et le théâtre. Le cinéma,
-   notamment le cinéma de genre, occupe une place importante, tout comme
-   l'animation, qui englobe les images de synthèse et les dessins animés.
-   Des spectacles populaires comme le cirque et le catch apportent
-   également une dimension divertissante. Les événements festifs tels que
-   les fêtes foraines, le Fest-Noz, et la Fête de la musique rassemblent
-   des communautés autour de la culture et du divertissement.
-
-Jeux
+Le problème de définition du populaire
 
    [modifier | modifier le code]
-   [250px-4_sports_photo.jpg] Exemples de sports : escrime, athlétisme,
-   rugby à XV et cyclisme.
-     * Sport :
-          + Basket-ball ;
-          + Boxe ;
-          + Bowling ;
-          + Tennis ;
-          + Cyclisme ;
-          + Football ;
-          + Rugby à XIII ;
-          + Rugby à XV ;
-          + Pétanque.
+   [250px-William_Hogarth_028.jpg] William Hogarth, An Election
+   Entertainment (v. 1755). Représentation satirique dans le style rococo
+   d'un banquet d'élection.
 
-     * Flipper.
+   À l'heure de la démocratie établie, le « populaire » se définit
+   difficilement : ce qui serait dit « populaire » se définirait par sa
+   capacité à toucher tout le monde à l'exception de ceux qui en font un
+   rejet (conservateurs d'(ancien) ordre élitiste établi,
+   marginaux, etc.). D'où vient cette difficulté : de plus en plus, au
+   XIX^e siècle et au XX^e siècle, la culture d'un pays ne se définit plus
+   en fonction de sa culture officielle (celle des élites et des
+   dirigeants) mais grâce aux différentes productions culturelles
+   reconnues et aux mœurs ancestrales ou nouvelles connues.
 
-     * Jeu de cartes :
-          + Aluette ;
-          + Bridge ;
-          + Belote ;
-          + Tarot ;
-          + Crapette.
+   Selon Pierre Bourdieu :
 
-Jeux vidéo
+     « Le culte de la culture populaire n'est, bien souvent, qu'une
+     inversion verbale et sans effet, donc faussement révolutionnaire, du
+     racisme de classe qui réduit les pratiques populaires à la barbarie
+     ou à la vulgarité : comme certaines célébrations de la féminité ne
+     font que renforcer la domination masculine, cette manière en
+     définitive très confortable de respecter le « peuple », qui, sous
+     l'apparence de l'exalter, contribue à l'enfermer ou à l'enfoncer
+     dans ce qu'il est en convertissant la privation en choix ou en
+     accomplissement électif, procure tous les profits d'une ostentation
+     de générosité subversive et paradoxale, tout en laissant les choses
+     en l'état, les uns avec leur culture ou leur (langue) réellement
+     cultivée et capable d'absorber sa propre subversion distinguée, les
+     autres avec leur culture ou leur langue dépourvues de toute valeur
+     sociale ou sujettes à de brutales dévaluations que l'on réhabilite
+     fictivement par un simple faux en écriture théorique. »
 
-   [modifier | modifier le code]
-   [250px-Prince_of_Persia_1_-_MS-DOS_-_Gameplay.gif] Capture animée du
-   jeu Prince of Persia, typique du jeu de plate-forme en 2D avec des
-   pièges à éviter et des ennemis à éliminer.
-     * Jeu d'action :
-          + FPS ;
-          + TPS ;
-          + Jeu de combat ;
-          + Shoot 'em up.
+   — Pierre Bourdieu, Méditations pascaliennes, Seuil, 1997.
 
-     * Jeu d'action-aventure ;
-     * Jeu d'aventure.
-
-     * Jeu vidéo de rôle :
-          + Porte-monstre-trésor ;
-          + MUD ;
-          + Dungeon crawler ;
-          + Hack 'n' slash ;
-          + Rogue-like ;
-          + Action RPG ;
-          + Tactical RPG ;
-          + MMORPG.
-
-Art
-
-   [modifier | modifier le code]
-   [250px-Princip_Gavrilo_grafit.JPG] Graffiti historique de Gavrilo
-   Princip à Belgrade (Serbie).
-     * Imagerie populaire ;
-     * Artisanat de tranchée ;
-     * Bande dessinée, manga, roman graphique ;
-     * Art naïf ;
-     * Art brut ;
-     * Arts et traditions populaires ;
-     * Graffiti ;
-     * Peintures des Poyas ;
-     * Pop art ;
-     * Art urbain ou Street art.
-
-Artisanat
-
-   [modifier | modifier le code]
-   [250px-Eve_tempts_Adam_in_the_studio_%2817376075752%29.jpg] Séance
-   photographique du modèle : Lisa Trent, en mai 1958.
-     * Artisanat Textiles :
-          + Broderie ;
-          + Couture ;
-          + Tricot ;
-
-     * Arts décoratifs ;
-     * Objets :
-          + Brocante ;
-          + Bricolage.
-     * Cuisine ;
-     * Jardinage.
-
-Nouvelles technologies
-
-   [modifier | modifier le code]
-     * Art numérique :
-          + Smileys ;
-          + Art ASCII.
-
-Autre culture, dite « populaire »
+Études dans le champ de l'industrie culturelle
 
    [modifier | modifier le code]
 
-   Le développement de la culture de masse a également intégré rapidement
-   les milieux ouvriers et paysans. Ils ont ainsi peu à peu été pris pour
-   cible par des phénomènes d'industrialisation culturelle autant pour les
-   hommes que pour les femmes ou les enfants.
+   Les sciences de l'information et de la communication ont mis en
+   évidence le faux débat démagogique entre culture populaire et art
+   savant instauré par les médias et les grands groupes de communication.
+   La confusion entre « arts et traditions populaires » et « culture
+   populaire industrialisée » pollue ce débat. Theodor W. Adorno a ébauché
+   une critique dans son essai, traduit en français sous le titre « La
+   Production industrielle de biens culturels » (« Kulturindustrie ») dans
+   La Dialectique de la raison. Il a aussi problématisé une coupure
+   esthétique entre musique populaire (liée à l'industrie du disque) et
+   musique savante^[Note 1].
 
-   Ce phénomène a été rendu possible grâce aux glissements des valeurs des
-   classes supérieures vers celles des classes inférieures (popularisation
-   des valeurs bourgeoises). L'industrialisation a permis de développer et
-   de vendre moins cher des produits pour mettre à disposition de chacun
-   des biens de consommation qui allaient de soi dans d'autres milieux :
-   appareils photo, bibliothèques (fabriquées avec des bois ordinaires et
-   considérés comme non-nobles), livres de poche…
-
-   En justifiant la puissance d'un modèle économique, la création des
-   expositions universelles (au début du XIX^e siècle) reste l'exemple
-   phare de cette « popularisation » des pratiques culturelles. En
-   vulgarisant les sciences et en excitant la curiosité du spectateur
-   grâce à de grandes manifestations dans lesquelles toutes les
-   populations des villes et des pays sont invitées, on a ainsi pu lier
-   progrès industriel et progrès social.
-
-   Si l'on parle de culture populaire, c'est que les outils utilisés sont
-   utilisables par tous, sans distinction de classe sociale ou d'origine
-   géographique. En effet, la culture de masse peut se faire à l'échelle
-   d'un pays ou d'un continent et ensuite avec la mondialisation et les
-   moyens de communication, les idées se diffusent et deviennent
-   homogènes.
-
-   Molière, Goethe ou Shakespeare (qui sont chacun des symboles
-   littéraires nationaux) ne permettent pas forcément un échange
-   international et ne mettent pas les individus sur la même échelle de
-   valeurs sur le plan international. Contrairement à Harry Potter,
-   traduit dans de nombreuses langues.
-
-   Selon le designer Richard Hamilton, la culture populaire (c'est-à-dire
-   conçue pour une audience de masse) se définit comme un outil facile se
-   diffusant à court terme, bon marché, produit en série, destiné à la
-   jeunesse, spirituel, sexy, truqué, séduisant et lié au big business.
-
-   Cette définition peut ainsi s'appliquer et expliquer le succès
-   international de groupes de « pop music » qui inondent aujourd'hui nos
-   écrans de télévision dont l'esthétique et le contenu artistique se
-   veulent représentatif d'une société tournée vers la consommation de
-   masse.
-
-   En prenant ainsi l'exemple d'un groupe de musique, une maison de
-   disques qui voudrait en créer de toutes pièces, pourrait appliquer les
-   caractéristiques de la définition d'Hamilton :
-     * audience de masse (radio, télévision, Internet, disques et baisse
-       des prix des supports qui permettent d'utiliser ces outils…),
-     * éphémère et vite oublié (effet de mode, de nouveauté donc remplacé
-       par un autre dès les premiers signes de faiblesse commerciale),
-     * bon marché (les supports de diffusion comme les disques ou internet
-       coûtent peu à fabriquer dans une production de masse),
-     * produits en série, superficiel (les textes sont sans prétention et
-       les harmonies sont simples),
-     * musique véhiculée par des chanteurs jeunes, spirituels, sexy et
-       séduisants,
-     * lié au big business (les maisons de disques sont aujourd'hui des
-       multinationales).
-
-   Cette production culturelle permet ainsi de viser de nombreux
-   adolescents de toutes les origines sociales.
-
-   Le système procède ainsi à une mise en scène généralisée des désirs via
-   les objets « cultes », fondée sur la consommation rapide de signes et
-   sur le développement des modes.
-
-   Le politologue Benjamin Barber y observe ainsi la naissance d'une
-   culture mondiale, impulsée par les firmes globales, relayée par une
-   avant-garde urbaine et mondialisée. Il appelle cette culture
-   « Vidéologie », « réduite à l'état de denrée, ou l'habit fait le moine
-   et où le look devient idéologie ».
-
-Industrialisation et enjeux financiers
+Sociologie des cultures populaires
 
    [modifier | modifier le code]
+   Article détaillé : Sociologie des pratiques culturelles.
 
-   La photographie, le cinéma, la radio et aujourd'hui Internet sont des
-   formes de diffusion culturelles directement liés à la machine. La
-   combinaison de facteurs techniques, industriels et artistiques pour la
-   production de biens culturels en grande quantité signifie la mise en
-   place d'enjeux financiers considérables.
-
-   La culture de masse représente l'ensemble des productions, des
-   pratiques et des valeurs modelés par les « agents » de l'industrie
-   culturelle. Dans cette relation entre technique et culture, le recours
-   au progrès technique comme facteur de productivité constitue alors un
-   élément décisif dans tout passage à une production de masse.
-
-   Avec la publicité, les industriels vont pouvoir associer aux images un
-   impact commercial en encourageant la consommation. Cet attrait
-   publicitaire représente alors une aubaine pour les tenants des moyens
-   de diffusion qui peuvent alors espérer une pérennisation de leurs
-   activités. Les publicités ont ainsi participé à la création des
-   premières radios nationales en finançant les installations techniques.
-
-   Dans le milieu du cinéma, des entreprises comme Pathé ou Gaumont se
-   sont constituées pour pouvoir contrôler la diffusion des films et créer
-   ainsi des circuits. Elles développent alors la notion de « cinéma
-   d'exclusivité » obligeant les spectateurs à venir dans leurs salles
-   pour assister aux représentations des films à gros budget.
-   L'attachement du public à ce type de cinéma va permettre aux industries
-   de se pérenniser et donc d'investir dans le développement de leurs
-   activités en implantant de nombreuses salles et en finançant la
-   recherche et les équipes pouvant apporter de l'innovation dans ce
-   milieu.
-
-Critiques
-
-   [modifier | modifier le code]
-
-   La culture de masse a rapidement trouvé ses détracteurs. Dès la
-   monarchie de Juillet (1830-1848), des voix s'élevèrent contre « les
-   ravages d'une culture jugée abêtissante, pernicieuse et dangereuse pour
-   l'ordre social »^[11] ; alors que s'élaborent les théories marxistes
-   remettant en cause le capitalisme.
-
-   Naîtra ensuite au XX^e siècle, tout un mouvement exprimant ses
-   inquiétudes envers les capacités des nouveaux médias à l'endoctrinement
-   ou à la manipulation idéologique alors que s'opposent rapidement les
-   principes de rationalisation, de standardisation et de division du
-   travail. (vite fabriqué, vite consommé, vite remplacé). La fonction de
-   la culture de masse n'est alors que le nivellement, l'aliénation et
-   l'endoctrinement d'un public perçu comme une masse homogène et passive.
-
-   En effet, les médias contrôlés par les industriels, choisissent les
-   artistes ou les auteurs à mettre en valeur suivant leur potentialité à
-   toucher le plus large public possible. Ceci a permis d'imposer aux
-   auteurs, voulant être publiés, un cahier des charges (cas de la
-   presse). La création perd alors sa mission d'alternative critique et la
-   culture s'ouvre aux mécanismes de la domination de ceux qui possèdent
-   les moyens de diffusion.
-
-   Selon Bertrand Lemonnier, « l'art ne cherche pas à se conformer aux
-   goûts du public ou, comme dans l'abstraction, à s'en éloigner, mais à
-   suivre les normes posées par les mass media et la publicité ». Le
-   développement massif de la culture de masse aux États-Unis, et ce qu'on
-   a appelé « l'américanisation » du monde dans les années 1930, va amener
-   de nombreux intellectuels et sociologues à se pencher sur l'influence
-   de la culture de masse sur nos modes de vie.
-
-   L'école de Francfort, groupe d'intellectuels allemands réunis autour de
-   l'institut de recherche sociale fondé en 1923, est connue pour s'être
-   penchée sur l'apparition de la culture de masse dans les sociétés
-   modernes. Elle en développera une critique à l'aide du concept de
-   l'« industrie culturelle ». Selon Walter Benjamin, les photos et
-   nouvelles technologies de la reproduction ont produit la perte de la
-   fonction rituelle de l'œuvre d'art au profit de l'exposition en série.
-   La technologie se met ainsi au service du système social et de sa
-   reproduction.
-   [250px-AdornoHorkheimerHabermasbyJeremyJShapiro2.png] Max Horkheimer (à
-   gauche), Theodor Adorno (à droite) et Jürgen Habermas (au fond, à
-   droite) en 1965 à Heidelberg.
-
-   Deux autres sociologues de l'école de Francfort, Théodore Adorno et Max
-   Horkheimer considèrent l'art comme instrument de libération et comme
-   force motrice dans la lutte pour changer le monde. La culture de masse
-   est alors le symptôme d'une civilisation qui programme
-   l'autodestruction de la raison et le déclin de la conscience critique.
-   « L'esprit ne peut survivre lorsqu'il est défini comme un bien culturel
-   et destiné à des fins de consommation. La marée d'informations précises
-   et d'amusements domestiqués rend les hommes plus ingénieux en même
-   temps qu'elle les abêtit ».
-
-   Selon eux, la culture de masse n'est donc qu'un moyen de garrotter la
-   conscience de l'homme. Puisqu'elle donne l'illusion du choix, qu'elle
-   automatise la consommation et l'identification, qu'elle rend impossible
-   la dissidence, que le consommateur est réduit à l'état d'objet et
-   qu'elle substitue le conformisme à l'autonomie.
-
-   Des critiques peuvent être également apportées quant à la capacité de
-   la culture de masse à homogénéifier les individus pour créer une
-   société aux valeurs démocratiques communes. La standardisation des
-   offres et des références signifie moins la constitution d'une grande
-   communauté homogène que son éparpillement en de nombreux publics
-   différenciés puisque le capitalisme va aujourd'hui chercher à trouver
-   des cibles marketing dans chaque catégorie de population.
-
-   Les pratiques culturelles investissent ainsi la diversité des choix et
-   des modes d'appropriation.
+   Les sociologues Claude Grignon et Jean-Claude Passeron soulignent
+   l'ambivalence des intellectuels face aux cultures populaires (lecture
+   populiste célébrant l'authenticité des goûts du peuple par opposition
+   aux faux-semblants des pratiques cultivées, lecture misérabiliste
+   propre à la théorie de la légitimité culturelle) : « de même que les
+   cécités sociologiques du relativisme culturel appliqué aux cultures
+   populaires encouragent le populisme, pour qui le sens des pratiques
+   populaires s'accomplit intégralement dans le bonheur monadique de
+   l'autosuffisance symbolique, de même la théorie de la légitimité
+   culturelle risque toujours, par sa systématicité énonciative, de
+   conduire au légitimiste qui, en sa forme extrême du misérabilisme n’a
+   plus qu’à décompter d’un air navré toutes les différences comme autant
+   de manques, toutes les altérités comme autant de moindre-être – que ce
+   soit sur le ton de l’élitisme ou sur celui du paternalisme^[4] ».
 
 Notes et références
 
    [modifier | modifier le code]
-    1. ↑ (en) André Jansson, « The Mediatization of Consumption », Journal
-       of Consumer Culture, vol. 2, n^o 1,‎ 2002, p. 5-31.
-    2. ↑ Frederic Jameson, « Réification et utopie dans la culture de
-       masse », Études françaises, volume 19, numéro 3, hiver 1983,
-       p. 121–138 (lire en ligne).
-    3. ↑ « « Culture de masse et société de classes », de Philippe
-       Coulangeon : métamorphoses de l’inégalité culturelle », Le
-       Monde.fr,‎ 28 octobre 2021 (lire en ligne, consulté le 8 octobre
-       2022)
-    4. ↑ Lucy Grig, Popular Culture in the Ancient World, Cambridge, 2017
-    5. ↑ Dominique Kalifa, La culture de masse en France. Tome n^o 1,
-       1860-1930, Paris, La Découverte, collection "Repères", 2001, p. 5
-       (ISBN 2-7071-3515-1)
-    6. ↑ Jean-Pierre Rioux et Jean-François Sirinelli, Histoire culturelle
-       de la France. 4 : Le temps des masses. Le XXe siècle, Paris,
-       Éditions du Seuil, 1998, p. 77-78.
-    7. ↑ Jean-Pierre Rioux et Jean-François Sirinelli, Histoire culturelle
-       de la France. 4 : Le temps des masses. Le XXe siècle, Paris,
-       Éditions du Seuil, 1998, p. 78.
-    8. ↑ animateurs culturels
-    9. ↑ spectacularisation
-   10. ↑ La fabrique de l'opinion, Loïc Blondiaux, éditions du Seuil, 1998
-   11. ↑ Dominique Kalifa, La culture de masse en France. Tome n^o 1,
-       1860-1930, Paris, La Découverte, collection "Repères", 2001, p. 95
-       (ISBN 2-7071-3515-1)
 
-Annexes
+   Note
+
+    1. ↑ Cf. « Sur la musique populaire », traduit en français dans le
+       numéro spécial Jazz de la Revue d'esthétique.
+
+   Références
+
+    1. ↑ Gordon Lynch 2005, p. 3
+    2. ↑ JulienJamesVachon, « En quoi la culture pop peut influencer
+       l’imaginaire et le quotidien de la jeunesse ? », sur Direct-Actu,
+       12 mars 2023 (consulté le 6 juillet 2024)
+    3. ↑ Pierre Frantz (entrée paralittérature) Michel Jarrety (direction
+       de l'ouvrage), Lexique des termes littéraires
+       (ISBN 978-2253067450), p. 306-307.
+    4. ↑ Claude Grignon, Jean-Claude Passeron, Le savant et le populaire.
+       Misérabilisme et populisme en sociologie et en littérature, Seuil,
+       2019, p. 36
+
+Voir aussi
 
    [modifier | modifier le code]
 
    Sur les autres projets Wikimedia :
-     * culture de masse, sur le Wiktionnaire
+     * Culture populaire, sur Wikimedia Commons
+     * culture populaire, sur le Wiktionnaire
+
+   Une catégorie est consacrée à ce sujet : Culture populaire.
 
 Bibliographie
 
    [modifier | modifier le code]
-     * Bibliographie Théories de la culture, de l'information, de la
-       communication, de l'image (1930-)
-     * Louis Dollot, Culture individuelle et Culture de masse, Paris,
-       Presses Universitaires de France, coll. « Que sais-je ? », 1974
-       (ISBN 2-13-045038-5).
-     * Richard Hoggart, The uses of literacy : aspects of working-class
-       life, Londres, 1957 (ISBN 0765804212) ; trad. fr. La culture du
-       pauvre : étude sur le style de vie des classes populaires en
-       Angleterre, Paris, 1970 (ISBN 2-7073-0117-5).
-     * Dominique Kalifa, La culture de masse en France. Tome n^o 1,
-       1860-1930, Paris, La Découverte, collection « Repères », 2001
-       (ISBN 2-7071-3515-1).
-     * Frédéric Martel, Mainstream, Paris, 2010.
-     * Jean-Yves Mollier, Jean-François Sirinelli et François Vallotton
-       (dir.), Culture de masse et culture médiatique en Europe et dans
-       les Amériques, 1860-1940, Paris, Presses Universitaires de France,
-       2006 (ISBN 9782130555315).
-     * Christopher Lasch, Culture de masse et culture populaire,
-       Castelnau-Le-Lez, Climats, 2001 (réédition 2011, avec un
-       avant-propos de Jean-Claude Michéa).
-     * Jean-Pierre Rioux et Jean-François Sirinelli, Histoire culturelle
-       de la France. 4 : Le temps des masses. Le XXe siècle, Paris,
-       Éditions du Seuil, 1998.
-     * Jean-Pierre Rioux et Jean-François Sirinelli (dir.), La culture de
-       masse en France de la Belle Époque à aujourd'hui, Paris, Fayard,
-       2002 (ISBN 9782213611570).
-     * Mélissa Thériault, Le 'vrai' et le reste. Plaidoyer pour les arts
-       populaires, Montréal, Éditions Nota Bene-Varia, 2015
-       (ISBN 9782896060658).
-     * Frederic Jameson, « Réification et utopie dans la culture de
-       masse », Études françaises, volume 19, numéro 3, hiver 1983,
-       p. 121–138 (lire en ligne).
+     * Richard Hoggart, La culture du pauvre [« The Uses of
+       Literacy:Aspects of Working Class Life »], Éditions de Minuit,
+       1970, 424 p. (ISBN 978-2-7073-0117-8)
+     * Hubert Artus, Pop Corner, la grande histoire de la pop culture,
+       1920-2020, Don Quichotte, 2017, 304 p. (ISBN 2359495143)
+     * John Storey, Cultural Theory and Popular Culture : An Introduction,
+       Pearson Education, 2006, 191 p. (ISBN 978-0-13-197068-7, lire en
+       ligne)
+     * Gordon Lynch, Understanding Theology and Popular Culture, Blackwell
+       Publishing, 2005, 254 p. (ISBN 978-1-4051-1748-7, lire en ligne)
+     * Ronald Daus, Le Cycle épique des cangaceiros dans la littérature
+       populaire du Nordeste (Der epische Zyklus der Cangaceiros in der
+       Volkspoesie Nordostbrasiliens), thèse, 1967
+     * Volume !, revue scientifique semestrielle, consacrée à l'étude
+       interdisciplinaire des musiques populaires (rock, jazz, hip-hop,
+       techno, metal…).
+     * La Culture pop des années 1970 (Le pop-notes de François Jouffa),
+       Spengler éditeur, 1994.
+     * Claude Grignon, Jean-Claude Passeron, Le savant et le populaire.
+       Misérabilisme et populisme en sociologie et en littérature, Seuil,
+       2019, 264 p. (lire en ligne)
 
 Articles connexes
 
    [modifier | modifier le code]
-     * Art officiel
-     * Communication de masse
-     * Consumérisme
-     * Culture populaire
+     * Arts et traditions populaires
+     * Culture
+     * Éducation populaire
      * Divertissement
-     * Industries culturelles
-     * Marchandisation
-     * Médias de masse
-     * Monoforme
-     * Propagande
-     * Publicité
-     * Société de consommation
-     * Société de masse
-     * Société du spectacle (livre)
+     * Contrecultures et sous-cultures
+     * Culture enfantine
+     * Culture américaine
+     * Culture de masse
+     * Art modeste
 
 Liens externes
 
    [modifier | modifier le code]
 
      *
-     *
-     * Notice dans un dictionnaire ou une encyclopédie généraliste Voir et
-       modifier les données sur Wikidata  :
-          + Universalis
+     * Ressource relative à la santé Voir et modifier les données sur
+       Wikidata  :
+          + Medical Subject Headings
+     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
+       et modifier les données sur Wikidata  :
+          + Nationalencyklopedin
+          + Store norske leksikon
+          + Visuotinė lietuvių enciklopedija
      * Notices d'autorité Voir et modifier les données sur Wikidata  :
-          + Espagne
-          + Tchéquie
-     * Culture de masse et aliénation moderne, Zones subversives, 7 avril
-       2015
+          + BnF (données)
+          + LCCN
+          + Japon
+          + Israël
+          + Lettonie
+     * Dossier Cultures populaires : histoire d'une légitimation sur
+       Balises, magazine de la Bibliothèque publique d'information.
 
    v · m
    Culture
@@ -972,38 +674,33 @@ Liens externes
      * Études des cultures populaires (en)
      * Relations interculturelles
 
-     * icône décorative Portail des médias
      * icône décorative Portail de la culture
-     * icône décorative Portail de la sociologie
+     * icône décorative Portail de la société
 
    Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=Culture_de_masse&oldid=229
-   832966 ».
-   Catégories :
+   « https://fr.wikipedia.org/w/index.php?title=Culture_populaire&oldid=23
+   0131869 ».
+   Catégorie :
      * Culture populaire
-     * Sociologie du cinéma
-     * Société de l'information
-     * École de Francfort
 
    Catégories cachées :
-     * Article manquant de références depuis décembre 2018
+     * Article manquant de références depuis mars 2013
      * Article manquant de références/Liste complète
-     * Article pouvant contenir un travail inédit
-     * Article contenant un appel à traduction en anglais
-     * Article à référence nécessaire
-     * Page utilisant un modèle Bases inactif
-     * Page utilisant P3219
+     * Catégorie Commons avec lien local identique sur Wikidata
+     * Page utilisant P486
      * Page pointant vers des bases externes
+     * Page pointant vers des bases relatives à la santé
+     * Page utilisant P3222
+     * Page utilisant P4342
+     * Page utilisant P7666
      * Page pointant vers des dictionnaires ou encyclopédies généralistes
      * Article de Wikipédia avec notice d'autorité
-     * Portail:Médias/Articles liés
-     * Portail:Société/Articles liés
+     * Article contenant un appel à traduction en anglais
      * Portail:Culture/Articles liés
-     * Portail:Sociologie/Articles liés
-     * Portail:Sciences humaines et sociales/Articles liés
+     * Portail:Société/Articles liés
 
-     * La dernière modification de cette page a été faite le 17 octobre
-       2025 à 13:24.
+     * La dernière modification de cette page a été faite le 27 octobre
+       2025 à 23:24.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
        Commons attribution, partage dans les mêmes conditions ; d’autres
        conditions peuvent s’appliquer. Voyez les conditions d’utilisation
@@ -1033,5 +730,5 @@ Liens externes
    (BUTTON) Rechercher
 
    [ ] Basculer la table des matières
-   Culture de masse
-   (BUTTON) 25 langues Ajouter un sujet
+   Culture populaire
+   (BUTTON) 85 langues Ajouter un sujet

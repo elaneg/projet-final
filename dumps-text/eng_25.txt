@@ -1,17 +1,723 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 151389732
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:38 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Politics and social trends
+       (BUTTON) Toggle Politics and social trends subsection
+          + 1.1 Political
+          + 1.2 Social
+     * 2 By country
+       (BUTTON) Toggle By country subsection
+          + 2.1 Canada
+          + 2.2 United States
+     * 3 See also
+     * 4 References
+     * 5 External links
+
+   [ ] Toggle the table of contents
+
+Urban culture
+
+   [ ] 12 languages
+     * العربية
+     * Azərbaycanca
+     * Français
+     * Galego
+     * 한국어
+     * Монгол
+     * Norsk nynorsk
+     * Polski
+     * Русский
+     * Türkçe
+     * Tiếng Việt
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Culture of cities
+
+   Urban culture is the culture of towns and cities. The defining theme is
+   the presence of a large population in a limited space that follows
+   social norms.^[1] This makes it possible for many subcultures close to
+   each other, exposed to social influence without necessarily intruding
+   into the private sphere.^[2] Ultimately, urban culture offers for
+   diverse perspectives, more resources in the medical field, both
+   physically and mentally, but it also faces challenges in maintaining
+   social cohesion.
+
+   Globally, urban areas tend to hold concentrations of power, such as
+   government capitals and corporate headquarters, and the wealthy and
+   powerful people that are employed in them. Cities also organize people,
+   create norms, beliefs, and values.^[3]^[4] As outlined by Max Weber in
+   his book, The City, "There are five things that make a city:
+   fortification, market, a law code, an association of urban citizenry
+   creating a sense of municipal corporateness, and sufficient political
+   autonomy for urban citizens to choose the city’s governors."^[5] In
+   some countries, elites have built themselves enclaves outside of the
+   central city (e.g. white flight in the United States).
+
+Politics and social trends
+
+   [edit]
+   icon
+   This section needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources in this
+   section. Unsourced material may be challenged and removed.
+   Find sources: "Urban culture" – news · newspapers · books · scholar ·
+   JSTOR (April 2024) (Learn how and when to remove this message)
+
+Political
+
+   [edit]
+
+   In most of the Western world, urban areas tend to be politically to the
+   left of suburban and rural areas. There has always been a large
+   difference in political views between these areas for a variety of
+   reasons. A 2018 survey undertaken by the Pew Research Center^[6] shows
+   that people who live in an urban area will most likely have political
+   views that clash with someone who lives in a suburban or rural area. An
+   example of this is how people in this survey felt about U.S. president
+   Donald Trump. Sixty two percent of people had negative feelings on the
+   president in urban areas, this number drops quite a bit when you look
+   at suburban areas as only fifty one percent of people disliked the way
+   the president ran things. This number hits its lowest when you look at
+   rural areas as forty percent of people were negative on Trump with the
+   rest being either neutral or positive. This divide on political
+   subjects continues for the rest of the survey with urban areas
+   preferring more progressive changes while suburban and rural areas want
+   to hang on to traditions. The reason for why there is such a difference
+   in opinion between these areas is a question that still doesn't have a
+   solid answer. Although that has not stopped many people from trying to
+   find one, this includes Cornell University professor Suzanne Mettler,
+   who wrote a full article going over possible reasons for why there is
+   such a difference between urban and rural voters. One reason Mettler
+   came up with was the increase in the amount of jobs as she wrote "For
+   decades the U.S. has experienced deindustrialization and various other
+   changes in jobs and the economy, and rural areas have really suffered.
+   Urban areas have adapted more effectively and created new jobs in
+   technology, the service sector, and the knowledge economy. We think
+   that economic deterioration has perhaps led to more resentment and
+   grievance-style politics, but we’re still trying to understand that."
+   Overall the difference in opinion between areas will always exist for a
+   variety of reasons from education, to economic setting, and even to
+   parental guidance.
+
+Social
+
+   [edit]
+
+   Urban cities have grown in popularity recently due to people moving out
+   of more rural ^[2] areas as time goes on. This is shown in another
+   article written by the "Pew Research Center" which states "Likewise,
+   recent U.S. population growth also has been uneven. Urban counties have
+   grown at roughly the overall national rate of 13% since 2000. Suburban
+   and small metropolitan areas have grown more briskly. Rural counties
+   have lagged, and half of them have fewer residents now than they did in
+   2000".^[3] This trend has been happening for a variety of reasons, such
+   as the increase of migrants, a rise in birth rate and a drop off in
+   death rate, and people preferring the bustling city life of an urban
+   area over more quiet and isolated rural areas.
+
+   Urban areas are able to provide things that rural and suburban areas
+   either cannot, such as regular public transportation, a varied ethnic
+   pool to make meeting new people an easy process, more jobs available,
+   and the ease of which you are able to reach stores or entertainment
+   areas such as clubs and bars. These points are far more relevant when
+   you consider the ages of people who live in urban areas compared to
+   anywhere else. The median age of rural areas is 43 years old while the
+   average for urban areas is 36. Younger people are more likely to go
+   looking for jobs in the city because it would be far easier to look for
+   a job in a densely populated area rather than on the countryside where
+   everything is spaced out. Transportation is also a more simple process
+   for the younger generation as simply taking a bus to school or work can
+   be easier for a young adult than buying a car and managing all the
+   expenses that can come with that. Finally with entertainment areas
+   being so close together younger people are able to have a night out
+   instead of having to drive a large distance to clubs and bars; an issue
+   that is prevalent in rural areas due to being located in the country.
+
+   Pope Francis acknowledges, however, the potential for city life to be a
+   chaotic existence.^[7]
+
+By country
+
+   [edit]
+
+Canada
+
+   [edit]
+   [250px-Chinatown_toronto_spadina_avenue.JPG] Toronto's Chinatown. The
+   everyday use of, and availability of services in, many languages is
+   promoted by municipal government.
+
+   Urban culture is a huge part of Canada as 81.65%^[8] of Canada's
+   inhabitants live in cities. The urbanization of Canada has been decades
+   in the making starting back in the 19th century. From 1871 to 1911 the
+   population of Canada would double from 3.6 million to 7.2 million. Most
+   of this growth can be attributed thanks to urban cities expanding in
+   order to allow more people to live there. Author John Douglas Belshaw
+   wrote a book about the history of Canada and went into detail about the
+   rise of urban culture in Canada when he wrote "Most of that growth was
+   in urban areas as the share of the workforce engaged in
+   non-agricultural pursuits rose from 51.9% to over 60% in the same
+   period. [2] Even in Nova Scotia, where the benefits of
+   industrialization were not long lasting nor very deep, the impact on
+   the scale of urban settlements was very dramatic: in the decade after
+   Confederation, Halifax grew by 22%, New Glasgow by 55%, Sydney Mines by
+   57%, and Truro by 64%." By the 1890s industrialization was taking
+   effect in Canada with the production of machinery and the increasing
+   use of things such as oil and coal which was boosting the population of
+   places such as Toronto and Edmonton rapidly. Urbanization would
+   continue into the 20th century with Canadians and immigrants moving
+   from city to city for work due to the now dense population and job
+   openings that come from that. It wasn't all well and good however as
+   due to the increasing population things would become crowded and harder
+   to accommodate every single city and their needs. This means that
+   lesser cities would be run down with water systems that would not work
+   and houses that were shabbily built in order to quickly prepare for the
+   spike of people living in the city. As we move in the modern era these
+   issues aren't as prevalent in Canada but there are still underdeveloped
+   cities and people flocking to find some sort of work in an extremely
+   competitive urban environment.
+
+   Urban culture is also sometimes used as a euphemism for the culture of
+   visible minorities (non-Whites). Sometimes this means Black Canadian
+   culture, this connection is much less apparent than somewhere like the
+   U.S. due to blacks only making up 3% of the total population. More
+   generally, the phrase may be used to connote the multicultural,
+   immigrant-friendly mosaic atmosphere cultivated by cities such as
+   Toronto, Vancouver, and British Columbia.
+
+United States
+
+   [edit]
+   Main articles: Great Migration (African American) and Second Great
+   Migration (African American)
+
+   In the United States, Urban culture has been used as a euphemistic
+   reference to contemporary African American culture.^[9]
+   [250px-Bronxhub1.jpeg] The Hub is the retail heart of the South Bronx,
+   New York City. Between 1900 and 1930, the number of Bronx residents
+   increased from 201,000 to 1,265,000.^[10]
+
+   Prior to the 20th century, the African American population was
+   primarily rural. The Great Migration of African-Americans created the
+   first large, urban black communities in the American North. It is
+   conservatively estimated that 400,000 left the South during the
+   two-year period of 1916–1918 to take advantage of a labor shortage
+   created in the wake of the First World War.^[11] The 20th century
+   cultures of many of the United States' modern cities were forged in
+   this period.
+
+   In 1910, the African American population of Detroit was 6,000. By the
+   start of the Great Depression in 1929, this figure had risen to
+   120,000.
+
+   In 1900 Chicago had a total population of 1,698,575.^[12] By 1920 the
+   population had increased by more than 1 million residents. During the
+   second wave of the Great Migration (from 1940 to 1960), the African
+   American population in the city grew from 278,000 to 813,000. The South
+   Side of Chicago was considered the black capital of America.^[13]
+
+   The massive number of African Americans to Ohio, in particularly to
+   Cleveland, greatly changed the demographics of the state and Cleveland.
+   Prior to the Great Migration, an estimated 1.1 - 1.6% of Cleveland's
+   population was African American.^[14] In 1920, 4.3% of Cleveland's
+   population was African American.^[14] The number of African Americans
+   in Cleveland continued to rise over the next twenty years of the Great
+   Migration. Other cities, such as St. Louis, Baltimore, Philadelphia and
+   New York City, also experienced surges in their African-American
+   populations.
+
+   In the South, the departure of hundreds of thousands of African
+   Americans caused the black percentage of the population in most
+   Southern states to decrease. For example, in Mississippi, blacks
+   decreased from about 56% of the population in 1910 to about 37% by
+   1970^[15] and in South Carolina, blacks decreased from about 55% of the
+   population in 1910 to about 30% by 1970.^[15]
+
+   By the end of the Second Great Migration, African Americans had become
+   an urbanized population. More than 80 percent lived in cities.
+   Fifty-three percent remained in the Southern United States, while 40
+   percent lived in the Northeast and North Central states and 7 percent
+   in the West.^[16]
+
+See also
+
+   [edit]
+     * Inner city
+     * Street culture (disambiguation)
+     * African-American culture
+     * Graffiti
+     * Hip hop music
+     * Hipster (contemporary subculture)
+     * Street Life, the Crusaders song and album of 1979
+
+   Other:
+     * Futurism
+     * Chicago School (sociology)
+     * Principles of Intelligent Urbanism
+     * Urbanism
+     * Urban economics
+     * Urban sociology
+     * Urban pop culture
+     * Hip hop fashion
+     * Urban contemporary
+     * Urban vitality
+
+References
+
+   [edit]
+    1. ^ Jacobs, Jane: The death and life of great America cities, 1961.
+    2. ^ ^a ^b Tönnies, Ferdinand: Community and society, 1957.
+    3. ^ ^a ^b Rubin, Joan Shelley; Casper, Scott E, eds. (2013). "Urban
+       Culture - Oxford Reference". oxfordreference.com.
+       doi:10.1093/acref/9780199764358.001.0001. ISBN 978-0-19-976435-8.
+       Retrieved 9 April 2018.
+    4. ^ Wirth, Louis (1938). "Urbanism as a Way of Life". American
+       Journal of Sociology. 44 (1): 1–24. doi:10.1086/217913.
+    5. ^ "Urban culture - sociology". britannica.com. Retrieved 9 April
+       2018.
+    6. ^ "Views on many social and political issues vary across community
+       types". Pew Research Center’s Social & Demographic Trends Project.
+       Archived from the original on 2023-03-25. Retrieved 2022-12-06.
+    7. ^ Pope Francis, Laudato si', paragraph 154, published 24 May 2015,
+       accessed 1 April 2024
+    8. ^ "Canada - Urbanization 2021". Statista. Retrieved 2022-12-06.
+    9. ^ Gray, Steven (August 4, 2010). "Letter from Detroit: Where's the
+       Urban President?". Time. Archived from the original on August 12,
+       2010.
+   10. ^ A Brief Look at The Bronx Archived 2007-08-07 at the Wayback
+       Machine, Bronx Historical Society. Accessed September 23, 2007.
+   11. ^ James Gilbert Cassedy, "African Americans and the American Labor
+       Movement", Prologue, Summer 1997, Vol.29, No.2, accessed 14 Apr
+       2008
+   12. ^ Gibson, Campbell (June 1998). Population of the 100 Largest
+       Cities and Other Urban Places in the United States: 1790 to 1990
+       Archived 2007-03-14 at the Wayback Machine. U.S. Bureau of the
+       Census - Population Division.
+   13. ^ "African Americans", Encyclopedia of Chicago, accessed 1 Mar 2008
+   14. ^ ^a ^b Gibson, Campbell, and Kay Jung. "Historical Census
+       Statistics on Population Totals by Race, 1790 to 1990, and by
+       Hispanic Origin, 1970 to 1990, for Large Cities and Other Urban
+       Places in the United States." U.S. Census Bureau. Feb. 2005.
+   15. ^ ^a ^b Gibson, Campbell and Kay Jung (September 2002). Historical
+       Census Statistics on Population Totals By Race, 1790 to 1990, and
+       By Hispanic Origin, 1970 to 1990, For The United States, Regions,
+       Divisions, and States. Archived 2008-07-25 at the Wayback Machine
+       U.S. Bureau of the Census - Population Division.
+   16. ^ AAME
+
+     *
+
+   Ocampo, Andrea. (March 2009). Ciertos Ruidos, Nuevas Tribus Urbanas
+   Chilenas. Chile: Editorial Planeta. ISBN 978-956-247-466-5.
+
+External links
+
+   [edit]
+     * Media related to Urban culture at Wikimedia Commons
+
+     * v
+     * t
+     * e
+
+   Culture
+   Outline
+   Sciences
+     * Cultural anthropology
+     * Cultural astronomy
+     * Cultural ecology
+     * Cultural geography
+     * Cultural neuroscience
+     * Cultural studies
+     * Culturology
+     * Culture theory
+
+   Subfields
+
+     * Bioculture
+     * Cross-cultural studies
+          + Cross-cultural communication
+          + Cross-cultural leadership
+          + Cross-cultural psychiatry
+          + Cross-cultural psychology
+     * Cultural analytics
+     * Cultural economics
+     * Cultural entomology
+     * Cultural history
+     * Cultural mapping
+     * Cultural mediation
+     * Cultural psychology
+     * Cultural values
+     * Culturomics
+     * Intercultural learning
+     * Intercultural relations
+     * Philosophy of culture
+     * Popular culture studies
+     * Postcritique
+     * Semiotics of culture
+     * Sociology of culture
+     * Sound culture
+     * Theology of culture
+     * Transcultural nursing
+
+   Types
+
+     * Constructed culture
+     * Dominant culture
+     * Folk culture
+     * High culture
+     * Individualistic culture
+     * Legal culture
+     * Microculture
+     * Official culture
+     * Political culture
+          + Civic
+     * Popular culture
+          + Low culture
+          + Media culture
+          + Recombinant culture
+          + Remix culture
+          + Trash culture
+          + Urban
+     * Primitive culture
+     * Resistance through culture
+     * Subculture
+          + Alternative culture
+          + Counterculture
+          + Fandom
+          + Far-right subcultures
+          + Underground culture
+          + Youth subculture
+          + list
+     * Super culture
+     * Supporter Culture
+     * Vernacular culture
+     * Culture by location
+
+   Aspects
+
+     * Acculturation
+     * Cultural appreciation
+     * Cultural appropriation
+     * Cultural area
+     * Cultural artifact
+     * Cultural baggage
+     * Cultural bias
+     * Cultural capital
+          + Cross-cultural
+     * Cultural communication
+     * Cultural conflict
+     * Cultural cringe
+     * Cultural dissonance
+     * Cultural emphasis
+     * Cultural framework
+     * Cultural heritage
+          + Destroyed
+     * Cultural icon
+     * Cultural identity
+     * Cultural industry
+     * Cultural invention
+     * Cultural landscape
+     * Cultural learning
+     * Cultural leveling
+     * Cultural memory
+     * Cultural pluralism
+     * Cultural practice
+     * Cultural property
+     * Cultural reproduction
+     * Cultural system
+     * Cultural technology
+     * Cultural universal
+     * Cultureme
+     * Enculturation
+     * High- and low-context cultures
+     * High-trust and low-trust societies
+     * Interculturality
+     * Internet culture
+     * Manuscript culture
+     * Material culture
+     * Non-material culture
+     * Organizational culture
+          + Assessment culture
+          + Design culture
+          + Journalism culture
+     * Print culture
+     * Protoculture
+     * Relational mobility
+     * Safety culture
+     * Symbolic culture
+     * Technoculture
+     * Trans-cultural diffusion
+     * Transculturation
+     * Visual culture
+
+   Politics
+
+     * Colonial mentality
+     * Consumer capitalism
+     * Cross cultural sensitivity
+     * Cultural assimilation
+     * Cultural attaché
+     * Cultural backwardness
+     * Cultural Bolshevism
+     * Cultural conservatism
+     * Cultural contracts
+     * Cultural deprivation
+     * Cultural diplomacy
+     * Cultural environmentalism
+     * Cultural exception
+     * Cultural feminism
+     * Cultural genocide
+     * Cultural globalization
+     * Cultural hegemony
+     * Cultural imperialism
+     * Cultural intelligence
+     * Cultural liberalism
+     * Cultural nationalism
+     * Cultural pessimism
+     * Cultural policy
+     * Cultural racism
+     * Cultural radicalism
+     * Cultural retention
+     * Cultural Revolution
+     * Cultural rights
+     * Cultural safety
+     * Cultural silence
+     * Cultural subsidy
+     * Cultural Zionism
+     * Culture change
+     * Culture minister
+     * Culture of fear
+     * Culture war
+     * Deculturalization
+     * Dominator culture
+     * Interculturalism
+     * Monoculturalism
+     * Multiculturalism
+          + Biculturalism
+     * Multiracial democracy
+     * Pluriculturalism
+     * Polyculturalism
+     * Transculturism
+
+   Religions
+
+     * Buddhism
+     * Christianity
+          + Catholicism
+          + Cultural Christians
+          + Protestantism
+          + Role of Christianity in civilization
+          + Eastern Orthodoxy
+          + Mormonism
+     * Cultural Hindus
+     * Islam
+          + Cultural Muslims
+     * Judaism
+     * Sikhism
+
+   Related
+
+     * Algorithmic culture
+     * Animal culture
+     * Archaeological culture
+     * Bennett scale
+     * Cannabis culture
+     * Circuit of culture
+     * Civilization
+     * Coffee culture
+     * Cringe culture
+     * Cross-cultural
+     * Cultural center
+     * Cultural competence
+     * Cultural critic
+     * Cultural determinism
+     * Cultural diversity
+     * Cultural evolutionism
+     * Cultural homogenization
+     * Cultural institution
+     * Cultural jet lag
+     * Cultural lag
+     * Cultural literacy
+     * Cultural mosaic
+     * Cultural movement
+     * Cultural mulatto
+     * Cultural probe
+     * Cultural relativism
+     * Cultural tourism
+          + Pop-culture
+     * Cultural translation
+     * Cultural turn
+     * Cultural sensibility
+     * Culture and menstruation
+     * Culture and positive psychology
+     * Culture and social cognition
+     * Culture gap
+     * Culture hero
+     * Culture industry
+     * Culture shock
+     * Culturgen
+     * Children's culture
+     * Culturalism
+     * Cyberculture
+     * Death and culture
+     * Disability culture
+          + Deaf culture
+     * Drinking culture
+     * Drug culture
+     * Eastern culture
+     * Emotions and culture
+     * Free-culture movement
+     * Historical culture
+     * Intercultural communication
+     * Intercultural competence
+     * Languaculture
+     * Living things in culture
+     * Media culture
+     * Oppositional culture
+     * Participatory culture
+     * Permission culture
+     * Rape culture
+     * Tea culture
+     * Transformation of culture
+     * Urban culture
+     * Welfare culture
+     * Western culture
+     * Youth culture
+
+     * Category
+
+   Authority control databases Edit this at Wikidata
+   National
+     * United States
+     * Latvia
+     * Israel
+
+    Other
+     * Yale LUX
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Urban_culture&oldid=1321362
+   715"
+
+   Categories:
+     * Urban culture
+     * Cities
+     * Musical subcultures
+     * Street culture
+
+   Hidden categories:
+     * Webarchive template wayback links
+     * Articles with short description
+     * Short description matches Wikidata
+     * Articles needing additional references from April 2024
+     * All articles needing additional references
+     * Commons category link from Wikidata
+
+     * This page was last edited on 10 November 2025, at 03:02 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Urban culture
+   (BUTTON) 12 languages Add topic

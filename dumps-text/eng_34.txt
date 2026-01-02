@@ -1,17 +1,1373 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 128706514
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:40 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 History
+       (BUTTON) Toggle History subsection
+          + 1.1 Definition
+          + 1.2 Plaquemine Mississippian
+          + 1.3 Protohistory
+          + 1.4 Historic era
+     * 2 Culture
+       (BUTTON) Toggle Culture subsection
+          + 2.1 Architecture
+          + 2.2 Ceramics
+          + 2.3 Chronology
+     * 3 Sites
+     * 4 See also
+     * 5 References
+     * 6 External links
+
+   [ ] Toggle the table of contents
+
+Plaquemine culture
+
+   [ ] 5 languages
+     * Беларуская
+     * Esperanto
+     * Français
+     * Русский
+     * Svenska
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Archaeological culture in the lower Mississippi River Valley, United
+   States
+   [500px-Coles_Creek_culture_map_HRoe_2010.jpg] Map showing the extent of
+   the Coles Creek culture and some important sites, many of which
+   continued to be occupied and used by their Plaquemine descendants
+
+   CAPTION: Plaquemine culture
+
+   Alternative names Plaquemine Mississippian
+   Geographical range Lower Mississippi Valley Gulf Coast
+   Period Mississippian
+   Dates c. 1200 CE — c. 1700 CE
+   Type site Medora site
+   Major sites Anna, Atchafalaya Basin, Emerald, Grand Village, Holly
+   Bluff, Mazique, Sims, Winterville
+   Preceded by Coles Creek culture
+   Followed by Mississippian, Protohistoric Natchez and Taensa peoples,
+   Mound builder city
+     Mound Builders
+        Polities
+     * Apalachee
+     * Apalachicola
+     * Cahokia
+     * Casqui
+     * Cofitachequi
+     * Coosa
+     * Guale
+     * Jaega
+     * Mocoso
+     * Ocute
+     * Pacaha
+     * Pafalaya
+     * Pohoy
+     * Quivira
+     * Saturiwa
+     * Taarsite?
+     * Tacatacuru
+     * Tocobaga
+     * Uzita
+
+       Archaeology
+     * Adena
+     * Calusa
+     * Copper
+     * Fort Ancient
+     * Hopewell
+     * Mississippian
+     * Poverty Point
+     * Watson Brake
+
+        Religion
+     * Datura
+     * Earth lodge
+     * Effigy mound
+     * Horned Serpent
+     * Masks
+     * Medicine bag
+     * Pipes
+     * Platform mound
+     * Red Horn
+     * Sacred bundle
+     * SECC
+     * Shell gorget
+     * Thunderbird
+     * Underwater panther
+     * Yaupon tea
+
+     * v
+     * t
+     * e
+
+   The Plaquemine culture was an archaeological culture (circa 1200 to
+   1700 CE) centered on the Lower Mississippi River valley.^[1] It had a
+   deep history in the area stretching back through the earlier Coles
+   Creek (700–1200 CE) and Troyville cultures (400–700 CE)^[2] to the
+   Marksville culture (100 BCE to 400 CE).^[3] The Natchez and related
+   Taensa peoples were their historic period descendants.^[4] The type
+   site for the culture is the Medora site in Louisiana; while other
+   examples include the Anna, Emerald, Holly Bluff, and Winterville sites
+   in Mississippi.^[5]
+
+History
+
+   [edit]
+   [330px-Cahokian_influence_on_Plaquemine_culture_map_HRoe_2011.jpg]
+   Early Mississippian influence on the Yazoo Basin
+   area[330px-Mississippian_cultures_HRoe_2010.jpg] A map showing
+   approximate areas of various Mississippian and related cultures.
+
+Definition
+
+   [edit]
+
+   The Plaquemine culture was a Mississippian culture variant centered on
+   the Mississippi River valley, stretching from the Gulf of Mexico to
+   just south of its junction with the Arkansas River, encompassing the
+   Yazoo River basin and Natchez Bluffs in western Mississippi, and the
+   lower Ouachita and Red River valleys in southeastern Arkansas, and
+   eastern Louisiana.^[1] They were primarily agriculturists who grew
+   maize, pumpkins, squash, beans and tobacco but they also hunted,
+   fished, and gathered wild plants.^[6]^[3]^[7]
+
+   The Medora site in West Baton Rouge Parish, Louisiana is the type site
+   for the period, defined by Dr. James A. Ford and George I. Quimby after
+   excavations at the site in the late 1930s and early 1940s. The name for
+   the culture is taken from the proximity of Medora to the nearby town of
+   Plaquemine. It was inhabited from approximately 1300 to 1600 CE and it
+   consisted of two platform mounds separated by a plaza. Pottery from the
+   site was overwhelmingly grog-tempered with only a few bits of
+   shell-tempered pottery being found. These cultural hallmarks along with
+   the implementation of intensive maize agriculture have become
+   Plaquemine culture designators.^[8]^[9]
+
+   Plaquemine was an outgrowth of the earlier Coles Creek culture (700 to
+   1200 CE). They experienced significant contact with Mississippian
+   culture peoples to their north and east and the Terminal Coles
+   Creek/early Plaquemine period was contemporaneous with the height of
+   the Middle Mississippian culture at Cahokia in the American Bottom near
+   St. Louis, Missouri. After Cahokia's collapse in the mid 14th century
+   they coexisted with Late Mississippian groups centered on eastern
+   Arkansas near Memphis. Archaeologists debate whether Plaquemine is a
+   completely local development or if the changes in their society that
+   led from Coles Creek to Plaquemine was a result of contact with their
+   Mississippian neighbors. Many of these Coles Creek sites continued use
+   by their Plaquemine descendants, and Plaquemine sites were still being
+   used in the early 1700s during the early historic
+   period.^[1]^[2]^[3]^[4]
+
+   The Plaquemine period saw the re-purposing and expansion of sites
+   occupied during the Coles Creek period. Unlike Mississippian
+   settlements which were often large nucleated villages, Plaquemine
+   settlements were usually barely populated ceremonial civic centers
+   whose only permanent residents were the elites and their families,
+   priests, and their attendants and servants. Everyone else lived in
+   small hamlets and farmsteads dispersed across the landscape. Coupled
+   with the adoption of maize agriculture during this period was a
+   population explosion and an increase in the number and size of the
+   sites. The ethnographic record from the historic period suggests some
+   large sites such as Winterville or Emerald were the centers of
+   paramount chiefdoms who exerted control over other smaller civic sites.
+   These second tier rulers, part of a hereditary nobility, would have
+   been related matrilineally to the ruling paramount chief. An inherently
+   volatile system, sometimes factions in smaller centers attained
+   supremacy and power would shift from one civic center to another,
+   resulting in the partial or total abandonment of the former
+   capital.^[7]
+
+Plaquemine Mississippian
+
+   [edit]
+   [330px-Gulf_Coast_Shell_Tempered_Ceramics_HRoe_2012.jpg] Spread of
+   shell tempered pottery eastward into southern Plaquemine area
+
+   Beginning during the Terminal Coles Creek period (1150 to 1250 CE),
+   Mississippian cultures far upstream from the Plaquemine area began
+   expanding their reach southward. Excavations in the Yazoo Basin area of
+   Mississippi have shown a Cahokia Horizon as extra-regional exotic
+   goods, such as Cahokian pottery and other artifacts, began to be
+   deposited in Coles Creek-Plaquemine culture sites.^[10] Through
+   repeated contacts, groups in Mississippi and then Louisiana began
+   adopting Mississippian techniques for making pottery, as well as
+   ceremonial objects and possibly social structuring.^[11]
+
+   By the mid 15th century influences from Pensacola culture peoples (from
+   the Bottle Creek site on the Gulf Coast near Mobile) had begun
+   spreading westward across Barataria Bay and the Atchafalaya Basin and
+   by 1700 had Mississipianized the local populations as far north as
+   modern day Baton Rouge, Louisiana. Use of grog tempering for pottery at
+   locations such as the Sims site in southeastern Louisiana had been
+   replaced by shell tempering.^[12]^[13]^[14]
+
+   The Plaquemine peoples absorbed more Mississippian influence and the
+   area of their distinct culture began to shrink after 1350 CE.
+   Eventually the last enclave of purely Plaquemine culture was the
+   southern Natchez Bluffs area, while the Yazoo Basin and Louisiana areas
+   became a hybrid Plaquemine Mississippian culture.^[15]
+
+Protohistory
+
+   [edit]
+   [330px-DeSoto_Map_HRoe_2008.jpg] A map showing the de Soto route
+   through the Southeast[250px-Winterville_Aerial_View_HRoe_2016.jpg]
+   Winterville site, near Greenville, Mississippi
+
+   The earliest European account of the culture may be recorded in the
+   journals of the Spanish expedition of Hernando de Soto. In 1542 de
+   Soto's expedition encountered a powerful chiefdom located on the
+   eastern bank of the Mississippi River. Native sources called it
+   "Quigualtam", the name of the polity, its capital, and its paramount
+   chief. By this point the expedition had been traversing the southeast
+   for several years and accounts of their deplorable treatment of the
+   indigenous populations would have been known by groups they had yet to
+   contact in person. Their encounter with the polity was brief and
+   violent; the natives attacked and chased the Spaniards with their
+   canoes. When the remnants of de Sotos expedition finally made it down
+   the river past Quigualtam they encountered below it another unnamed but
+   powerful chiefdom; who also gave chase until the foreigners had left
+   their territory.^[16]
+
+   Various scholars have debated the identities of these two groups and
+   their exact locations. Historian Charles M. Hudson has suggested that
+   Quigualtam was centered on the area surrounding the Holly Bluff or
+   Winterville sites in the lower Yazoo Basin. The sites themselves are
+   thought by archaeologists to have been abandoned by this point but the
+   power center of the polity had probably shifted to another site within
+   its territory.^[16] Others have put forward the Glass site; which is on
+   the flood plain in between the Mississippi River and the Natchez Bluffs
+   approximately 9.5 kilometres (5.9 mi) south of Vicksburg.^[7] A
+   possibility for the second group is the Emerald Phase (1500 – 1680) of
+   the Natchez chiefdom, headquartered at the massive Emerald Mound; which
+   was in its ascendancy at the time. These two sites were the only major
+   ceremonial center on this stretch of the Mississippi River occupied
+   during the protohistoric period from 1500 to 1650 CE.^[16]^[7] Since
+   the Spaniards never made it ashore to leave archaeological evidence of
+   contact with these two groups their exact identity will probably never
+   be determined with certainty. No further recorded European contact with
+   the indigenous people in this area occurred for almost 140 years when
+   the first French explorers arrived in the area. By the historic period,
+   power had shifted within the Natchez polity from Emerald Mound to the
+   Grand Village of the Natchez.^[17]^[18]^[19]^[20]
+
+   In the meantime native peoples of the region suffered from epidemics of
+   infectious disease; carried both by the de Soto expedition and
+   indirectly from other Native Americans who had contact with European
+   traders on the Gulf coast. On top of this the intrusion of Europeans
+   had upset the delicate political balance between native groups who had
+   existed in a state of endemic warfare between polities for generations.
+   Many societies in the region began to collapse. Remnant populations of
+   Mississippian peoples began migrating across and down the
+   Mississippi.^[21]^[17]^[18]^[19]^[20] The post de Soto entrada
+   Transylvania Phase (1550-1700 CE) of the Tensas Basin saw the
+   increasing spread of Mississippian influences diffusing southward from
+   Arkansas and northwestern Mississippi into traditional Plaquemine
+   territory.^[22] The Jordan Mounds site on a relict channel of the
+   Arkansas River in northeastern Louisianas Morehouse Parish was
+   constructed during the protohistoric period between 1540 and 1685. The
+   builders were an intrusive group in the area; Mississippianized peoples
+   who were possibly refugees from the Mississippi River area to the east
+   that were escaping the collapse of their societies brought about by the
+   aftereffects of first European contact.^[23] Others, such as the
+   multiple Mississippian Tunica speaking polities encountered by de Soto
+   in Arkansas and northwestern Mississippi had all but vanished; with a
+   few small groups like the Tunica and Koroa relocating to former
+   Plaquemine territory at the mouth of the Yazoo River in west central
+   Mississippi. The Central Mississippi Valley which de Soto had described
+   as the most heavily populated area he had seen since the Valley of
+   Mexico was now almost vacant; only sparsely occupied by the Quapaw who
+   were an intrusive Dhegiha Siouan people that moved into the area from
+   the Ohio River region sometime in the late 16th to early 17th
+   century.^[21]
+
+Historic era
+
+   [edit]
+   Main articles: Taensa and Natchez people
+
+   Now surrounded on all sides by Mississippians, several Plaquemine
+   groups persisted into the historic era in the Natchez Bluffs area.
+   Cultural trappings including societal organization, language and
+   pottery styles in Louisiana and Mississippi during the early historic
+   period bear this out. Possibly because their encounter with de Soto had
+   been so brief compared to the more northerly populations, the
+   Plaquemine Natchez people and Taensa peoples alone maintained the
+   characteristics of complex chiefdoms such as hereditary elites, mound
+   ceremonialism, and retainer sacrifice long into the period after the
+   European colonization of America began. They were the last Plaquemine
+   culture peoples.^[3]^[4] Groups who were intrusive to the area or local
+   groups who had been Mississippianized are identified at the time of
+   sustained European contact as those tribes speaking the Tunican,
+   Chitimachan, and Muskogean languages.^[11]
+
+Culture
+
+   [edit]
+
+Architecture
+
+   [edit]
+
+   They had complex political and religious institutions and lived in
+   villages centered on large ceremonial centers with two or more platform
+   mounds facing an open plaza. The site of a mound was usually one with
+   special significance, either a pre-existing mortuary site, temple, or
+   civic structure. The flat-topped, pyramidal mounds usually underwent
+   multiple episodes of mound construction and were built in several
+   stages. Sometimes they were topped by one or more smaller mounds
+   secondary mounds. After each expansion episode new structures were
+   usually constructed on their summits.^[24] In earlier times, buildings
+   were usually circular, but later they were likely to be rectangular.
+   They were constructed of wattle and daub, and sometimes with wall posts
+   sunk into wall trenches. At times, shallow, oval or rectangular graves
+   were dug in the mounds. These might have been for primary burials, but
+   more often they were for the reburial of remains originally interred in
+   mortuary houses.^[24]
+
+   This pattern of plazas flanked by mounds with temples, elite residences
+   and mortuary structures at their summits was inherited from their
+   Troyville and Coles Creek culture ancestors, and was a village
+   arrangement widely employed throughout the southeast.^[3] Like other
+   Native Americans in the southeast this open plaza area would have been
+   used for public rituals and functions such as the Green Corn Ceremony
+   and games such as chunkey and the ballgame.^[25]^[26]
+     * A diagram showing the various components of platform mounds
+       A diagram showing the various components of platform mounds
+     * Great Temple and Great Suns cabin drawn by eyewitness Alexandre de
+       Batz
+       Great Temple and Great Suns cabin drawn by eyewitness Alexandre de
+       Batz
+     * Secondary mound on top of the massive Emerald Mound
+       Secondary mound on top of the massive Emerald Mound
+     * Arrangement of mounds and plaza at the Holly Bluff site
+       Arrangement of mounds and plaza at the Holly Bluff site
+     * Stone discoidals used for the game of chunkey, found at Winterville
+       Stone discoidals used for the game of chunkey, found at Winterville
+
+Ceramics
+
+   [edit]
+   Main articles: Mississippian culture pottery and Native American
+   pottery
+
+   Plaquemine pottery was decorated with their own unique characteristics.
+   They sometimes added small solid handles called lugs and textured the
+   surface by brushing clumps of grass over the vessel before it was
+   fired. Potters cut designs into the surface of the wet clay and, like
+   their Caddoan contemporaries, the Plaquemine peoples engraved designs
+   on pots after they were fired. Plaquemine peoples also had undecorated
+   pots that they used for ordinary daily tasks. Pottery was included in
+   burials as grave goods, often being ritually "killed". This type has a
+   hole in the base of the vessel that was cut while the pot was being
+   made, usually before it was fired.^[24]
+     * Natchez pottery from the Grand Village site
+       Natchez pottery from the Grand Village site
+     * Natchez pottery from the Grand Village site
+       Natchez pottery from the Grand Village site
+     * Natchez pottery from the Grand Village site
+       Natchez pottery from the Grand Village site
+     * Natchez pottery from the Grand Village site
+       Natchez pottery from the Grand Village site
+
+   Pottery during this phase still used grog tempering as their Coles
+   Creek ancestors had; with the use of ground mussel shell tempering
+   being a distinctive marker for Mississippian cultural contact.^[27]
+   Pottery from protohistoric Natchez sites in western Mississippi still
+   used the traditional Plaquemine grog tempering and traditional vessel
+   forms. The pottery of the Taensa in eastern Louisiana used
+   Mississippian style shell tempering and pottery shapes but was still
+   being engraved with decorative designs typical of the Plaquemine area.
+   This difference between the two closely related groups showed that
+   Mississippian diffusion into the area beginning during the Transylvania
+   Phase (1550-1700 CE) of the Tensas Basin region from what is now
+   southeastern Arkansas had by the late 17th century reached the lower
+   Tensas River basin in Louisiana.^[28]
+     * Pottery from the Winterville site
+       Pottery from the Winterville site
+     * Pottery from the Winterville site
+       Pottery from the Winterville site
+     * Pottery from the Winterville site
+       Pottery from the Winterville site
+     * Pottery from the Winterville site
+       Pottery from the Winterville site
+
+Chronology
+
+   [edit]
+   Culture Lower Yazoo Basin Phases Dates Natchez Bluff Phases Dates
+   Tensas Basin Phases Felsenthal Phases Dates
+   Plaquemine Russell (Tunica) 1650–1750 CE Natchez 1680–1730 CE Tensas
+   Wasp Lake 1500 to 1650 CE Emerald 1500 to 1680 CE Transylvania Caney
+   Bayou ? 1550 - 1700 ?
+   Lake George 1350 to 1500 CE Foster 1350-1500 CE Fitzhugh Gran Marais ?
+   1250-1350 CE ?
+   Winterville 1200 to 1400 CE Anna 1200 to 1350 CE Routh Bartholomew ?
+   1200-1400 CE ?
+
+   ^[29]
+   Culture Lower Ouachita Phases Dates Catahoula Phases Dates Atchafalaya
+   Phases Lake Salvador Phases Dates
+   Plaquemine Jordan 1540-1685 CE
+
+Sites
+
+   [edit]
+   Site Image Description
+   Anna site Anna site Located in Adams County, Mississippi 10 miles
+   (16 km) north of Natchez.^[30] The type site for the Anna Phase (1200
+   to 1350) of the Natchez Bluff region.
+   Atchafalaya Basin Mounds AKA as Patterson Mounds, Patterson site, Moro
+   Plantation Mounds and the protohistoric village of Qiteet Kuti´ngi
+   Na´mu of the Chitimacha Tribe of Louisiana, originally occupied by the
+   Coastal Coles Creek and later Plaquemine around 980 CE, and by
+   protohistoric period descendants, the Chitimacha, during the 18th
+   century. Located on the northern bank of the Teche at its confluence
+   with the Atchafalaya in St. Mary Parish, Louisiana. It consists of
+   several platform mounds and a shell midden situated around a central
+   plaza.^[31]
+   Emerald Mound site Emerald Mound Located approximately 8 miles (13 km)
+   north of Natchez. The second largest pre-Columbian structure in the USA
+   and is the type site for the Emerald Phase (1350 to 1500 CE) of the
+   Natchez Bluffs region.
+   Fitzhugh Mounds Fitzhugh Mounds A Plaquemine/Mississippian site in
+   Madison Parish, Louisiana which dates from approximately 1200–1541. It
+   is the type site for the protohistoric Fitzhugh Phase (1300-1400 CE) of
+   the Tensas Basin chronology.^[32]
+   Flowery Mound A single mound Late Coles Creek to
+   Plaquemine/Mississippian site in Tensas Parish, Louisiana which dates
+   from approximately 1200–1541.^[33]
+   Foster's Mound A two mound site in Adams County, Mississippi which
+   dates from approximately 1350 to 1500 CE and is the type site for the
+   Foster Phase.^[33]
+   Ghost Site Mounds A site in Tensas Parish, Louisiana with an Early to
+   Middle Coles Creek component (700–1200) and a Late Coles Creek to
+   Plaquemine component (1200 to 1541).^[34]
+   Glass site A large multimound site in Warren County, Mississippi
+   southwest of Vicksburg, on the flood plain in between the Mississippi
+   River and the loess bluffs. It consisted of four mounds surrounding an
+   open plaza, although only 3 are still in existence.^[7]
+   Grand Village of the Natchez or Fatherland Site Grand Village of the
+   Natchez A historic period Late Plaquemine/protohistoric period site
+   located in the present town of Natchez, Mississippi, one of the very
+   few mound culture sites still in use during the historic period.
+   Holly Bluff site Holly Bluff site A Plaquemine/Mississippian site from
+   central western Mississippi, sometimes known as the Lake George Site.
+   It is the type site for the Lake George Phase (1400 to 1500 CE) of the
+   Yazoo Basin region.
+   Jaketown Site Jaketown site A site with two mounds in Humphreys County,
+   Mississippi. While the mounds have not been excavated, pottery sherds
+   found in the area lead scholars to date the sites construction and use
+   to roughly 1100 CE to 1500 CE. Artifacts found in the area demonstrate
+   the site was occupied from 1750 BCE to 1500 CE, making it one of the
+   oldest continuously inhabited sites in the region.^[35] There were
+   smaller mounds nearby that were hundreds of years older than the
+   surviving two, built by peoples of a preceding culture, but they were
+   destroyed by plowing and road construction in the early 20th century.
+   Julice Mound A mound site in East Carroll Parish, Louisiana dated to
+   1200–1541 CE and located less than one mile from Transylvania
+   Mounds.^[36]
+   Mangum Mound Site Mangum Mound A Plaquemine site in Claiborne County,
+   Mississippi, located at milepost 45.7 on the Natchez Trace Parkway.
+   Several avian themed repoussé Mississippian copper plates were
+   discovered there in 1936.^[37]
+   Mazique Archeological Site Mazique A multimound site in Adams County,
+   Mississippi southeast of Natchez, Mississippi, with components from
+   both the Coles Creek period (700-1000 CE) and the later Plaquemine
+   period (1000-1680 CE), when it was recorded in historic times as the
+   White Apple village of the Natchez people.^[38]
+   Medora site Medora site A Plaquemine site in West Baton Rouge Parish,
+   Louisiana, the type site for which the Plaquemine culture was defined.
+   Pocahontas Mounds Pocahontas Mounds A multimound site with a platform
+   mound, a mortuary mound, and an associated village area, located in
+   Hinds County, Mississippi and dating to 1000 to 1300 CE.^[39]^[40]
+   Routh Mounds A multimound site located in Tensas Parish, Louisiana that
+   is type site for the Routh Phase(1200 to 1350 CE) of the Tensas Basin
+   chronology.^[41]
+   Scott Place Mounds A multimound site from the Late Coles Creek-Early
+   Plaquemine period located in Union Parish, Louisiana^[42]
+   Sims site A multimound site located in Saint Charles Parish, Louisiana
+   near the town of Paradis, first inhabited about 800 CE by Coles Creek
+   peoples. By 1100 CE the culture of the site had transitioned into the
+   Plaquemine culture that lasted until 1450 CE. A little later was a Late
+   Mississippian/protohistic period that lasted from 1500 until about 1700
+   or 1800.^[14]
+   Transylvania Mounds A large multimound site with 2 plazas and
+   components from the Coles Creek (700–1200) and Plaquemine/Mississippian
+   periods (1200–1541). It located in East Carroll Parish, Louisiana^[43]
+   It is the type site for the protohistoric Transylvania Phase (1400-1650
+   CE) of the Tensas Basin chronology.
+   Venable Mound A single mound site with components from the Troyville,
+   Coles Creek and Plaquemine periods, located in Morehouse Parish,
+   Louisiana^[44]
+   Winterville site Winterville site A Plaquemine/Mississippian site near
+   Greenville, Mississippi. It is the type site for the Winterville Phase
+   (1200 to 1400 CE) of the Yazoo Basin region.
+
+See also
+
+   [edit]
+     * Mississippian culture
+     * Culture, phase, and chronological table for the Mississippi Valley
+
+References
+
+   [edit]
+    1. ^ ^a ^b ^c Rees, Mark A.; Livingood, Patrick C., eds. (2007).
+       "Introduction and historical overview". Plaquemine Archaeology.
+       University of Alabama Press. pp. 1–3.
+    2. ^ ^a ^b Roe, Lori (2007). "Coles Creek antecedents of Plaquemine
+       mound construction". In Rees, Mark A.; Livingood, Patrick C.
+       (eds.). Plaquemine Archaeology. University of Alabama Press.
+       pp. 20–37.
+    3. ^ ^a ^b ^c ^d ^e Neuman, Robert W.; Hawkins, Nancy W. (1993).
+       "Louisiana Prehistory : Plaquemine-Mississippian". Baton Rouge, LA:
+       Louisiana Archaeological Survey and Antiquities Commission,
+       Louisiana Dept. Culture, Recreation and Tourism. Archived from the
+       original on 2015-04-02. Retrieved 2018-01-22.
+    4. ^ ^a ^b ^c "The Plaquemine Culture, A.D 1000". Retrieved
+       2008-09-08.
+    5. ^ "Mississippian and Late Prehistoric Period". Retrieved
+       2008-09-08.
+    6. ^ Brown, Ian W. (1985). "Plaquemine architecturaal patterns in the
+       Natchez Bluffs and surrounding regions of the Lower Mississippi
+       valley". Midcontinental Journal of Archaeology. 10 (2): 251–305.
+       JSTOR 20707952.
+    7. ^ ^a ^b ^c ^d ^e Downs, Lauren Elizabeth (2012). The Glass site
+       (22Wr502): An investigation of Plaquemine culture architecture,
+       occupation, and interaction in the northern portion of the Natchez
+       Bluffs region, Mississippi (Doctoral thesis). ProQuest 1022180354.
+       Retrieved 2018-01-22.
+    8. ^ "Louisiana Comprehensive Statewide Historic Preservation Plan".
+       September 28, 2001. Retrieved 2009-05-30.^[dead link]
+    9. ^ Quimby, George Irving (1951). "The Medora site of West Baton
+       Rouge Parish, Louisiana". Anthropological Series, Field Museum of
+       Natural History, Volume XXIV, Number 2. Chicago Field Museum Press.
+   10. ^ Douglas C. Wells; Richard A. Weinstein (2007). "Extra regional
+       contact and culktural interaction at the Coles Creek - Plaquemine
+       transition : Recent data from the Lake Providence Mounds, East
+       Carroll Parish, Louisiana". In Rees, Mark A.; Livingood, Patrick C.
+       (eds.). Plaquemine Archaeology. University of Alabama Press.
+       pp. 38–55.
+   11. ^ ^a ^b "Louisiana Prehistory : Plaquemine Mississippian". Archived
+       from the original on 2013-05-18. Retrieved 2011-10-24.
+   12. ^ Mann, Rob (2006). "Recent investigations at the Sims site
+       (16SC2)" (PDF). Newsletter of the Louisiana Archaeological Society.
+       34 (1). Louisiana Archaeological Society: 15–16. Archived from the
+       original (PDF) on 2015-10-23. Retrieved 2018-01-26.
+   13. ^ Davis, Dave D.; Kidder, Tristram R.; Barondess, David A. (1983).
+       "Reduction analysis of simple bone industries : An example from the
+       Louisiana zone". Archaeology of Eastern North America. 11. Eastern
+       States Archeological Federation: 98–108. JSTOR 40914225.
+   14. ^ ^a ^b Weinstein, Richard A.; Dumas, Ashley A. (2008). "The spread
+       of shell-tempered ceramics along the northern coast of the Gulf of
+       Mexico" (PDF). Southeastern Archaeology. 27 (2). Archived from the
+       original (PDF) on 2012-04-25.
+   15. ^ Guy E. Gibbon; Kenneth M. Ames (1998-08-01). Archaeology of
+       prehistoric native America: an encyclopedia. Routledge.
+       pp. 657–658. ISBN 978-0-8153-0725-9.
+   16. ^ ^a ^b ^c Hudson, Charles M. (1997). Knights of Spain, Warriors of
+       the Sun. University of Georgia Press. pp. 341–351.
+       ISBN 9780820318882.
+   17. ^ ^a ^b James F Barnett, Director Mississippi Department of History
+       and Archives. The Natchez Indians. pp. 12–14.
+   18. ^ ^a ^b Jeter, Marvin D. (2007). "Outer limits of Plaquemine
+       culture". In Rees, Mark A.; Livingood, Patrick C. (eds.).
+       Plaquemine Archaeology. University of Alabama Press. pp. 192–194.
+   19. ^ ^a ^b Jeter, Marvin D.; Rose, Jerome C. G.; Williams, Ishmael
+       Jr.; Harmon, Anna M. (1989), Archeology and Bioarcheology of the
+       Lower Mississippi Valley and Trans-Mississippi South in Arkansas
+       and Louisiana (PDF), Arkansas Archeological Survey, U.S. Army Corps
+       of Engineers, p. 184
+   20. ^ ^a ^b Morris, Christoper (2012). The Big Muddy: An Environmental
+       History of the Mississippi and Its Peoples from Hernando de Soto to
+       Hurricane Katrina. Oxford University Press. ISBN 9780199977062.
+   21. ^ ^a ^b Jeffrey P. Brain (1990). The Tunica-Biloxi. Chelsea House
+       Publishers. ISBN 978-1-55546-731-9.
+   22. ^ Hally, David J. (1972). "Chapter VIII : Summary and conclusions"
+       (PDF). The Plaquemine and Mississippian occupations of the Upper
+       Tensas Basin, Louisiana (Doctoral thesis). Department of
+       Anthropology, Harvard University, Cambridge. Retrieved 2018-01-25.
+   23. ^ Kidder, Tristam R. (1992). "Excavations at the Jordan Site
+       (16MO1) Morehouse Parish, Louisiana". Southeastern Archaeology. 11
+       (2): 109–131. JSTOR 40712974.
+   24. ^ ^a ^b ^c "Plaquemine-Mississippian". Archived from the original
+       on 2008-06-09. Retrieved 2008-09-08.
+   25. ^ Kniffen, Fred B.; Gregory, Hiram F.; Stokes, George A. (1994).
+       The Historic Indian Tribes of Louisiana: From 1542 to the Present
+       Louisiana. LSU Press. p. 108. ISBN 9780807119631.
+   26. ^ Sayre, Gordon (2009). "Natchez Ethnohistory Revisited: New
+       Manuscript Sources from Le Page du Pratz and Dumont de Montigny".
+       Louisiana History: The Journal of the Louisiana Historical
+       Association. 50 (4). Louisiana Historical Association: 423–424.
+       JSTOR 40646311.
+   27. ^ Brain, Jeffrey P. (1989). Winterville-Late Prehistoric Culture
+       Contact in the Lower Mississippi Valley. Mississippi Department of
+       Archives and History.
+   28. ^ Kidder, Tristram R. (1998-10-28). "Mississippi period mound
+       groups and communities in the Lower Mississippi Valley". In Lewis,
+       R. Barry (ed.). Mississippian towns and sacred spaces: Searching
+       for an architectural grammar. University Alabama Press.
+       pp. 131–132. ISBN 978-0817309473.
+   29. ^ Guy E. Gibbon; Kenneth M. Ames (1998-08-01). Archaeology of
+       prehistoric native America: an encyclopedia. Routledge. p. 270.
+       ISBN 978-0-8153-0725-9.
+   30. ^ Michael John O'Brien; R. Lee Lyman; James Alfred Ford (1999),
+       Michael John O'Brien; R. Lee Lyman (eds.), Measuring the flow of
+       time: the works of James A. Ford, 1935-1941, University of Alabama
+       Press, pp. 243–248, ISBN 978-0-8173-0991-6
+   31. ^ Rees, Mark A. (2007). "Plaquemine Mounds of the western
+       Atchafalaya Basin". In Rees, Mark A.; Livingood, Patrick C. (eds.).
+       Plaquemine Archaeology. University of Alabama Press. pp. 84–93.
+   32. ^ "Indian Mounds of Northeast Louisiana:Fitzhugh Mounds". Louisiana
+       Dept. Culture, Recreation and Tourism. Archived from the original
+       on 2012-12-24. Retrieved 2011-10-20.
+   33. ^ ^a ^b "Indian Mounds of Northeast Louisiana : Flowery Mound".
+       Louisiana Dept. Culture, Recreation and Tourism. Archived from the
+       original on 2012-03-16. Retrieved 2011-10-20.
+   34. ^ "Indian Mounds of Northeast Louisiana:Ghost Site Mounds".
+       Louisiana Dept. Culture, Recreation and Tourism. Archived from the
+       original on 2012-12-24. Retrieved 2011-10-20.
+   35. ^ "Belzoni Visitor Attractions" Archived 2010-02-15 at the Wayback
+       Machine, Belzoni-Humphreys Development Foundation, accessed 26 Oct
+       2009
+   36. ^ "Indian Mounds of Northeast Louisiana : Julice Mound". Louisiana
+       Dept. Culture, Recreation and Tourism. Archived from the original
+       on 2012-12-24. Retrieved 2011-10-31.
+   37. ^ Cotter, John L. (July 1952). "The Mangum Plate". American
+       Antiquity. 18 (1): 65–68. doi:10.2307/276247. JSTOR 276247.
+       S2CID 164178066.
+   38. ^ Daniel A. LaDu (2009). An exploration of the age of mound
+       construction at Mazique (22AD502), a Late Prehistoric mound center
+       in Adams County, Mississippi (PDF, thesis, Master of Arts)
+       (Thesis). Tuscaloosa, Alabama: Department of Anthropology,
+       University of Alabama. Retrieved 2011-10-31.
+   39. ^ James Alfred Ford (1999-10-28). Michael John O'Brien; R. Lee
+       Lyman (eds.). Measuring the flow of time: the works of James A.
+       Ford, 1935-1941. University Alabama Press. p. 255.
+       ISBN 978-0-8173-0991-6.
+   40. ^ "National Park Service : Indian Mounds of Mississippi :
+       Pocahontas Mound A". Archived from the original on May 3, 2009.
+       Retrieved 2011-10-28.
+   41. ^ Hally, David J. (1972). "Chapter 3 : Routh Phase" (PDF). The
+       Plaquemine and Mississippian Occupations of the Upper Tensas Basin,
+       Louisiana (Doctor of Philosophy thesis). Cambridge, Massachusetts:
+       Department of Anthropology, Harvard University. Retrieved
+       2011-10-28.
+   42. ^ "Indian Mounds of Northeast Louisiana:Scott Place Mounds".
+       Louisiana Dept. Culture, Recreation and Tourism. Archived from the
+       original on 2012-12-25. Retrieved 2011-10-20.
+   43. ^ "Indian Mounds of Northeast Louisiana: Transylvania Mounds".
+       Louisiana Dept. Culture, Recreation and Tourism. Archived from the
+       original on 2014-03-20. Retrieved 2011-10-20.
+   44. ^ "Indian Mounds of Northeast Louisiana:Venable Mound". Louisiana
+       Dept. Culture, Recreation and Tourism. Archived from the original
+       on 2012-12-24. Retrieved 2011-10-20.
+
+     * Hudson, Charles M., Knights of Spain, Warriors of the Sun: Hernando
+       De Soto and the South's Ancient Chiefdoms, University of Georgia
+       Press, 1997.
+
+   ISBN 0-8203-1888-4
+
+     R. Barry Lewis and Charles Stout, editors., "Mississippian Towns and
+   Sacred Spaces", University of Alabama Press, 1998. ISBN 0-8173-0947-0
+
+     Jeffrey P. Brain, "Winterville-Late Prehistoric Culture Contact in
+   the Lower Mississippi Valley",Mississippi Department of Archives and
+   History, 1989.
+
+     Mark A. Rees and Patrick C. Livingood, editors., "Plaquemine
+   Archaeology", University of Alabama Press, 2006. ISBN 978-0-8173-5366-7
+
+External links
+
+   [edit]
+
+   Wikimedia Commons has media related to Plaquemine culture.
+
+     * Plaquemine Mississippian Archived 2015-04-02 at the Wayback Machine
+
+     * v
+     * t
+     * e
+
+   [40px-Icon_mound_platform_HRoe.svg.png] Mississippian and related
+   cultures
+
+     * List of Mississippian sites
+     * Timeline of Mississippi valley
+
+   Middle
+   Mississippian
+
+   American Bottom
+   and Upper Mississippi
+     * Aztalan
+     * Big Eddy
+     * Cahokia
+          + Monks Mound
+          + Mound 34
+          + Mound 72
+          + Ramey state
+          + Woodhenge
+     * Cloverdale
+     * Dickson Mounds
+     * Emerald Acropolis
+     * Emmons Cemetery
+     * Horseshoe Lake
+     * John Chapman
+     * Kuhn Station
+     * Larson
+     * Lunsford-Pulcher
+     * McCune
+     * Mitchell
+     * Orendorf
+     * Sleeth
+     * Starr
+     * Steed-Kisker culture
+     * Sugarloaf Mound
+
+   Lower Ohio River and
+   Confluence area
+     * Adams Site
+     * Dogtooth Bend Mounds
+     * Kincaid Mounds
+     * Marshall Site
+     * Millstone Bluff
+     * Orr-Herl
+     * Rowlandton Mound
+     * Towosahgy
+     * Turk Site
+     * Twin Mounds
+     * Ware Mounds
+     * Wickliffe Mounds
+
+   Middle Ohio River
+     * Angel Phase
+     * Annis Mound
+     * Bone Bank
+     * Caborn-Welborn culture
+     * Ellerbusch
+     * Hovey Lake-Klein
+     * Hovey Lake District
+     * Murphy
+     * Prather
+     * Slack Farm
+     * Tolu
+     * Welborn Village
+     * Yankeetown
+
+   Tennessee and
+   Cumberland
+     * Backusburg
+     * Beasley Mounds
+     * Brentwood Library
+     * Brick Church
+     * Castalian Springs
+     * Dunbar Cave
+     * Fewkes Group
+     * Hiwassee Island
+     * Link Farm
+     * Mound Bottom
+     * Riverview
+     * Sellars
+     * Obion
+     * Old Town
+     * Swallow Bluff
+
+   Central and Lower
+   Mississippi
+     * Belle Meade
+     * Boone's
+     * Boyd
+     * Campbell
+     * Carson
+     * Chucalissa
+     * Denmark
+     * Eaker
+     * Janet's
+     * Menard-Hodges
+     * Murphy
+     * Nodena
+          + Nodena Phase
+     * Owl Creek
+     * Parkin
+     * Quigualtam
+     * Tipton Phase
+     * Tunica
+          + Koroa
+          + Yazoo
+     * Walls Phase
+
+   South Appalachian
+   Mississippian
+
+     * Adamson
+     * Avery
+     * Beaverdam Creek
+     * Bell Field Mound
+     * Bessemer
+     * Biltmore
+     * Blair
+     * Bussell Island
+     * Chauga
+     * Chiaha
+     * Chota
+     * Citico
+     * Coosa
+     * Dallas Phase
+     * Dyar
+     * Etowah
+     * Garden Creek
+     * Hoojah Branch
+     * Irene
+     * Jere Shine
+     * Joara
+     * Joe Bell
+     * King
+     * Lamar
+     * Lamar phase
+     * Liddell
+     * Little Egypt
+     * Long Swamp
+     * Mabila
+     * Mandeville
+     * McMahan
+     * Moccasin Bend
+     * Moundville
+     * Mouse Creek Phase
+     * Mulberry
+     * Muscogee (Creek)
+     * Nacoochee
+     * Nikwasi
+     * Ocmulgee
+     * Park Mound
+     * Pisgah Phase
+     * Punk Rock Shelter
+     * Rembert
+     * Roods Landing
+     * Rucker's Bottom
+     * Savannah
+     * Shiloh
+     * Sixtoe
+     * Summerour
+     * Taskigi
+     * Tomotley
+     * Toqua
+     * Town Creek
+     * Waddells Mill Pond
+     * Wilbanks
+
+   Fort Walton culture
+
+     * Anhaica
+     * Apalachee
+     * Apalachee Province
+     * Cayson
+     * Corbin-Tucker
+     * Fort Walton Mound
+     * Lake Jackson
+     * Leon-Jefferson culture
+     * Letchworth
+     * Velda
+     * Yon
+
+   Pensacola culture
+
+     * Bottle Creek
+     * Dauphin Island
+     * Fort Walton
+     * Hickory Ridge Cemetery
+     * Naval Live Oaks Cemetery
+     * Pensacola people
+
+   Plaquemine
+   Mississippian
+
+     * Anna
+     * Atchafalaya Basin
+     * Emerald
+     * Fitzhugh
+     * Flowery
+     * Fosters
+     * Ghost
+     * Glass
+     * Grand Village of the Natchez
+     * Holly Bluff
+     * Jaketown
+     * Jordan
+     * Julice
+     * Mangum
+     * Mazique
+     * Medora
+     * Mott
+     * Natchez
+          + Taensa
+     * Pocahontas
+     * Routh
+     * Scott Place
+     * Sims
+     * Transylvania
+     * Venable
+     * Winterville
+     *
+
+   Caddoan
+   Mississippian
+
+     * Battle
+     * Belcher
+     * Blue Spring Shelter
+     * Bluffton
+     * Caddo
+     * Caddoan Mounds
+     * Gahagan
+     * Hughes
+     * Ka-Do-Ha Indian Village
+     * Keller
+     * Spiro
+
+   Upper Mississippian
+   cultures
+
+   Oneota
+     * Anker
+     * Beattie Park
+     * Blood Run
+     * Carcajou Point
+     * Fifield
+     * Fisher Mound Group
+     * Gentleman Farm
+     * Grand Village of the Illinois
+     * Griesmer
+     * Hartley Fort
+     * Hotel Plaza
+     * Hoxie Farm
+     * Huber
+     * Juntunen
+     * Knoll Spring
+     * Mero Site
+     * Moccasin Bluff
+     * Oak Forest
+     * Palos
+     * Plum Island
+     * Roche-a-Cri Petroglyphs
+     * Schwerdt
+     * Summer Island
+
+   Fort Ancient culture
+     * Alligator Effigy Mound
+     * Clover
+     * Dodge
+     * Leo Petroglyph
+     * Serpent Mound
+     * SunWatch Indian Village
+
+   Culture
+
+   Agriculture
+     * Beans
+     * Chenopodium
+     * Little barley
+     * Maize
+     * Marshelder
+     * Pumpkin
+     * Squash
+     * Sunflower
+     * Three Sisters
+     * Tobacco
+
+   Artwork
+     * Emmons mask
+     * Copper plates
+          + Rogan plates
+          + Spiro plates
+          + Wulfing cache
+     * Duck River Cache
+     * Long-nosed god maskette
+     * Mill Creek chert
+     * Pottery
+     * Shell gorget
+     * Stone statuary
+
+   Languages
+     * Caddoan
+     * Central Algonquian
+     * Cherokee
+     * Mobilian Jargon
+     * Muskogean
+     * Natchez
+          + Taensa
+     * Siouan
+     * Timucuan
+     * Tunican
+     * Yuchi
+
+   Religion
+     * Ballgame (Southeastern)
+          + Northern
+     * Black drink
+     * Burial mound
+     * Ceremonial pipe
+          + Chanunpa
+     * Chunkey
+     * Earth/fertility cult
+     * Green Corn Ceremony
+     * Horned Serpent
+     * Platform mound
+     * Red Horn
+     * Sacred bundle
+          + Village bundle
+     * Southeastern Ceremonial Complex
+     * Stone box grave
+     * Thunderbird
+     * Underwater panther
+
+   Related topics
+          Chevron bead
+          Clarksdale bell
+          Mound Builders
+          de Soto Expedition
+
+     * v
+     * t
+     * e
+
+   Pre-Columbian North America
+
+   Periods
+          Lithic
+          Archaic
+          Formative
+          Classic
+          Post-Classic
+
+   Archaeological
+   cultures
+
+     * Adena
+     * Alachua
+     * Ancient Beringian
+     * Ancestral Pueblo (Anasazi)
+     * Anishinaabe
+     * Avonlea
+     * Baytown
+     * Belle Glade
+     * Buttermilk Creek complex
+     * Caborn-Welborn
+     * Cades Pond
+     * Calf Creek
+     * Caloosahatchee
+     * Clovis
+     * Coles Creek
+     * Comondú
+     * Deptford
+     * Folsom
+     * Fort Ancient
+     * Fort Walton
+     * Fremont
+     * Glacial Kame
+     * Glades
+     * Hohokam
+     * Hopewell
+          + List of Hopewell sites
+     * La Jolla
+     * Las Palmas
+     * Maritime Archaic
+     * Mississippian
+          + List of Mississippian sites
+     * Mogollon
+     * Monongahela
+     * Old Cordilleran
+     * Oneota
+     * Paleo-Arctic
+     * Paleo-Indians
+     * Patayan
+     * Plano
+     * Plaquemine
+     * Poverty Point
+     * Red Ocher
+     * Safety Harbor
+     * Santa Rosa-Swift Creek
+     * St. Johns
+     * Steed-Kisker
+     * Suwannee Valley
+     * Tchefuncte
+     * Troyville
+     * Weeden Island
+     * Woodland
+
+   Archaeological
+   sites
+
+     * Angel Mounds
+     * Anzick Site
+     * Bandelier National Monument
+     * Bastian
+     * Benson
+     * Blue Spring Shelter
+     * Bluefish Caves
+     * The Bluff Point Stoneworks
+     * Brewster
+     * Cahokia
+     * Candelaria Cave
+     * Carlisle Fort
+     * Casa Grande
+     * Chaco Canyon
+     * Coso Rock Art District
+     * Crystal River
+     * Cuarenta Casas
+     * Cueva de la Olla
+     * Cutler
+     * Eaker
+     * El Fin del Mundo
+     * El Vallecito
+     * Effigy Mounds
+     * Etowah Indian Mounds
+     * Eva
+     * Folsom
+     * Fort Ancient
+     * Fort Center
+     * Fort Juelson
+     * Four Mounds
+     * Gila Cliff Dwellings
+     * Glenwood
+     * Grimes Point
+     * Helen Blazes
+     * Holly Bluff
+     * Hopewell Culture National Historical Park
+     * Horr's Island
+     * Huápoca
+     * Key Marco
+     * Kimball Village
+     * Kincaid Mounds
+     * Kolomoki Mounds
+     * Lake Jackson Mounds
+     * Lehner Mammoth-Kill Site
+     * L'Anse aux Meadows
+     * Lynch Quarry Site
+     * Marksville
+     * Marmes Rockshelter
+     * Meadowcroft Rockshelter
+     * Mesa Verde
+     * Moaning Cavern
+     * Moorehead Circle
+     * Morrison Mounds
+     * Moundville
+     * Mummy Cave
+     * Nodena Site
+     * Ocmulgee Mounds
+     * Old Stone Fort
+     * Orwell Site
+     * Paquime
+     * Painted Bluff
+     * Parkin Park
+     * Pinson Mounds
+     * Plum Bayou Mounds
+     * Portsmouth Earthworks
+     * Poverty Point
+     * Pueblo Bonito
+     * Rassawek
+     * Recapture Canyon
+     * River Styx
+     * Roberts Island
+     * Rock Eagle
+     * Rock Hawk
+     * Rosenstock Village
+     * Russell Cave
+     * Salmon Ruins
+     * Serpent Mound
+     * Sierra de San Francisco
+     * Shell ring sites
+     * Spiro Mounds
+     * Stallings Island
+     * SunWatch
+     * Taos Pueblo
+     * Town Creek Indian Mound
+     * Turkey River Mounds
+     * Upward Sun River
+     * Velda Mound
+     * West Oak Forest Earthlodge
+     * Wickiup Hill
+     * Windover
+     * Winterville
+     * Wupatki
+
+   Human
+   remains
+
+     * Anzick-1
+     * Arlington Springs Man
+     * Buhl Woman
+     * Kennewick Man
+     * La Brea Woman
+     * Leanderthal Lady
+     * Melbourne Man
+     * Minnesota Woman
+     * Peñon woman
+     * Spirit Cave mummy
+     * Vero man
+
+   Miscellaneous
+
+     * Aridoamerica
+     * Ballgame
+     * Black drink
+     * Ceremonial pipe
+          + Chanunpa
+     * Chunkey
+     * Clovis point
+     * Container Revolution
+     * Eastern Agricultural Complex
+     * Eden point
+     * Effigy mound
+     * Falcon dancer
+     * Folsom point
+     * Green Corn Ceremony
+     * Horned Serpent
+     * Kiva
+     * Medicine wheel
+     * Metallurgy
+     * Mi'kmaq hieroglyphic writing
+     * Mound Builders
+     * N.A.G.P.R.A.
+     * Norse colonization of North America
+     * Oasisamerica
+     * Piasa
+     * Projectile point
+     * Southeastern Ceremonial Complex
+     * Stickball
+     * Three Sisters agriculture
+     * Thunderbird
+     * Transoceanic contact
+     * Underwater panther
+     * Water glyphs
+
+   Related
+          Genetic history
+          Pre-Columbian era
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Plaquemine_culture&oldid=13
+   24181130"
+
+   Categories:
+     * Plaquemine Mississippian culture
+     * Archaeological cultures in the United States
+     * Pyramids in the United States
+
+   Hidden categories:
+     * All articles with dead external links
+     * Articles with dead external links from February 2024
+     * Webarchive template wayback links
+     * Articles with short description
+     * Short description matches Wikidata
+     * Commons category link is on Wikidata
+
+     * This page was last edited on 26 November 2025, at 01:50 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Plaquemine culture
+   (BUTTON) 5 languages Add topic

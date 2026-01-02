@@ -1,721 +1,800 @@
-   #alternate alternate alternate
-
-     * Contenu
-     * Recherche
-     * Navigation
-
-     * Jobs
-     * Presse
-     * Annuaire
-     * Intranet
-     * Médiathèque
-     * Kiosque
-
-     * fr
-     * en
-
-     * LinkedIn
-     * Facebook
-     * BlueSky
-     * Instagram
-     * YouTube
-     * X
-     * Podcasts
-
-   République française INRAE - Accueil
-
-     * Apprendre et comprendre (BUTTON) open Apprendre et comprendre
-     * Nous connaître (BUTTON) open Nous connaître
-     * Collaborer avec nous (BUTTON) open Collaborer avec nous
-     * Nous rejoindre (BUTTON) open Nous rejoindre
-     * Europe & International (BUTTON) open Europe & International
-
-     * Dans l'actu (BUTTON) open Dans l'actu
-     * Images et sons (BUTTON) open Images et sons
-     * Décryptage (BUTTON) open Décryptage
-     * Comprendre, débattre (BUTTON) open Comprendre, débattre
-
-     * Approchez-vous, notre nouvelle web série
-     * INRAE est partenaire de l'expo Jardiner
-     * Découvrez Ressources #8
-     * Des animaux pas si bêtes !
-
-     * Vidéo - Un grand bol d'herbe pour les chèvres
-     * Abonnez vous ! Notre Chaine Youtube
-     * Suivez nous sur Instagram
-     * Nos podcasts
-
-     * C'est quoi la méthanisation ?
-     * Nos dossiers
-     * Évadez-vous avec INRAE
-     * Suivez-nous sur Facebook
-
-     * Sciences en questions : conférences, livres
-     * Se saisir des controverses
-
-     * Notre ambition (BUTTON) open Notre ambition
-     * Notre organisation (BUTTON) open Notre organisation
-     * Nos temps forts (BUTTON) open Nos temps forts
-     * Un institut responsable (BUTTON) open Un institut responsable
-
-     * INRAE : missions, organisation, chiffres clés (PDF) Film &
-       plaquette institutionnels
-     * INRAE 2030
-     * Eclairer l'ambition
-     * Construire l'interdisciplinarité
-
-     * Gouvernance
-     * Nos 18 centres
-     * Nos 14 départements
-     * Carte d'identité
-
-     * Le Salon de l’Agriculture
-     * Les Lauriers 2025
-     * Le rapport d'activité
-
-     * Nos principes
-     * Responsabilité sociétale et environnementale
-     * Déontologie, intégrité scientifique & éthique
-     * Comité d'éthique
-
-     * Innover pour la société (BUTTON) open Innover pour la société
-     * Une science ouverte (BUTTON) open Une science ouverte
-     * Eclairer la société et les décideurs (BUTTON) open Eclairer la
-       société et les décideurs
-     * Sciences Participatives (BUTTON) open Sciences Participatives
-
-     * Une stratégie d’innovation basée sur le partenariat
-     * Les start-up et INRAE
-     * Les Carnot
-     * Les chiffres clés de l'innovation
-
-     * Penser la transition numérique
-     * INRAE engagé pour une science ouverte
-     * Pour une science ouverte, transparente et gratuite
-     * Archive Ouverte d'INRAE
-
-     * Une expertise internationale
-     * Réduire le gaspillage en restauration collective
-     * Évaluer la qualité des sols pour mieux les préserver
-     * Mieux se protéger des inondations avec SIM-MANA
-
-     * Participez à nos recherches
-     * Les Applis INRAE
-     * Prix de la recherche participative
-     * Sols & Société
-
-     * Carrières et emploi (BUTTON) open Carrières et emploi
-     * Ceux qui font INRAE (BUTTON) open Ceux qui font INRAE
-     * Un employeur engagé (BUTTON) open Un employeur engagé
-
-     * INRAE recrute
-     * Créez votre alerte emploi
-     * Le guide des accueils internationaux
-
-     * Des femmes et des hommes
-     * L’extraordinaire quotidien de nos scientifiques
-     * Des prix et des distinctions
-     * Les Lauriers 2024
-
-     * INRAE accessible à toutes les ambitions
-     * Le label HR Excellence
-     * Egalité femmes-hommes, lutte contre les discriminations
-     * Responsabilité sociétale et environnementale
-
-     * Vous êtes étudiant (BUTTON) open Vous êtes étudiant
-     * Vous êtes chercheur (BUTTON) open Vous êtes chercheur
-     * INRAE à l'Europe (BUTTON) open INRAE à l'Europe
-     * INRAE à l'International (BUTTON) open INRAE à l'International
-
-     * Faire une thèse à INRAE
-     * Offres de bourses
-     * Les centres INRAE
-     * Trouver une unité
-
-     * Collaborations
-     * Des infrastructures de recherche ouvertes
-     * Une expertise internationale
-     * Nos Métaprogrammes
-
-     * Notre stratégie
-     * Etoiles de l'Europe
-     * Nos lauréats ERC
-     * Agenda européen
-
-     * Notre actualité internationale
-     * Nos scientifiques reconnus mondialement
-
-     * fr
-     * en
-
-   Rechercher (BUTTON) Réinitialiser la recherche (BUTTON) Lancer votre
-   recherche
-
-suggestions
-
-   (BUTTON) menu
-
-     * Accueil
-     * Toutes les actualités
-     * Augmenter la diversité végétale des espaces agricoles pour protéger
-       les cultures
-
-   (BUTTON) Sommaire
-
-   Agroécologie Temps de lecture 6 min
-   (BUTTON) Partager
-     * Partager sur Facebook
-     * Partager sur X
-     * Partager sur WhatsApp
-     * Partager sur LinkedIn
-     * Partager sur Bluesky
-     * (BUTTON) Imprimer
-     * Partager par email
-     * (BUTTON) Partager par lien
-
-Augmenter la diversité végétale des espaces agricoles pour protéger les
-cultures
-
-   Mélanges variétaux, associations d’espèces, succession de cultures dans
-   le temps, agroforesterie, haies et autres éléments semi-naturels du
-   paysage… la diversité végétale concourt à diminuer les populations de
-   champignons pathogènes, plantes adventices, insectes ravageurs qui
-   vivent aux dépens des cultures, avec l’objectif de réduire voire de se
-   passer des pesticides. Et cela sans perte de rendement. De nombreux
-   verrous en amont et en aval des filières agricoles limitent le
-   déploiement de ces stratégies de protection des cultures, mais les
-   politiques publiques pourraient être un levier important pour inciter
-   les agriculteurs à les adopter. Ce sont les principaux enseignements
-   d’une expertise scientifique collective réalisée par INRAE à la demande
-   des ministères en charge de l’Agriculture, de la Transition écologique
-   et de la Recherche. Explications.
-
-   Publié le 26 octobre 2022 (mis à jour : 23 mai 2025)
-   illustration Augmenter la diversité végétale des espaces agricoles pour
-   protéger les cultures © INRAE
-
-   Lorsqu’aucune stratégie de lutte n’est mise en place, les pathogènes,
-   plantes adventices et organismes ravageurs des cultures causent des
-   dégâts sur les cultures, avec pour conséquence des pertes de rendement
-   et/ou de qualité des récoltes. Pour s’en prémunir, les agriculteurs ont
-   majoritairement recours aux solutions chimiques, avec cependant un
-   impact important sur l’environnement et sur la santé humaine. Se passer
-   de pesticides est une attente forte de la société de plus en plus
-   intégrée dans les politiques publiques nationales et européennes, mais
-   ces dernières ont un impact limité sur le terrain. C’est dans ce
-   contexte que les ministères en charge de l’Agriculture, de la
-   Transition écologique et de la Recherche ont confié à INRAE une
-   expertise scientifique collective pour évaluer l’efficacité de
-   stratégies de protection des cultures fondées sur la diversité végétale
-   et analyser les freins et les leviers de leur déploiement.
-
-   La synthèse de ce travail collectif et interdisciplinaire, basé sur une
-   analyse de la bibliographie internationale, dégage des constats bien
-   établis par les recherches :
-     * La diversification végétale des parcelles et des paysages pour
-       protéger les cultures, cela fonctionne.
-     * Outre la protection des cultures, la diversification favorise la
-       biodiversité et les services qu’elle rend aux agriculteurs et à la
-       société : la régulation de l’eau, le stockage du carbone, etc.
-     * Ces solutions agroécologiques vont de pair avec des rendements
-       souvent plus élevés et/ou plus stables d’une année sur l’autre que
-       dans les systèmes conventionnels.
-     * Des verrous sont à lever pour développer leur utilisation, qui peut
-       nécessiter une transformation importante des systèmes de culture
-       aujourd’hui très spécialisés.
-     * Des leviers existent : en particulier, les politiques publiques ont
-       un rôle essentiel à jouer pour inciter à la diversification.
-
-   Vidéo du colloque de restitution
-
-   IFRAME: https://mediatheque.inrae.fr/INRAE/embed/PUBLIC/537129618
-
-
-   LES LIVRABLES
-
-   Les documents de l’expertise scientifique collective définissent
-   précisément toute la gamme de solutions que recouvre la diversité
-   végétale et détaillent les avantages et les limites de chaque modalité.
-
-   Les documents ci-dessous ont été mis à jour au 19/12/23, intégrant un
-   erratum.
-   RegulNat Résumé pdf - 3.05 MB
-     * DOI 10.17180/yn4d-h840
-       DOI 10.17180/4F13-NW36 (En anglais)
-
-   RégulNat Synthèse pdf - 6.65 MB
-     * DOI 10.17180/awsn-rf06
-
-   Présentations du colloque pdf - 8.02 MB
-     * Rapport scientifique (954 p.) en français : DOI 10.17180/q7wm-q442
-     * Communiqué de presse
-
-Nouvelle publication dans One Earth
-
-   Une nouvelle revue interdisciplinaire, publiée dans la revue One Earth,
-   approfondit les conclusions de l'évaluation scientifique collective
-   REGULNAT.
-   Elle compare 9 stratégies de diversification végétale et analyse les
-   freins à leur adoption. Tout en confirmant les bénéfices agronomiques
-   et écologiques déjà mis en évidence dans l'évaluation, cette étude
-   offre une perspective comparative : les stratégies les plus
-   prometteuses, comme l'agroforesterie et la diversification à l'échelle
-   du paysage, sont également confrontées aux verrouillages
-   socio-économiques et institutionnels les plus forts. Les mélanges
-   variétaux, bien que plus faciles à mettre en œuvre, offrent moins de
-   co-bénéfices.
-   L'article souligne l'importance de soutenir la diversification végétale
-   dans le cadre d'une transition systémique et territoriale et en
-   évidence le rôle des coopératives dans la conduite de ces changements.
-
-   RÉFÉRENCE
-
-   Vialatte A., Tibi A., Alignier A. et al. (2025). Protecting crops with
-   plant diversity: Agroecological promises, socioeconomic lock-in, and
-   political levers. One Earth, 101309. DOI :
-   https://doi.org/10.1016/j.oneear.2025.101309
-
-
-   Ouvrage : Protéger les cultures par la diversité végétale
-   Anaïs Tibi, Vincent Martinet, Aude Vialatte
-
-   Un état des lieux des stratégies de protection des cultures fondées sur
-   la diversification végétale, et une analyse des freins et des leviers
-   technico-socio-économiques de leur déploiement.
-
-   Éditions Quæ, collection Matière à débattre et décider,  132 pages,
-   livre papier 29 €, e-book gratuit.
-
-Jusqu’à quel point diversifier ?
-
-     Des pratiques en rupture avec le système majoritaire
-
-   Introduire de la diversité végétale permet de rendre l’espace agricole
-   moins favorable aux ravageurs, plantes adventices et maladies, en
-   diluant leurs plantes hôtes, et/ou en favorisant la présence de
-   prédateurs ou concurrents. Mais jusqu’où aller ? Certains travaux
-   scientifiques fournissent des préconisations. Par exemple, les mélanges
-   variétaux doivent se composer de 4 à 5 variétés pour réguler
-   efficacement les maladies. Aujourd’hui, ils se composent de 2 à 3
-   variétés et représentent 17 % des surfaces cultivées en blé. Pour les
-   associations de deux espèces dans une même culture, il est préconisé de
-   les choisir avec des sensibilités différentes aux maladies et
-   ravageurs, et complémentaires dans l’utilisation des ressources
-   nutritives. Aujourd’hui ces associations concernent seulement 0,1 % à 3
-   % des surfaces, et associent une céréale et une légumineuse. Les
-   successions de cultures différentes au sein de la parcelle (rotations
-   de cultures) doivent être établies sur plus de 3 ans, alterner cultures
-   semées en hiver ou au printemps, légumineuses (qui fixent l’azote
-   atmosphérique dans le sol) et des cultures comme le colza pour mieux
-   réguler les plantes adventices. La taille optimale pour les parcelles
-   de grande culture est d’environ 2,8 ha pour favoriser la biodiversité
-   alors que 50 % de notre surface agricole est occupée par des parcelles
-   de plus de 6,8 ha. Enfin, il faudrait pouvoir intégrer 20 % d’éléments
-   semi-naturels (haies, mares, bois, etc.) dans les espaces cultivés pour
-   réguler la présence des insectes, acariens… qui s’attaquent aux
-   cultures, conserver la biodiversité et les services qu’elle rend aux
-   écosystèmes. La présence de 300 mètres de haies par hectare permet de
-   concilier rendement et biodiversité.
-
-   L’agroforesterie, qui associe arbres et cultures (et parfois de
-   l’élevage) au sein d’une même parcelle, apparaît comme une voie
-   particulièrement intéressante par la variété des services
-   écosystémiques associée : maintien de biodiversité, régulation de
-   l’eau, qualité de l’eau et du sol, stockage de carbone. Pourtant, elle
-   est pratiquée sur moins de 1 % de la surface agricole française.
-
-   A l’exception des mélanges variétaux de céréales, ces pratiques de
-   diversification sont actuellement peu adoptées par les agriculteurs.
-   Dans le contexte économique actuel, mettre en oeuvre des pratiques de
-   diversification pour protéger les cultures est souvent perçu par les
-   agriculteurs comme plus risqué que recourir aux pesticides. Ces
-   derniers sont plutôt considérés comme des intrants réducteurs de risque
-   à bas coût.
-
-Quels sont les verrous et les leviers ?
-
-     Des incitations fortes doivent accompagner ce déploiement
-
-   L’industrialisation de l’agriculture a été fortement encouragée par les
-   politiques publiques durant la 2^e moitié du XXe siècle. Elle s’est
-   traduite par une forte spécialisation des exploitations et des régions,
-   permise notamment par la généralisation de l’usage des pesticides de
-   synthèse, et s’est accompagnée d’une perte de diversité végétale. Le
-   système actuel est donc caractérisé par un verrouillage systémique qui
-   s’oppose aux changements.
-
-   D’une part, s’affranchir des pesticides nécessite de penser autrement :
-   il ne s’agit plus de viser le « zéro organisme ravageur, adventice ou
-   maladie », mais de réguler leurs populations en mobilisant la
-   biodiversité présente dans l’écosystème agricole. En effet, ce n’est
-   qu’à partir d’un certain seuil que les ravageurs, plantes adventices et
-   maladies causent de dégâts sur les cultures (par exemple des trous dans
-   les fruits), et ces dégâts ne se traduisent pas toujours par des pertes
-   de production (par exemple si les dégâts concernent les parties non
-   récoltés). La rentabilité finale de l’exploitation dépend également du
-   prix de vente (donc du consentement à payer du consommateur pour des
-   produits qui ne répondent pas aux standards conventionnels), du coût
-   des intrants, des charges de travail et des équipements. La stabilité
-   de la rentabilité au long des années est également un critère important
-   pour l’agriculteur.
-
-   D’autre part, mobiliser les mélanges variétaux nécessite de disposer
-   des variétés appropriées, pratiquer les associations culturales demande
-   des équipements adaptés au semis et à la récolte (mutualiser l’achat,
-   sous-traiter, ou fabriquer son propre équipement permet de mieux faire
-   face à leur coût). Mobiliser des éléments semi-naturels nécessite une
-   organisation collective et des politiques publiques cohérentes. La
-   mutualisation des connaissances et le partage d’expérience sont
-   essentiels dans tous les cas, de même que la création de débouchés pour
-   les produits issus des systèmes diversifiés. Les coopératives, qui
-   agissent à la fois en amont et en aval des filières, peuvent avoir un
-   rôle clé. Ainsi, des travaux italiens ont constaté plus de diversité
-   végétale et de meilleurs rendements lorsque les coopératives étaient
-   plus nombreuses et actives dans ce rôle incitatif.
-
-Quelles pistes pour favoriser la diversification végétale afin de protéger
-les cultures ?
-
-   Le principal outil aujourd’hui promu pour sortir des pesticides de
-   synthèse est réglementaire : il s’agit de la certification des
-   exploitations en agriculture biologique. Cette certification n’impose
-   cependant pas l’adoption de pratiques de diversification végétale. Or,
-   la combinaison de ces deux outils semble prometteuse pour optimiser la
-   conservation de la biodiversité, la fourniture de services
-   écosystémiques et la préservation des rendements, tout en améliorant la
-   valorisation économique de la production des systèmes diversifiés.
-   L’outre-mer est aussi un modèle inspirant. Les systèmes diversifiés,
-   voire ultra-diversifiés comme le jardin créole, sont adoptés dans 70 %
-   des exploitations agricoles et constituent des systèmes résilients aux
-   changement globaux, qu’ils soient environnementaux (changement
-   climatique) ou économiques (fluctuations des marchés).
-
-   Les conclusions de cette expertise scientifique collective ont été
-   présentées et mises en débat au cours d’un colloque rassemblant près
-   d’un millier de personnes, en ligne ou en présentiel. Favoriser la
-   diffusion de ces connaissances, dès le lycée agricole, et accompagner
-   leur mise en œuvre ont fait l’objet de nombreux échanges. Dans la
-   transition vers des systèmes agricoles avec plus de diversité végétale,
-   chaque acteur de la société (agriculteurs, industriels, consommateurs,
-   pouvoirs publics, recherche) peut jouer un rôle.
-
-   INRAE, engagé dans les recherches pour accompagner les transitions
-   agroécologiques et alimentaires, mobilise son dispositif de recherche,
-   en particulier la plateforme Ca-Sys en grande culture et le verger de
-   Gotheron, qui mettent en œuvre la diversité avec « zéro pesticides ».
-   Les zones ateliers et les laboratoires vivants qui associent les
-   acteurs de terrains sont également des dispositifs essentiels pour
-   innover en ce sens…. L’expertise scientifique collective pointe
-   l’intérêt de développer la télédétection et la modélisation pour
-   améliorer le suivi des pratiques de diversification et la compréhension
-   de leurs effets. Les recherches devront également s’attacher à mieux
-   comprendre les effets combinés des différentes pratiques de
-   diversification pour réguler simultanément divers types d’agresseurs.
-   Mieux concevoir et évaluer les politiques publiques est enfin
-   nécessaire.
-
-   UNE EXPERTISE SCIENTIFIQUE COLLECTIVE MENEE PAR LA DEPE
-
-   Cette synthèse interdisciplinaire est basée sur une analyse de la
-   littérature scientifique mondiale. 1 900 références scientifiques dont
-   225 travaux de synthèse ont été analysées. 32 experts et expertes
-   agronomes, écologues, économistes, sociologues… de différents
-   organismes de recherche, et 2 chargés de mission ont été mobilisés. Le
-   cadre méthodologique des expertises scientifiques collectives a été
-   appliqué.
-   RegulNat-Resumépdf - 3.05 MBRegulNat-synthèsepdf - 6.65 MBRégulnat -
-   Erratumpdf - 592.62 KB
-     * expertise
-     * stratégie de protection des cultures
-     * agroécologie
-
-   Nicole Ladet
-
-   Rédactrice
-
-Contacts
-
-   Anaïs Tibi
-
-   Cheffe de projet
-
-   INRAE, Direction Expertise scientifique collective, prospective et
-   études
-   Aude Vialatte
-
-   Pilote scientifique
-
-   INRAE, UMR DYNAFOR Dynamiques et écologie des paysages agriforestiers
-   Vincent Martinet
-
-   Pilote scientfique
-
-   INRAE, UMR PSAE Paris-Saclay applied economics
-
-Les départements
-
-   ACT
-
-   Voir le département
-
-   AGROECOSYSTEM
-
-   Voir le département
-
-   ECOSOCIO
-
-   Voir le département
-
-   SPE
-
-   Voir le département
-
-En savoir plus
-
-   thematic Biodiversité
-
-Biodiversité et services rendus par la nature : que sait-on de l’impact des
-pesticides ?
-
-   Dans quelle mesure les oiseaux, insectes et autres organismes vivants
-   sont-ils affectés par les pesticides ? Quel est l’effet de ces
-   substances sur des services aussi essentiels que la pollinisation ou la
-   lutte biologique contre les ravageurs ? Une expertise scientifique
-   collective INRAE-Ifremer livre des enseignements actualisés sur
-   l’impact des produits phytopharmaceutiques sur la biodiversité et sur
-   les services que les écosystèmes rendent à la société. Elle identifie
-   des pistes pour les réduire.
-
-   13 mai 2022
-
-   thematic Agroécologie
-
-Une agriculture européenne sans pesticides en 2050 ?
-
-   Réduire drastiquement nos usages de pesticides, diminuer nos émissions
-   de gaz carbonique, en particulier d’origine agricole, satisfaire la
-   demande alimentaire, atteindre une souveraineté alimentaire, préserver
-   la santé humaine, protéger notre environnement… autant d’impératifs
-   concourant à notre bien-être commun et qui ne sont pas simples à
-   atteindre ! Sont-ils seulement compatibles ?
-
-   27 mars 2023
-
-   thematic Agroécologie
-
-« Des graines pour nourrir l’avenir » : retour sur la journée technique PSDR
-dédiée aux légumineuses
-
-   Jeudi 16 janvier, le PSDR (Programme de Recherche pour et sur le
-   développement régional) Bourgogne-Franche-Comté a organisé au Lycée
-   agricole de Quétigny (21), une journée de valorisation de ses travaux
-   sur les légumineuses, une famille de plantes qui ont leur rôle à jouer
-   dans la lutte contre le changement climatique et la réduction de
-   l’utilisation des intrants de synthèse.
-
-   21 janvier 2020
-
-   Haut de page
-
-LES THÉMATIQUES INRAE
-
-     * Agroécologie
-     * Alimentation, santé globale
-     * Biodiversité
-     * Bioéconomie
-     * Changement climatique et risques
-     * Société et territoires
-
-INNOVATION
-
-     * Partenariats et innovation
-     * Carnot
-     * Infrastructures de recherche
-
-EXPERTISE ET APPUI AUX POLITIQUES PUBLIQUES
-
-     * Une expertise pour la société
-     * Eclairages
-     * Appui aux politiques publiques
-
-L'INSTITUT
-
-     * Organisation
-     * Europe, international
-     * Un institut responsable
-     * Portraits et parcours
-     * Actes réglementaires
-     * Les brèves INRAE
-     * Nos archives ouvertes – HAL
-
-ESPACE PEDAGOGIQUE
-
-     * Le point sur… COVID-19
-     * Apprendre en s’amusant
-     * Nos podcasts
-     * Nos dossiers
-     * Les découvertes INRAE
-
-LA SCIENCE ET VOUS
-
-     * Salon de l’Agriculture
-     * Recherches participatives
-     * Science ouverte
-
-Suivez-nous
-
-     * LinkedIn
-     * Facebook
-     * BlueSky
-     * Instagram
-     * YouTube
-     * X
-     * Podcasts
-
-   Siège : 147 rue de l'Université 75338 Paris Cedex 07 - tél. : +33(0)1
-   42 75 90 00
-
-   Copyright - ©INRAE 2020 - 2024
-     * Mentions légales
-     * CGU
-     * Données personnelles
-     * Achats
-     * Accessibilité : partiellement conforme
-     * Accès aux documents administratifs
-     * Cookies
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
      * Contact
 
-     * (BUTTON) Apprendre et comprendre
-       (BUTTON) Fermer Apprendre et comprendre Apprendre et comprendre
-          + (BUTTON) Dans l'actu
-            (BUTTON) Fermer Apprendre et comprendre Dans l'actu
-               o Approchez-vous, notre nouvelle web série
-               o INRAE est partenaire de l'expo Jardiner
-               o Découvrez Ressources #8
-               o Des animaux pas si bêtes !
-          + (BUTTON) Images et sons
-            (BUTTON) Fermer Apprendre et comprendre Images et sons
-               o Vidéo - Un grand bol d'herbe pour les chèvres
-               o Notre Chaine Youtube
-               o Suivez nous sur Instagram
-               o Nos podcasts
-          + (BUTTON) Décryptage
-            (BUTTON) Fermer Apprendre et comprendre Décryptage
-               o C'est quoi la méthanisation ?
-               o Nos dossiers
-               o Évadez-vous avec INRAE
-               o Suivez-nous sur Facebook
-          + (BUTTON) Comprendre, débattre
-            (BUTTON) Fermer Apprendre et comprendre Comprendre, débattre
-               o Sciences en questions : conférences, livres
-               o Se saisir des controverses
-     * (BUTTON) Nous connaître
-       (BUTTON) Fermer Nous connaître Nous connaître
-          + (BUTTON) Notre ambition
-            (BUTTON) Fermer Nous connaître Notre ambition
-               o Film & plaquette institutionnels
-               o INRAE 2030
-               o Eclairer l'ambition
-               o Construire l'interdisciplinarité
-          + (BUTTON) Notre organisation
-            (BUTTON) Fermer Nous connaître Notre organisation
-               o Gouvernance
-               o Nos 18 centres
-               o Nos 14 départements
-               o Carte d'identité
-          + (BUTTON) Nos temps forts
-            (BUTTON) Fermer Nous connaître Nos temps forts
-               o Le Salon de l’Agriculture
-               o Les Lauriers 2025
-               o Le rapport d'activité
-          + (BUTTON) Un institut responsable
-            (BUTTON) Fermer Nous connaître Un institut responsable
-               o Nos principes
-               o Responsabilité sociétale et environnementale
-               o Déontologie, intégrité scientifique & éthique
-               o Comité d'éthique
-     * (BUTTON) Collaborer avec nous
-       (BUTTON) Fermer Collaborer avec nous Collaborer avec nous
-          + (BUTTON) Innover pour la société
-            (BUTTON) Fermer Collaborer avec nous Innover pour la société
-               o Une stratégie d’innovation basée sur le partenariat
-               o Les start-up et INRAE
-               o Les Carnot
-               o Les chiffres clés de l'innovation
-          + (BUTTON) Une science ouverte
-            (BUTTON) Fermer Collaborer avec nous Une science ouverte
-               o Penser la transition numérique
-               o INRAE engagé pour une science ouverte
-               o Pour une science ouverte, transparente et gratuite
-               o Archive Ouverte d'INRAE
-          + (BUTTON) Eclairer la société et les décideurs
-            (BUTTON) Fermer Collaborer avec nous Eclairer la société et
-            les décideurs
-               o Une expertise internationale
-               o Réduire le gaspillage en restauration collective
-               o Évaluer la qualité des sols pour mieux les préserver
-               o Mieux se protéger des inondations avec SIM-MANA
-          + (BUTTON) Sciences Participatives
-            (BUTTON) Fermer Collaborer avec nous Sciences Participatives
-               o Participez à nos recherches
-               o Les Applis INRAE
-               o Prix de la recherche participative
-               o Sols & Société
-     * (BUTTON) Nous rejoindre
-       (BUTTON) Fermer Nous rejoindre Nous rejoindre
-          + (BUTTON) Carrières et emploi
-            (BUTTON) Fermer Nous rejoindre Carrières et emploi
-               o INRAE recrute
-               o Créez votre alerte emploi
-               o Le guide des accueils internationaux
-          + (BUTTON) Ceux qui font INRAE
-            (BUTTON) Fermer Nous rejoindre Ceux qui font INRAE
-               o Des femmes et des hommes
-               o L’extraordinaire quotidien de nos scientifiques
-               o Des prix et des distinctions
-               o Les Lauriers 2024
-          + (BUTTON) Un employeur engagé
-            (BUTTON) Fermer Nous rejoindre Un employeur engagé
-               o INRAE accessible à toutes les ambitions
-               o Le label HR Excellence
-               o Egalité femmes-hommes, lutte contre les discriminations
-               o Responsabilité sociétale et environnementale
-     * (BUTTON) Europe & International
-       (BUTTON) Fermer Europe & International Europe & International
-          + (BUTTON) Vous êtes étudiant
-            (BUTTON) Fermer Europe & International Vous êtes étudiant
-               o Faire une thèse à INRAE
-               o Offres de bourses
-               o Les centres INRAE
-               o Trouver une unité
-          + (BUTTON) Vous êtes chercheur
-            (BUTTON) Fermer Europe & International Vous êtes chercheur
-               o Collaborations
-               o Des infrastructures de recherche ouvertes
-               o Une expertise internationale
-               o Nos Métaprogrammes
-          + (BUTTON) INRAE à l'Europe
-            (BUTTON) Fermer Europe & International INRAE à l'Europe
-               o Notre stratégie
-               o Etoiles de l'Europe
-               o Nos lauréats ERC
-               o Agenda européen
-          + (BUTTON) INRAE à l'International
-            (BUTTON) Fermer Europe & International INRAE à l'International
-               o Notre actualité internationale
-               o Nos scientifiques reconnus mondialement
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
 
-     * LinkedIn
-     * Facebook
-     * BlueSky
-     * Instagram
-     * YouTube
-     * X
-     * Podcasts
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
 
-     * Jobs
-     * Presse
-     * Annuaire
-     * Intranet
-     * Médiathèque
-     * Kiosque
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Historique de la sélection végétale
+     * 2 Domestication
+     * 3 Sélection
+       (BUTTON) Afficher / masquer la sous-section Sélection
+          + 3.1 Objectifs
+          + 3.2 Schéma de sélection
+          + 3.3 La biodiversité, une notion primordiale pour la sélection
+            végétale
+          + 3.4 Protection légale des obtentions
+     * 4 Méthodes
+       (BUTTON) Afficher / masquer la sous-section Méthodes
+          + 4.1 La sélection massale
+          + 4.2 La sélection récurrente
+          + 4.3 La sélection généalogique
+          + 4.4 La méthode Bulk
+          + 4.5 La sélection par filiation monograine ou « Single Seed
+            Descent (SSD) »
+          + 4.6 Amélioration des lignées existantes
+               o 4.6.1 Rétrocroisement
+                    # 4.6.1.1 La génétique du rétrocroisement
+               o 4.6.2 Manipulations génétiques
+          + 4.7 Hybridation de première génération
+     * 5 Notes et références
+     * 6 Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 6.1 Articles connexes
+          + 6.2 Bibliographie
+          + 6.3 Liens externes
+
+   [ ] Basculer la table des matières
+
+Culture sélective des plantes
+
+   [ ] 45 langues
+     * Afrikaans
+     * العربية
+     * Asturianu
+     * Azərbaycanca
+     * Català
+     * کوردی
+     * Čeština
+     * Dansk
+     * Deutsch
+     * English
+     * Esperanto
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Frysk
+     * Gaeilge
+     * Galego
+     * Hausa
+     * हिन्दी
+     * Hrvatski
+     * Հայերեն
+     * Bahasa Indonesia
+     * 日本語
+     * Қазақша
+     * 한국어
+     * Latviešu
+     * മലയാളം
+     * Nederlands
+     * Norsk bokmål
+     * ਪੰਜਾਬੀ
+     * Polski
+     * Português
+     * Русский
+     * සිංහල
+     * Simple English
+     * Српски / srpski
+     * Svenska
+     * தமிழ்
+     * Türkçe
+     * Українська
+     * Oʻzbekcha / ўзбекча
+     * Tiếng Việt
+     * 中文
+     * 粵語
+
+   Modifier les liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Wikimedia Commons
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+
+   La culture sélective des plantes, ou sélection végétale ou amélioration
+   des plantes, est le processus par lequel l'être humain modifie une
+   espèce végétale^[1]. Cette sélection peut avoir différents buts, dont
+   l'adaptation à un usage agricole ou l'élaboration de variétés
+   décoratives pour l'horticulture. Les critères visés sont divers et
+   dépendent de l'utilisation finale de l'espèce ciblée; du point de vue
+   agronomique il s'agit généralement d'améliorer la productivité, de
+   modifier le goût, les qualités nutritionnelles, l'apparence ou encore
+   la résistance aux maladies et aux insectes ravageurs…
+
+   La sélection des végétaux est une pratique apparue il y a environ
+   10 000 ans, simultanément à la domestication des espèces végétales, les
+   premiers agriculteurs cueillant les graines des plantes semblant les
+   plus intéressantes pour eux, et semant d'une année sur l'autre les
+   semences issues des plus « belles » plantes.
+
+Historique de la sélection végétale
+
+   [modifier | modifier le code]
+   Cette section ne cite pas suffisamment ses sources (novembre 2019).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   La première sélection remonte à 10 000 ans avec la domestication.
+   L'homme a toujours utilisé, sans même s'en rendre compte, la sélection
+   massale. Par la suite, divers travaux ont fait considérablement avancer
+   les choses :
+     * 1676 : découverte du rôle des organes reproducteurs ;
+     * 1845 : premier travaux sur l’hybridation du maïs par Henri Lecoq ;
+     * 1863 : premières hybridations entre espèces par Charles Naudin ;
+     * 1865 : début de la sélection généalogique grâce à Louis l’Evêque
+       (Louis de Vilmorin) en démontrant l’intérêt de la sélection sur la
+       descendance de la betterave ;
+     * 1866 : lois de Mendel ;
+     * 1902 : découverte de la totipotence des cellules par Gottlieb
+       Haberlandt ;
+     * 1908 : base de la sélection des hybrides sur maïs par Shull ;
+     * 1912 : première sélection de blé par la méthode Bulk par Nilsson ;
+     * 1933 : premières variétés de maïs hybride sont cultivées aux
+       États-Unis ;
+     * 1935 : première carte génétique de certains gènes du maïs par
+       Emerson ;
+     * 1939 : nouvelle méthode, SSD (single seed descent), appliquée sur
+       le blé par Golden ;
+     * 1950 : technique de la culture in vitro (multiplication végétative
+       sur la pomme de terre par Morel et Martin) ;
+     * 1953 : Watson et Crick arrivent à décrire la structure de l’ADN ;
+     * 1970 : Prix Nobel de la paix pour Norman Borlaug, père de la
+       Révolution verte pour ses travaux sur les variétés semi-naines de
+       blé
+     * 1975 : premier hybride de tournesol obtenu par stérilité mâle
+       génétique ;
+     * 1977 : découverte du transfert de gène sur bactérie par Joseph
+       Schell ;
+     * 1983 : développement de la PCR par Kary Mullis, première plante
+       transgénique obtenue à partir du tabac grâce à des équipes belge et
+       américaine ;
+     * 1985 : première variété de blé issue de la technique
+       d’haplodiploïdation ;
+     * 2000 : séquençage du génome sur une brassicacée (arabidopsis
+       thaliana) ;
+     * 2002 : séquençage du génome du riz.
+
+Domestication
+
+   [modifier | modifier le code]
+   Article détaillé : Domestication des plantes.
+
+   La domestication des plantes est un processus de sélection artificielle
+   menée par l'homme afin d'accentuer certains caractères intéressants et
+   d'en amoindrir d'autres, non-désirés et présents chez les plantes
+   sauvages. Il a été estimé que cette pratique date d'entre 9 000 à
+   11 000 ans. Beaucoup de plantes cultivées aujourd'hui sont le résultat
+   de la domestication effectuée il y a 5 000 ans dans l'Ancien Monde et
+   il y a 3 000 ans dans le Nouveau Monde. Aujourd'hui, la plupart de
+   notre alimentation provient de variétés domestiquées^[2]. .
+
+   Une variété cultivée de plante qui a évolué par rapport aux populations
+   sauvages à cause des pressions sélectives des cultivateurs
+   traditionnels est appelée cultivar. Les cultivars, qui peuvent être le
+   résultat des conditions naturelles (écotypes) ou de la domestication,
+   sont des plantes qui conviennent particulièrement à une région ou à un
+   environnement donné : par exemple parmi les différents cultivars du
+   riz, la sous-espèce Oryza sativa indica, qui a été développée en Asie
+   méridionale, alors que la sous-espèce Oryza sativa japonica a été
+   développée en Chine.
+   Les espèces cultivées dont il n'existe pas d'homologues sauvages sont
+   appelées cultigènes.
+
+   Les notions proches de celle de cultivar sont pour les animaux les
+   sous-espèces, variétés et races.
+
+Sélection
+
+   [modifier | modifier le code]
+   [250px-Wheat_selection_k10183-1.jpg] Sélections de plants de blé
+
+   L'amélioration des plantes se fait généralement par sélection ainsi que
+   par le croisement éventuel de différentes variétés, suivie de
+   sélections. Le patrimoine génétique des espèces sélectionnées se
+   retrouve donc dans la variété créée, qui peut combiner des avantages de
+   ses différents « ancêtres ». Ce processus de sélection est long (il
+   faut plusieurs années pour élaborer une nouvelle variété). Il nécessite
+   aussi de disposer d'une importante « bibliothèque » de variétés ; en
+   particulier les variétés sauvages peuvent apporter des solutions à
+   l'apparition de nouvelles maladies, c'est pourquoi il est primordial de
+   conserver cette biodiversité^[3].
+
+   La sélection des plantes peut se faire de façon très structurée, mais a
+   existé ou existe toujours aussi de façon informelle.
+
+Objectifs
+
+   [modifier | modifier le code]
+
+   Un programme de sélection méthodique et raisonné vise en général à
+   améliorer une variété pour des objectifs donnés. Il permet de
+   caractériser la variété idéale, l'idéotype, que les sélectionneurs
+   souhaitent créer. La définition des objectifs est donc un point crucial
+   dans les programmes de sélection. Une fois les objectifs définis, le
+   programme se déroule sur plusieurs années, de 7 à 25 ans, période
+   durant laquelle l'équipe qui réalise ce programme devra poursuivre les
+   mêmes objectifs^[3].
+
+Schéma de sélection
+
+   [modifier | modifier le code]
+
+   Le sélectionneur part des variétés existantes et de sa connaissance de
+   leurs caractéristiques. Il existe deux grands types de végétaux, les
+   plantes autogames, qui sont autofécondes et les plantes allogames, à
+   fécondation croisée. De nombreuses espèces (comme le colza) ont des
+   régimes de reproduction intermédiaires, ou dits mixtes (taux
+   d'allofécondation compris entre 10 et 90 %) et les espèces dites
+   autogames ont en général un taux d'allofécondation non nul (0,5 % < t <
+   10 %). Ces modes de reproduction conduisent à des schémas de sélection
+   différents qui produiront l'un de ces types variétaux : lignée pure,
+   hybride F1 ou variété population^[3].
+
+La biodiversité, une notion primordiale pour la sélection végétale
+
+   [modifier | modifier le code]
+   Cette section ne cite pas suffisamment ses sources (novembre 2019).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   La biodiversité est essentielle pour le sélectionneur et la baisse de
+   la diversité au niveau des espèces cultivées est un problème
+   d'actualité. Garder d'anciennes espèces permet par exemple d'utiliser
+   un caractère que l'on avait jugé inintéressant jadis, mais qui devient
+   désirable à la suite des évolutions de l'agriculture. De plus, croiser
+   une lignée pure (appauvrie génétiquement) avec une ancienne variété
+   permet de redonner de la vigueur à la plante (c'est l'effet hétérosis).
+   Pour limiter le phénomène d'appauvrissement lié à la sélection
+   végétale, il faut conserver un maximum de variétés. Deux solutions sont
+   possibles :
+     * la conservation in situ (au champ, dans des réserves, afin de
+       conserver les plantes dans le milieu naturel). Mais avec cette
+       méthode les populations de plantes peuvent évoluer rapidement,
+       surtout s'il s'agit d'espèces à fécondation croisée ;
+     * la conservation ex situ (banques de gènes avec des collections de
+       graines, des cultures de tissus…). Les variétés conservées doivent
+       être renouvelées régulièrement pour que les plantes restent
+       viables. Cette méthode permet d'obtenir une meilleure stabilité des
+       populations conservées par rapport au type initial.
+
+   Article détaillé : Sélection conservatrice.
+
+Protection légale des obtentions
+
+   [modifier | modifier le code]
+   Cette section ne cite pas suffisamment ses sources (novembre 2019).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   Afin de protéger les droits de l'obtenteur et lui permettre de financer
+   de nouvelles recherches, l'obtention d'une nouvelle variété peut être
+   protégée de la copie sans versement de droits par un certificat
+   d'obtention végétale.
+
+Méthodes
+
+   [modifier | modifier le code]
+
+   Selon les objectifs recherchés, il y a différents types de sélection.
+   Ceux-ci se complètent bien souvent.
+
+La sélection massale
+
+   [modifier | modifier le code]
+
+   C'est la plus ancienne. C'est une méthode simple et peu coûteuse : on
+   choisit les plantes qui semblent les plus intéressantes dans une
+   population (meilleurs épis, meilleurs fruits, etc.), puis on utilise
+   leurs graines comme semence pour la culture suivante. Ceci est fait de
+   génération en génération ce qui permet d'augmenter la valeur moyenne de
+   la population. La sélection massale ne peut s'appliquer dans toutes les
+   situations (exemple : expérience de Johannsen en 1903). D'autres
+   limites sont plus évidentes : si le caractère souhaité ne s'extériorise
+   pas chez la plante ou que le caractère est peu héritable, cette
+   sélection ne fonctionne pas. Entre deux étapes de sélection, les
+   recombinaisons génétiques se font naturellement, sans aucun contrôle
+   humain. Les plantes sélectionnées présentent par conséquent une
+   certaine hétérogénéité: elles ne sont ni strictement identiques à
+   celles de la génération précédente, ni strictement identiques entre
+   elles. Elles ne constituent donc pas une variété^[4] au sens de la
+   définition de l'UPOV.
+
+La sélection récurrente
+
+   [modifier | modifier le code]
+
+   Avant Louis de Vilmorin, la sélection était essentiellement entre
+   populations^[5], l'unité de sélection était la population ; ce sont les
+   meilleures populations qui étaient commercialisées ou échangées entre
+   agriculteurs ; il y avait bien une sélection à l'intérieur des
+   populations (cas du maïs, avec les foires aux plus beaux épis aux USA),
+   mais elle ne pouvait pas être très efficace^[3].
+
+   En 1859, Louis de Vilmorin a introduit la sélection au niveau
+   individuel (intrapopulation), avec la notion de test de descendance qui
+   chez les céréales autogames a conduit très vite à une purification des
+   populations par la création de variétés lignées pures (démonstration
+   claire faite plus tard par Johanssen, 1903, chez le haricot). Il
+   fallait donc croiser entre elles les meilleures lignées pour régénérer
+   de la variabilité génétique et réunir dans un même génotype des
+   caractères présents dans des génotypes différents, d'où la sélection
+   généalogique à partir de croisements (introduite en fait par Henry de
+   Vilmorin, fils de Louis). Des lignées complémentaires sont croisées
+   entre elles, et par sélection au cours des générations
+   d’autofécondation, on espère isoler de nouvelles lignées
+   transgressives, c’est-à-dire ayant réuni plus de gènes favorables que
+   le meilleur des deux parents. Le grand nombre de gènes favorables à
+   réunir fait que cela ne peut se faire que progressivement, d’où la
+   continuité observée du progrès génétique pour les caractères complexes
+   (polygéniques).
+
+   L'amélioration récurrente d'une population est la répétition (d'où
+   l'adjectif récurrente) de cycles de sélection suivie d'une
+   recombinaison génétique de la descendance des meilleures plantes ou
+   meilleures lignées (donc le terme de « sélection récurrente » est
+   presque impropre puisqu'il oublie la moitié du processus). La
+   « sélection récurrente » n'est pas une sorte de sélection massale ou de
+   sélection généalogique ou autre, car l'étape de sélection peut utiliser
+   la sélection massale ou la sélection généalogique éventuellement
+   précédée par une fixation par descendances successives
+   mono-graines^[6]. Souvent la sélection récurrente est présentée comme
+   une autre possibilité que la sélection généalogique, mais cette
+   opposition est erronée comme expliqué précédemment). Le plus simple est
+   de dire qu'une population (qui sera améliorée par des cycles récurrents
+   de sélection-recombinaison génétique) remplace une ou, de fait,
+   plusieurs populations F2 (issues du croisement de deux parents
+   homozygotes). La différence fondamentale qui distingue une population
+   dite « récurrente » (facilité de langage pour indiquer qu'elle sera
+   améliorée par processus récurrent) et une population F2 est que la
+   seconde ne sera pas améliorée et disparaîtra du schéma d'amélioration
+   génétique suivi dès l'extraction de lignées F3. Cette différence est
+   fondamentale car elle conduit à des modes de sélection (pression de
+   sélection et effectif retenu) très différents.
+
+   L'amélioration populationnelle récurrente est la méthode de choix pour
+   travailler sur des caractères dont le déterminisme génétique est
+   polygénique et/ou sur une série de caractères (même monogéniques) dont
+   l'ensemble est polygénique. Autrement dit, l'amélioration
+   populationnelle récurrente est la toujours la meilleure méthode^[7]
+
+   La sélection récurrente consiste d’abord à remplacer la population F2
+   (issue du croisement de deux parents et d’une autofécondation de la F1,
+   cas d’une espèce autogame) ou S1 (issue du croisement de deux parents
+   et d’une allofécondation de la S0, cas d’une espèce allogame) par une
+   population récurrente. Cette population est issue du croisement de plus
+   de deux parents (depuis 4, pour une population récurrente à base
+   génétique étroite, à plusieurs dizaines pour une population récurrente
+   à base génétique large). Un gène de stérilité male est en général
+   utilisé pour que les fécondations croisées se fassent spontanément au
+   champ (donc non contrôlées) et non manuellement. Une sélection massale
+   ou généalogique (souvent sur lignées de demi-frères descendant de la
+   récolte de plantes mâle-stériles) est effectuée dans cette population
+   et les descendances des plantes ou lignées sélectionnées sont semées et
+   recombinées par récolte des plantes male-stériles, ceci pour
+   l’amélioration récurrente de la population (cycles successifs de
+   sélection et de recombinaison). Par ailleurs, quelques descendances
+   entrent dans le processus de sélection-fixation pour l’obtention,
+   finalement, de variétés. Cette sélection-fixation peut se faire par
+   l’utilisation initiale de la sélection massale, ou la fixation par
+   haplo-diploïdisation ou par descendances unipares, puis, ou
+   directement, par sélection généalogique. Le terme de « sélection
+   récurrente » ne s’oppose donc pas à ceux de « sélection massale» ou
+   « généalogique », puisque la sélection récurrente peut être soit
+   généalogique, soit massale^[8].
+
+La sélection généalogique
+
+   [modifier | modifier le code]
+
+   La sélection généalogique aussi appelée autofécondation en filiation,
+   se caractérise par le fait que la sélection des lignées a lieu pendant
+   leur fixation à l'état homozygote. Ce type de sélection débute par le
+   croisement de deux plantes (parents) dont les caractères sont jugés
+   intéressants et complémentaires. Les plantes issues de ce croisement
+   sont hétérozygotes pour un grand nombre de gènes et présentent une
+   forte variabilité de phénotype. Elles sont autofécondées afin de
+   produire des plantes dont le niveau d'hétérozygotie est moins grand, au
+   sein desquelles le sélectionneur choisit les meilleurs individus. Le
+   cycle autofécondation-sélection est répété pendant 4 à 5 générations.
+   Les plantes issues de ce processus sont ensuite autofécondées et
+   testées pendant 4 générations afin de produire des lignées fixées^[3].
+
+   Une fois le croisement des deux parents de lignée pures et l’obtention
+   de l’hybride F1. La sélection généalogique revient à sélectionner,
+   stabiliser au fur et à mesure des années la variété par
+   autofécondation. La sélection est dite généalogique car les graines de
+   chaque plante choisie à une génération sont récoltées séparément pour
+   être ressemées l’année suivante en descendances individualisées. Lors
+   de cet étapes, et pour chaque nouvelle génération les graines ou
+   plantes ne présentant pas les caractères groupés des variétés parents
+   sont éliminées. Cette technique d’épuration à chaque génération
+   d’autofécondation permet de réunir plus de gènes favorables que le
+   meilleur des deux parents.
+
+   Cette méthode est imprécise du fait que la sélection est réalisée sur
+   des plantes qui présentent un taux d'hétérozygotie important, et elle
+   entraîne une perte rapide de variabilité génétique. C'est pourquoi elle
+   est très efficace pour des caractères très héritables, c'est-à-dire peu
+   influencés par le milieu, mais peu efficace pour les caractères peu
+   héritables.
+
+La méthode Bulk
+
+   [modifier | modifier le code]
+   Cette section ne cite pas suffisamment ses sources (novembre 2019).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   La méthode bulk (de l'anglais pour « volume » ou « en vrac ») est
+   également appelée sélection généalogique différée car dans cette
+   méthode, la sélection a lieu après fixation des lignées.
+
+   De même que pour la sélection généalogique, on croise deux parents
+   complémentaires ensuite autofécondées mais aucune sélection n'est
+   effectuée à ce niveau. Les autofécondations sans sélection sont
+   répétées sur 4 à 5 générations au total, ce qui permet d'obtenir des
+   lignées fixées. La sélection n'intervient qu'ensuite, selon un
+   processus analogue à celui utilisé en sélection généalogique si ce
+   n'est qu'il est appliqué à des lignées fixées^[9].
+
+   Cette méthode est peu coûteuse, permet d'étudier un grand nombre de
+   croisements, plus efficace que la sélection généalogique pour des
+   caractères peu héritables car la variabilité génétique diminue moins
+   vite mais il n'est pas exclu que des plantes potentiellement
+   intéressantes disparaissent naturellement pendant les étapes
+   d'autofécondation sans sélection, ce qui peut introduire un biais dans
+   le processus de sélection. Il est possible de combiner la méthode bulk
+   et la méthode généalogique.
+
+La sélection par filiation monograine ou « Single Seed Descent (SSD) »
+
+   [modifier | modifier le code]
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
+   ici pour en savoir plus.
+
+   L'article doit être débarrassé d'une partie de son jargon (juin 2023).
+
+   Sa qualité peut être largement améliorée en utilisant un vocabulaire
+   plus directement compréhensible.
+   Discutez des points à améliorer en page de discussion.
+
+   Cette méthode ressemble à la méthode bulk dans la mesure où la
+   sélection des lignées intervient après leur fixation. La différence
+   avec la méthode bulk réside dans le fait que l'on étudie ici la
+   descendance de graines prises individuellement à chaque étape
+   d'autofécondation.
+
+   De même que la méthode bulk, la sélection par filiation monograine
+   permet de limiter la perte de variabilité génétique, ce qui la rend
+   efficace pour des caractères peu héritables. L'avantage de la filiation
+   monograine par rapport à la méthode bulk est que le risque de biais par
+   sélection naturelle pendant les premières étapes de fixation des
+   lignées est limité. Cette méthode permet aussi de gagner du temps : il
+   n'est pas nécessaire d'attendre la maturité de toutes les graines d'une
+   plante puisqu'une seule graine suffit. La fixation génétique par
+   descendances successives mono-graines est moins coûteuse que la
+   fixation par obtention d’haploïdes doublés (en équipement, notamment).
+   Sa gestion est très simple et elle est aussi conduite en contre-saison.
+   Il n'y a aucun risque de perdre des descendances, cette la croyance
+   venant du nom de la méthode. Pratiquement, il est prélevé une panicule
+   ou un épis par du matériel à fixer. Ensuite, il est semé, par exemple,
+   5 graines (par sécurité sui perte due quelque plantes durant le cycle
+   de culture), le reste étant gardé comme sécurité (si perte totale lors
+   du cycle de culture). Donc pas de risque de perte de matériel avec
+   cette double sécurité « ceinture et bretelles ». Ensuite, une seule
+   panicule ou un seul épis est récolté sur chaque mini-ligne ou poquet de
+   5 graines et utilisé pour le cycle suivant. Toutes les panicules ou
+   tous les épis sont récoltés sur chaque mini-ligne ou poquet de 5
+   graines pour l'utilisation de la lignée en création variétale (Vales,
+   2021) [Vales M. 2021 Fijación genética de líneas (FGL).
+   Fitomejoramiento eficiente, Parte 1, Módulo 6, Versión 1.
+   https://tubedu.org/videos/watch/e44e78e6-caa6-4b5f-bfb9-6c8274f2a82a]
+   Documento pdf relacionado con este video: Parte 1 - Modulo 5 - v1 - FGL
+   https://cloud.degoo.com/share/1CJJJZlF8hQwCM-Vh0ZP_Q
+
+Amélioration des lignées existantes
+
+   [modifier | modifier le code]
+
+Rétrocroisement
+
+   [modifier | modifier le code]
+   Article détaillé : Rétrocroisement.
+
+   Un caractère intéressant, tel que la résistance aux maladies, la
+   tolérance au stress, la stérilité, l'amélioration de critères de
+   qualité, peut être présent dans une plante mais pas dans les lignées
+   élites à la base des variétés commerciales. Le sélectionneur va
+   chercher à créer une lignée identique à la lignée élite, mais possédant
+   en plus ce caractère. Pour obtenir ce résultat, le sélectionneur
+   procède par rétrocroisement, (en anglais back-cross).
+
+   Pour cela, il réalise une série d'hybridations entre la lignée
+   receveuse ou élite, et la lignée donneuse du caractère. Les descendants
+   sont ensuite croisés pendant plusieurs générations par la lignée
+   receveuse ou récurrente. Ceci permet d'augmenter la part de la lignée
+   élite dans le fonds génétique des descendants, tout en veillant à
+   conserver le caractère intéressant par élimination des individus
+   n'ayant pas le caractère désiré. Le résultat du rétrocroisement est
+   l'obtention d'une lignée convertie, c'est-à-dire quasiment identique à
+   la lignée élite receveuse, mais contenant en plus le caractère désiré.
+
+La génétique du rétrocroisement
+
+   [modifier | modifier le code]
+   Article détaillé : Rétrocroisement.
+
+   Les descendants issus du premier croisement possèdent 50 % du
+   patrimoine génétique de la lignée élite et 50 % du patrimoine du
+   donneur. Lors des back-cross suivants, la proportion du génotype élite
+   augmente, les individus obtenus au deuxième back-cross sont 75 % élite
+   et 25 % donneur. Au bout du 6^e back-cross, la part de la lignée élite
+   est de 98,44 %, on estime alors que la lignée obtenue est suffisamment
+   proche de la lignée élite. On tend vers l'obtention d'une lignée
+   isogénique, en ne différant de la lignée élite que par un seul gène.
+
+Manipulations génétiques
+
+   [modifier | modifier le code]
+   Articles détaillés : Transgénèse et Organisme génétiquement modifié.
+
+   Depuis quelques années, industriels et laboratoires réussissent à
+   contourner la sélection et le croisement en introduisant directement
+   des gènes jugés « intéressants » dans le patrimoine génétique de la
+   plante grâce à des techniques biomoléculaire de transgenèse et plus
+   récemment à des techniques dites d'édition génomique (Gene editing).
+   Ces techniques permettent d'élaborer des plantes présentant des
+   caractères « inédits », respectivement grâce à la possibilité
+   d'incorporer des gènes d'espèces totalement étrangères et à la
+   possibilité de modifier in situ le génome de l'organisme (en effectuant
+   des couper-collés de fragments d'ADN via des techniques de manipulation
+   du génome plus récemment développées pour arriver au même résultat mais
+   sans insérer de gènes étrangers. C'est ainsi que récemment des
+   entreprises ont pu créer des plantes tolérantes à des herbicides rien
+   qu'en manipulant leur génome^[10]^,^[11]. Des plantes dites
+   « transgéniques » peuvent être destinées à l'alimentation ou à produire
+   des molécules (à usage industriel, médical…). Les plantes génétiquement
+   modifiées sont controversées, notamment dans un contexte où le public
+   manque d'information objective.
+
+Hybridation de première génération
+
+   [modifier | modifier le code]
+   Cette section ne cite pas suffisamment ses sources (novembre 2019).
+   Pour l'améliorer, ajoutez des références de qualité et vérifiables
+   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
+   passages nécessitant une source.
+
+   L'hybridation en première génération ou hybride F1 est une technique
+   très répandue pour obtenir des semences et plants ayant des hautes
+   performances. On bénéficie ainsi de la vigueur hybride ou hétérosis,
+   ainsi que d'autres caractères éventuellement comme la stérilité des
+   produits^[réf. nécessaire]. Les plants obtenus ne sont pas dans ce cas
+   destiné à être employés à nouveau pour produire la génération suivante.
+   Il ne s'agit donc pas à proprement parler de culture sélective.
+
+Notes et références
+
+   [modifier | modifier le code]
+    1. ↑ Evolution des techniques de la génétique J.Marchadier 2010
+    2. ↑ Michel Pitrat, Claude Foury et Institut national de la recherche
+       agronomique (France), Histoires de légumes : des origines à l'orée
+       du XXIe siècle, Institut national de la recherche agronomique,
+       2003, 410 p. (ISBN 2-7380-1066-0 et 978-2-7380-1066-7,
+       OCLC 300968980, lire en ligne), p. 39-45.
+    3. ↑ ^a b c d et e Claire Doré et Fabrice Varoquaux, Histoire et
+       amélioration de cinquante plantes cultivées, Paris, Éditions Quae,
+       2006 (ISBN 978-2-7380-1215-9, BNF 40116495, présentation en ligne),
+       p. 21-51
+    4. ↑ Corn Breeding: Mass Selection - USDA
+    5. ↑ Colloque "Amélioration des plantes" - INRA - 2002
+    6. ↑ (en) Michel Vales, Joanna Dossmann, Diana Delgado, Myriam
+       Cristina Duque, « Parallel and interlaced recurrent selection
+       (PAIRS): Demonstration of the feasibility of implementing PAIRS to
+       improve complete and partial resistance to blast (Magnaporthe
+       grisea) and some other main traits in rice », Field Crops
+       Research,‎ volume 111, issues 1–2, 15 mars 2009, p. 173-178 (lire
+       en ligne)
+    7. ↑ (en) M. Vales, T. Anzoátegui, B. Huallpa & M. I. Cazon, « Review
+       on resistance to wheat blast disease (Magnaporthe oryzae Triticum)
+       from the breeder point-of-view: use of the experience on resistance
+       to rice blast disease », Euphytica,‎ 7 décembre 2017, p. 214, 1 p19
+       (lire en ligne Accès payant [PDF])
+    8. ↑ (en) Vales, M. J. 2009. Some innovations in rice recurrent
+       selection: The back recurrent selection (bcrs), the simplified and
+       efficient rice breeding method (serb), and the plant-parasite
+       reciprocal recurrent selection (2p2rs). Crop Protection.
+       (ISSN 0261-2194) DOI 10.1016/j.cropro.2009.10.019
+    9. ↑ « Pour en savoir plus sur la sélection Bulk », sur Université de
+       TOURS - GÉNET, 20 mai, 2010 (consulté le 22 juin 2023)
+   10. ↑ Seeds of change ; The European Union faces a fresh battle over
+       next-generation plant-breeding techniques, éditorial de la Revue
+       Nature, publié le 08 avril 2015, 520, 131–132 (en ligne 09 April
+       2015) ; Doi:10.1038/520131b
+   11. ↑ Expertise collective INRAE, « Les variétés végétales tolérantes
+       aux herbicides », sur INRAE, 2011 (consulté le 6 mai 2025)
+
+Voir aussi
+
+   [modifier | modifier le code]
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Élevage sélectif des animaux
+     * Sélection artificielle
+     * Sélection conservatrice
+     * Sélection naturelle
+     * Agent chimique d'hybridation
+     * Nouvelles techniques de sélection des plantes
+     * Histoire de la sélection végétale
+     * Sélection des fraisiers
+
+Bibliographie
+
+   [modifier | modifier le code]
+     * Comprendre l'amélioration des plantes. Enjeux, méthodes, objectifs
+       et critères de sélection, André Gallais, Quae, 2015,
+       (ISBN 978-2-7592-2346-6)
+     * (en) Agnès Ricroch, Surinder Chopra, Shelby J. Fleischer, Plant
+       Biotechnology. Experience and Future Prospects, Springer, 2014,
+       291 p. (lire en ligne)
+     * Claire Doré et Fabrice Varoquaux, Histoire et amélioration de
+       cinquante plantes cultivées, Paris, Éditions Quae, 2006
+       (ISBN 978-2-7380-1215-9, BNF 40116495, présentation en ligne),
+       p. 71-83
+     * Michel Pitrat, Claude Foury et Institut national de la recherche
+       agronomique (France), Histoires de légumes : des origines à l'orée
+       du XXIe siècle, Institut national de la recherche agronomique,
+       2003, 410 p. (ISBN 2-7380-1066-0 et 978-2-7380-1066-7,
+       OCLC 300968980, lire en ligne), p. 118
+     * André Gallais, Hubert et Bannerot, Amélioration des espèces
+       végétales cultivées Objectifs et critères de sélection, Paris,
+       Editions INRA, 1992 (ISBN 2-7380-0383-4, ISSN 1144-7605, lire en
+       ligne).
+
+Liens externes
+
+   [modifier | modifier le code]
+     * Amélioration des plantes pour l'adaptation aux milieux arides,
+       auteur(s) : Chalbi N., Demarly Y.
+     * Amélioration et Protection des plantes vivrières tropicales,
+       auteur(s) : Saint-Pierre C.-A., Demarly Y.
+     * Site pédagogique consacré à l'amélioration des plantes et aux
+       biotechs réalisé par Semae
+
+     * icône décorative Portail des plantes utiles
+     * icône décorative Portail de l'agriculture et de l'agronomie
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Culture_sélective_des_plan
+   tes&oldid=226500799 ».
+   Catégories :
+     * Agronomie
+     * Agriculture
+     * Génétique
+     * Hybride végétal
+     * Génétique des végétaux
+     * Domestication des plantes
+
+   Catégories cachées :
+     * Article manquant de références depuis novembre 2019
+     * Article manquant de références/Liste complète
+     * Article à déjargoniser
+     * Article à référence nécessaire
+     * Portail:Plantes utiles/Articles liés
+     * Portail:Botanique/Articles liés
+     * Portail:Biologie/Articles liés
+     * Portail:Agriculture et agronomie/Articles liés
+     * Projet:Biologie/Pages liées
+     * Portail:Sciences/Articles liés
+
+     * La dernière modification de cette page a été faite le 14 juin 2025
+       à 14:42.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
+     * Contact
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Basculer la table des matières
+   Culture sélective des plantes
+   (BUTTON) 45 langues Ajouter un sujet

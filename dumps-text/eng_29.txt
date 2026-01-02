@@ -1,17 +1,638 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 148544586
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:39 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Examples of dominant cultures
+       (BUTTON) Toggle Examples of dominant cultures subsection
+          + 1.1 United States
+     * 2 Interactions between dominant culture and co-culture
+       (BUTTON) Toggle Interactions between dominant culture and
+       co-culture subsection
+          + 2.1 LGBTQ+ Community
+          + 2.2 Women
+          + 2.3 Black and African American community
+     * 3 See also
+       (BUTTON) Toggle See also subsection
+          + 3.1 References
+
+   [ ] Toggle the table of contents
+
+Dominant culture
+
+   [ ] 6 languages
+     * العربية
+     * فارسی
+     * Português
+     * Русский
+     * کوردی
+     * Українська
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Sociological term for a cultural phenomenon
+   See also: Cultural homogenization
+   Globe icon.
+   The examples and perspective in this article may not represent a
+   worldwide view of the subject. You may improve this article, discuss
+   the issue on the talk page, or create a new article, as appropriate.
+   (April 2018) (Learn how and when to remove this message)
+
+   A dominant culture is a cultural practice within a particular
+   political, social or economic entity, in which multiple cultures
+   co-exist. It may refer to a language, religion or ritual practices,
+   social value and/or social custom. These features are often a norm for
+   an entire society. An individual achieves dominance by being perceived
+   as belonging to that majority culture, which has a significant presence
+   in institutions related to communication, education, artistic
+   expression, law, government and business.^[1] The concept of "dominant
+   culture" is generally used in academic discourse in communication,
+   sociology, anthropology and cultural studies.^[2]
+
+   In a society, culture is established and directed by the individuals
+   with most power (hegemony).^[3] In a culture, a group of people that
+   have the ability to hold power over social institutions and influence
+   the rest of the society's beliefs and actions is considered dominant. A
+   dominant culture is established in a society by a group of individuals
+   that direct the ruling ideas, values, and beliefs that become the
+   dominant worldview of a society. Individuals from the dominant culture
+   spread their dominant ideologies through institutions such as
+   education, religion, and politics. A dominant culture makes use of
+   media and laws to spread their ideologies as well.^[4] Furthermore, a
+   dominant culture can be promoted deliberately and by the suppression of
+   minority cultures or subcultures.^[1]
+
+   The culture that is dominant within a particular geopolitical entity
+   can change over time in response to internal or external factors, but
+   one is usually very resilient. Antonio Gramsci has written that the
+   masses are in the grip of a monolithic ruling class.^[citation needed]
+   However, the overall picture that Gramsci provides is not a static,
+   closed system of ruling-class domination. Rather, he states that a
+   society is in constant process, where the creation of
+   counter-hegemonies remains a live option.^[1]
+
+   The concept of a dominant culture, or the concept of hegemony,
+   originated in Ancient Greece. Although Vladimir Lenin, a politician and
+   a political theorist, defined the concept as “Domination,” Gramsci
+   redefined it as “An intellectual and moral leadership directed by
+   contradictory political and, cultural agents and organizations.”^[This
+   quote needs a citation] He called these organizations “organic and
+   traditional intellectuals” which represented the interest of the
+   working class.^[5]
+
+Examples of dominant cultures
+
+   [edit]
+   [icon]
+   This section needs expansion. You can help by adding to it. (May 2024)
+
+United States
+
+   [edit]
+
+   In the United States, for example, a distinction is often made between
+   the indigenous culture of Native Americans, and a dominant culture that
+   may be described as "WASP", "Anglo", "white", "middle class", and so
+   on. Some Native Americans are seen as being part of the culture of
+   their own tribe, community, or family, while simultaneously
+   participating in the dominant culture of America as a whole.^[6] Also,
+   ethnic groups are said to exist in the United States in relation to a
+   dominant culture, generally seen as English-speaking, of European
+   ancestry, and Protestant Christian faith. Asian Americans,^[7]
+   Jews,^[8]^[9] African Americans,^[10] Latinos,^[11] and Deaf
+   people,^[12]^[13] among others, are seen as facing a choice to oppose,
+   be opposed by, assimilate into, acculturate (i.e. exist alongside), or
+   otherwise react to the dominant culture.
+
+Interactions between dominant culture and co-culture
+
+   [edit]
+
+   Co-culture consists of minority groups, or groups whose beliefs and
+   values differ from the dominant culture.^[14] In the United States,
+   minority groups such as LGBTQ+, women, and black or African American
+   members, for example, can experience negative effects resulting from
+   their interaction with the dominant culture.^[15]^[16] Minority groups
+   can be victims of stress produced by the dominant culture. Minority
+   stress can be described as the product that results from the
+   differences between the minority and dominant values. Furthermore,
+   minority stress is the outcome of the conflict that minority group
+   members experience with their social environment.^[17]
+
+LGBTQ+ Community
+
+   [edit]
+
+   Members from the LGBTQ+ community, that live in a heterosexist society,
+   are susceptible and inclined to suffer from chronic stress due to their
+   stigmatization. Minority stressors include internalized homophobia,
+   stigma and experiences of violence and discrimination.^[15]
+   Internalized homophobia can be described as an LGBTQ+ member's
+   disposition to societal negative attitudes towards the self while
+   stigma refers to an LGBTQ+ member's expectation of discrimination and
+   rejection.^[17]
+
+Women
+
+   [edit]
+
+   Women, as many other co-culture groups, are greatly affected by the
+   dominant culture that surround them. The dominant culture tend to
+   perceive women as less worthy of economic and educational
+   opportunities.^[18] Also, in many cultures, women are expected to
+   behave in a certain way and be responsible for tasks that men are not
+   as they are also subject to double standards.^[19] These interactions
+   can lead to unfavorable and negative effects on women. For example,
+   women can feel restricted from expressing freely, fighting for their
+   aspirations, and trying new activities.^[20]
+
+Black and African American community
+
+   [edit]
+   This article may be confusing or unclear to readers. Please help
+   clarify the article. There might be a discussion about this on the talk
+   page. (October 2023) (Learn how and when to remove this message)
+
+   Globally,^[where?] black or African American communities have been
+   affected by the dominant cultures. In different countries, in order for
+   black people to incorporate into the cultural hegemony, they were
+   frequently isolated from their own cultural group, or an attempt was
+   made to eradicate their culture completely. Many examples of cultural
+   alienation and annihilation can be found across black and African
+   American communities.^[21]^[22]
+
+See also
+
+   [edit]
+     * Cultural assimilation
+     * Dominant narrative
+     * Hegemony
+     * Ideal (ethics)
+     * Life stance
+     * Moral development
+     * Respectability politics
+     * Social integration
+
+References
+
+   [edit]
+    1. ^ ^a ^b ^c Lears, T. J. Jackson (1985). "The Concept of Cultural
+       Hegemony: Problems and Possibilities". The American Historical
+       Review. 90 (3): 567–593. doi:10.2307/1860957. JSTOR 1860957.
+    2. ^ Gordon Marshall (1998). A Dictionary of Sociology. Oxford
+       University Press.
+    3. ^ Johnson, Richard; Chambers, Deborah; Raghuram, Parvati;
+       Tincknell, Estella (2004-04-14). The Practice of Cultural Studies.
+       SAGE. ISBN 978-1-84860-514-5.
+    4. ^ "Cultural Hegemony – What exactly has construct us?". Retrieved
+       2021-07-13.
+    5. ^ Kurtz, Donald V. (2001). "Hegemony: Anthropological Aspects".
+       International Encyclopedia of the Social & Behavioral Sciences.
+       pp. 747–749. doi:10.1016/B978-0-08-097086-8.12084-7.
+       ISBN 978-0-08-097087-5.
+    6. ^ Maria Falkenhagen and Inga K. Kelly (May 1974). "The Native
+       American in Juvenile Fiction: Teacher Perception of Stereotypes".
+       Journal of American Indian Education. 13 (2). Archived from the
+       original on 2015-01-20.
+    7. ^ Lisa Lowe (1996). Immigrant Acts: On Asian American Cultural
+       Politics. Duke University Press. ISBN 978-0-8223-1864-4.
+    8. ^ Lisa Lowe (review of book by Rabbi Meir Kahane) (2004-02-10).
+       "Why Be Jewish? Intermarriage, Assimilation, and Alienation". The
+       Jewish Eye. Archived from the original on 2019-03-26. Retrieved
+       2009-01-29.
+    9. ^ Shlomo Sharan (April 2004). "Assimilation, Normalcy and Jewish
+       Self-Hatred". NATIV Online. Archived from the original on
+       2008-12-03.
+   10. ^ Patricia S. Parker (August 2001). "African American Women
+       Executives' Leadership Communication within Dominant-Culture
+       Organizations: (Re)Conceptualizing Notions of Collaboration and
+       Instrumentality". Management Communication Quarterly. 15 (1).
+   11. ^ Penelope Bass (2009-01-29). "Culture and Controversy:The 'Otra
+       Voz' exhibit aims to create conversation". Archived from the
+       original on 2011-07-11.
+   12. ^ Joan B. Stone (1998). Ila Parasnis (ed.). Cultural and Language
+       Diversity and the Deaf Experience. Cambridge University Press.
+       ISBN 978-0-521-64565-2.
+   13. ^ Carla A. Halpern (1995). "Listening In on Deaf Culture".
+       Diversity and Distinction. Harvard University. Archived from the
+       original on 2013-10-06. Retrieved 2009-01-29.
+   14. ^ Hebdige, Dick (2013-10-08). Subculture. Routledge.
+       ISBN 978-1-136-49473-4.
+   15. ^ ^a ^b "Health Disparities and Stress" (PDF). www.apa.org.
+       Retrieved 2021-07-30.
+   16. ^ Kaholokula, Joseph Keawe‘aimoku; Iwane, Marcus K; Nacapoy, Andrea
+       H (May 2010). "Effects of Perceived Racism and Acculturation on
+       Hypertension in Native Hawaiians". Hawaii Medical Journal. 69 (5
+       suppl 2): 11–15. PMC 3158444. PMID 20544603.
+   17. ^ ^a ^b Meyer, Ilan H. (1995). "Minority Stress and Mental Health
+       in Gay Men". Journal of Health and Social Behavior. 36 (1): 38–56.
+       doi:10.2307/2137286. JSTOR 2137286. PMID 7738327.
+   18. ^ "Women as a Minority | Boundless Sociology".
+       courses.lumenlearning.com. Retrieved 2021-07-31.
+   19. ^ "Gender and Socialization | Introduction to Sociology".
+       courses.lumenlearning.com. Retrieved 2021-07-31.
+   20. ^ Andrews, Dr Shawn. "Council Post: How Culture Impacts Our Value
+       Of Women". Forbes. Retrieved 2021-07-31.
+   21. ^ Ng, J.; Nagayama Hall, G.C. (2011). "Cultural Influences on
+       Adolescent Development". Encyclopedia of Adolescence. pp. 44–51.
+       doi:10.1016/B978-0-12-373951-3.00047-8. ISBN 978-0-12-373951-3.
+   22. ^ "Bringing them home" (PDF). Australian Human Rights Commission.
+       May 26, 1997. Archived (PDF) from the original on 2013-06-23.
+       Retrieved July 30, 2021.
+
+     * v
+     * t
+     * e
+
+   Culture
+   Outline
+   Sciences
+     * Cultural anthropology
+     * Cultural astronomy
+     * Cultural ecology
+     * Cultural geography
+     * Cultural neuroscience
+     * Cultural studies
+     * Culturology
+     * Culture theory
+
+   Subfields
+
+     * Bioculture
+     * Cross-cultural studies
+          + Cross-cultural communication
+          + Cross-cultural leadership
+          + Cross-cultural psychiatry
+          + Cross-cultural psychology
+     * Cultural analytics
+     * Cultural economics
+     * Cultural entomology
+     * Cultural history
+     * Cultural mapping
+     * Cultural mediation
+     * Cultural psychology
+     * Cultural values
+     * Culturomics
+     * Intercultural learning
+     * Intercultural relations
+     * Philosophy of culture
+     * Popular culture studies
+     * Postcritique
+     * Semiotics of culture
+     * Sociology of culture
+     * Sound culture
+     * Theology of culture
+     * Transcultural nursing
+
+   Types
+
+     * Constructed culture
+     * Dominant culture
+     * Folk culture
+     * High culture
+     * Individualistic culture
+     * Legal culture
+     * Microculture
+     * Official culture
+     * Political culture
+          + Civic
+     * Popular culture
+          + Low culture
+          + Media culture
+          + Recombinant culture
+          + Remix culture
+          + Trash culture
+          + Urban
+     * Primitive culture
+     * Resistance through culture
+     * Subculture
+          + Alternative culture
+          + Counterculture
+          + Fandom
+          + Far-right subcultures
+          + Underground culture
+          + Youth subculture
+          + list
+     * Super culture
+     * Supporter Culture
+     * Vernacular culture
+     * Culture by location
+
+   Aspects
+
+     * Acculturation
+     * Cultural appreciation
+     * Cultural appropriation
+     * Cultural area
+     * Cultural artifact
+     * Cultural baggage
+     * Cultural bias
+     * Cultural capital
+          + Cross-cultural
+     * Cultural communication
+     * Cultural conflict
+     * Cultural cringe
+     * Cultural dissonance
+     * Cultural emphasis
+     * Cultural framework
+     * Cultural heritage
+          + Destroyed
+     * Cultural icon
+     * Cultural identity
+     * Cultural industry
+     * Cultural invention
+     * Cultural landscape
+     * Cultural learning
+     * Cultural leveling
+     * Cultural memory
+     * Cultural pluralism
+     * Cultural practice
+     * Cultural property
+     * Cultural reproduction
+     * Cultural system
+     * Cultural technology
+     * Cultural universal
+     * Cultureme
+     * Enculturation
+     * High- and low-context cultures
+     * High-trust and low-trust societies
+     * Interculturality
+     * Internet culture
+     * Manuscript culture
+     * Material culture
+     * Non-material culture
+     * Organizational culture
+          + Assessment culture
+          + Design culture
+          + Journalism culture
+     * Print culture
+     * Protoculture
+     * Relational mobility
+     * Safety culture
+     * Symbolic culture
+     * Technoculture
+     * Trans-cultural diffusion
+     * Transculturation
+     * Visual culture
+
+   Politics
+
+     * Colonial mentality
+     * Consumer capitalism
+     * Cross cultural sensitivity
+     * Cultural assimilation
+     * Cultural attaché
+     * Cultural backwardness
+     * Cultural Bolshevism
+     * Cultural conservatism
+     * Cultural contracts
+     * Cultural deprivation
+     * Cultural diplomacy
+     * Cultural environmentalism
+     * Cultural exception
+     * Cultural feminism
+     * Cultural genocide
+     * Cultural globalization
+     * Cultural hegemony
+     * Cultural imperialism
+     * Cultural intelligence
+     * Cultural liberalism
+     * Cultural nationalism
+     * Cultural pessimism
+     * Cultural policy
+     * Cultural racism
+     * Cultural radicalism
+     * Cultural retention
+     * Cultural Revolution
+     * Cultural rights
+     * Cultural safety
+     * Cultural silence
+     * Cultural subsidy
+     * Cultural Zionism
+     * Culture change
+     * Culture minister
+     * Culture of fear
+     * Culture war
+     * Deculturalization
+     * Dominator culture
+     * Interculturalism
+     * Monoculturalism
+     * Multiculturalism
+          + Biculturalism
+     * Multiracial democracy
+     * Pluriculturalism
+     * Polyculturalism
+     * Transculturism
+
+   Religions
+
+     * Buddhism
+     * Christianity
+          + Catholicism
+          + Cultural Christians
+          + Protestantism
+          + Role of Christianity in civilization
+          + Eastern Orthodoxy
+          + Mormonism
+     * Cultural Hindus
+     * Islam
+          + Cultural Muslims
+     * Judaism
+     * Sikhism
+
+   Related
+
+     * Algorithmic culture
+     * Animal culture
+     * Archaeological culture
+     * Bennett scale
+     * Cannabis culture
+     * Circuit of culture
+     * Civilization
+     * Coffee culture
+     * Cringe culture
+     * Cross-cultural
+     * Cultural center
+     * Cultural competence
+     * Cultural critic
+     * Cultural determinism
+     * Cultural diversity
+     * Cultural evolutionism
+     * Cultural homogenization
+     * Cultural institution
+     * Cultural jet lag
+     * Cultural lag
+     * Cultural literacy
+     * Cultural mosaic
+     * Cultural movement
+     * Cultural mulatto
+     * Cultural probe
+     * Cultural relativism
+     * Cultural tourism
+          + Pop-culture
+     * Cultural translation
+     * Cultural turn
+     * Cultural sensibility
+     * Culture and menstruation
+     * Culture and positive psychology
+     * Culture and social cognition
+     * Culture gap
+     * Culture hero
+     * Culture industry
+     * Culture shock
+     * Culturgen
+     * Children's culture
+     * Culturalism
+     * Cyberculture
+     * Death and culture
+     * Disability culture
+          + Deaf culture
+     * Drinking culture
+     * Drug culture
+     * Eastern culture
+     * Emotions and culture
+     * Free-culture movement
+     * Historical culture
+     * Intercultural communication
+     * Intercultural competence
+     * Languaculture
+     * Living things in culture
+     * Media culture
+     * Oppositional culture
+     * Participatory culture
+     * Permission culture
+     * Rape culture
+     * Tea culture
+     * Transformation of culture
+     * Urban culture
+     * Welfare culture
+     * Western culture
+     * Youth culture
+
+     * Category
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Dominant_culture&oldid=1304
+   468977"
+
+   Categories:
+     * Cultural concepts
+     * Anthropology
+     * Cultural studies
+
+   Hidden categories:
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Articles with limited geographic scope from April 2018
+     * All articles with unsourced statements
+     * Articles with unsourced statements from May 2024
+     * Articles with unsourced quotes
+     * Articles to be expanded from May 2024
+     * All articles to be expanded
+     * Wikipedia articles needing clarification from October 2023
+     * All Wikipedia articles needing clarification
+     * Vague or ambiguous geographic scope from October 2023
+
+     * This page was last edited on 6 August 2025, at 06:40 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Dominant culture
+   (BUTTON) 6 languages Add topic

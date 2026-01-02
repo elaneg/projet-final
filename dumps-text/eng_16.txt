@@ -1,17 +1,591 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 120812963
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:37 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Terminology
+     * 2 See also
+     * 3 References
+
+   [ ] Toggle the table of contents
+
+Culture minister
+
+   [ ] 8 languages
+     * العربية
+     * Eesti
+     * Français
+     * Norsk bokmål
+     * Русский
+     * Svenska
+     * ไทย
+     * Українська
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Minister in a government with responsibility for cultural affairs
+   icon
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed.
+   Find sources: "Culture minister" – news · newspapers · books ·
+   scholar · JSTOR (June 2010) (Learn how and when to remove this message)
+
+   A culture minister or a heritage minister is a common cabinet position
+   in governments. The culture minister is typically responsible for
+   cultural policy, which often includes arts policy (direct and indirect
+   support to artists and arts organizations) and measures to protect the
+   national heritage of a country and cultural expression of a country or
+   subnational region. This responsibility usually manifests in the
+   accompanying ministry (also called a "department"), governing the
+   following:
+     * an official registry of protected historic sites and other sites of
+       cultural importance
+     * maintaining national archives of cultural work, including public
+       museums, galleries and libraries
+     * creating a department or ministry of culture or arts
+     * creating arts councils, which disburse funding to artists and arts
+       organization
+     * providing funding and other forms of support to artists and arts
+       institutions.^[1]
+
+   In some countries or subnational jurisdictions (e.g., provinces,
+   regions, Länder), the minister of culture may also be responsible for
+   sport, youth issues, or tourism (e.g., in Turkey). In a few cases, the
+   minister of culture is also responsible for foreign affairs (e.g., in
+   Scotland), education (e.g., Hungary, Iceland, Indonesia), science and
+   technology policy (e.g., Japan), communications/media (Singapore, UK),
+   or a geographical area associated with national heritage (e.g.,
+   Ireland).
+
+Terminology
+
+   [edit]
+
+   A culture minister may also be called a cultural minister, minister of
+   culture, minister of cultural affairs, minister of arts, minister of
+   heritage, secretary of culture or secretary of state of culture.
+
+See also
+
+   [edit]
+     * Ministry of Culture
+     * Ministry of Education and Culture
+     * Minister (government)
+
+References
+
+   [edit]
+   Wikimedia Commons has media related to Ministers of Culture.
+    1. ^ Mario d'Angelo, Paul Vesperini, Cultural Policies in Europe
+       (training series). Strasbourg: Council of Europe Publishing,
+       1998-2001
+
+     * v
+     * t
+     * e
+
+   Common types of government ministers and ministries
+   Leadership
+     * President
+     * Vice president
+     * Prime minister
+     * Deputy prime minister
+     * First minister
+     * Deputy First Minister
+     * Premier
+     * Office of the president
+     * Cabinet department / Office of the prime minister
+     * Speaker / President of the assembly
+     * Minister
+
+   Titles
+     * Secretary of state
+     * Minister of state
+     * Deputy minister
+     * Undersecretary
+     * Assistant minister/Parliamentary secretary
+     * Associate Minister
+
+   Defence /
+   foreign affairs /
+   public safety
+     * Ministry of defence
+     * Ministry of foreign affairs
+     * Immigration minister
+     * Interior minister
+          + Interior ministry
+     * International development minister
+     * Europe
+
+   Economics/
+   infrastructure
+     * Commerce minister
+     * Ministry of the economy
+     * Ministry of finance
+     * Minister of industry
+     * Ministry of infrastructure
+     * Ministry of trade and industry
+     * Ministry of transport
+
+   Environment /
+   natural resources
+     * Energy minister
+          + Ministry of energy
+     * Environment minister
+     * Ministry of electricity
+     * Ministry of petroleum
+     * Ministry of water resources
+
+   Social
+
+     * Culture minister
+          + Ministry of culture
+     * Education minister
+     * Ministry of education and culture
+     * Health minister
+          + Ministry of health
+     * Information minister
+     * Housing minister
+          + Ministry of housing
+     * Ministry of justice
+     * Minister of labour
+          + Ministry of labour
+     * Regional minister
+     * Ministry of sports
+     * Tourism minister
+     * Ministry of home affairs
+     * Ministry of religious affairs
+     * Ministry of science
+     * Ministry of social affairs
+     * Ministry of social security
+     * Minister for Veterans
+     * Ministry of women
+          + Minister for women
+     * Minister for men
+
+   Other
+
+     * Minister without portfolio
+
+   Lists
+
+     * Presidents
+     * Vice presidents
+     * Prime ministers
+     * Deputy prime ministers
+     * Presidents of assembly
+     * Agriculture ministries
+     * Climate change ministers
+     * Communications ministries
+     * Defence ministers
+     * Education ministries
+     * Environment ministers
+     * Environment ministries
+     * Finance ministers
+     * Foreign ministers
+     * Forest ministries
+     * Health ministries (mental health)
+     * Interior ministers
+     * Public works ministries
+
+     *  Government ministers by portfolio
+     * Ministries by portfolio
+
+     * v
+     * t
+     * e
+
+   Culture
+
+   Outline
+
+   Sciences
+
+     * Cultural anthropology
+     * Cultural astronomy
+     * Cultural ecology
+     * Cultural geography
+     * Cultural neuroscience
+     * Cultural studies
+     * Culturology
+     * Culture theory
+
+   Subfields
+
+     * Bioculture
+     * Cross-cultural studies
+          + Cross-cultural communication
+          + Cross-cultural leadership
+          + Cross-cultural psychiatry
+          + Cross-cultural psychology
+     * Cultural analytics
+     * Cultural economics
+     * Cultural entomology
+     * Cultural history
+     * Cultural mapping
+     * Cultural mediation
+     * Cultural psychology
+     * Cultural values
+     * Culturomics
+     * Intercultural learning
+     * Intercultural relations
+     * Philosophy of culture
+     * Popular culture studies
+     * Postcritique
+     * Semiotics of culture
+     * Sociology of culture
+     * Sound culture
+     * Theology of culture
+     * Transcultural nursing
+
+   Types
+
+     * Constructed culture
+     * Dominant culture
+     * Folk culture
+     * High culture
+     * Individualistic culture
+     * Legal culture
+     * Microculture
+     * Official culture
+     * Political culture
+          + Civic
+     * Popular culture
+          + Low culture
+          + Media culture
+          + Recombinant culture
+          + Remix culture
+          + Trash culture
+          + Urban
+     * Primitive culture
+     * Resistance through culture
+     * Subculture
+          + Alternative culture
+          + Counterculture
+          + Fandom
+          + Far-right subcultures
+          + Underground culture
+          + Youth subculture
+          + list
+     * Super culture
+     * Supporter Culture
+     * Vernacular culture
+     * Culture by location
+
+   Aspects
+
+     * Acculturation
+     * Cultural appreciation
+     * Cultural appropriation
+     * Cultural area
+     * Cultural artifact
+     * Cultural baggage
+     * Cultural bias
+     * Cultural capital
+          + Cross-cultural
+     * Cultural communication
+     * Cultural conflict
+     * Cultural cringe
+     * Cultural dissonance
+     * Cultural emphasis
+     * Cultural framework
+     * Cultural heritage
+          + Destroyed
+     * Cultural icon
+     * Cultural identity
+     * Cultural industry
+     * Cultural invention
+     * Cultural landscape
+     * Cultural learning
+     * Cultural leveling
+     * Cultural memory
+     * Cultural pluralism
+     * Cultural practice
+     * Cultural property
+     * Cultural reproduction
+     * Cultural system
+     * Cultural technology
+     * Cultural universal
+     * Cultureme
+     * Enculturation
+     * High- and low-context cultures
+     * High-trust and low-trust societies
+     * Interculturality
+     * Internet culture
+     * Manuscript culture
+     * Material culture
+     * Non-material culture
+     * Organizational culture
+          + Assessment culture
+          + Design culture
+          + Journalism culture
+     * Print culture
+     * Protoculture
+     * Relational mobility
+     * Safety culture
+     * Symbolic culture
+     * Technoculture
+     * Trans-cultural diffusion
+     * Transculturation
+     * Visual culture
+
+   Politics
+
+     * Colonial mentality
+     * Consumer capitalism
+     * Cross cultural sensitivity
+     * Cultural assimilation
+     * Cultural attaché
+     * Cultural backwardness
+     * Cultural Bolshevism
+     * Cultural conservatism
+     * Cultural contracts
+     * Cultural deprivation
+     * Cultural diplomacy
+     * Cultural environmentalism
+     * Cultural exception
+     * Cultural feminism
+     * Cultural genocide
+     * Cultural globalization
+     * Cultural hegemony
+     * Cultural imperialism
+     * Cultural intelligence
+     * Cultural liberalism
+     * Cultural nationalism
+     * Cultural pessimism
+     * Cultural policy
+     * Cultural racism
+     * Cultural radicalism
+     * Cultural retention
+     * Cultural Revolution
+     * Cultural rights
+     * Cultural safety
+     * Cultural silence
+     * Cultural subsidy
+     * Cultural Zionism
+     * Culture change
+     * Culture minister
+     * Culture of fear
+     * Culture war
+     * Deculturalization
+     * Dominator culture
+     * Interculturalism
+     * Monoculturalism
+     * Multiculturalism
+          + Biculturalism
+     * Multiracial democracy
+     * Pluriculturalism
+     * Polyculturalism
+     * Transculturism
+
+   Religions
+
+     * Buddhism
+     * Christianity
+          + Catholicism
+          + Cultural Christians
+          + Protestantism
+          + Role of Christianity in civilization
+          + Eastern Orthodoxy
+          + Mormonism
+     * Cultural Hindus
+     * Islam
+          + Cultural Muslims
+     * Judaism
+     * Sikhism
+
+   Related
+
+     * Algorithmic culture
+     * Animal culture
+     * Archaeological culture
+     * Bennett scale
+     * Cannabis culture
+     * Circuit of culture
+     * Civilization
+     * Coffee culture
+     * Cringe culture
+     * Cross-cultural
+     * Cultural center
+     * Cultural competence
+     * Cultural critic
+     * Cultural determinism
+     * Cultural diversity
+     * Cultural evolutionism
+     * Cultural homogenization
+     * Cultural institution
+     * Cultural jet lag
+     * Cultural lag
+     * Cultural literacy
+     * Cultural mosaic
+     * Cultural movement
+     * Cultural mulatto
+     * Cultural probe
+     * Cultural relativism
+     * Cultural tourism
+          + Pop-culture
+     * Cultural translation
+     * Cultural turn
+     * Cultural sensibility
+     * Culture and menstruation
+     * Culture and positive psychology
+     * Culture and social cognition
+     * Culture gap
+     * Culture hero
+     * Culture industry
+     * Culture shock
+     * Culturgen
+     * Children's culture
+     * Culturalism
+     * Cyberculture
+     * Death and culture
+     * Disability culture
+          + Deaf culture
+     * Drinking culture
+     * Drug culture
+     * Eastern culture
+     * Emotions and culture
+     * Free-culture movement
+     * Historical culture
+     * Intercultural communication
+     * Intercultural competence
+     * Languaculture
+     * Living things in culture
+     * Media culture
+     * Oppositional culture
+     * Participatory culture
+     * Permission culture
+     * Rape culture
+     * Tea culture
+     * Transformation of culture
+     * Urban culture
+     * Welfare culture
+     * Western culture
+     * Youth culture
+
+     * Category
+
+   Authority control databases: National Edit this at Wikidata
+     * Czech Republic
+     * Latvia
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Culture_minister&oldid=1297
+   941277"
+
+   Categories:
+     * Culture ministries
+     * Government ministers by portfolio
+
+   Hidden categories:
+     * Articles with short description
+     * Short description matches Wikidata
+     * Articles needing additional references from June 2010
+     * All articles needing additional references
+     * Commons category link is on Wikidata
+
+     * This page was last edited on 29 June 2025, at 14:04 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Culture minister
+   (BUTTON) 8 languages Add topic

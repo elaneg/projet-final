@@ -1,0 +1,107 @@
+     * 2 Types of microbial  | cultures | 
+       (BUTTON) Toggle Types of microbial cultures subsection
+          + 2.1 Prokaryotic  | culture | 
+          + 2.2 Viral  | culture | 
+          + 2.3 Eukaryotic cell  | culture | 
+     * 3  | Culture |  methods
+       (BUTTON) Toggle  | Culture |  methods subsection
+          + 3.1 Liquid  | cultures | 
+          + 3.5 Stab  | cultures | 
+          + 3.6 Solid plate  | culture |  of thermophilic microorganisms
+     * 4 Cell  | culture |  collections
+Microbiological  | culture | 
+   "Culture (biology)" redirects here. For other uses, see Cell culture,
+   Tissue culture, Microbial food  | cultures | , and Animal culture.
+   [250px-Microbial_cultures_fridge.JPG] Microbial cultures on solid and
+   A microbiological  | culture | , or microbial culture, is a method of
+   predetermined culture medium under controlled laboratory conditions.
+   Microbial cultures are foundational and basic diagnostic methods used
+   The term culture can also refer to the microorganisms being grown.
+   Microbial cultures are used to determine the type of organism, its
+   predetermined medium. For example, a throat culture is taken by
+   strep throat.^[1] Furthermore, the term culture is more generally used
+   It is often essential to isolate a pure culture of microorganisms. A
+   pure (or axenic) culture is a population of cells or multicellular
+   culture may originate from a single cell or single organism, in which
+   gelling the microbial  | culture | , the medium of agarose gel (agar) is
+   The first culture media was liquid media, designed by Louis Pasteur in
+   and purify  | cultures |  of microorganisms.
+Types of microbial  | cultures | 
+   [250px-Anthrax_culture.jpg] A  | culture |  of Bacillus anthracis
+Prokaryotic  | culture | 
+   are difficult to culture in a laboratory setting.^[4] To obtain a pure
+   prokaryotic culture, one must start the culture from a single cell or a
+   identical and will result in a pure  | culture | .
+Viral  | culture | 
+   Main article: Viral  | culture | 
+   Virus and phage cultures require host cells in which the virus or phage
+   multiply. For bacteriophages,  | cultures |  are grown by infecting bacterial
+   lawn of bacteria on a plate. Viral  | cultures |  are obtained from their
+   isolated in pure culture, it is necessary to preserve it in a viable
+   state for further study and use in  | cultures |  called stock cultures.
+   These cultures have to be maintained, such that there is no loss of
+Eukaryotic cell  | culture | 
+   Main article: Cell  | culture | 
+   Eukaryotic cell cultures provide a controlled environment for studying
+   cultures. The same is true for multicellular microscopic eukaryotes,
+   Although macroscopic eukaryotic organisms are too large to culture in a
+ | Culture |  methods
+   Liquid/broth cultures Organisms are inoculated into a flask of liquid
+   unknown organisms, assist in purifying cultures
+   Stab cultures Organisms are inoculated into a test tube of solid agar
+Liquid  | cultures | 
+   One method of microbiological  | culture |  is liquid culture, in which the
+   Liquid cultures are ideal for preparation of an antimicrobial assay in
+   [250px-Synechococcus_cyanobacteria- | cultures | .jpg] Liquid cultures of the
+   Static liquid cultures may be used as an alternative. These cultures
+   culture media are routinely used for various sources or purposes.
+   Microbiological cultures can be grown in petri dishes of differing
+   Celsius, or the human body temperature, for cultures from humans or
+   animals, or lower for environmental  | cultures | ). After the desired level
+   culture on multiple kinds of selective and differential media can
+   purify mixed cultures and reveal to scientists the characteristics
+   needed to identify unknown  | cultures | .
+   microorganisms in an effort to identify unknown cultures. An example of
+Stab  | cultures | 
+   Stab cultures are similar to agar plates, but are formed by solid agar
+   the punctured area.^[11] Stab  | cultures |  are most commonly used for
+   short-term storage or shipment of  | cultures | . Additionally, stab cultures
+Solid plate  | culture |  of thermophilic microorganisms
+   For solid plate  | cultures |  of thermophilic microorganisms such as
+Cell  | culture |  collections
+   Microbial culture collections focus on the acquisition, authentication,
+   cultures of standard reference microorganisms, cell lines and other
+   materials for research in microbial systematics.^[13]^[14] Culture
+   CAPTION: Major national  | culture |  collections.^[13]^[14]
+   ATCC American Type  | Culture |  Collection Manassas, Virginia
+   CCUG Culture Collection University of Gothenburg Gothenburg, Sweden
+   NCTC National Collection of Type  | Cultures |  Public Health England,
+   MTCC Microbial Type Culture Collection and Gene Bank Chandigarh, India
+     * Blood  | culture | 
+     * Microbial Food  | Cultures | 
+     * Screening  | cultures | 
+     * Sputum  | culture | 
+     * Synchronous  | culture | 
+    1. ^ Healthwise, Incorporated (2010-06-28). "Throat Culture". WebMD.
+       2020). "Bacterial  | culture |  through selective and non-selective
+       conditions: the evolution of  | culture |  media in clinical
+   11. ^ "Addgene: Streaking a Plate from an Addgene Stab Culture".
+   14. ^ ^a ^b Uruburu, F. (2003). "History and services of culture
+   Wikimedia Commons has media related to Microbiological cultures.
+       about production and uses of microbial cultures as well as
+     * Microbiological  | culture | 
+   and  | culture | 
+    | Cultures |  by body site
+     * Blood  | culture | 
+     * Genital  | culture | 
+     * Sputum  | culture | 
+     * Throat  | culture | 
+     * Urine  | culture | 
+     * Wound  | culture | 
+    | Cultures |  by organism
+     * Bacterial  | culture | 
+     * Fungal  | culture | 
+     * Viral  | culture | 
+     * Cell  | culture | 
+     *  | Culture |  collections
+   Microbiological  | culture | 

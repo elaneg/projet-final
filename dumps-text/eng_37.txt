@@ -1,17 +1,1325 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 140202902
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:41 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Exhibits and activities
+     * 2 Science Fiction Museum
+     * 3 Science Fiction and Fantasy Hall of Fame
+       (BUTTON) Toggle Science Fiction and Fantasy Hall of Fame subsection
+          + 3.1 Science Fiction and Fantasy Hall of Fame inductions
+               o 3.1.1 20th anniversary
+     * 4 Architecture
+     * 5 Finances
+     * 6 Founders Award
+     * 7 See also
+     * 8 References
+     * 9 External links
+
+   [ ] Toggle the table of contents
+
+Museum of Pop Culture
+
+   [ ] 16 languages
+     * العربية
+     * Čeština
+     * Deutsch
+     * Español
+     * Français
+     * 한국어
+     * Italiano
+     * Lëtzebuergesch
+     * Nederlands
+     * 日本語
+     * Norsk bokmål
+     * Norsk nynorsk
+     * Polski
+     * Português
+     * Українська
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Museum in Seattle, Washington
+   "MOPOP" redirects here. For the Canadian Intellectual Property Office
+   manual, see Manual of Patent Office Practice.
+
+   CAPTION: MOPOP
+
+   [250px-Museum_of_Pop_Culture_Logo.png]
+   [330px-EMPPano11.jpg]
+   View of MOPOP from Seattle Center with the monorail traveling through
+   it
+   Map
+   Established 2000; 26 years ago (2000)
+   Location 325 5th Avenue N
+   Seattle, Washington, U.S.
+   Coordinates 47°37′17″N 122°20′55″W﻿ / ﻿47.6215°N 122.3486°W﻿ / 47.6215;
+   -122.3486
+   Type Popular culture, music, science fiction, video games
+   Website mopop.org Edit this at Wikidata
+   [250px-Monorail_in_EMP.jpg] Monorail tracks going through the MOPOP
+   building
+
+   The Museum of Pop Culture (or MOPOP) is a nonprofit museum in Seattle,
+   Washington, United States, dedicated to contemporary popular culture.
+   It was founded by Microsoft co-founder Paul Allen in 2000 as the
+   Experience Music Project. Since then MOPOP has organized dozens of
+   exhibits, 17 of which have toured across the U.S. and internationally.
+
+   The museum—formerly known as Experience Music Project, Experience Music
+   Project and Science Fiction Museum and Hall of Fame (or EMP|SFM), and
+   later EMP Museum until November 2016—has initiated many public programs
+   including "Sound Off!", an annual 21-and-under battle-of-the-bands that
+   supports the all-ages scene; and "Pop Conference", an annual gathering
+   of academics, critics, musicians, and music buffs.
+
+   MOPOP, in collaboration with the Seattle International Film Festival
+   (SIFF), presents the Science Fiction and Fantasy Short Film Festival
+   which takes place every winter. Since 2007, the MOPOP celebrates
+   recording artists with the Founders Award for their noteworthy
+   contributions.
+
+Exhibits and activities
+
+   [edit]
+   [250px-Night_Exterior_EMP.jpg] Nighttime view of
+   MOPOP[250px-Guitar_Art_at_the_EMP.jpg] Guitar sculpture at MOPOP
+
+   MOPOP is home to numerous exhibits and interactive activity stations as
+   well as sound sculpture and various educational resources:
+     * A 140,000-square-foot (13,000 m^2) building, designed by Frank O.
+       Gehry, housing several galleries and the Sky Church, which features
+       a Barco C7 black package LED screen, one of the largest indoor LED
+       screens in the world.^[1]
+     * Exhibits covering pop culture, from the art of fantasy, horror
+       cinema, and video games to science fiction literature and costumes
+       from screen and stage.
+     * Interactive activities are included in galleries like Sound Lab and
+       On Stage where visitors can explore hands-on the tools of rock and
+       roll through instruments, and perform music before a virtual
+       audience.
+     * IF VI WAS IX, a guitar sculpture consisting of more than 500
+       musical instruments and 30 computers conceived by British exhibit
+       designer Neal Potter and developed by sound sculptor
+       Trimpin.^[2]^[3]
+     * The world's largest collection of artifacts, hand-written lyrics,
+       personal instruments, and original photographs celebrating the
+       music and history of Seattle musician Jimi Hendrix and the band
+       Nirvana.
+     * Educational resources including MOPOP's Curriculum Connections
+       in-museum workshops and outreach programs; STAR (Student Training
+       in Artistic Reach); Creativity Camps for Kids; Teen Artist
+       Workshops; Write Out of This World, an annual sci-fi and fantasy
+       short story contest for 3rd to 12th graders; and the Hip-Hop Artist
+       Residency.
+     * Public programs such as MOPOP's Science Fiction + Fantasy Short
+       Film Festival, Pop Conference, the Youth Advisory Board (YAB), and
+       Sound Off!, the Pacific Northwest's premier battle-of-the-bands.
+
+   MOPOP was also the location of the first NIME workshop's concert and
+   demo program. This subsequently became the annual International
+   Conference on New Interfaces for Musical Expression, a venue for
+   research on music technology.
+
+Science Fiction Museum
+
+   [edit]
+
+   The Science Fiction Museum and Hall of Fame was founded by Paul Allen
+   and his sister Jody Patton, and opened to the public on June 18, 2004.
+   It incorporated the Science Fiction and Fantasy Hall of Fame which had
+   been established in 1996. The museum was divided into several galleries
+   with themes such as "Homeworld", "Fantastic Voyages", "Brave New
+   Worlds", and "Them!", each displaying related memorabilia (movie props,
+   first editions, costumes, and models) in large display cases, posters,
+   and interactive displays. It was said about the museum that "From
+   robots to jet packs to space suits and ray guns, it's all here."^[4]
+
+   Members of the museum's advisory board included Steven Spielberg, Ray
+   Bradbury, James Cameron, and George Lucas. Among its collection of
+   artifacts were Captain Kirk's command chair from Star Trek, the B9
+   robot from Lost in Space, the Death Star model from Star Wars, the
+   T-800 Terminator and one of the domes from the film Silent Running.
+   Although the Science Fiction Museum as a permanent collection was
+   de-installed in March 2011, a new exhibit named Icons of Science
+   Fiction opened as a replacement in June 2012.^[5]^[6] At this time the
+   new Hall of Fame display was unveiled and the class of 2012
+   inducted.^[7]^[8]
+
+Science Fiction and Fantasy Hall of Fame
+
+   [edit]
+
+   The Science Fiction and Fantasy Hall of Fame was founded in 1996 by the
+   Kansas City Science Fiction and Fantasy Society and the Center for the
+   Study of Science Fiction (CSSF) at the University of Kansas (KU). The
+   chairmen were Keith Stokes (1996–2001) and Robin Wayne Bailey
+   (2002–2004). Only writers and editors were eligible for recognition and
+   four were inducted annually, two deceased and two living. Each class of
+   four was announced at Kansas City's annual science fiction convention,
+   ConQuesT, and inducted at the Campbell Conference hosted by
+   CSSF.^[9]^[10]
+
+   The Hall of Fame stopped inducting fantasy writers after 2004, when it
+   became part of the Science Fiction Museum affiliated with the Museum of
+   Pop Culture, under the name "Science Fiction Hall of Fame". Having
+   inducted 36 writers in nine years, the organization began to recognize
+   non-literary media in 2005.^[9] It retained the quota of four new
+   members and thus reduced the annual number of writers. The 2005 and
+   2006 press releases placed new members in "Literature", "Art", "Film,
+   Television and Media", and "Open" categories, one for each
+   category.^[11]^[12] In 2007 and 2008, the fourth inductee was placed in
+   one of the three substantial categories.^[13]^[14]
+
+   Nominations are submitted by the public, but the selections are made by
+   "award-winning science fiction authors, artists, editors, publishers,
+   and film professionals".^[15]
+
+   MOPOP restored the original name online during June 2013 and announced
+   five new members, one daily, beginning June 17, 2013. The first four
+   were cited largely or wholly for science fiction works, however the
+   final one was J.R.R. Tolkien, who was "hailed as the father of modern
+   fantasy literature".^[16]
+
+Science Fiction and Fantasy Hall of Fame inductions
+
+   [edit]
+
+   Sources:^[9]^[17]
+     * 1996: Jack Williamson; A. E. van Vogt; John W. Campbell, Jr.; Hugo
+       Gernsback
+     * 1997: Andre Norton; Arthur C. Clarke; H. G. Wells; Isaac Asimov
+     * 1998: Hal Clement; Frederik Pohl; C. L. Moore; Robert A. Heinlein
+     * 1999: Ray Bradbury; Robert Silverberg; Jules Verne; Abraham Merritt
+     * 2000: Poul Anderson; Gordon R. Dickson; Theodore Sturgeon; Eric
+       Frank Russell
+     * 2001: Jack Vance; Ursula K. Le Guin; Alfred Bester; Fritz Leiber
+     * 2002: Samuel R. Delany; Michael Moorcock; James Blish; Donald A.
+       Wollheim
+     * 2003: Wilson Tucker; Kate Wilhelm; Damon Knight; Edgar Rice
+       Burroughs
+     * 2004: Brian Aldiss; Harry Harrison; Mary Wollstonecraft Shelley; E.
+       E. "Doc" Smith
+     * 2005: Steven Spielberg; Philip K. Dick; Chesley Bonestell; Ray
+       Harryhausen^[11]
+     * 2006: George Lucas; Frank Herbert; Frank Kelly Freas; Anne
+       McCaffrey^[12]
+     * 2007: Ed Emshwiller; Gene Roddenberry; Ridley Scott; Gene
+       Wolfe^[13]
+     * 2008: Ian Ballantine and Betty Ballantine; William Gibson; Richard
+       M. Powers; Rod Serling^[14]
+     * 2009: Edward L. Ferman; Michael Whelan; Frank R. Paul; Connie
+       Willis^[18]
+     * 2010: Octavia E. Butler; Richard Matheson; Douglas Trumbull; Roger
+       Zelazny^[19]
+     * 2011: Vincent Di Fate; Gardner Dozois; Harlan Ellison; Jean
+       Giraud^[20]
+     * 2012: Joe Haldeman; James Tiptree, Jr.; James Cameron; Virgil
+       Finlay^[7]
+     * 2013: H. R. Giger; Judith Merril; Joanna Russ; David Bowie; J. R.
+       R. Tolkien^[16]
+     * 2014: Frank Frazetta; Hayao Miyazaki; Leigh Brackett; Olaf
+       Stapledon; Stanley Kubrick^[15]
+     * 2015: James E. Gunn; Georges Méliès; John Schoenherr; Kurt
+       Vonnegut; Jack Gaughan^[21]
+     * 2016: Terry Pratchett; Douglas Adams; Star Trek; Blade Runner^[22]
+     * 2017: J. K. Rowling; Stan Lee; The Legend of Zelda; Buffy the
+       Vampire Slayer^[23]^[24]
+     * 2018: Neil Gaiman; Vonda N. McIntyre; Doctor Who; Magic: The
+       Gathering^[25]
+     * 2020: Ted Chiang; D. C. Fontana; Star Wars; Watchmen^[26]
+     * 2021: Nichelle Nichols; Sigourney Weaver; Godzilla; A Trip to the
+       Moon^[27]
+     * 2023: John Carpenter; N. K. Jemisin; Dune; The Rocky Horror Picture
+       Show^[28]
+     * 2024: Nnedi Okorafor; Nicola Griffith; Black Panther; Dragon
+       Ball^[29]
+     * 2025: Tomi Adeyemi, Kim Mohan, Pokémon, The Wizard of Oz^[30]
+
+20th anniversary
+
+   [edit]
+
+   In 2016, the Hall of Fame's 20th anniversary year, the scope was
+   changed again to include not only creators, but creations (from such
+   genres as Cinema, Television and Games), with two examples. A total of
+   20 additional inductees in both categories were also
+   announced:^[31]^[22]
+     * Creators: Margaret Atwood; Keith David; Guillermo del Toro; Terry
+       Gilliam; Jim Henson; Jack Kirby; Madeleine L'Engle; C. S. Lewis; H.
+       P. Lovecraft; Leonard Nimoy; George Orwell; Rumiko Takahashi; John
+       Williams
+     * Works: 2001: A Space Odyssey; Dungeons & Dragons; The Matrix; Myst;
+       The Princess Bride; Wonder Woman; The X-Files
+
+   The class of 2023 brought the number of members to 109, which includes
+   the 20 additional inductees added in 2016.
+
+   In November 2016, the museum changed its name from the Experience Music
+   Project Museum to the Museum of Pop Culture, or MoPOP for short. In
+   2025, the museum rebranded to MOPOP in all caps.^[32]
+
+Architecture
+
+   [edit]
+   [250px-Skychurch2009.jpg]
+   The Sky Church
+   [250px-ExperienceMusicProject.jpg]
+   An exterior view of the building
+
+   MOPOP is located on the campus of Seattle Center, adjacent to the Space
+   Needle and the Seattle Center Monorail, which runs through the
+   building. The structure itself was designed by Frank Gehry and
+   resembles many of his firm's other works in its sheet-metal
+   construction, such as Guggenheim Museum Bilbao, Walt Disney Concert
+   Hall, and Gehry Tower. Much of the building material is exposed in the
+   building's interior. The building contains 140,000 square feet
+   (13,000 m^2), with a 35,000-square-foot (3,300 m^2) footprint. The name
+   of the museum's central Sky Church pays homage to Jimi Hendrix. A
+   concert venue capable of holding up to 800 guests, the last structural
+   steel beam to be put in place bears the signatures of all construction
+   workers who were on site on the day it was erected. Hoffman
+   Construction Company of Portland, Oregon, was the general contractor,
+   while Magnusson Klemencic Associates of Seattle were the structural
+   engineers for the project.^[33]
+   [250px-Aerial_view_of_EMPSFM.jpg] Design by Frank Gehry
+
+   Even before groundbreaking, the Seattle Weekly said the design could
+   refer to "the often quoted comparison to a smashed electric guitar."
+   Gehry himself had in fact made the comparison: "We started collecting
+   pictures of Stratocasters, bringing in guitar bodies, drawing on those
+   shapes in developing our ideas."^[34] The architecture was greeted by
+   Seattle residents with a mixture of acclaim for Gehry and derision for
+   this particular edifice. British-born, Seattle-based writer Jonathan
+   Raban remarked that "Frank Gehry has created some wonderful buildings,
+   like the Guggenheim Museum in Bilbao, but his Seattle effort, the
+   Experience Music Project, is not one of them."^[35] New York Times
+   architecture critic Herbert Muschamp described it as "something that
+   crawled out of the sea, rolled over, and died".^[36] Forbes magazine
+   called it one of the world's 10 ugliest buildings.^[36] Others describe
+   it as a "blob"^[37] or call it "The Hemorrhoids".^[35] Despite some
+   critical reviews of the structure, the building has been called "a
+   fitting backdrop for the world's largest collection of Jimi Hendrix
+   memorabilia."^[38] The building's exterior, which features a fusion of
+   textures and colors including gold, silver, deep red, blue and a
+   "shimmering purple haze",^[39] has been declared "an apt representation
+   of the American rock experience."^[40]
+
+Finances
+
+   [edit]
+
+   The museum has had mixed financial success.^[41]^[42] In an effort to
+   raise more funds, museum organizers used Allen's extensive art
+   collection to create a 2006 exhibit at the museum entitled DoubleTake:
+   From Monet to Lichtenstein.^[43] The exhibit included Roy
+   Lichtenstein's The Kiss (1962), Pierre-Auguste Renoir's The Reader
+   (1877), Vincent van Gogh's Orchard with Peach Trees in Blossom (1888),
+   Pablo Picasso's Four Bathers (1921) and several works of art from
+   Claude Monet including one of the Water Lilies paintings (1919) and The
+   Mula Palace (1908).^[44] Since then the museum has organized numerous
+   exhibitions focused more specifically on popular culture, such as Sound
+   and Vision: Artists Tell Their Stories, which opened February 28, 2007.
+   This brought together both music and science fiction in a single
+   exhibit, and drew on the museum's extensive collection of oral history
+   recordings.^[45] The museum's recent exhibitions have ranged from
+   horror cinema, video games, and black leather jackets to fantasy film
+   and literature.
+
+Founders Award
+
+   [edit]
+
+   Since 2007, the Museum of Pop Culture's Founders Award has celebrated
+   artists whose "noteworthy contributions continue to nurture the next
+   generation of risk-takers". The annual benefit gala is key in funding
+   the museum's educational programs, community engagement, and
+   exhibitions.^[46] In 2020, due to the COVID-19 pandemic, the gala had
+   to be cancelled and for the first time ever, the event was made free to
+   the public, streaming online on December 1, 2020, as MOPOP honored
+   Seattle's own Alice in Chains.^[47] The benefit streaming raised more
+   than $600,000 for MOPOP in its first night. A compilation featuring
+   highlights from the tribute was made available for streaming on Amazon
+   Music.^[48]
+
+   Recipients
+
+     * 2007: Ann & Nancy Wilson^[46]
+     * 2008: Robbie Robertson^[46]
+     * 2009: Steve Cropper^[46]
+     * 2010: Billy Cox^[46]
+     * 2011: Buddy Guy^[46]
+     * 2012: Carlos Santana^[46]
+     * 2013: Crosby, Stills & Nash^[46]
+     * 2014: Jackson Browne^[46]
+     * 2015: Jimmy Page^[46]
+     * 2016: Joe Walsh^[46]
+     * 2017: The Doors^[46]
+     * 2018: John Fogerty^[46]
+     * 2019: Brandi Carlile^[46]
+     * 2020: Alice in Chains^[47]
+     * 2022: Quincy Jones^[46]
+
+See also
+
+   [edit]
+     * List of music museums
+     * List of works by Frank Gehry
+
+References
+
+   [edit]
+    1. ^ Frank Hammel. "PLSN - Seattle's EMP Equipped with High-Res LED
+       Display for Sky Church Music Venue". plsn.com. Archived from the
+       original on September 29, 2013. Retrieved July 26, 2013.
+    2. ^ "Neal Potter Design - Masterplanning". Archived from the original
+       on October 20, 2013. Retrieved February 6, 2016. During 1997 Neal
+       worked alongside Frank Gehry Architects and the EMP curatorial team
+       to establish a masterplan for the attraction. The detail design was
+       undertaken locally. Originally called "The Collision Sculpture",
+       the point of collision of different genres of music to create rock
+       and roll. A living electronic sculpture as relevant today as it
+       might have been in 1955
+    3. ^ "If Vi Was Ix". Archived from the original on February 2, 2016.
+       Retrieved February 6, 2016. More than 500 musical instruments and
+       30 computers were used to create IF VI WAS IX. Created by
+       Seattle-based sound sculptor, Trimpin, IF VI WAS IX is equipped
+       with earphones that allow audiences to tune into the various
+       musical permutations performed.
+    4. ^ "Science Fiction Museum and Hall of Fame". Travel Guides:
+       Seattle. The New York Times. July 7, 2009. Archived July 7, 2009.
+       Retrieved 2013-04-27. Footer: "Content Provided by Frommer's
+       Unlimited. Excerpted from Frommer's Seattle 2009.
+    5. ^ Kareiva, Celina (January 19, 2012). "Coming to EMP: Hendrix,
+       AC/DC — and some leather, too". The Seattle Times. Retrieved
+       January 22, 2012.
+    6. ^ "Guide to EMP's 'Icons of Science Fiction'". CBS Seattle. May 22,
+       2012. Retrieved March 29, 2013.
+    7. ^ ^a ^b "Science Fiction Hall of Fame: EMP Museum Announces the
+       2012 Science Fiction Hall of Fame Inductees". EMP Museum
+       (empmuseum.org). Version 2011–2012 at Internet Archive. Archived
+       July 22, 2012. Retrieved 2013-03-19.
+    8. ^ "Science Fiction Hall of Fame". EMP Museum (empmuseum.org).
+       Archived May 31, 2013. Retrieved 2013-06-25.
+    9. ^ ^a ^b ^c "Science Fiction and Fantasy Hall of Fame" Archived May
+       21, 2013, at the Wayback Machine (official website to 2004).
+       Retrieved 2012-04-25.
+   10. ^ "Science Fiction and Fantasy Hall of Fame". 2005(?). Center for
+       the Study of Science Fiction (sfcenter.ku.edu). University of
+       Kansas. Retrieved June 25, 2013.
+   11. ^ ^a ^b "It's Official! Inductees Named for 2005 Hall of Fame
+       Class". Press release March 24, 2005. Science Fiction Museum
+       (sfhomeworld.org). Archived March 26, 2005. Retrieved 2013-03-22.
+   12. ^ ^a ^b "Presenting the 2006 Hall of Fame Inductees". Press release
+       March 15, 2006. Science Fiction Museum (sfhomeworld.org). Archived
+       April 26, 2006. Retrieved April 1, 2013.
+   13. ^ ^a ^b "Science Fiction Hall of Fame to Induct Ed Emshwiller, Gene
+       Roddenberry, Ridley Scott and Gene Wolfe". Press release
+       March/April/May 2007. Experience Music Project and Science Fiction
+       Museum and Hall of Fame (empsfm.org). Archived October 14, 2007.
+       Retrieved 2013-03-19.
+   14. ^ ^a ^b "2008 Science Fiction Hall of Fame Ceremony Tickets On Sale
+       May 15". Press release April/May 2008. Experience Music Project and
+       Science Fiction Museum and Hall of Fame (empsfm.org). Archived May
+       10, 2008. Retrieved 2013-03-19.
+   15. ^ ^a ^b "Science Fiction and Fantasy Hall of Fame" Archived
+       February 7, 2016, at the Wayback Machine. EMP Museum
+       (empmuseum.org). Retrieved June 27, 2014.
+   16. ^ ^a ^b "Science Fiction and Fantasy Hall of Fame". [June 17 to 21,
+       2013]. EMP Museum (empmuseum.org). Archived June 23, 2013.
+       Retrieved 2014-07-21.
+   17. ^ "Science Fiction Hall of Fame". Science Fiction Awards Database
+       (sfadb.com). Mark R. Kelly and the Locus Science Fiction
+       Foundation. Retrieved July 21, 2014.
+   18. ^ "EMP|SFM Announces its 2009 Science Fiction Hall of Fame
+       Inductions". Press release 2009(?). Experience Music Project and
+       Science Fiction Museum and Hall of Fame (empsfm.org). Archived
+       August 14, 2009. Retrieved 2013-03-19.
+   19. ^ "Science Fiction Hall of Fame". [Quote: "EMP|SFM is proud to
+       announce the 2010 Hall of Fame inductees: ..."]. Experience Music
+       Project and Science Fiction Museum and Hall of Fame (empsfm.org).
+       Archived March 25, 2010. Retrieved 2013-03-19.
+   20. ^ "Science Fiction Hall of Fame". [Quote: "EMP is proud to announce
+       the 2011 Hall of Fame inductees: ..."]. May/June/June 2011. EMP
+       Museum (empmuseum.org). Archived July 21, 2011. Retrieved
+       2013-03-19.
+   21. ^ "2015 SF&F Hall of Fame Inductees & James Gunn Fundraiser". June
+       12, 2015. Locus Science Fiction Foundation (locusmag.com).
+       Retrieved July 16, 2015.
+   22. ^ ^a ^b "2016 SF&F Hall of Fame Inductees". Locus. Locus SF
+       Foundation. January 17, 2017. Retrieved June 15, 2018.
+   23. ^ "Stan Lee and J.K. Rowling to Be Inducted into Science Fiction &
+       Fantasy Hall of Fame". ComicBook.com. Retrieved June 15, 2018.
+   24. ^ "Science Fiction and Fantasy Hall of Fame: 2017 Inductees".
+       MoPOP. Archived from the original on June 15, 2018. Retrieved June
+       15, 2018.
+   25. ^ "Science Fiction and Fantasy Hall of Fame Nominations Now Open".
+       MoPOP. April 10, 2020. Archived from the original on February 13,
+       2021. Retrieved February 2, 2021.
+   26. ^ "MoPOP Announces Its Next 'Science Fiction and Fantasy Hall of
+       Fame' Class". MoPOP. July 2020. Retrieved February 2, 2021.
+   27. ^ "MoPOP Announces 'Science Fiction + Fantasy Hall of Fame' Class
+       of 2021". MoPOP. January 3, 2022. Retrieved March 25, 2022.
+   28. ^ "MoPOP Announces 'Science Fiction + Fantasy Hall of Fame' Class
+       of 2023". June 29, 2023.
+   29. ^ "MoPOP's Science Fiction and Fantasy Hall of Fame Inductees
+       2024". July 31, 2024.
+   30. ^ "A Legacy in the Making". Retrieved November 5, 2025.
+   31. ^ "Science fiction Hall of Fame". SFE The Encyclopedia of Science
+       Fiction. Retrieved July 26, 2019.
+   32. ^ Daniels, Chris (November 15, 2016). "Experience Music Project
+       gets new name: MoPOP". KING5 News. Retrieved November 15, 2016.
+   33. ^ "Experience Music Project" (PDF). modernsteel.com. Archived from
+       the original (PDF) on November 13, 2013. Retrieved December 30,
+       2018.
+   34. ^ Downey, Roger (February 18, 1998). "Experience This!". Seattle
+       Weekly. Retrieved October 22, 2006. Archived May 13, 2013, at the
+       Wayback Machine
+   35. ^ ^a ^b Raban, Jonathan (April 4, 2004). "Deference to nature keeps
+       Seattle from becoming world-class city]". Seattle Times. Retrieved
+       November 24, 2006.
+   36. ^ ^a ^b Barnett, Erica C. (June 17, 2004). "EMPty: The Experience
+       Music Project is a flop on all fronts—financial, musical, and
+       intellectual". The Stranger. Retrieved November 24, 2006.
+   37. ^ Cheek, Lawrence W. (September 26, 2006). "On Architecture:
+       Corrugated steel is a nice wrinkle". Seattle Post-Intelligencer.
+       Archived from the original on January 20, 2012. Retrieved November
+       26, 2006.
+   38. ^ "Experience Music Project Review""Experience Music Project
+       Review". Seattle. Fodor's Travel Guides (fodors.com). Archived
+       2010-08-18. Retrieved 2013-04-27.
+   39. ^ Enlow, Clair (July 12, 2000). "Frank Gehry Rock Temple" Archived
+       July 24, 2008, at the Wayback Machine. Architecture Week 9.
+   40. ^ Skelton, Lauren (2008). "EMP: Experience Music Project".
+       Seattle.net. Archived 2010-06-15. Retrieved 2013-04-27.
+   41. ^ Cook, John (January 8, 2002). "Recent layoffs at local companies:
+       Experience Music Project" Archived April 22, 2020, at the Wayback
+       Machine. Seattle Post-Intelligencer. Retrieved October 22, 2006.
+       ^[dead link]
+   42. ^ Associated Press (March 22, 2005). "Experience Music Project
+       still struggling five years later". USA Today. Retrieved October
+       22, 2006.
+   43. ^ Farr, Sheila (November 29, 2005). "Paul Allen's Experience Art
+       Project" Archived May 24, 2011, at the Wayback Machine. Seattle
+       Times. Retrieved October 22, 2006.
+   44. ^ "Full List of Works Announced for Upcoming DoubleTake: From Monet
+       to Lichtenstein Exhibition". Press release. March 21, 2006.
+       Retrieved 2006-10-22.
+       . Press releases 2005/2006 (directory). Archived 2007-09-29.
+       Retrieved 2013-04-27. "Double Take". Archived from the original on
+       September 29, 2007. Retrieved September 29, 2007.
+   45. ^ • "The EMP|SFM Oral History Program". Programs / Oral History.
+       Experience Music Project and Science Fiction Museum (empsfm.org).
+       Archived 2007-09-21. Retrieved 2013-03-19.
+       • "The EMP|SFM Oral History Program". Programs / Oral History. EMP
+       Museum (empmuseum.org). Archived 2011-05-19. Retrieved 2013-03-19.
+   46. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l ^m ^n ^o "Founders Award".
+       MoPOP.org. Archived from the original on November 30, 2021.
+       Retrieved November 25, 2021.
+   47. ^ ^a ^b "MoPOP To Honor Alice in Chains With 2020 Founders Award".
+       MoPOP.org. September 30, 2020. Archived from the original on
+       November 2, 2021. Retrieved December 10, 2020.
+   48. ^ "Music from Museum of Pop Culture's Founders Award Honoring Alice
+       In Chains Available as Streaming Amazon Music Compilation".
+       MoPOP.org. December 2, 2020.
+
+External links
+
+   [edit]
+   Wikimedia Commons has media related to Museum of Pop Culture.
+     * Museum of Pop Culture official website
+     * Science Fiction and Fantasy Hall of Fame official website
+     * SeattleWiki: Experience Music Project
+     * Experience Music Project at greatbuildings.com
+     * New Interfaces for Musical Expression – NIME-01
+     * "Exhibitions / Past Exhibitions". EMP Museum (empmuseum.org)
+     * "Exhibitions / Past Exhibitions". Experience Music Project and
+       Science Fiction Museum (empsfm.org). Archived 2007-09-23. Retrieved
+       2013-03-19.
+     * "Exhibitions / Past Exhibitions". Experience Music Project and
+       Science Fiction Museum (empsfm.org). Archived 2011-01-27. Retrieved
+       2013-03-19.
+     * "Exhibitions / Past Exhibitions". EMP Museum (empmuseum.org).
+       Archived 2012-07-18. Retrieved 2013-03-19.
+
+   Portals:
+     * Music
+     * icon Science Fiction
+
+     * v
+     * t
+     * e
+
+   Frank Gehry
+   Completed works
+     * 8 Spruce
+     * Anaheim Ice
+     * Art Gallery of Ontario
+     * Biomuseo
+     * Binoculars Building
+     * BP Pedestrian Bridge
+     * Cabrillo Marine Aquarium
+     * California Science Center Air & Space Building
+     * Cinémathèque Française
+     * Dancing House
+     * Disney Village
+     * Dr Chau Chak Wing Building
+     * DZ Bank Building
+     * Dwight D. Eisenhower Memorial
+     * Gehry Residence
+     * Gehry Tower
+     * Grand Avenue Project
+     * Guggenheim Museum Bilbao
+     * IAC Building NYC
+     * Jay Pritzker Pavilion
+     * Louis Vuitton Foundation
+     * Lou Ruvo Center for Brain Health
+     * Loyola Law School
+     * LUMA Arles
+          + LUMA Tower
+     * Maggie's Centre at Dundee
+     * Marqués de Riscal Hotel
+     * Merriweather Post Pavilion
+     * Museum of Pop Culture
+     * Neuer Zollhof
+     * New World Center
+     * Novartis Pharma A.G. Campus
+     * Ohr–O'Keefe Museum Of Art
+     * Peter B. Lewis Building
+     * Ray and Maria Stata Center
+     * Richard B. Fisher Center for the Performing Arts
+     * Santa Monica Place
+     * Serpentine Gallery 2008 Summer Pavilion
+     * Sleep Train Pavilion
+     * Team Disney Anaheim
+     * University of Cincinnati College of Medicine
+     * Vitra Design Museum
+     * Walt Disney Concert Hall
+     * Weisman Art Museum
+
+   A building made of many curved, shiny metal surfaces, themselves
+   composed of smaller plates. The door is under a curved metal roof
+   supported by a pillar.
+   Under construction
+   or proposed
+     * Colburn School Expansion
+     * Forma
+     * Guggenheim Abu Dhabi
+     * Philadelphia Art Museum Expansion
+     * Sagrera railway station
+
+   Furniture design
+     * Easy Edges (1969–1973)
+
+   Concepts
+     * Cardboard furniture
+     * Digital Project
+     * Organization of the artist
+
+   Pop culture
+
+     * "The Seven-Beer Snitch"
+     * Sketches of Frank Gehry
+
+     * Commons
+     * Wikibooks
+     * Wikinews
+     * Wikiquote
+
+     * v
+     * t
+     * e
+
+   Museums in the Puget Sound region
+
+   Art
+
+     * 911 Media Arts Center
+     * Bellevue Arts Museum
+     * Cascadia Art Museum
+     * Frye Art Museum
+     * Henry Art Gallery
+     * Monarch Contemporary Art Center and Sculpture Park
+     * Museum of Glass
+     * Museum of Northwest Art
+     * Olympic Sculpture Park
+     * Seattle Art Museum
+     * Seattle Asian Art Museum
+     * Tacoma Art Museum
+     * Whatcom Museum of History and Art
+
+   Aviation
+
+     * Flying Heritage & Combat Armor Museum
+     * Future of Flight Aviation Center & Boeing Tour
+     * Heritage Flight Museum
+     * McChord Air Museum
+     * Museum of Flight
+     * Olympic Flight Museum
+     * Port Townsend Aero Museum
+
+   Children's
+
+     * Children's Museum of Tacoma
+     * Hands On Children's Museum
+     * Imagine Children's Museum
+     * KidsQuest Children's Museum
+     * Seattle Children's Museum
+
+   Culture
+
+     * Museum of Pop Culture
+     * Nordic Museum
+     * Northwest African American Museum
+     * Suquamish Museum
+     * Quinault Museum
+     * Wing Luke Museum
+
+   History
+
+     * DuPont Museum
+     * Eastside Heritage Center
+     * Edmonds Historical Museum
+     * Harbor History Museum
+     * History House of Greater Seattle
+     * Issaquah Historical Museums
+     * Karshner Museum
+     * Klondike Gold Rush National Historical Park
+     * Mukilteo Light
+     * Museum of History and Industry
+     * Olympia Arts & Heritage Alliance Museum
+     * Renton History Museum
+     * Seattle Metropolitan Police Museum
+     * Seattle Underground
+     * Washington State History Museum
+
+   Maritime
+
+     * Browns Point Light
+     * Center for Wooden Boats
+     * Coast Guard Museum Northwest
+     * Mukilteo Light
+     * Northwest Seaport
+     * Snagboat Heritage Center
+     * Working Waterfront Maritime Museum
+
+   Military
+
+     * Coast Guard Museum Northwest
+     * Lewis Army Museum
+     * McChord Air Museum
+     * Naval Undersea Museum
+     * Northwest Veterans Museum
+     * Puget Sound Coast Artillery Museum
+     * Puget Sound Navy Museum
+     * Washington National Guard Museum
+
+   Natural sciences
+
+     * Burke Museum of Natural History and Culture
+     * Museum and Arts Center, Sequim, Washington
+
+   Science and
+   technology
+
+     * America's Car Museum
+     * Bellingham Railway Museum
+     * Connections Museum
+     * Georgetown Steam Plant
+     * Living Computers: Museum + Labs
+     * Pacific Science Center
+     * SPARK Museum of Electrical Invention
+     * Vintage Motorcycle Museum
+
+   See also: List of museums in Washington (state) and Museums and
+   galleries of Seattle
+
+     * v
+     * t
+     * e
+
+   Science fiction
+
+   Outline
+
+     * Authors
+     * Definitions
+          + Anthropological
+          + Hard
+          + Scientific romance
+          + Soft
+     * History
+          + Pulp era
+          + Golden Age
+          + New Wave
+     * Timeline
+
+   Subgenres
+
+     * Apocalyptic and post-apocalyptic
+     * Comedy
+          + Sitcoms
+     * Feminist
+     * Grimdark
+     * Inner space
+     * Mecha
+          + Anime and manga
+     * Mundane
+     * Space warfare
+          + Military
+          + Space opera
+          + Space Western
+     * Parallel universes
+          + Isekai
+     * Science fantasy
+          + Dying Earth
+          + Planetary romance
+          + Superhero
+          + Sword and planet
+     * Social
+          + Climate fiction
+          + Christian
+          + Libertarian
+          + Utopian and dystopian
+     * Tech noir
+          + Spy-Fi
+          + Techno-thriller
+     * Tokusatsu
+          + Kaiju
+     * Underwater
+
+   Cyberpunk derivatives
+     * Cyberpunk
+          + Japanese
+     * Biopunk
+     * Dieselpunk
+     * Nanopunk
+     * Solarpunk
+     * Steampunk
+
+   Culture
+
+     * Conventions
+     * Fandom
+     * Fanzines
+     * ISFDB
+     * Libraries and museums
+     * Science Fiction Museum
+     * Studies
+     * Women in SF
+     * Worldcon
+
+   Region
+     * Australian
+     * Bengali
+     * Brazilian
+     * Canadian
+     * Chilean
+     * Chinese
+     * Croatian
+     * Czech
+     * Estonian
+     * French
+     * Hungarian
+     * Japanese
+     * Korean
+     * Norwegian
+     * Polish
+     * Romanian
+     * Russian
+     * Serbian
+     * Spanish
+     * Yugoslav
+
+   Awards
+               Cinematic
+     * Jules Verne
+     * Saturn
+
+   Literary, art,
+   and audio
+     * Astounding
+     * Aurealis
+     * BSFA
+     * Campbell Memorial
+     * Chesley
+     * Clarke
+     * Crook
+     * Deutscher
+     * Dick
+     * Ditmar
+     * Endeavor
+     * FantLab
+     * Galaxy
+     * Gaughan
+     * Geffen
+     * Golden Duck
+     * Grand Master
+     * Grand Prix
+     * Harland
+     * Heinlein
+     * Ignotus
+     * Kitschies
+     * Lambda
+     * Laßwitz
+     * Locus
+     * Nautilus
+     * Nebula
+     * Nommo
+     * Norton
+     * Parsec
+     * Prometheus
+     * Rhysling
+     * SFERA
+     * Sidewise
+     * Skylark
+     * Sturgeon
+     * Sunburst
+     * Tähtivaeltaja
+     * TBD
+     * Tiptree
+     * Tour-Apollo
+     * Translation
+     * Urania
+     * Vogel
+     * Writers and Illustrators of the Future
+     * Zajdel
+
+   Multimedia
+     * Aurora
+     * Chandler
+     * Dragon
+     * Hugo
+     * Seiun
+     * Spectrum
+
+   Media
+
+   Film
+     * Film history
+     * Films
+     * Indian
+     * Japanese
+          + Anime
+          + Tokusatsu
+
+   Literature
+     * Comics
+     * Magazines
+     * Novels
+     * Publishers
+     * Short stories
+
+     Stage
+     * Opera
+     * Theatre
+
+   Television
+     * List of TV shows
+     * Australasian
+     * British
+     * Canadian
+     * European
+     * Japanese
+          + Anime
+          + Live-action
+     * U.S.
+
+   Themes
+
+   Architectural
+     * Dyson sphere
+     * Ecumenopolis
+     * Matrioshka brain
+     * Space stations and habitats
+     * Stellar engine
+     * Terraforming
+     * Topopolis
+
+   Biological
+     * Biological warfare
+     * Evolution
+     * Extraterrestrials
+          + List
+     * Gender
+     * Genetic engineering
+     * Invisibility
+     * Nanotechnology
+     * Organ transplantation
+     * Parasitism
+     * Sex and sexuality
+     * Superhumans
+     * Symbiosis
+
+   Physical
+     * Black holes
+     * Extrasolar planets
+     * Multiverse
+     * Parallel universes
+          + List
+     * Portable hole
+     * Space travel
+     * Stars
+     * Tachyons
+     * Teleportation
+     * Time travel
+     * Time viewer
+     * Wormhole
+
+   Psychological
+     * Group mind
+     * Mind uploading
+     * Psionics
+     * Simulated consciousness
+
+   Social
+     * Africanfuturism
+     * Afrofuturism
+     * Alien invasion
+     * Alien language
+     * Ancient astronauts
+     * Black
+     * Evil corporation
+     * First contact
+     * Frankenstein complex
+     * Galactic empire
+     * LGBT
+     * Message from space
+     * Transhumanism
+     * Uplift
+     * Xenoarchaeology
+
+   Technological
+     * Ansible
+     * Artificial intelligence
+          + AI takeover
+     * Astroengineering
+     * Force field
+     * Holography
+     * Hyperspace
+     * Inertialess
+     * Robots and Cyborgs
+     * Self-replicating machines
+     * Simulated reality
+     * Spacecraft
+     * Stargate
+     * Warp drive
+     * Weapons
+
+     Religious
+     * Christian science fiction
+
+   Related
+
+     * Alternate history
+     * Fantasy
+     * Fictional astronauts
+     * Fictional technology
+     * Future history
+     * Horror
+     * Magic realism
+     * Museum of Science Fiction
+     * Rubber science
+     * Science and technology studies
+     * Sense of wonder
+     * Speculative fiction
+     * Supernatural
+     * Technology and society
+     * Weird
+
+     * Category
+     * Portal
+
+     * v
+     * t
+     * e
+
+   Seattle Center
+
+   Features
+
+     * Book-It Repertory Theatre
+     * Bubbleator
+     * The Center School
+     * Chihuly Garden and Glass
+     * Climate Pledge Arena
+     * Intiman Theatre Festival
+     * Kreielsheimer Promenade
+     * McCaw Hall
+     * Memorial Stadium
+     * Museum of Pop Culture
+     * Pacific Science Center
+     * Seattle Center Armory
+     * Seattle Children's Museum
+     * Seattle Repertory Theatre
+     * Space Needle
+
+   Defunct
+     * Mercer Arena
+     * SkyCity
+
+   Events
+
+     * Bite of Seattle
+     * Bumbershoot
+     * Century 21 Exposition
+     * Festál
+     * Northwest Folklife
+     * Rock 'n' Roll Seattle Marathon
+     * Seattle Marathon
+     * Seattle Pride
+
+   Public art
+
+     * American Doughboy Bringing Home Victory
+     * Black Lightning
+     * Fountain of Creation
+     * Fountain of the Northwest
+     * Grass Blades
+     * International Fountain
+     * Kobe Bell
+     * Moses
+     * Olympic Iliad
+     * Seattle Center Totem
+     * The Seattle Mural
+     * Sonic Bloom
+     * Statue of Chris Cornell
+     * Typewriter Eraser, Scale X
+
+   Related
+
+     * Seattle Center Monorail
+     * Wheedle
+
+   People
+     * Lawrence Halprin
+     * Paul Thiry
+     * Minoru Yamasaki
+
+     * Category
+
+     * v
+     * t
+     * e
+
+   Zahner
+
+   Buildings with Zahner
+   facades and metalwork
+
+     * 41 Cooper Square
+     * Anaheim Ice
+     * Art Gallery of Alberta
+     * Contemporary Jewish Museum
+     * Dee and Charles Wyly Theatre
+     * Disney Village
+     * Artwall at Doha Education City Student Center
+     * Eli and Edythe Broad Art Museum
+     * Gehry Tower
+     * Hunter Museum of American Art
+     * Jay Pritzker Pavilion
+     * M. H. de Young Memorial Museum
+     * Margot and Bill Winspear Opera House
+     * Modern Art Museum of Fort Worth
+     * Museum of Glass
+     * Museum of Pop Culture
+     * NASCAR Hall of Fame
+     * National September 11 Memorial & Museum
+     * Ohr-O'Keefe Museum Of Art
+     * Ray and Maria Stata Center
+     * Rosenthal Center for Contemporary Art
+     * Taubman Museum of Art
+     * Team Disney
+     * Trinity River Audubon Center
+     * Wayne L. Morse United States Courthouse
+     * Weatherhead School of Management
+     * Weisman Art Museum
+
+   Design by Frank Gehry, exterior fabricated by Zahner.
+
+   Architects Zahner works with
+
+     * Tadao Ando
+     * Ralph Appelbaum Associates
+     * Gensler
+     * Zaha Hadid
+     * Steven Holl
+     * Rem Koolhaas
+     * Daniel Libeskind
+     * Thom Mayne
+     * Morphosis
+     * Gyo Obata
+     * Pei Cobb Freed & Partners
+     * Antoine Predock
+     * Snøhetta
+     * Randall Stout
+
+   Artists Zahner works with
+
+     * Dale Chihuly
+     * Walter De Maria
+     * Sol LeWitt
+     * Zhao Suikang
+     * Leo Villareal
+
+   Associated with
+
+     * Frank Gehry
+     * Herzog & de Meuron
+     * KME Group
+     * Permasteelisa
+
+   Authority control databases Edit this at Wikidata
+   International
+     * ISNI
+     * VIAF
+
+     National
+     * United States
+
+    Geographic
+     * Structurae
+
+       Other
+     * Yale LUX
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Museum_of_Pop_Culture&oldid
+   =1322894613"
+
+   Categories:
+     * Museums in Seattle
+     * Media museums in Washington (state)
+     * Music museums in the United States
+     * Biographical museums in Washington (state)
+     * Deconstructivism
+     * Expressionist architecture
+     * Frank Gehry buildings
+     * Halls of fame in Washington (state)
+     * Postmodern architecture in Washington (state)
+     * Rock music museums
+     * Science Fiction Hall of Fame inductees
+     * Seattle Center
+     * Museums established in 2000
+     * 2000 establishments in Washington (state)
+     * 2000s architecture in the United States
+     * Oral history
+
+   Hidden categories:
+     * CS1: unfit URL
+     * Webarchive template wayback links
+     * All articles with dead external links
+     * Articles with dead external links from April 2013
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Use mdy dates from March 2025
+     * Pages using infobox mapframe without shape links in Wikidata
+     * Pages using gadget WikiMiniAtlas
+     * Commons category link is on Wikidata
+     * Pages using the Kartographer extension
+
+     * This page was last edited on 18 November 2025, at 13:42 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Museum of Pop Culture
+   (BUTTON) 16 languages Add topic

@@ -1,0 +1,2311 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en" class="no-js usn">
+<head>
+    
+    <script>
+  (function () {
+    // Only run on specific page
+    if (window.location.pathname === "/destinations/europe/paris/") {
+      fetch("https://ipapi.co/json/")
+        .then(res => res.json())
+        .then(data => {
+          const lat = parseFloat(data.latitude);
+          const lon = parseFloat(data.longitude);
+
+          // Paris approx coordinates
+          const isNearParis = lat > 48.7 && lat < 49.0 && lon > 2.2 && lon < 2.5;
+
+          if (isNearParis) {
+            // Redirect faster without keeping current page in history
+            location.replace("https://www.englishpath.com/paris-english/");
+          }
+        })
+        .catch(err => {
+          console.error("Location fetch failed:", err);
+        });
+    }
+  })();
+</script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var link = document.createElement("link");
+    link.rel = "alternate";
+    link.hreflang = "x-default";
+    link.href = window.location.href;
+    document.head.appendChild(link);
+  });
+</script>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W4BKZCJZ');</script>
+<!-- End Google Tag Manager -->
+<!-- Prefetch DNS & Preconnect -->
+    <link rel="dns-prefetch" href="https://cc.cdn.civiccomputing.com">
+    <link rel="preconnect" href="https://cc.cdn.civiccomputing.com" crossorigin>
+
+    <!-- Preload script -->
+    <link rel="preload" as="script" href="https://cc.cdn.civiccomputing.com/9/cookieControl-9.x.min.js">
+
+    <!-- Load script asynchronously -->
+    <script src="https://cc.cdn.civiccomputing.com/9/cookieControl-9.x.min.js"></script>
+<script>
+  // Include the following lines to define the gtag() function when
+  // calling this code prior to your gtag.js or Tag Manager snippet
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+
+  // Call the default command before gtag.js or Tag Manager runs to
+  // adjust how the tags operate when they run. Modify the defaults
+  // per your business requirements and prior consent granted/denied, e.g.:
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'functionality_storage': 'denied',
+    'personalization_storage': 'denied',
+    'security_storage': 'denied'
+  });
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+var config = {
+    apiKey: 'be4fc8a998bb012b031797cab70d288cbf65d558',
+    product: 'PRO_MULTISITE',
+    text: {
+        notifyTitle: "This site uses cookies to store information on your computer.",
+        notifyDescription: "Some of these cookies are essential, while others help us to improve your experience by providing insights into how the site is being used."
+    },
+    necessaryCookies: ["ASP.NET_SessionId", "SPSI", "spcsrf",'XSRF-TOKEN', 'XSRF-V', '__RequestVerificationToken', '__zlcmid', 'UMB*'],
+    optionalCookies: [{
+        name: "analytics",
+        label: "Analytical Cookies",
+        description: "Analytical cookies help us to improve our website by collecting and reporting information on its usage.",
+        cookies: ["_ga", "_gid", "_gat", "__utma", "__utmt", "__utmb", "__utmc", "__utmz", "__utmv"],
+        vendors: [{
+                        name: "Google",
+                        url: "https://policies.google.com/technologies/types?hl=en-US",
+                        description: "Google Analytics"
+                    },
+                 {
+                        name: "Facebook",
+                        url: "https://www.facebook.com/privacy/policies/cookies",
+                        description: "Facebook Analytics"
+                    },
+                 {
+                        name: "Mouseflow",
+                        url: "https://mouseflow.com/legal/company/cookie-policy/",
+                        description: "Mouseflow Analytics"
+                    }],
+        onAccept: function () {	
+			gtag('consent', 'update', {'analytics_storage': 'granted'});
+		},
+        onRevoke: function () {	
+			gtag('consent', 'update', {'analytics_storage': 'denied'});	
+		}
+    }, 
+	{
+        name: "marketing",
+        label: "Marketing Cookies",
+        description: "We use marketing cookies to help us improve the relevancy of advertising campaigns you receive.",
+        cookies: ["fr"],
+        onAccept: function () {
+			gtag('consent', 'update', {'ad_storage': 'granted'});
+		},
+        onRevoke: function () {
+			gtag('consent', 'update', {'ad_storage': 'denied'});
+		}
+    }],
+    initialState: "notify", 	
+    position: "left",
+    theme: "light",
+    
+    branding: {
+        fontFamily: 'Roboto,sans-serif',		
+		fontSizeTitle: '16px',
+        fontSizeHeaders: '14px',
+        fontSize: '12px',
+        fontColor: '#1f2a44',
+        backgroundColor: '#fff',
+        alertText: '#fff', 
+        alertBackground: '#111125',
+        acceptText: '#10375C',
+        acceptBackground: '#78be43',
+        rejectText: '#10375C',
+        rejectBackground: '#cccccc',
+        toggleText: '#505050',
+        toggleBackground: '#78be43',
+        toggleColor: '#fff',
+        buttonIcon: null,
+        buttonIconWidth: '64px',
+        buttonIconHeight: '64px',
+        removeIcon: true,
+        removeAbout: true		
+    }
+};
+
+CookieControl.load( config );
+</script>
+
+<script type="text/javascript">
+  window._mfq = window._mfq || [];
+  (function() {
+    var mf = document.createElement("script");
+    mf.type = "text/javascript"; mf.defer = true;
+    mf.src = "//cdn.mouseflow.com/projects/06db15b0-2e16-4524-9772-3829f1dc4a97.js";
+    document.getElementsByTagName("head")[0].appendChild(mf);
+  })();
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-366488309"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-366488309');
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G96C13TH1T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'G-G96C13TH1T');
+</script>
+<script>
+(function(document) {
+//debugger;
+  var referrer = document.referrer;
+  var ec_t_referrer =  sessionStorage.getItem("t_referrer");
+  var currentDomain = getDomain_(document.location.hostname);
+  var referrerDomain = getDomain_(referrer);
+  if (referrer.length > 0 && referrerDomain !== currentDomain) {
+  	 sessionStorage.setItem("t_referrer", referrerDomain);
+     localStorage.setItem("t_referrer", referrerDomain);
+  }
+   var qs = document.location.search.replace('?', '');
+    var hash = document.location.hash.replace('#', '');
+  var gaParams = parseGoogleParams(qs + '#' + hash);
+  for (key in gaParams) {
+      if (typeof gaParams[key] !== 'undefined') {
+ 		sessionStorage.setItem(key, gaParams[key]);
+      }
+    }
+function getDomain_(url) {
+  if (!url) return;
+  var a = document.createElement('a');
+  a.href = url;
+  try {
+    return a.hostname.match(/[^.]*\.[^.]{2,3}(?:\.[^.]{2,3})?$/)[0];
+  } catch(squelch) {}
+ }
+  function parseGoogleParams(str) {
+    var campaignParams = ['source', 'medium', 'campaign', 'term', 'content'];
+    var utm_regex = new RegExp('(utm_(' + campaignParams.join('|') + '))=.*?([^&#]*|$)', 'gi');
+    var clid_regex = new RegExp('((.*)clid)=.*?([^&#]*|$)', 'gi');
+    var clidParams = str.match(clid_regex);
+     var utmParams = str.match(utm_regex);
+    var paramsObj,
+      vals,
+      len,
+      i;
+  paramsObj = {};
+    if (clidParams) {
+      len = clidParams.length;
+      for (i = 0; i < len; i++) {
+        vals = clidParams[i].split('=');
+        if (vals) {
+          paramsObj['clid'] = vals[0] + '=' + vals[1];
+        }
+       }
+     }
+if (utmParams) {
+      len = utmParams.length;
+      for (i = 0; i < len; i++) {
+        vals = utmParams[i].split('=');
+        if (vals) {
+          paramsObj[vals[0]] = vals[1];
+        }
+       }
+     }
+     return paramsObj;
+  }
+})(document);
+</script>
+
+
+
+<style>
+.blog-banner .image.background-image {
+    background-position: top !important;
+}
+.blog-main-content h2 {
+    font-size: 35px;
+}
+.blog-main-content h3 {
+    font-size: 30px;
+}
+h6.subtitle {
+    font-size: 18px;
+    margin-top: -10px;
+}
+h5.wp-block-heading {
+    font-size: 18px;
+    margin-top: -10px;
+}
+</style>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=2">
+        <link rel="canonical" href="https://www.englishpath.com/blog/french-culture-food-traditions-fashion-art-and-language/" />
+    <title>French Culture: Food, traditions, fashion, art, and language</title>
+    <meta name="description" content="Discover the best of French culture before heading to Paris. Learn about traditions and immerse yourself in a rich heritage for an unforgettable experience.">
+            <link rel="alternate" hreflang="x-default" href="https://www.englishpath.com/blog/french-culture-food-traditions-fashion-art-and-language/" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="French Culture: Food, traditions, fashion, art, and language" />
+    <meta property="og:image" content="" />
+    <meta property="og:url" content="https://www.englishpath.com/blog/french-culture-food-traditions-fashion-art-and-language/" />
+    <meta property="og:description" content="Discover the best of French culture before heading to Paris. Learn about traditions and immerse yourself in a rich heritage for an unforgettable experience." />
+    <meta property="og:site_name" content="English Path" />
+    <meta name="robots" content="index,follow">
+
+    
+
+
+
+
+    <!--<link defer rel="stylesheet" href="sitebuilder-ltr-css-bundle" media="screen" />-->
+    <link as="style" href="/sb/sitebuilder-ltr-css-bundle.css.v1" media="screen" onload="this.onload=null;this.rel=&#x27;stylesheet&#x27;" rel="preload" />
+   <noscript>
+       <link href="/sb/sitebuilder-ltr-css-bundle.css.v1" rel="stylesheet" />
+   </noscript>
+<!--<link defer rel="stylesheet" href="sitebuilder-css-bundle" media="screen" />-->
+<link as="style" href="/sb/sitebuilder-css-bundle.css.v1" media="screen" onload="this.onload=null;this.rel=&#x27;stylesheet&#x27;" rel="preload" />
+   <noscript>
+       <link href="/sb/sitebuilder-css-bundle.css.v1" rel="stylesheet" />
+   </noscript>
+
+<!--<link defer rel="stylesheet" href="sitebuilder-css-small-bundle" media="screen and (min-width:0) and (max-width:991px)" />-->
+<link as="style" href="/sb/sitebuilder-css-small-bundle.css.v1" media="screen and (min-width:0) and (max-width:991px)" onload="this.onload=null;this.rel=&#x27;stylesheet&#x27;" rel="preload" />
+   <noscript>
+       <link href="/sb/sitebuilder-css-small-bundle.css.v1" rel="stylesheet" />
+   </noscript>
+   
+<!--<link defer rel="stylesheet" href="sitebuilder-css-large-bundle" media="screen and (min-width:992px)" />-->
+<link as="style" href="/sb/sitebuilder-css-large-bundle.css.v1" media="screen and (min-width:992px)" onload="this.onload=null;this.rel=&#x27;stylesheet&#x27;" rel="preload" />
+   <noscript>
+       <link href="/sb/sitebuilder-css-large-bundle.css.v1" rel="stylesheet" />
+   </noscript>
+   
+<link defer rel="stylesheet" media="screen" href="/uSkinned/css/generated/c714d682-3208-4a5e-8269-505215d7ade3.css?version=639002471599830000" />
+<!--<link rel="preload" href=""  media="screen" as="style" onload="this.onload=null;this.rel='stylesheet'">-->
+<!--   <noscript>-->
+<!--       <link rel="stylesheet" href="sitebuilder-css-large-bundle">-->
+<!--   </noscript>-->
+
+<!--<link defer rel="stylesheet" href="sitebuilder-css-prnt-bundle" media="print" />-->
+<link as="style" href="/sb/sitebuilder-css-prnt-bundle.css.v1" media="print" onload="this.onload=null;this.rel=&#x27;stylesheet&#x27;" rel="preload" />
+   <noscript>
+       <link href="/sb/sitebuilder-css-prnt-bundle.css.v1" rel="stylesheet" />
+   </noscript>
+   
+
+
+            <link rel="shortcut icon" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=32&amp;height=32">
+        <link rel="apple-touch-icon" sizes="57x57" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=57&amp;height=57">
+        <link rel="apple-touch-icon" sizes="60x60" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=60&amp;height=60">
+        <link rel="apple-touch-icon" sizes="72x72" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=72&amp;height=72">
+        <link rel="apple-touch-icon" sizes="76x76" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=76&amp;height=76">
+        <link rel="apple-touch-icon" sizes="114x114" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=114&amp;height=114">
+        <link rel="apple-touch-icon" sizes="120x120" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=120&amp;height=120">
+        <link rel="apple-touch-icon" sizes="144x144" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=144&amp;height=144">
+        <link rel="apple-touch-icon" sizes="152x152" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=152&amp;height=152">
+        <link rel="apple-touch-icon" sizes="180x180" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=180&amp;height=180">
+        <link rel="icon" sizes="16x16" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=16&amp;height=16">
+        <link rel="icon" sizes="32x32" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=32&amp;height=32">
+        <link rel="icon" sizes="96x96" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=96&amp;height=96">
+        <link rel="icon" sizes="192x192" type="image/ico" href="/media/5snhhyzb/ep_logo-2.ico?width=192&amp;height=192">
+        <meta name="msapplication-square70x70logo" content="/media/5snhhyzb/ep_logo-2.ico?width=70&height=70" />
+        <meta name="msapplication-square150x150logo" content="/media/5snhhyzb/ep_logo-2.ico?width=150&height=150" />
+        <meta name="msapplication-wide310x150logo" content="/media/5snhhyzb/ep_logo-2.ico?width=310&height=150" />
+        <meta name="msapplication-square310x310logo" content="/media/5snhhyzb/ep_logo-2.ico?width=310&height=310" />
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+
+    
+    
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<style>
+.accreadtion-logo-grid img {
+    border-radius: 0px !important;
+}
+
+aside.country-selector.weglot_switcher.default.wg-drop a img.wg-flag {
+    height: 16.5px !important;
+}
+.weglot-container {
+    width: 100px !important;
+    border: 2px solid #78BE43;
+    border-radius: 10px;
+    padding: 2px;
+}
+
+/* This is a arabic css comment */
+[lang="ar"] {
+    direction: rtl;
+}
+.popupTrigger {
+    height: 470px;
+}
+slick-list{
+    direction: ltr;
+}
+
+html[lang="ar"] body.header-05-lg header#site-header #logo {
+        right: 0;
+        left: unset;
+    }
+html[lang="ar"] .wg-flags a img.wg-flag {
+    margin-right: 0px !important;
+}
+html[lang="ar"] .text-left {
+    text-align: right !important;
+}
+html[lang="ar"] .ep-language-school-hover {
+    top: 90px;
+}
+html[lang="ar"] .wg-flags a img.wg-flag {
+    height: 24px;
+    margin-left: 10px;
+}
+
+html[lang="ar"] ul.Courses, 
+html[lang="ar"] ul.Destinations {
+    left: unset !important;
+    right: -140% !important;
+}
+/* This is a french css comment */
+
+html[lang="fr"] ul.Courses .mega-box-details:nth-child(6) {
+        background: #e9eaed;
+        min-height: 50px !important;
+        height: 180px;
+        display: inline-block;
+        bottom: 162px;
+    }
+html[lang="fr"] ul.Courses .mega-box-details:nth-child(7) {
+        background: #e9eaed;
+        min-height: 50px !important;
+        height: 143px;
+    }
+html[lang="fr"] p.heading.lg, span.heading.lg {
+        
+        font-size: 26px !important;
+    }
+html[lang="fr"] .ep-language-school-hover {
+    line-height: 37px;
+    position: absolute;
+    top: 90px;
+}
+html[lang="fr"] .Destinations .mega-box-details {
+        min-width: 220px;
+}
+
+
+/* This is a BR css comment */
+html[lang="br"] ul.multi-col {
+        width: 370px !important;
+    }
+
+
+/* This is a ES-LA css comment */
+html[lang="es-la"] ul.multi-col {
+        width: 465px !important;
+    }
+
+/* This is a DE css comment */
+html[lang="de"] ul.multi-col {
+        width: 465px !important;
+    }
+
+/* this for lang = RU */
+html[lang="ru"] nav.secondary ul li span div, html[lang="ru"] nav.secondary ul li span a, html[lang="ru"] nav.secondary ul li a{
+    font-size:13px !important;
+}
+
+/* This is a Global css comment */
+.main{
+    display: flex !important;
+    justify-content: space-around !important;
+    align-items: center !important;
+}
+.weglot-container{
+    width: 100px !important;
+}
+@media (min-width: 0) and (max-width: 992px){
+    .weglot-container {
+        position: fixed;
+        top: 36px;
+        right: 65px;
+        width: 100px !important;
+        border: 2px solid #78BE43;
+        border-radius: 10px;
+        padding: 2px;
+    }
+
+html[lang="ar"] header#site-header .expand-header {
+    position: absolute;
+    top: 0;
+    right: auto;
+    left: 0;
+    }
+
+html[lang="ar"] .weglot-container {
+        position: fixed;
+        top: 43px;
+        left: 61px !important;
+        right: auto !important;
+    }
+}
+@media (min-width: 992px) {
+  html[lang="ru"] nav.main > ul,
+  html[lang="es-la"] nav.main > ul{
+    font-size: 14px !important;
+  }
+  html[lang="ru"] #site-header .cta-links a.btn{
+    font-size: 11px !important;
+  }
+  html[lang="es-la"] #site-header .cta-links a.btn{
+    font-size: 12px !important;
+  }
+  html[lang="ru"] ul.Courses::after{
+      left:17% !important;
+  }
+  html[lang="ru"] ul.multi-col::after{
+      left:46% !important;
+  }
+ html[lang="ru"]  ul.multi-col{
+     left:-68% !important
+ }
+
+   html[lang="es-la"] ul.Destinations::after{
+      left:8% !important;
+  }
+  html[lang="es-la"] ul.Courses::after{
+      left:17% !important;
+  }
+  html[lang="es-la"] ul.multi-col::after{
+      left:29% !important;
+  }
+  html[lang="br"] ul.Destinations::after {
+  left: 10%;
+}
+
+html[lang="br"] ul.Courses::after {
+  left: 22%;
+}
+
+html[lang="br"] ul.multi-col::after {
+  left: 49%;
+}
+html[lang="br"] li.free_language_test:hover::after {
+  left: 43%;
+}
+
+
+  html[lang="de"] ul.Destinations::after {
+  left: 11%;
+}
+
+html[lang="de"] ul.Courses::after {
+  left: 18%;
+}
+
+html[lang="de"] ul.multi-col::after {
+  left: 53%;
+}
+
+  html[lang="fr"] ul.Destinations::after {
+  left: 14%;
+}
+
+html[lang="fr"] ul.Courses::after {
+  left: 19%;
+}
+
+html[lang="fr"] ul.multi-col::after {
+  left: 47%;
+}
+
+
+
+  html[lang="it"] nav.main > ul{
+    font-size: 16px !important;
+  }
+  html[lang="it"] #site-header .cta-links a.btn{
+    font-size: 12px !important;
+  }
+html[lang="it"] ul.Destinations::after {
+  left: 13%;
+}
+
+html[lang="it"] ul.Courses::after {
+  left: 15%;
+}
+ html[lang="it"]  ul.multi-col{
+     left:-87% !important;
+ }
+ html[lang="it"] ul.multi-col::after {
+  left: 45%;
+}
+html[lang="ar"] body.header-05-lg header#site-header nav.cta-links{
+left:2% !important;
+right:unset !important;
+top:40% !important;
+}
+html[lang="ar"] .weglot-container{
+    margin-right:20px !important;
+}
+html[lang="ar"] nav.main > ul{
+    font-size:16px !important;
+}
+html[lang="ar"] li.free_language_test:hover::after{
+    left: 42% !important;
+}
+
+html[lang="ar"] .navigation-dropdown-bg li.custom-nav-btn:nth-last-child(1) ul{
+    left:-53% !important;
+}
+html[lang="ar"] ul.Courses::after{left:unset !important;right: 17% !important;}
+
+html[lang="ar"] ul.Destinations::after{
+    left:unset !important;
+    right:9% !important;
+}
+html[lang="ja"] ul.Courses::after{
+left:21% !important;
+}
+
+html[lang="ja"] ul.Destinations::after{
+    left:8% !important;
+}
+ html[lang="ja"]  ul.multi-col{
+     left:-144% !important;
+ }
+ html[lang="ja"] .navigation-dropdown-bg li.custom-nav-btn:nth-last-child(1) ul{
+     left: -44% !important;
+ }
+ 
+ 
+ html[lang="tr"] ul.Destinations::after{
+    left:18% !important;
+}
+html[lang="tr"] ul.Courses::after{
+left:22% !important;
+}
+ html[lang="tr"]  ul.multi-col{
+     left:-68% !important;
+ }
+ html[lang="tr"] .navigation-dropdown-bg li.custom-nav-btn:nth-last-child(1) ul{
+     left: -42% !important;
+ }
+}
+</style>
+
+
+<script type="text/javascript" src="https://cdn.weglot.com/weglot.min.js"></script>
+<script>
+    Weglot.initialize({
+        api_key: 'wg_b39a8244adc6df8a10bb60a9d59efc295'
+    });
+</script>
+<script src="https://cdn.userway.org/widget.js" data-account="wBI923qhCJ"></script>        <!-- Facebook Pixel Code -->
+        <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1482828812084033');
+        fbq('track', 'PageView');
+        fbq('track', 'ViewContent');
+        </script>
+        <noscript>
+            <img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=1482828812084033&ev=PageView&noscript=1" />
+        </noscript>
+        <!-- End Facebook Pixel Code -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
+    
+</head>
+<body 
+    
+ class="body-bg body-bg-solid header-05-lg header-03-sm show_header-on-scroll-lg show_header-on-scroll-sm directional-icons-arrow                     "
+
+>
+
+    
+
+
+    <!-- Skip links -->
+    <a class="skip-to-content" id="skip-to-content-link" href="#site-content">Skip to main content</a>
+    <a class="skip-to-content" id="skip-to-footer-link" href="#site-footer">Skip to footer</a>
+    <!--// Skip links -->
+
+    <!-- Site -->
+    <div id="site">
+
+        <!-- Header -->
+            <header id="site-header" class="header-bg header-bg-solid" tabindex="-1">
+        <div class="container">
+
+            <div class="row">
+
+                    <div id="logo" >
+        <a href="/" title="English Path">
+                    <picture>
+                        <img src="/media/lf3fax45/ep_logo_blue.png" alt="">
+                    </picture>
+            <span>English Path</span>
+        </a>
+    </div>
+
+
+
+                    <!-- Expand -->
+                    <button id="burgerNavStyle" class="expand-header expand-3-bars expand-even-lines expand-active-cross" type="button" aria-expanded="false" aria-label="">
+                        <span>Menu</span>
+                    </button>
+                    <!--// Expand -->
+
+                <!-- Main navigation -->
+                        <nav aria-label="" class="main nav-dropdown navigation-dropdown-bg navigation-dropdown-bg-solid">
+        <ul >
+                    <li  class="has-child ">
+                        <span>
+                            <a href="/destinations/"  >
+                                Destinations
+                            </a>
+                        </span>
+
+                            <button class="expand-subpages" type="button" aria-expanded="false" aria-label=" Destinations">
+                                <span aria-hidden="true"> Destinations</span>
+                            </button>
+                            <ul class="Destinations">
+                                <div class="mega-menu">
+                                    <div class="mega-box-content">
+                                            <div class="mega-box-details">
+                                                <header>United Kingdom</header>
+
+                                                    <ul class="mega-links">
+                                                            <li>
+                                                                <a href="/destinations/united-kingdom/london-canary-wharf/"  >
+                                                                    London - Canary Wharf
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="/destinations/united-kingdom/birmingham/"  >
+                                                                    Birmingham
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="/destinations/united-kingdom/leeds/"  >
+                                                                    Leeds
+                                                                </a>
+
+                                                            </li>
+                                                    </ul>
+                                            </div>
+                                            <div class="mega-box-details">
+                                                <header>Europe</header>
+
+                                                    <ul class="mega-links">
+                                                            <li>
+                                                                <a href="/destinations/europe/dublin/"  >
+                                                                    Dublin
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="/destinations/europe/malta/"  >
+                                                                    Malta
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="#"  >
+                                                                    Paris
+                                                                </a>
+
+                                                                    <ul class="nested-subpages">
+                                                                            <li>
+                                                                                <a href="/destinations/europe/paris/"  >
+                                                                                    International
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/paris-locals/"  >
+                                                                                    Locals
+                                                                                </a>
+                                                                            </li>
+                                                                    </ul>
+                                                            </li>
+                                                            <li>
+                                                                <a href="/destinations/europe/berlin/"  >
+                                                                    Berlin
+                                                                </a>
+
+                                                            </li>
+                                                    </ul>
+                                            </div>
+                                            <div class="mega-box-details">
+                                                <header>North America</header>
+
+                                                    <ul class="mega-links">
+                                                            <li>
+                                                                <a href="#"  >
+                                                                    Toronto
+                                                                </a>
+
+                                                                    <ul class="nested-subpages">
+                                                                            <li>
+                                                                                <a href="/destinations/north-america/toronto/"  >
+                                                                                    International
+                                                                                </a>
+                                                                            </li>
+                                                                            <li>
+                                                                                <a href="/learn-english-french-spanish-portuguese-mandarin-in-toronto/"  >
+                                                                                    Locals
+                                                                                </a>
+                                                                            </li>
+                                                                    </ul>
+                                                            </li>
+                                                    </ul>
+                                            </div>
+                                            <div class="mega-box-details">
+                                                <header>Middle East</header>
+
+                                                    <ul class="mega-links">
+                                                            <li>
+                                                                <a href="/destinations/middle-east/dubai/"  >
+                                                                    Dubai
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="https://www.englishpath.com/destinations/middle-east/riyadh/"  >
+                                                                    Riyadh
+                                                                </a>
+
+                                                            </li>
+                                                    </ul>
+                                            </div>
+                                            <div class="mega-box-details">
+                                                <header>Australia</header>
+
+                                                    <ul class="mega-links">
+                                                            <li>
+                                                                <a href="/destinations/australia/brisbane/"  >
+                                                                    Brisbane
+                                                                </a>
+
+                                                            </li>
+                                                    </ul>
+                                            </div>
+                                    </div>
+                                </div>
+                            </ul>
+                    </li>
+                    <li  class="has-child ">
+                        <span>
+                            <a href="/courses/"  >
+                                Courses
+                            </a>
+                        </span>
+
+                            <button class="expand-subpages" type="button" aria-expanded="false" aria-label=" Courses">
+                                <span aria-hidden="true"> Courses</span>
+                            </button>
+                            <ul class="Courses">
+                                <div class="mega-menu">
+                                    <div class="mega-box-content">
+                                            <div class="mega-box-details">
+                                                <header>Language courses</header>
+
+                                                    <ul class="mega-links">
+                                                            <li>
+                                                                <a href="/courses/general-english/"  >
+                                                                    General English
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="/courses/general-german/"  >
+                                                                    General German
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="/courses/general-french/"  >
+                                                                    General French
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="/paris-locals/"  >
+                                                                    Paris Locals
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="/destinations/middle-east/riyadh/"  >
+                                                                    English in Riyadh
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="/learn-english-french-spanish-portuguese-mandarin-in-toronto/"  >
+                                                                    English, French, Portuguese, Spanish, or Mandarin in Toronto
+                                                                </a>
+
+                                                            </li>
+                                                    </ul>
+                                            </div>
+                                            <div class="mega-box-details">
+                                                <header>Pathway Programme</header>
+
+                                                    <ul class="mega-links">
+                                                            <li>
+                                                                <a href="/courses/pathway-programme/ep-pathways/"  >
+                                                                    EP Pathways
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="/courses/pathway-programme/public-university-in-germany/"  >
+                                                                    Public University in Germany
+                                                                </a>
+
+                                                            </li>
+                                                    </ul>
+                                            </div>
+                                            <div class="mega-box-details">
+                                                <header>Professional Certificates</header>
+
+                                                    <ul class="mega-links">
+                                                            <li>
+                                                                <a href="/courses/professional-certificates/business-management-and-leadership-i-and-ii/"  >
+                                                                    Business Management and Leadership I and II
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="/courses/professional-certificates/certified-digital-marketing-professional/"  >
+                                                                    Certified Digital Marketing Professional
+                                                                </a>
+
+                                                            </li>
+                                                    </ul>
+                                            </div>
+                                            <div class="mega-box-details">
+                                                <header>Special Courses</header>
+
+                                                    <ul class="mega-links">
+                                                            <li>
+                                                                <a href="/courses/special-courses/exam-preparation/"  >
+                                                                    Exam Preparation
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="/courses/special-courses/business-english/"  >
+                                                                    Business English
+                                                                </a>
+
+                                                            </li>
+                                                    </ul>
+                                            </div>
+                                            <div class="mega-box-details">
+                                                <header>Teacher Training</header>
+
+                                                    <ul class="mega-links">
+                                                            <li>
+                                                                <a href="/courses/teacher-training/english-for-teachers/"  >
+                                                                    English For Teachers
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="/courses/teacher-training/celta/"  >
+                                                                    CELTA
+                                                                </a>
+
+                                                            </li>
+                                                    </ul>
+                                            </div>
+                                            <div class="mega-box-details">
+                                                <header>Young Learners</header>
+
+                                                    <ul class="mega-links">
+                                                            <li>
+                                                                <a href="/courses/young-learners-courses/"  >
+                                                                    Young Learner courses
+                                                                </a>
+
+                                                            </li>
+                                                    </ul>
+                                            </div>
+                                            <div class="mega-box-details">
+                                                <header>Work and Study</header>
+
+                                                    <ul class="mega-links">
+                                                            <li>
+                                                                <a href="/courses/work-and-study/work-and-study-programmes/"  >
+                                                                    Work and Study Programmes
+                                                                </a>
+
+                                                            </li>
+                                                            <li>
+                                                                <a href="/courses/work-and-study/volunteering-internship-programme/"  >
+                                                                    Volunteering Internship Programme
+                                                                </a>
+
+                                                            </li>
+                                                    </ul>
+                                            </div>
+                                            <div class="mega-box-details">
+                                                <header>Higher Education Programme</header>
+
+                                                    <ul class="mega-links">
+                                                            <li>
+                                                                <a href="https://gedu.global/" target="_blank" rel="noreferrer noopener"  title="Link will open in a new window/tab" >
+                                                                    Gedu Global Education
+                                                                </a>
+
+                                                            </li>
+                                                    </ul>
+                                            </div>
+                                    </div>
+                                </div>
+                            </ul>
+                    </li>
+                    <li  class="has-child ">
+                        <span>
+                            <a href="/young-learners/"  >
+                                Young Learners
+                            </a>
+                        </span>
+
+                            <button class="expand-subpages" type="button" aria-expanded="false" aria-label=" Young Learners">
+                                <span aria-hidden="true"> Young Learners</span>
+                            </button>
+        <ul >
+                    <li  class="has-child ">
+                        <span>
+                            <a href="javascript:void(0);"  >
+                                United Kingdom
+                            </a>
+                        </span>
+
+                            <button class="expand-subpages" type="button" aria-expanded="false" aria-label=" United Kingdom">
+                                <span aria-hidden="true"> United Kingdom</span>
+                            </button>
+        <ul >
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/young-learners-london-greenford/"  >
+                                London Greenford
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/young-learners-middlesex/"  >
+                                London Middlesex
+                            </a>
+                        </span>
+
+                    </li>
+        </ul>
+                    </li>
+                    <li  class="has-child ">
+                        <span>
+                            <a href="javascript:void(0);"  >
+                                Europe
+                            </a>
+                        </span>
+
+                            <button class="expand-subpages" type="button" aria-expanded="false" aria-label=" Europe">
+                                <span aria-hidden="true"> Europe</span>
+                            </button>
+        <ul >
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/young-learners-malta/"  >
+                                Malta
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/young-learners-paris/"  >
+                                Paris
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/young-learners-dublin/"  >
+                                Dublin
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/young-learners-berlin/"  >
+                                Berlin
+                            </a>
+                        </span>
+
+                    </li>
+        </ul>
+                    </li>
+                    <li  class="has-child ">
+                        <span>
+                            <a href="javascript:void(0);"  >
+                                North America
+                            </a>
+                        </span>
+
+                            <button class="expand-subpages" type="button" aria-expanded="false" aria-label=" North America">
+                                <span aria-hidden="true"> North America</span>
+                            </button>
+        <ul >
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/young-learners-toronto/"  >
+                                Toronto
+                            </a>
+                        </span>
+
+                    </li>
+        </ul>
+                    </li>
+                    <li  class="has-child ">
+                        <span>
+                            <a href="javascript:void(0);"  >
+                                Middle East
+                            </a>
+                        </span>
+
+                            <button class="expand-subpages" type="button" aria-expanded="false" aria-label=" Middle East">
+                                <span aria-hidden="true"> Middle East</span>
+                            </button>
+        <ul >
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/young-learners-dubai/"  >
+                                Dubai
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/young-learners-riyadh/"  >
+                                Riyadh
+                            </a>
+                        </span>
+
+                    </li>
+        </ul>
+                    </li>
+                    <li  class="has-child ">
+                        <span>
+                            <a href="javascript:void(0);"  >
+                                Australia
+                            </a>
+                        </span>
+
+                            <button class="expand-subpages" type="button" aria-expanded="false" aria-label=" Australia">
+                                <span aria-hidden="true"> Australia</span>
+                            </button>
+        <ul >
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/young-learners-brisbane/"  >
+                                Brisbane
+                            </a>
+                        </span>
+
+                    </li>
+        </ul>
+                    </li>
+        </ul>
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/ep-online/"  >
+                                EP Online
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="has-child ">
+                        <span>
+                            <a href="/student-life/"  >
+                                Student life
+                            </a>
+                        </span>
+
+                            <button class="expand-subpages" type="button" aria-expanded="false" aria-label=" Student life">
+                                <span aria-hidden="true"> Student life</span>
+                            </button>
+        <ul  class="multi-col">
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/student-life/accommodation/"  >
+                                Accommodation
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/student-life/career-and-employability-services/"  >
+                                Career and employability service
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/student-life/epic-experience/"  >
+                                Epic Experience
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/ep-masterclass-programme/"  >
+                                Masterclass programme
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/student-life/neighbourhood-friends/"  >
+                                Neighbourhood friends
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/student-stories/"  >
+                                Student stories
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/student-life/social-activities/"  >
+                                Social programmes
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/student-life/student-welfare/"  >
+                                Student welfare
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/events-list/"  >
+                                Events
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child active">
+                        <span>
+                            <a href="/blog/"  >
+                                Blog
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/frequently-asked-questions/"  >
+                                FAQ
+                            </a>
+                        </span>
+
+                    </li>
+        </ul>
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/search/"  >
+                                Search
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/contact/"  >
+                                Contact
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="has-child ">
+                        <span>
+                            <a href="https://www.englishpath.com/free-language-test/"  >
+                                Free language test
+                            </a>
+                        </span>
+
+                            <button class="expand-subpages" type="button" aria-expanded="false" aria-label=" Free language test">
+                                <span aria-hidden="true"> Free language test</span>
+                            </button>
+        <ul >
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/english-path-initial-placement-test/"  >
+                                English
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/french-initial-placement-b2c/"  >
+                                French
+                            </a>
+                        </span>
+
+                    </li>
+                    <li  class="no-child ">
+                        <span>
+                            <a href="/german-path-initial-placement-test/"  >
+                                German
+                            </a>
+                        </span>
+
+                    </li>
+        </ul>
+                    </li>
+        </ul>
+        </nav>
+
+                <!--// Main navigation -->
+                <!-- Secondary navigation -->
+                        <nav aria-label="" class="secondary nav-dropdown navigation-dropdown-bg navigation-dropdown-bg-solid">
+            <ul>
+                            <li><span><a href="/ep-online/"  >EP Online</a></span></li>
+                            <li><span><a href="/corporate/"  >EP Corporate</a></span></li>
+                            <li><span><a href="/about-us/"  >About us</a></span></li>
+                            <li><span><a href="/join-us/"  >Join us</a></span></li>
+                            <li><span><a href="/blog/"  >Blog</a></span></li>
+                            <li><span><a href="/paying-fees/"  >Paying fees</a></span></li>
+                            <li><span><a href="/frequently-asked-questions/"  >FAQ</a></span></li>
+                            <li><span><a href="/search/"  >Search</a></span></li>
+                            <li><span><a href="https://englishpath.portal.edvisor.io/" target="_blank" rel="noreferrer noopener"  title="Link will open in a new window/tab" >Agent portal</a></span></li>
+                            <li><span><a href="/get-a-quote/"  >Get a Quote</a></span></li>
+
+            </ul>
+        </nav>
+
+                <!--// Secondary navigation -->
+                <!-- CTA Links -->
+                        <nav aria-label="" class="cta-links">
+                    <a class="btn  base-btn-bg base-btn-bg-solid base-btn-bg-hover-solid base-btn-text base-btn-borders" href="https://www.englishpath.com/get-a-quote/#"  >
+                        <span></span>
+                        GET A QUOTE
+                    </a>
+        </nav>
+
+                <!--// CTA Links -->
+                <!-- Site search -->
+            
+                <!--// Site search -->
+
+            </div>
+
+        </div>
+        <div class="progress-container">
+            <div class="progress-bar" id="myBar"></div>
+        </div>
+    </header>
+
+
+        <!--// Header -->
+        <!-- Content -->
+        <main id="site-content" tabindex="-1">
+
+            
+            
+
+
+
+
+
+    <section class="content component usn_cmp_banner base-bg base-bg-solid  " >  
+
+        <div class="component-inner">
+
+
+                                <div class="item item_overlay item_scale-banner  c3-bg c3-bg-solid blog-banner">
+
+                            <div class="image">
+            <picture>
+                    <img class="lazyload " src="/media/m2up312w/group-of-young-happy-friends-visiting-paris-and-ei-2023-11-27-05-08-58-utc.jpg?width=1600&amp;height=533&amp;v=1db2f52dc10bdb0" width="800" height="266" data-srcset="/media/m2up312w/group-of-young-happy-friends-visiting-paris-and-ei-2023-11-27-05-08-58-utc.jpg?width=800&amp;height=266&amp;v=1db2f52dc10bdb0 1x, /media/m2up312w/group-of-young-happy-friends-visiting-paris-and-ei-2023-11-27-05-08-58-utc.jpg?width=1600&amp;height=533&amp;v=1db2f52dc10bdb0 2x" alt="">
+            </picture>
+                            </div>
+
+                            <div class="inner">
+                                <div class="container">
+                                    <!-- ROW -->
+                                    <div class="row text-center justify-content-center info_align-middle">
+
+                                        <div class="info col">
+                                            <div class="d-table">
+
+                                                <div class="d-table-cell">
+
+                                                    <h1 class="heading  c3-heading "  data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s" >French Culture: Food, traditions, fashion, art, and language</h1>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--// ROW -->
+                                </div>
+                            </div>
+                    </div>
+
+
+
+        </div>
+    </section>
+    <section class="content component usn_cmp_splitcomponent base-bg base-bg-solid pt-0 " >  
+
+        <div class="component-inner">
+                    <div class="container">
+
+
+                    <div class="component-main row justify-content-between align-items-center">
+
+                    <div class="item item_block usn_cmp_pods align-self-start col-xl-8 col-md-6 order-md-1 order-1 col-12   blog-main-content mt-4" data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                        
+
+                                <div class="component-main row listing  listing_basic-grid listing-pods " >
+    <div class="item   items-1 col-12 item_text-below usn_pod_textimage text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner   ">
+                    <div class="info ">
+
+                        
+
+                            <div class="text base-text">
+                                <p>When you think of France, what is the first image that comes to your mind? Is it the famous Eiffel Tower with blinking lights at night, the delicious croissants, crepes and baguettes at the cosy cafe, or the sophisticated and passionate French language? While the world-famous landmarks and culinary delights are surely the staples of French culture, many more elements add charm to this Parisian country. Whether you're moving to Paris to study, work, or just simply experience the French way of life, learning about French culture, traditions, and etiquette will help you prepare well for life in Paris. </p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+    <div class="item   items-1 col-12 item_text-below usn_pod_textimage text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner   ">
+                    <div class="info ">
+
+                        <p class="heading lg base-heading " >Take a journey through taste with French culinary traditions</p>
+
+                            <div class="text base-text">
+                                <p>Just like many things in France, even its food is full of art and culinary traditions. They are deeply ingrained in everyday life. After living for a while in Paris, you’ll notice that French people treat meals as special moments to not only enjoy the delicate textures of various cuisines but also to have engaging conversations with friends and family. Meals in France aren’t just about the eating; they are about having an experience and learning how each dish tells a story about the region from which it comes from. Some classic French dishes that you must try are: </p>
+<ul>
+<li>Croissants </li>
+<li>Baguettes </li>
+<li>Crème brûlée </li>
+<li>Cassoulet  </li>
+<li>Coq au vin </li>
+</ul>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+    <div class="item   items-1 col-12 item_text-below usn_pod_textimage text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner   ">
+                    <div class="info ">
+
+                        <p class="heading lg base-heading " >Add the timeless French styles to your wardrobe while in Paris</p>
+
+                            <div class="text base-text">
+                                <p>There’s a reason why Paris is considered the fashion capital of the world. The French take their fashion seriously, whether it's vintage clothes or high-end labels. They prefer clean lines, muted colours and classic pieces that combine art, comfort, and their own unique sense of personal style. Each piece of clothing brings a flare of elegance and confidence in French fashion in their everyday life. During your stay in Paris, if you want, you can also embrace this strong French culture by adding a few well-tailored coats, a simple scarf, and classic shoes to your wardrobe. French fashion is all about timeless style over short bursts of trends, so don’t stress too much on getting it right. Wear what you like and feel confident and comfortable in. </p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+    <div class="item   items-1 col-12 item_text-below usn_pod_textimage text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner   ">
+                    <div class="info ">
+
+                        <p class="heading lg base-heading " >Discover the rich and cultural art scene in Paris</p>
+
+                            <div class="text base-text">
+                                <p><img src="/media/js2j1w3n/silhouetted-tourists-at-louvre-museum-paris-fran-2024-06-07-20-49-17-utc.jpg" alt=""></p>
+<p>Art is a huge part of French culture and is ingrained into everyday life. Even the streets of Paris are filled with art and artists inspired by some of the world’s most renowned artists, such as Edgar Degas, an impressionist artist in the 1800s, Auguste Rodin, famous for thought-provoking sculptures, and Édouard Manet, known as the father of modern art. You can visit the Louvre Museum, Musée d'Art Moderne de Paris, and Musée d'Orsay, where you can view works by artists like Da Vinci and Van Gogh and immerse yourself in the country’s rich history and creativity reflected through French art. Every corner of Paris tells a story and serves as an inspiration for art enthusiasts. Being in Paris allows you to witness this expressive culture firsthand. </p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+    <div class="item   items-1 col-12 item_text-below usn_pod_textimage text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner   ">
+                    <div class="info ">
+
+                        <p class="heading lg base-heading " >Embrace the French traditions to experience the Parisian lifestyle</p>
+
+                            <div class="text base-text">
+                                <p>French culture is steeped in tradition. By learning about their traditions and what is important to them will help you understand social norms and experience Parisian life firsthand. French people like their holidays. From celebrating national holidays like Bastille Day and Fête de la Musique to participating in local events, there's always some kind of celebration happening in Paris. These celebrations are held on a grand scale, yet they remain intimate at the same time. People attend social gatherings but end the day with hearty meals at home with their families. You will notice that French people maintain a balance between work and leisure. They have adopted a more laid-back approach, and learning about these social norms and French etiquette will help you avoid any cultural misunderstandings or faux pas as the French call it. </p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+    <div class="item   items-1 col-12 item_text-below usn_pod_textimage text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner   ">
+                    <div class="info ">
+
+                        <p class="heading lg base-heading " >Immerse yourself in the French culture with elegant French skills</p>
+
+                            <div class="text base-text">
+                                <p>While French culture is fascinating and mesmerising, it is their language that will help you connect with Parisians and have unforgettable experiences. It is said that French is a Romance language derived from Latin. People also say that it is beautifully expressive and carries a deep sense of history with it. Improving your French skills will help you understand the culture on a much deeper level and appreciate the elegance that is seen throughout French culture. You can <strong><a rel="noopener" href="/destinations/europe/paris/" target="_blank">learn French in Paris</a> </strong>with EP Paris, a language school respected for their comprehensive and engaging French courses. Located in the heart of Paris, it gives you an amazing opportunity to improve your French language skills and connect with the culture around you. </p>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+                        <div class="item usn_pod_accordiontab items-1 col-12 ">
+                            <div class="inner">
+                                <p class="heading lg base-heading "  data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s" >Frequently asked questions about French culture</p>            <div class="repeatable accordion tab-basic " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                        <p class="tab ">
+                            <a class="nav-link nav-button-link " data-toggle="collapse" href="#collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_1" aria-controls="collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_1" aria-expanded="true" role="button">
+                                Q1. What is the French culture famous for? 
+                            </a>
+                        </p>
+                        <div id="collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_1" class="info repeatable-content collapse  show">
+                            <div class="text"><p>The French are famous for their elegant and sophisticated fashion, delicate and refined taste palate, and for their love of the arts and entertainment.</p></div>
+                        </div>
+                        <p class="tab ">
+                            <a class="nav-link nav-button-link " data-toggle="collapse" href="#collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_2" aria-controls="collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_2" aria-expanded="true" role="button">
+                                Q2. What makes French art so important in French culture? 
+                            </a>
+                        </p>
+                        <div id="collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_2" class="info repeatable-content collapse  show">
+                            <div class="text"><p>France, as a nation, has a long history of world-famous artists who have used their art as a form of self-expression and innovation. This form of creativity has ingrained itself into French culture and traditions. </p></div>
+                        </div>
+                        <p class="tab ">
+                            <a class="nav-link nav-button-link " data-toggle="collapse" href="#collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_3" aria-controls="collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_3" aria-expanded="true" role="button">
+                                Q3. What are some famous traditional dishes in France?
+                            </a>
+                        </p>
+                        <div id="collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_3" class="info repeatable-content collapse  show">
+                            <div class="text"><div class="OutlineElement Ltr SCXW152672962 BCX0">
+<p>Some of the most renowned traditional French dishes you can enjoy while in Paris are: </p>
+<ul>
+<li>Coq au vin (Rooster with wine) </li>
+<li>Soupe a l'ognion (Onion soup) </li>
+<li>Boeuf Bourguignon (Beef stew)  </li>
+<li>Tarte Tatin (Apple Pie) </li>
+<li>Bouillabaisse (Fish soup) </li>
+<li>Ratatouille (Vegetable stew) </li>
+<li>Macarons (French biscuit) </li>
+</ul>
+</div></div>
+                        </div>
+                        <p class="tab ">
+                            <a class="nav-link nav-button-link " data-toggle="collapse" href="#collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_4" aria-controls="collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_4" aria-expanded="true" role="button">
+                                Q4. What is the official language of France? 
+                            </a>
+                        </p>
+                        <div id="collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_4" class="info repeatable-content collapse  show">
+                            <div class="text"><p>French is the official language of France and the primary mode of communication across the country. If you are planning a visit to this beautiful country, it would be a good idea to learn French. You can check out French courses offered by EP Paris for all levels and backgrounds to improve your language skills. </p></div>
+                        </div>
+                        <p class="tab ">
+                            <a class="nav-link nav-button-link " data-toggle="collapse" href="#collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_5" aria-controls="collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_5" aria-expanded="true" role="button">
+                                Q5. What is some French etiquette I should know? 
+                            </a>
+                        </p>
+                        <div id="collapse_9cecec5d-aab6-4d12-a0a2-f58cc94dd058_5" class="info repeatable-content collapse  show">
+                            <div class="text"><p>Some of the most common customs reflecting French etiquette you should be aware of before visiting Paris are: </p>
+<ul>
+<li>French people are extremely polite. They greet each other with a handshake or a kiss on the cheek. </li>
+<li>When having dinner with a group of people, don’t start eating until each person at the table has a full glass of any beverage in front of them. </li>
+<li>Always remember to say ‘please’ (s'il vous plaît) and ‘thank you’ (merci) in French. </li>
+<li>French people enjoy a relaxed and slow lifestyle, even at work, so don’t be in a hurry and if you are, try not to make it too evident. </li>
+</ul></div>
+                        </div>
+            </div>
+
+                            </div>
+                        </div>
+        </div>
+
+                        
+
+                    </div>
+
+                    <div class="item item_block usn_cmp_pods align-self-start col-xl-4 col-md-6 order-md-2 order-2 col-12  sticky blog-form" data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                        
+
+                                <div class="component-main row listing  listing_basic-grid listing-pods " >
+                        <div class="item usn_pod_code items-1 col-12 ">
+                            <div class="inner">
+                                    <div class="code-item " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+        <div id="zf_div_QZPVdsR9Hxw0ie8Rd64TwXsla6hTPW_sGE10FHy4v4Y"></div><script type="text/javascript">(function() {
+try{
+var f = document.createElement("iframe");
+f.src = 'https://forms.zohopublic.com/caseworker1/form/EPBlogEnquiryForm/formperma/QZPVdsR9Hxw0ie8Rd64TwXsla6hTPW_sGE10FHy4v4Y?zf_rszfm=1';
+f.style.border="none";
+f.style.height="594px";
+f.style.width="100%";
+f.style.transition="all 0.5s ease";
+f.setAttribute("aria-label", 'Have\x20a\x20Query\x3F');
+ 
+var d = document.getElementById("zf_div_QZPVdsR9Hxw0ie8Rd64TwXsla6hTPW_sGE10FHy4v4Y");
+d.appendChild(f);
+window.addEventListener('message', function (){
+var evntData = event.data;
+if( evntData && evntData.constructor == String ){
+var zf_ifrm_data = evntData.split("|");
+if ( zf_ifrm_data.length == 2 ) {
+var zf_perma = zf_ifrm_data[0];
+var zf_ifrm_ht_nw = ( parseInt(zf_ifrm_data[1], 10) + 15 ) + "px";
+var iframe = document.getElementById("zf_div_QZPVdsR9Hxw0ie8Rd64TwXsla6hTPW_sGE10FHy4v4Y").getElementsByTagName("iframe")[0];
+if ( (iframe.src).indexOf('formperma') > 0 && (iframe.src).indexOf(zf_perma) > 0 ) {
+var prevIframeHeight = iframe.style.height;
+if ( prevIframeHeight != zf_ifrm_ht_nw ) {
+iframe.style.height = zf_ifrm_ht_nw;
+}
+}
+}
+}
+}, false);
+}catch(e){}
+})();</script>
+    </div>
+
+                            </div>
+                        </div>
+        </div>
+
+                        
+
+                    </div>
+
+        </div>
+
+
+
+                    </div>
+        </div>
+    </section>
+
+
+    <section class="content component meta-author-comments base-bg base-bg-solid pt-0 mt-0">
+        <div class="container">
+            <div class="row justify-content-center">
+
+                <div class="content-col center-col col">
+
+                    <!-- Meta -->
+                    <section class="content component meta base-bg">
+
+                        <p class="date base-text"><time>04 Nov 2024</time></p>
+                        
+            <div class="categories base-text">
+                <ul>
+                            <li>
+                                <a href="/blog/french-learning/" title="French Learning" rel="NOINDEX, FOLLOW">French Learning</a>
+                            </li>
+                </ul>
+            </div>
+
+
+                    </section>
+                    <!--// Meta -->
+
+                    
+
+                    
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+            
+
+        </main>
+        <!--// Content -->
+        <!-- Footer -->
+                    <footer id="site-footer" class="footer-bg footer-bg-solid" tabindex="-1">
+
+                <!-- Breadcrumb -->
+                        <section class="breadcrumb-trail">
+            <div class="container">
+                <nav aria-label="">
+                    <ol class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
+                            <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name"><i class="icon before"></i>English Path</span></a><meta itemprop="position" content="1" /></li>
+                            <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/blog/" itemtype="https://schema.org/Thing" itemprop="item"><span itemprop="name"><i class="icon before"></i>Blog</span></a><meta itemprop="position" content="2" /></li>
+
+                            <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="breadcrumb-item active" aria-current="page"><span itemprop="name"><i class="icon before"></i>French Culture: Food, traditions, fashion, art, and language</span><meta itemprop="position" content="3" /></li>
+                    </ol>
+                </nav>
+            </div>
+        </section>
+
+                <!--// Breadcrumb -->
+
+                <div class="container">
+
+                        <!-- Row -->
+                        <div class="row listing">
+
+    <div class="item  footer-item   col-lg-4 col-md-4 col-12 col  item_text-below usn_pod_textimage text-left  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+            <div class="inner  ">
+                    <div class="info ">
+
+                        
+
+                            <div class="text footer-text">
+                                <div class="row">
+<div class="col-4">
+<div class="footer-logo-image" style="background-color: #1f2a44;"><a href="/"> <img src="/media/teagbcbw/ep-logo-white.svg" alt="English Path logo"> </a></div>
+</div>
+</div>
+<div style="margin-top: 40px;"><span class="c1-text heading">Follow us:</span></div>
+<div class="footer-socials"><a style="color: #10375c;" rel="dofollow noopener" href="https://www.facebook.com/englishpathschools/" target="_blank"> <img src="/media/ju0htnf0/facebook.svg" alt="English Path facebook"></a> <a style="color: #10375c;" rel="dofollow noopener" href="https://www.instagram.com/englishpathschools/" target="_blank"> <img src="/media/rkajr4fp/instagram.svg" alt="English Path Instagram profile"></a> <a style="color: #10375c;" rel="dofollow noopener" href="https://www.youtube.com/channel/UCfS_w6LbOv-mEGZ74UVdoaw" target="_blank"> <img src="/media/k24cu5ho/youtube.svg" alt="English Path YouTube channel"></a> <a style="color: #10375c;" rel="dofollow noopener" href="https://www.tiktok.com/@epschools" target="_blank"> <img src="/media/wcmhu4uj/tiktok.svg" alt="English Path TikTok account"></a> <a style="color: #10375c;" rel="dofollow noopener" href="https://www.linkedin.com/company/englishpathschools" target="_blank"> <img src="/media/o1sdcfka/linkedin-in.svg" alt="English Path LinkedIn page"></a></div>
+<div class="info">
+<p> </p>
+<p>Tel: (+44) 759 841 4651<br><br>Email: <a href="mailto:info@englishpath.com">info@englishpath.com</a></p>
+<p>Contact us via WhatsApp: <a href="https://wa.link/yex08f">+353 83 205 8406</a></p>
+</div>
+                            </div>
+
+                    </div>
+            </div>
+    </div>
+                                        <div class="item footer-item usn_pod_links   col-lg-2 col-md-3 col-12 col ">
+                                                <div class="inner">
+                                                    <p class="heading  footer-heading "  data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s" >Destinations <br>and schools</p>        <div class="component-main row listing listing_links listing_links-mini " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="/destinations/united-kingdom/"  >
+
+United Kingdom                                        <!--<i class="icon usn_ion-md-link footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="/destinations/europe/"  >
+
+Europe                                        <!--<i class="icon usn_ion-md-link footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="/destinations/north-america/"  >
+
+North America                                        <!--<i class="icon usn_ion-md-link footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="/destinations/middle-east/"  >
+
+Middle East                                        <!--<i class="icon usn_ion-md-link footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="/destinations/australia/"  >
+
+Australia                                        <!--<i class="icon usn_ion-md-link footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+        </div>
+
+                                                </div>
+                                        </div>
+                                        <div class="item footer-item usn_pod_links   col-lg-3 col-md-3 col-12 col ">
+                                                <div class="inner">
+                                                    <p class="heading  footer-heading "  data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s" >Quick links</p>        <div class="component-main row listing listing_links listing_links-mini " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="https://englishpath.portal.edvisor.io/"  title="Link will open in a new window/tab"  target="_blank" rel="noreferrer noopener">
+
+Agent portal                                        <!--<i class="icon usn_ion-md-open footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="/corporate/"  >
+
+EP Corporate                                        <!--<i class="icon usn_ion-md-link footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="/become-a-partner/"  >
+
+Become a partner                                        <!--<i class="icon usn_ion-md-link footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="/become-a-host-family/"  >
+
+Become a host                                        <!--<i class="icon usn_ion-md-link footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="/frequently-asked-questions/"  >
+
+FAQ                                        <!--<i class="icon usn_ion-md-link footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+        </div>
+
+                                                </div>
+                                        </div>
+                                        <div class="item footer-item usn_pod_links   col-lg-3 col-md-3 col-12 col ">
+                                                <div class="inner">
+                                                    <p class="heading  footer-heading "  data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s" >About us</p>        <div class="component-main row listing listing_links listing_links-mini " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="/about-us/"  >
+
+About                                        <!--<i class="icon usn_ion-md-link footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="https://www.englishpath.com/accreditation/"  >
+
+Accreditations                                        <!--<i class="icon usn_ion-md-open footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="/careers/"  >
+
+Careers                                        <!--<i class="icon usn_ion-md-link footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="/join-us/"  >
+
+Join us                                        <!--<i class="icon usn_ion-md-link footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+                            <!-- Item -->
+                            <div class="item items-1 item_links col-12  " data-os-animation="fadeIn" data-os-animation-delay="0s" data-os-animation-duration="1.2s">
+                                <a href="/paying-fees/"  >
+
+Paying fees                                        <!--<i class="icon usn_ion-md-link footer-highlight after"></i>-->
+                                </a>
+                            </div>
+                            <!--// Item -->
+        </div>
+
+                                                </div>
+                                        </div>
+
+                        </div>
+                        <!--// Row -->
+                    <!-- Row -->
+                    <div class="row">
+
+                        <div class="col">
+                            <nav aria-label="" class="footer-navigation">
+                                <ul class="copyright-text">
+                                    <li><div>Copyright &copy; 2026 English Path</div></li>
+                                </ul>
+                                <ul class="footer-navigation-list">
+                                                    <li><span><a href="/policies-and-procedures/"  >Our Policies & Terms and Conditions</a></span></li>
+
+                                    <!--<li class="site-credit">-->
+                                    <!--    <div>Made with </div>-->
+                                    <!--    <span><a target="_blank" rel="noopener" title="Link will open in a new window/tab" href="http://www.uskinned.net">uSkinned</a></span>-->
+                                    <!--</li>-->
+                                </ul>
+                            </nav>
+                        </div>
+
+                    </div>
+                    <!--// Row -->
+
+                            <!-- Back to top -->
+        <div class="usn_back-to-top position-left">
+            <button id="back-to-top-link" aria-label="Back to top" class="btn base-btn-bg base-btn-bg base-btn-bg-solid base-btn-bg-hover-solid base-btn-text base-btn-borders btn-back-to-top">
+                <span></span>
+                <i aria-hidden="true" class="icon"></i><span aria-hidden="true" class="d-none">Back to top</span>
+            </button>
+        </div>
+        <!--// Back to top -->
+
+
+                </div>
+            </footer>
+
+        <!--// Footer -->
+
+    </div>
+    <!--// Site -->
+
+    
+    
+
+
+
+
+<script src="/sb/sitebuilder-js-bundle.js.v1" type="text/javascript"></script>
+
+    <script type="text/javascript" src="/uSkinned/scripts/generated/c714d682-3208-4a5e-8269-505215d7ade3.js?version=639002471599830000"></script>
+
+
+
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W4BKZCJZ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<script type="text/javascript"> 
+function ZFAdvLead(){
+}
+ZFAdvLead.utmPValObj = ZFAdvLead.utmPValObj || {};
+
+ZFAdvLead.utmPNameArr = new Array('utm_source','utm_medium','utm_campaign','utm_term','utm_content');ZFAdvLead.utmcustPNameArr = new Array();ZFAdvLead.isSameDomian = false;
+
+ZFAdvLead.prototype.zfautm_sC = function( paramName,path,domain,secure ){
+  var value = ZFAdvLead.utmPValObj[paramName];
+  if ( typeof value !== "undefined" && value !== null ){
+    var cookieStr = paramName + "=" + encodeURIComponent( value );
+    var exdate=new Date();
+    exdate.setDate(exdate.getDate()+7);
+    cookieStr += "; expires=" + exdate.toGMTString();
+    cookieStr += "; path=/";
+    if ( domain ) {
+      cookieStr += "; domain=" + encodeURIComponent( domain );
+    }
+    if ( secure ) {
+      cookieStr += "; secure";
+    }
+    document.cookie = cookieStr;
+  }
+};
+ZFAdvLead.prototype.zfautm_ini = function (){
+  this.zfautm_bscPCap();
+  var url_search = document.location.search;
+  for (var i = 0; i < ZFAdvLead.utmcustPNameArr.length ; i ++){
+    var zf_pN = ZFAdvLead.utmcustPNameArr[i];
+    var zf_pV;
+    if ( zf_pN == 'referrername' ) {
+      zf_pV = ( document.URL || '' ).slice( 0, 1500 );
+    } else {
+      zf_pV = this.zfautm_gP(url_search, zf_pN);
+      if (zf_pV == undefined || zf_pV == ''){
+          zf_pV = this.zfautm_gC(zf_pN);
+      }
+    }
+    if ( typeof zf_pV !== "undefined" && zf_pV !== null & zf_pV != "" ) {
+      ZFAdvLead.utmPValObj[ zf_pN ] = zf_pV;
+    }
+  }
+  for (var pkey in ZFAdvLead.utmPValObj) {
+    this.zfautm_sC(pkey);
+  }
+};
+ZFAdvLead.prototype.zfautm_bscPCap = function () {
+  var trafSrc = this.zfautm_calcTrafSrc();
+  if ( trafSrc.source != "" ) {
+    ZFAdvLead.utmPValObj.utm_source = trafSrc.source;
+  }
+  if ( trafSrc.medium != "" ) {
+    ZFAdvLead.utmPValObj.utm_medium = trafSrc.medium;
+  }
+  if ( trafSrc.campaign != "" ) {
+    ZFAdvLead.utmPValObj.utm_campaign = trafSrc.campaign;
+  }
+  if ( trafSrc.term != "" ) {
+    ZFAdvLead.utmPValObj.utm_term = trafSrc.term;
+  }
+  if ( trafSrc.content != "" ) {
+    ZFAdvLead.utmPValObj.utm_content = trafSrc.content;
+  }
+}
+ZFAdvLead.prototype.zfautm_calcTrafSrc = function() {
+  var u1='', u2='', u3='', u4='', u5='';
+  var search_engines = [['bing', 'q'], ['google', 'q'], ['yahoo', 'q'], ['baidu', 'q'], ['yandex', 'q'], ['ask', 'q']]; //List of search engines 
+  var ref = document.referrer;
+  ref = ref.substr(ref.indexOf('//')+2);
+  ref_domain = ref;
+  ref_path = '/';
+  ref_search = '';
+
+  // Checks for campaign parameters
+  var url_search = document.location.search;
+  if(url_search.indexOf('utm_source') > -1 || url_search.indexOf('utm_medium') > -1 || url_search.indexOf('utm_campaign') > -1 || url_search.indexOf('utm_term') > -1 || url_search.indexOf('utm_content') > -1) {
+    u1 = this.zfautm_gP(url_search, 'utm_source'); 
+    u2 = this.zfautm_gP(url_search, 'utm_medium'); 
+    u3 = this.zfautm_gP(url_search, 'utm_campaign'); 
+    u4 = this.zfautm_gP(url_search, 'utm_term'); 
+    u5 = this.zfautm_gP(url_search, 'utm_content'); 
+  } else if ( this.zfautm_gP(url_search, 'gclid')) {
+    u1 = 'Google Ads'; 
+    u2 = 'cpc'; 
+    u3 = '(not set)'; 
+    if ( !ZFAdvLead.utmcustPNameArr.includes('gclid') ) {
+      ZFAdvLead.utmcustPNameArr.push('gclid');
+    }
+  } else if(ref) {
+    var r_u1 = this.zfautm_gC('utm_source'); 
+    var r_u2 = this.zfautm_gC('utm_medium'); 
+    var r_u3 = this.zfautm_gC('utm_campaign'); 
+    var r_u4 = this.zfautm_gC('utm_term'); 
+    var r_u5 = this.zfautm_gC('utm_content'); 
+    if ( typeof r_u1 === "undefined" && typeof r_u2 === "undefined" && typeof r_u3 === "undefined" && typeof r_u4 === "undefined" && typeof r_u5 === "undefined") {
+      // separate domain, path and query parameters
+      if (ref.indexOf('/') > -1) {
+        ref_domain = ref.substr(0,ref.indexOf('/'));
+        ref_path = ref.substr(ref.indexOf('/'));
+        if (ref_path.indexOf('?') > -1) {
+          ref_search = ref_path.substr(ref_path.indexOf('?'));
+          ref_path = ref_path.substr(0, ref_path.indexOf('?'));
+        }
+      }
+      u2 = 'referral'; 
+      u1 = ref_domain;                    
+    // Extract term for organic source
+      for (var i=0; i<search_engines.length; i++){
+        if(ref_domain.indexOf(search_engines[i][0]) > -1){
+          u2 = 'organic'; 
+          u1 = search_engines[i][0];
+          u4 = this.zfautm_gP(ref_search, search_engines[i][1]) || '(not provided)';
+          break;
+        }
+      }
+    } else {
+      if ( typeof r_u1 !== "undefined" ) {
+        u1 = r_u1;
+      }
+      if ( typeof r_u2 !== "undefined" ) {
+          u2 = r_u2;
+      }
+      if ( typeof r_u3 !== "undefined" ) {
+        u3 = r_u3;
+      }
+      if ( typeof r_u4 !== "undefined" ) {
+        u4 = r_u4;
+      }
+      if ( typeof r_u5 !== "undefined" ) {
+        u5 = r_u5;
+      }
+    }
+  } else {
+    var r_u1 = this.zfautm_gC('utm_source'); 
+    var r_u2 = this.zfautm_gC('utm_medium'); 
+    var r_u3 = this.zfautm_gC('utm_campaign'); 
+    var r_u4 = this.zfautm_gC('utm_term'); 
+    var r_u5 = this.zfautm_gC('utm_content'); 
+    if ( typeof r_u1 === "undefined" && typeof r_u2 === "undefined" && typeof r_u3 === "undefined" && typeof r_u4 === "undefined" && typeof r_u5 === "undefined") {
+      var locRef = document.URL;
+      locRef = locRef.substr(locRef.indexOf('//')+2);
+      if (locRef.indexOf('/') > -1) {
+        locRef = locRef.substr(0,locRef.indexOf('/'));
+      }
+      u1 = locRef;
+      u2 = 'referral'; 
+    } else {
+      if ( typeof r_u1 !== "undefined" ) {
+        u1 = r_u1;
+      }
+      if ( typeof r_u2 !== "undefined" ) {
+        u2 = r_u2;
+      }
+      if ( typeof r_u3 !== "undefined" ) {
+        u3 = r_u3;
+      }
+      if ( typeof r_u4 !== "undefined" ) {
+        u4 = r_u4;
+      }
+      if ( typeof r_u5 !== "undefined" ) {
+        u5 = r_u5;
+      }
+    }
+  }
+  return {
+    'source'  : u1, 
+    'medium'  : u2, 
+    'campaign': u3, 
+    'term'    : u4, 
+    'content' : u5 
+  };
+}
+ZFAdvLead.prototype.zfautm_gP = function(s, q) {
+  try{
+      var match = s.match('[?&]' + q + '=([^&]+)');
+      return match ? decodeURIComponent(match[1]) : '';
+  } catch(e){
+    return '';  
+  }
+}
+ZFAdvLead.prototype.zfautm_gC = function( cookieName ){
+  var cookieArr = document.cookie.split('; ');
+  for ( var i = 0 ; i < cookieArr.length ; i ++ ){
+    var cookieVals = cookieArr[i].split('=');
+      if ( cookieVals[0] === cookieName && cookieVals[1] ) {
+        return decodeURIComponent(cookieVals[1]);
+      }
+  }
+};
+ZFAdvLead.prototype.zfautm_gC_enc = function( cookieName ){
+  var cookieArr = document.cookie.split('; ');
+  for ( var i = 0 ; i < cookieArr.length ; i ++ ){
+    var cookieVals = cookieArr[i].split('=');
+      if ( cookieVals[0] === cookieName && cookieVals[1] ) {
+        return cookieVals[1];
+      }
+  }
+};
+ZFAdvLead.prototype.zfautm_iframeSprt = function () {
+  var zf_frame = document.getElementsByTagName("iframe");
+  for(var i = 0; i < zf_frame.length; ++i){
+    if((zf_frame[i].src).indexOf('formperma') > 0 ){
+      var zf_src = zf_frame[i].src;
+      for( var prmIdx = 0 ; prmIdx < ZFAdvLead.utmPNameArr.length ; prmIdx ++ ) {
+        var utmPm = ZFAdvLead.utmPNameArr[ prmIdx ];
+        utmPm = ( ZFAdvLead.isSameDomian && ( ZFAdvLead.utmcustPNameArr.indexOf(utmPm) == -1 ) ) ? "zf_" + utmPm : utmPm;
+        var utmVal = this.zfautm_gC_enc( ZFAdvLead.utmPNameArr[ prmIdx ] );
+        if ( typeof utmVal !== "undefined" ) {
+          if ( utmVal != "" ){
+            if(zf_src.indexOf('?') > 0){
+              zf_src = zf_src+'&'+utmPm+'='+ utmVal;
+            }else{
+              zf_src = zf_src+'?'+utmPm+'='+ utmVal;
+            }
+          }
+        }
+      }
+      if ( zf_frame[i].src.length < zf_src.length ) {
+        zf_frame[i].src = zf_src;
+      }
+    }
+  }
+};
+ZFAdvLead.prototype.zfautm_DHtmlSprt = function () {
+  var zf_formsArr = document.forms;
+  for ( var frmInd = 0 ; frmInd < zf_formsArr.length ; frmInd ++ ) {
+    var zf_form_act = zf_formsArr[frmInd].action;
+      if ( zf_form_act && zf_form_act.indexOf('formperma') > 0 ){
+        for( var prmIdx = 0 ; prmIdx < ZFAdvLead.utmPNameArr.length ; prmIdx ++ ) {
+          var utmPm = ZFAdvLead.utmPNameArr[ prmIdx ];
+          var utmVal = this.zfautm_gC( ZFAdvLead.utmPNameArr[ prmIdx ] );
+          if ( typeof utmVal !== "undefined" ) {
+            if ( utmVal != "" ) {
+              var fieldObj = zf_formsArr[frmInd][utmPm];
+            if ( fieldObj ) {
+              fieldObj.value = utmVal;
+            }
+          }
+        }
+      }
+    }
+  }
+};
+ZFAdvLead.prototype.zfautm_jsEmbedSprt = function ( id ) {
+  document.getElementById('zforms_iframe_id').removeAttribute("onload");
+  var jsEmbdFrm = document.getElementById("zforms_iframe_id");
+  var embdSrc = jsEmbdFrm.src;
+  for( var prmIdx = 0 ; prmIdx < ZFAdvLead.utmPNameArr.length ; prmIdx ++ ) {
+    var utmPm = ZFAdvLead.utmPNameArr[ prmIdx ];
+    utmPm = ( ZFAdvLead.isSameDomian && ( ZFAdvLead.utmcustPNameArr.indexOf(utmPm) == -1 ) ) ? "zf_" + utmPm : utmPm;
+    var utmVal = this.zfautm_gC_enc( ZFAdvLead.utmPNameArr[ prmIdx ] );
+    if ( typeof utmVal !== "undefined" ) {
+      if ( utmVal != "" ) {
+        if(embdSrc.indexOf('?') > 0){
+                    embdSrc = embdSrc+'&'+utmPm+'='+utmVal;
+        }else{
+            embdSrc = embdSrc+'?'+utmPm+'='+utmVal;
+        }
+      }
+    }
+  }
+  jsEmbdFrm.src = embdSrc;
+};
+var zfutm_zfAdvLead = new ZFAdvLead();
+zfutm_zfAdvLead.zfautm_ini();
+if( document.readyState == "complete" ){
+    zfutm_zfAdvLead.zfautm_iframeSprt();
+    zfutm_zfAdvLead.zfautm_DHtmlSprt();
+} else {
+  window.addEventListener('load', function (){
+        zfutm_zfAdvLead.zfautm_iframeSprt();
+        zfutm_zfAdvLead.zfautm_DHtmlSprt();
+  }, false);
+}
+</script>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    let lang = document.documentElement.lang;
+    setTimeout(() => new MutationObserver(m => m[0].attributeName === "lang" && lang !== (lang = document.documentElement.lang) && location.reload())
+        .observe(document.documentElement, { attributes: true, attributeFilter: ["lang"] }), 3000);
+});
+
+</script>
+
+
+
+<script>
+/*
+------------------------------------------------------------
+🌍 GEO-REDIRECT SCRIPT for Umbraco (uSkins Builder)
+✅ Redirects ONLY once per browsing session (first homepage visit)
+✅ Works only for Paris / Toronto
+✅ Allows full navigation afterward (no repeat redirects)
+✅ No redirect for bots or non-target cities
+✅ Overlay hidden (no visible flicker)
+------------------------------------------------------------
+*/
+(function() {
+  const cityMap = [
+    { keywords: ['paris'], slug: '/paris-english' },
+    { keywords: ['toronto'], slug: '/learn-english-french-spanish-portuguese-mandarin-in-toronto' },
+  ];
+
+  // ✅ 1. Redirect only from homepage (/ or /home)
+  const path = window.location.pathname.replace(/\/+$/, '');
+  const isHome = path === '' || path === '/' || path === '/home';
+  if (!isHome) return; // Only run redirect logic on homepage
+
+  // ✅ 2. Check if user already redirected in this session
+  if (sessionStorage.getItem('geo_redirect_done') || location.search.includes('noredirect=1')) return;
+
+  // ✅ 3. Skip bots
+  const bots = ['Googlebot', 'Bingbot', 'Slurp', 'DuckDuckBot', 'Baiduspider', 'Yandex'];
+  if (bots.some(b => navigator.userAgent.includes(b))) return;
+
+  // ✅ 4. Add invisible overlay to prevent flicker (hidden, no text)
+  const overlay = document.createElement('div');
+  overlay.style.cssText = 'position:fixed;inset:0;background:#fff;z-index:9999;opacity:0;';
+  document.body.appendChild(overlay);
+
+  // ✅ 5. Fetch city (with 500ms timeout fallback)
+  const timeout = new Promise(resolve => setTimeout(() => resolve({ city: null }), 500));
+  const fetchCity = fetch('https://ipapi.co/json/')
+    .then(r => r.json())
+    .catch(() => ({ city: null }));
+
+  Promise.race([fetchCity, timeout]).then(data => {
+    overlay.remove();
+    const city = (data.city || '').toLowerCase();
+    if (!city) return;
+
+    // ✅ 6. Match target city and redirect if applicable
+    for (const item of cityMap) {
+      if (item.keywords.some(kw => city.includes(kw))) {
+
+        // ✅ 7. Mark as redirected for this session
+        sessionStorage.setItem('geo_redirect_done', 'true');
+
+        // ✅ 8. Redirect only if not already on that target page
+        if (!window.location.pathname.includes(item.slug)) {
+          window.location.replace(item.slug);
+        }
+
+        return; // Stop after redirect
+      }
+    }
+  });
+})();
+</script>
+
+
+    
+
+    
+
+</body>
+<!--
+    ____        _ ____              _ __  __             _____ __   _                      __
+   / __ )__  __(_) / /_   _      __(_) /_/ /_     __  __/ ___// /__(_)___  ____  ___  ____/ /
+  / __  / / / / / / __/  | | /| / / / __/ __ \   / / / /\__ \/ //_/ / __ \/ __ \/ _ \/ __  /
+ / /_/ / /_/ / / / /_    | |/ |/ / / /_/ / / /  / /_/ /___/ / ,< / / / / / / / /  __/ /_/ /
+/_____/\__,_/_/_/\__/    |__/|__/_/\__/_/ /_/   \__,_//____/_/|_/_/_/ /_/_/ /_/\___/\__,_/
+
+Find out more at uSkinned.net
+
+-->
+</html>

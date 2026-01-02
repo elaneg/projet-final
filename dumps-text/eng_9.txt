@@ -1,17 +1,981 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 120812950
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:36 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Oberg's four phases model
+       (BUTTON) Toggle Oberg's four phases model subsection
+          + 1.1 Honeymoon
+          + 1.2 Negotiation
+          + 1.3 Adjustment
+          + 1.4 Adaptation
+     * 2 Development
+     * 3 Reverse culture shock
+     * 4 Outcomes
+     * 5 Transition shock
+     * 6 See also
+     * 7 References
+
+   [ ] Toggle the table of contents
+
+Culture shock
+
+   [ ] 42 languages
+     * العربية
+     * Azərbaycanca
+     * Български
+     * Čeština
+     * Deutsch
+     * Eesti
+     * Ελληνικά
+     * Español
+     * Esperanto
+     * Euskara
+     * فارسی
+     * Français
+     * 한국어
+     * Հայերեն
+     * Hrvatski
+     * Bahasa Indonesia
+     * Italiano
+     * עברית
+     * ქართული
+     * Қазақша
+     * Lietuvių
+     * Magyar
+     * Македонски
+     * Bahasa Melayu
+     * Nederlands
+     * 日本語
+     * Oʻzbekcha / ўзбекча
+     * Polski
+     * Português
+     * Русский
+     * Simple English
+     * Slovenščina
+     * Српски / srpski
+     * Suomi
+     * Svenska
+     * தமிழ்
+     * ไทย
+     * Türkçe
+     * Українська
+     * ئۇيغۇرچە / Uyghurche
+     * Tiếng Việt
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikiversity
+     * Wikivoyage
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Experience of a person moving to a different cultural environment
+   For other uses, see Culture shock (disambiguation).
+   [330px-Battle_Spanish_Otomies_Metztitlan.jpg] The encounter with the
+   conquerors with steel and horses shocked the Aztecs, so they confused
+   the Spaniards with prophets from the
+   east.[330px-Real_African_people_working_on_their_little_farm_in_Freetow
+   n.jpg] Traveler from Australia visiting a small farm in Sierra Leone
+
+   Culture shock is an experience a person may have when one moves to a
+   cultural environment which is different from one's own; it is also the
+   personal disorientation a person may feel when experiencing an
+   unfamiliar way of life due to immigration or a visit to a new country,
+   a move between social environments, or simply transition to another
+   type of life.^[1] One of the most common causes of culture shock
+   involves individuals in a foreign environment. Culture shock can be
+   described as consisting of at least one of four distinct phases:
+   honeymoon, negotiation, adjustment, and adaptation.
+
+   Common problems include: information overload, language barrier,
+   generation gap, technology gap, skill interdependence, formulation
+   dependency, homesickness (cultural), boredom (job dependency),
+   ethnicity, race, skin color, response ability (cultural skill set).^[2]
+   There is no true way to entirely prevent culture shock, as individuals
+   in any society are personally affected by cultural contrasts
+   differently.^[3]
+
+   Culture shock is often experienced by students who participate in study
+   abroad programs. Research considering the study abroad experiences
+   states that in-country support for students may assist them in
+   overcoming the challenges and phases of culture shock. As stated in a
+   study by Young et al., "...the distress experienced by culture shock
+   has long-lasting effects therefore, universities with well-rounded
+   programs that support students throughout the study abroad program,
+   including preparation and post-program assistance, can alleviate
+   challenges posed by culture shock, allow for global development and
+   assist with the transition back into the home culture."^[4]
+
+Oberg's four phases model
+
+   [edit]
+   [330px-Acculturation_curve_and_culture_shock.svg.png] According to
+   acculturation model, people will initially have (1) a honeymoon period,
+   followed by (2) a transition period, that is, cultural shock. Over time
+   people will begin to (3) adapt (the dotted line depicted some people
+   hated by new cultures instead^[clarification needed]), before in some
+   cases (4) returning to their own places and re-adapting to the old
+   culture.
+
+   Kalervo Oberg first proposed his model of cultural adjustment in a talk
+   to the Women's Club of Rio de Janeiro in 1954.^[5]^[6]^[self-published
+   source]^[7]
+
+Honeymoon
+
+   [edit]
+
+   During this period, the differences between the old and new culture are
+   seen in a romantic light. For example, in moving to a new country, an
+   individual might love the new food, the pace of life, and the locals'
+   habits. During the first few weeks, most people are fascinated by the
+   new culture. They associate with nationals who speak their language,
+   and who are polite to the foreigners. Like most honeymoon periods, this
+   stage eventually ends.^[8]
+
+Negotiation
+
+   [edit]
+
+   After some time (usually around three months, depending on the
+   individual), differences between the old and new culture become
+   apparent and may create anxiety. Excitement may eventually give way to
+   unpleasant feelings of frustration and anger as one continues to
+   experience unfavorable events that may be perceived as strange and
+   offensive to one's cultural attitude. Language barriers, stark
+   differences in public hygiene, traffic safety, food accessibility and
+   quality may heighten the sense of disconnection from the
+   surroundings.^[9]
+
+   While being transferred into a different environment puts special
+   pressure on communication skills, there are practical difficulties to
+   overcome, such as circadian rhythm disruption that often leads to
+   insomnia and daylight drowsiness; adaptation of gut flora to different
+   bacteria levels and concentrations in food and water; difficulty in
+   seeking treatment for illness, as medicines may have different names
+   from the native country's and the same active ingredients might be hard
+   to recognize.
+
+   Still, the most important change in the period is communication: People
+   adjusting to a new culture often feel lonely and homesick because they
+   are not yet used to the new environment and meet people with whom they
+   are not familiar every day. The language barrier may become a major
+   obstacle in creating new relationships: special attention must be paid
+   to one's and others' culture-specific body language signs, linguistic
+   faux pas, conversation tone, linguistic nuances and customs, and false
+   friends. Such cultural adjustments may also cause a sense of identity
+   confusion as individuals try to balance their original cultural
+   identity with the pressures of assimilating into a new one. Having to
+   preserve one's identity while adhering to new standards may be
+   psychologically taxing, which can result in emotional tiredness or even
+   despair.^[10]
+
+   In the case of students studying abroad, some develop additional
+   symptoms of loneliness that ultimately affect their lifestyles as a
+   whole. Due to the strain of living in a different country without
+   parental support, international students often feel anxious and feel
+   more pressure while adjusting to new cultures—even more so when the
+   cultural distances are wide, as patterns of logic and speech are
+   different and a special emphasis is put on rhetoric.
+
+Adjustment
+
+   [edit]
+
+   Again, after some time (usually 6 to 12 months), one grows accustomed
+   to the new culture and develops routines. One knows what to expect in
+   most situations and the host country no longer feels all that new. One
+   becomes concerned with basic living again, and things become more
+   "normal". One starts to develop problem-solving skills for dealing with
+   the culture and begins to accept the culture's ways with a positive
+   attitude. The culture begins to make sense, and negative reactions and
+   responses to the culture are reduced.^[11]
+
+Adaptation
+
+   [edit]
+
+   In the mastery stage individuals are able to participate fully and
+   comfortably in the host culture. Mastery does not mean total
+   conversion; people often keep many traits from their earlier culture,
+   such as accents and languages. It is often referred to as the
+   bicultural stage.
+
+Development
+
+   [edit]
+
+   Gary R. Weaver wrote that culture shock has "three basic causal
+   explanations": loss of familiar cues, the breakdown of interpersonal
+   communications, and an identity crisis.^[12] Peter S. Adler emphasized
+   the psychological causes.^[13] Tema Milstein wrote that it can have
+   positive effects.^[14]
+
+Reverse culture shock
+
+   [edit]
+
+   Reverse culture shock (also known as "re-entry shock" or "own culture
+   shock"^[15]) may take place—returning to one's home culture after
+   growing accustomed to a new one can produce the same effects as
+   described above.^[16]^[17] These are results from the psychosomatic and
+   psychological consequences of the readjustment process to the primary
+   culture.^[18] The affected person often finds this more surprising and
+   difficult to deal with than the original culture shock. This
+   phenomenon, the reactions that members of the re-entered culture
+   exhibit toward the re-entrant, and the inevitability of the two are
+   encapsulated in the following saying, also the title of a book by
+   Thomas Wolfe: You Can't Go Home Again.
+
+   Reverse culture shock is generally made up of two parts: idealization
+   and expectations. When an extended period of time is spent abroad,
+   humans have a tendency to focus on the good from their past over the
+   bad and create an idealization. Secondly, once removed from our
+   familiar setting and placed in a foreign one, humans are biased towards
+   incorrectly assuming that their previous world has not changed. The
+   realization that life back home is now different, that the world has
+   continued on, and the process of readjusting to these new conditions as
+   well as actualizing new perceptions about the world with an old way of
+   living causes discomfort and psychological
+   anguish.^[19]^[self-published source?]
+
+Outcomes
+
+   [edit]
+
+   There are three basic outcomes of the adjustment phase:^[20]
+     * Some people find it impossible to accept the foreign culture and to
+       integrate. They isolate themselves from the host country's
+       environment, which they come to perceive as hostile, withdraw into
+       an (often mental) "ghetto" and see return to their own culture as
+       the only way out. This group is sometimes known as "Rejectors" and
+       describes approximately 60% of expatriates.^[21] These "Rejectors"
+       also have the greatest problems re-integrating back home after
+       return.^[22]^[failed verification]
+     * Some people integrate fully and take on all parts of the host
+       culture while losing their original identity. This is called
+       cultural assimilation. They normally remain in the host country
+       forever. This group is sometimes known as "Adopters" and describes
+       approximately 10% of immigrants.^[21]
+     * Some people manage to adapt to the aspects of the host culture they
+       see as positive, while keeping some of their own and creating their
+       unique blend. They have no major problems returning home or
+       relocating elsewhere. This group can be thought to be cosmopolitan.
+       Approximately 30% of immigrants belong to this group.^[21]
+
+   Culture shock has many different effects, time spans, and degrees of
+   severity.^[23] Many people are hampered by its presence and do not
+   recognize why they are bothered.^[24]
+
+   There is evidence to suggest that the psychological influence of
+   culture shock might also have physiological implications. For example,
+   the psycho-social stress experienced during these circumstances is
+   correlated with an early onset of puberty.^[25]
+
+Transition shock
+
+   [edit]
+   [330px-Japanese_woman_does_double-take_at_foreigner.jpg] A local woman
+   does a double-take at a foreigner during the evening rush hour in
+   Japan.
+
+   Culture shock is a subcategory of a more universal construct called
+   transition shock. Transition shock is a state of loss and
+   disorientation predicated by a change in one's familiar environment
+   that requires adjustment. There are many symptoms of transition shock,
+   including:^[26]
+     * Anger
+     * Boredom
+     * Compulsive eating/drinking/weight gain
+     * Desire for home and old friends
+     * Excessive concern over cleanliness
+     * Excessive sleep or trouble falling asleep^[27]^[28]
+     * Feelings of helplessness and withdrawal
+     * Getting "stuck" on one thing
+     * Glazed stare
+     * Homesickness
+     * Hostility towards host nationals
+     * Impulsivity
+     * Irritability
+     * Mood swings
+     * Physiological stress reactions
+     * Stereotyping host nationals
+     * Suicidal or fatalistic thoughts
+     * Withdrawal
+
+See also
+
+   [edit]
+   Wikivoyage has a travel guide for Culture shock.
+     * China Hands
+     * Cultural conflict
+     * Cultural cringe
+     * Cultural intelligence
+     * Cultural schema theory
+     * Expatriate
+     * Fresh off the boat
+     * Future Shock
+     * Intercultural communication
+     * Jetlag
+     * Lost In Translation (film)
+     * Neophobia
+     * Outsourced (film)
+     * Paris syndrome
+     * Student exchange program
+     * Xenophobia
+
+References
+
+   [edit]
+    1. ^ Macionis, John, and Linda Gerber. "Chapter 3 - Culture."
+       Sociology. 7th edition ed. Toronto, ON: Pearson Canada Inc., 2010.
+       54. Print.
+    2. ^ Pedersen, P. (1995). The Five Stages of Culture Shock: Critical
+       Incidents Around the World. Contributions in Psychology, no. 25.
+       Westport, Conn.: Greenwood Press. ISBN 978-0-313-03073-4.
+       ISSN 0736-2714. LCCN 93-49711.
+    3. ^ Barna, LaRay M. (1976), How Culture Shock Affects Communication,
+       ERIC ED184909 NLA 5380387
+    4. ^ Young, Jennifer T.; Natrajan-Tyagi, Rajeswari; Platt, Jason J.
+       (2014). "Identity in Flux: Negotiating Identity While Studying
+       Abroad". Journal of Experiential Education. 38 (2): 175–188.
+       doi:10.1177/1053825914531920. ISSN 1053-8259. S2CID 145667333.
+    5. ^ Four Common Stages of Cultural Adjustment (PDF) (Factsheet),
+       n.d., archived from the original (PDF) on 2015-09-30
+    6. ^ Oberg, Kalervo (1954), Culture Shock, CiteSeerX 10.1.1.461.5459
+       Presented to the Women's Club of Rio de Janeiro, Brazil, 3 August
+       1954.
+    7. ^ Oberg, Kalervo (1960). "Cultural Shock: Adjustment to New
+       Cultural Environments". Practical Anthropology. os-7 (4). SAGE
+       Publications: 177–182. doi:10.1177/009182966000700405.
+       ISSN 0032-633X. S2CID 140936758.
+    8. ^ Oberg, Kalervo. "Culture Shock and the problem of Adjustment to
+       the new cultural environments". World Wide Classroom Consortium for
+       International Education & Multicultural studies. 29 Sept 2009.
+    9. ^ Mavrides, Gregory PhD "Culture Shock and Clinical Depression".
+       Foreign Teachers Guide to Living and Working in China. Middle
+       Kingdom Life, 2009. Web. 29 Sept. 2009.
+   10. ^ Kirilmaz, Selma Kiliç (2022). "Mediating Role of Positive
+       Psychological Capital in The Effect of Perceived Organizational
+       Support on Work Engagement". Journal of Organizational Behavior
+       Research. 7 (1): 72–85. doi:10.51847/xneqenpv4y. ISSN 2528-9705.
+   11. ^ Sarah (25 May 2016). "Adjust To New Cultures Like A Pro".
+       thewanderlanders.com. Archived from the original on 4 October 2017.
+       Retrieved 19 March 2018.
+   12. ^ Weaver, G.R. (1994). "Understanding and coping with
+       cross-cultural adjustment stress". In Weaver, G.R. (ed.). Culture,
+       Communication, and Conflict: Readings in Intercultural Relations.
+       Needham Heights, MA: Ginn Press. pp. 169–189.
+       ISBN 978-0-536-58482-3.
+   13. ^ Adler, P.S. (1975). "The Transitional Experience: an Alternative
+       View of Culture Shock". Journal of Humanistic Psychology. 15 (4).
+       SAGE Publications: 13–23. doi:10.1177/002216787501500403.
+       ISSN 0022-1678. S2CID 142937260.
+   14. ^ Milstein, Tema (2005). "Transformation abroad: Sojourning and the
+       perceived enhancement of self-efficacy". International Journal of
+       Intercultural Relations. 29 (2). Elsevier BV: 217–238.
+       doi:10.1016/j.ijintrel.2005.05.005. hdl:1959.4/unsworks_77066.
+       ISSN 0147-1767.
+   15. ^ Woesler, M. (2006). A New Model of Cross Cultural Communication:
+       Critically Reviewing, Combining and Further Developing the Basic
+       Models of Permutter, Yoshikawa, Hall, Hofstede, Thomas, Hallpike,
+       and the Social Constructivism. Comparative cultural science.
+       Vol. 1. Bochum/Berlin: European University Press.
+       ISBN 978-3-89966-188-0. OCLC 180723503.
+   16. ^ Clarke, Laura (6 November 2016). "How expats cope with losing
+       their identity". BBC Capital. British Broadcasting Corporation.
+       Retrieved 5 December 2017.
+   17. ^ Garone, Elizabeth (3 November 2014). "Expat culture shock
+       boomerangs in the office". BBC Capital. British Broadcasting
+       Corporation. Retrieved 5 December 2017.
+   18. ^ Huff, Jennifer L. (2001). "Parental attachment, reverse culture
+       shock, perceived social support, and college adjustment of
+       missionary children". Journal of Psychology & Theology. 9 (3):
+       246–264. doi:10.1177/009164710102900307. S2CID 142635674.
+   19. ^ Martin, Hank. "Dealing with Reverse Culture Shock". Breaking
+       Trail Online. Archived from the original on 2016-02-24.
+   20. ^ Winkelman, Michael (1994). "Cultural Shock and Adaptation".
+       Journal of Counseling & Development. 73 (2): 121–126.
+       doi:10.1002/j.1556-6676.1994.tb01723.x. hdl:10831/49703.
+   21. ^ ^a ^b ^c "Culture Shock". Archived from the original on
+       2019-08-08. Retrieved 2019-08-08.
+   22. ^ Winant, Howard (2001). The World Is A Ghetto. New York, NY: Basic
+       Books. p. 258. ISBN 0-465-04341-0.
+   23. ^ Christofi, Victoria; Thompson, Charles L. (2007). "You Cannot Go
+       Home Again: A Phenomenological Investigation of Returning to the
+       Sojourn Country After Studying Abroad" (PDF). Journal of Counseling
+       & Development. 85 (1). Wiley: 53–63.
+       doi:10.1002/j.1556-6678.2007.tb00444.x. ISSN 0748-9633.^[dead link]
+   24. ^ Christofi, Victoria; Thompson, Charles L. (January 2007). "You
+       Cannot Go Home Again: A Phenomenological Investigation of Returning
+       to the Sojourn Country After Studying Abroad". Journal of
+       Counseling & Development. 85 (1): 53–63.
+       doi:10.1002/j.1556-6678.2007.tb00444.x.
+   25. ^ Houghton, Lauren C.; Troisi, Rebecca; Sommer, Marni; Katki,
+       Hormuzd A.; Booth, Mark; Choudhury, Osul A.; Hampshire, Kate R.
+       (2020). ""I'm not a freshi": Culture shock, puberty and growing up
+       as British-Bangladeshi girls". Social Science & Medicine. 258
+       113058. doi:10.1016/j.socscimed.2020.113058. ISSN 1873-5347.
+       PMC 7369632. PMID 32504913.
+   26. ^ CESA. "Dealing with culture shock". Management Entity: Office of
+       International Research, Education, and Development. Archived from
+       the original on 28 August 2009. Retrieved 29 September 2009.
+   27. ^ Ormiston, Cameron K.; Lopez, Diana; Montiel Ishino, Francisco A.;
+       McNeel, Timothy S.; Williams, Faustine (2024). "Acculturation and
+       depression increase trouble sleeping in Mexican immigrant adults".
+       PLOS ONE. 19 (10) e0311288. doi:10.1371/journal.pone.0311288.
+       ISSN 1932-6203. PMC 11488701. PMID 39423189.
+   28. ^ Ormiston, Cameron K.; Lopez, Diana; Ishino, Francisco A. Montiel;
+       McNeel, Timothy S.; Williams, Faustine (October 2022).
+       "Acculturation and depression are associated with short and long
+       sleep duration among Mexican Americans in NHANES 2005-2018".
+       Preventive Medicine Reports. 29 101918.
+       doi:10.1016/j.pmedr.2022.101918. ISSN 2211-3355. PMC 9309403.
+       PMID 35898195.
+
+     * v
+     * t
+     * e
+
+   Conformity
+   Enforcement
+   Proscription
+     * Damnatio memoriae
+     * Dissident / Dissenter
+     * Exile
+          + Émigré
+     * Homo sacer
+     * Ostracism
+          + Blacklisting
+          + Cancel culture
+          + Censorship
+          + Deplatforming
+     * Outcast
+     * Outlaw
+          + Civil death
+          + Vogelfrei
+     * Persona non grata
+     * Public enemy
+          + Enemy of the people
+          + Enemy of the state
+     * Scapegoating
+     * Shunning
+
+   Governmental pressure
+     * Authoritarianism
+     * Harmonisation of law
+     * Nationalism
+          + Left-wing nationalism
+          + National conservatism
+     * Totalitarianism
+     * Tyranny of the majority
+
+   Group pressure
+     * Bandwagon effect
+     * Brainwashing
+     * Closure (sociology)
+     * Collectivism
+     * Consensus reality
+     * Culture shock
+     * Dogma
+     * Echo chamber
+     * False consensus effect
+     * Fear of missing out
+     * Groupthink
+     * Hazing
+     * Herd mentality
+     * Identification
+     * Indoctrination
+     * Invented tradition
+     * Memory conformity
+     * Mere-exposure effect
+     * Milieu control
+     * Mobbing
+     * Normalization
+     * Normative social influence
+     * Passing (sociology)
+     * Patriotism
+     * Peer pressure
+     * Pluralistic ignorance
+     * Propaganda
+     * Psychosocial issue
+     * Purity spiral
+     * Operant conditioning
+     * Rally 'round the flag effect
+     * Social construction of gender
+     * Social contagion
+          + Addiction
+          + Behavioral
+               o Crime
+               o Hysterical
+               o Suicide
+          + Emotional
+     * Social influence
+     * Social integration
+     * Socialization
+     * Spiral of silence
+     * Teasing
+     * Toxic positivity
+     * Untouchability
+
+   Individual pressure
+     * Authoritarian personality
+          + Authoritarian leadership style
+          + Right-wing authoritarianism
+     * Control freak
+     * Obsessive–compulsive personality disorder
+
+   Conformity
+     * Compliance
+     * Communal reinforcement
+     * Countersignaling
+     * Creeping normality
+     * Herd behavior
+     * Internalization
+     * Normalization of deviance
+     * Obedience
+     * Preference falsification
+     * Social proof
+     * Social reality
+
+   Experiments
+     * Asch conformity experiments
+     * Breaching experiment
+     * Milgram experiment
+     * Stanford prison experiment
+
+   Anticonformity
+     * Alternative media
+     * Anti-authoritarianism
+     * Anti-social behaviour
+     * Self-segregation
+     * Civil disobedience
+     * Cosmopolitanism
+     * Counterculture
+     * Culture jamming
+     * Deviance
+     * Devil's advocate
+     * Dissent / Defection
+          + Political
+     * Eccentricity
+     * Eclecticism
+     * Hermit
+     * Idiosyncrasy
+     * Individualism
+     * Insubordination
+     * Pueblo clown
+     * Rebellion
+     * Red team
+     * Satire
+     * Shock value
+
+     * v
+     * t
+     * e
+
+   Culture
+
+   Outline
+
+   Sciences
+
+     * Cultural anthropology
+     * Cultural astronomy
+     * Cultural ecology
+     * Cultural geography
+     * Cultural neuroscience
+     * Cultural studies
+     * Culturology
+     * Culture theory
+
+   Subfields
+
+     * Bioculture
+     * Cross-cultural studies
+          + Cross-cultural communication
+          + Cross-cultural leadership
+          + Cross-cultural psychiatry
+          + Cross-cultural psychology
+     * Cultural analytics
+     * Cultural economics
+     * Cultural entomology
+     * Cultural history
+     * Cultural mapping
+     * Cultural mediation
+     * Cultural psychology
+     * Cultural values
+     * Culturomics
+     * Intercultural learning
+     * Intercultural relations
+     * Philosophy of culture
+     * Popular culture studies
+     * Postcritique
+     * Semiotics of culture
+     * Sociology of culture
+     * Sound culture
+     * Theology of culture
+     * Transcultural nursing
+
+   Types
+
+     * Constructed culture
+     * Dominant culture
+     * Folk culture
+     * High culture
+     * Individualistic culture
+     * Legal culture
+     * Microculture
+     * Official culture
+     * Political culture
+          + Civic
+     * Popular culture
+          + Low culture
+          + Media culture
+          + Recombinant culture
+          + Remix culture
+          + Trash culture
+          + Urban
+     * Primitive culture
+     * Resistance through culture
+     * Subculture
+          + Alternative culture
+          + Counterculture
+          + Fandom
+          + Far-right subcultures
+          + Underground culture
+          + Youth subculture
+          + list
+     * Super culture
+     * Supporter Culture
+     * Vernacular culture
+     * Culture by location
+
+   Aspects
+
+     * Acculturation
+     * Cultural appreciation
+     * Cultural appropriation
+     * Cultural area
+     * Cultural artifact
+     * Cultural baggage
+     * Cultural bias
+     * Cultural capital
+          + Cross-cultural
+     * Cultural communication
+     * Cultural conflict
+     * Cultural cringe
+     * Cultural dissonance
+     * Cultural emphasis
+     * Cultural framework
+     * Cultural heritage
+          + Destroyed
+     * Cultural icon
+     * Cultural identity
+     * Cultural industry
+     * Cultural invention
+     * Cultural landscape
+     * Cultural learning
+     * Cultural leveling
+     * Cultural memory
+     * Cultural pluralism
+     * Cultural practice
+     * Cultural property
+     * Cultural reproduction
+     * Cultural system
+     * Cultural technology
+     * Cultural universal
+     * Cultureme
+     * Enculturation
+     * High- and low-context cultures
+     * High-trust and low-trust societies
+     * Interculturality
+     * Internet culture
+     * Manuscript culture
+     * Material culture
+     * Non-material culture
+     * Organizational culture
+          + Assessment culture
+          + Design culture
+          + Journalism culture
+     * Print culture
+     * Protoculture
+     * Relational mobility
+     * Safety culture
+     * Symbolic culture
+     * Technoculture
+     * Trans-cultural diffusion
+     * Transculturation
+     * Visual culture
+
+   Politics
+
+     * Colonial mentality
+     * Consumer capitalism
+     * Cross cultural sensitivity
+     * Cultural assimilation
+     * Cultural attaché
+     * Cultural backwardness
+     * Cultural Bolshevism
+     * Cultural conservatism
+     * Cultural contracts
+     * Cultural deprivation
+     * Cultural diplomacy
+     * Cultural environmentalism
+     * Cultural exception
+     * Cultural feminism
+     * Cultural genocide
+     * Cultural globalization
+     * Cultural hegemony
+     * Cultural imperialism
+     * Cultural intelligence
+     * Cultural liberalism
+     * Cultural nationalism
+     * Cultural pessimism
+     * Cultural policy
+     * Cultural racism
+     * Cultural radicalism
+     * Cultural retention
+     * Cultural Revolution
+     * Cultural rights
+     * Cultural safety
+     * Cultural silence
+     * Cultural subsidy
+     * Cultural Zionism
+     * Culture change
+     * Culture minister
+     * Culture of fear
+     * Culture war
+     * Deculturalization
+     * Dominator culture
+     * Interculturalism
+     * Monoculturalism
+     * Multiculturalism
+          + Biculturalism
+     * Multiracial democracy
+     * Pluriculturalism
+     * Polyculturalism
+     * Transculturism
+
+   Religions
+
+     * Buddhism
+     * Christianity
+          + Catholicism
+          + Cultural Christians
+          + Protestantism
+          + Role of Christianity in civilization
+          + Eastern Orthodoxy
+          + Mormonism
+     * Cultural Hindus
+     * Islam
+          + Cultural Muslims
+     * Judaism
+     * Sikhism
+
+   Related
+
+     * Algorithmic culture
+     * Animal culture
+     * Archaeological culture
+     * Bennett scale
+     * Cannabis culture
+     * Circuit of culture
+     * Civilization
+     * Coffee culture
+     * Cringe culture
+     * Cross-cultural
+     * Cultural center
+     * Cultural competence
+     * Cultural critic
+     * Cultural determinism
+     * Cultural diversity
+     * Cultural evolutionism
+     * Cultural homogenization
+     * Cultural institution
+     * Cultural jet lag
+     * Cultural lag
+     * Cultural literacy
+     * Cultural mosaic
+     * Cultural movement
+     * Cultural mulatto
+     * Cultural probe
+     * Cultural relativism
+     * Cultural tourism
+          + Pop-culture
+     * Cultural translation
+     * Cultural turn
+     * Cultural sensibility
+     * Culture and menstruation
+     * Culture and positive psychology
+     * Culture and social cognition
+     * Culture gap
+     * Culture hero
+     * Culture industry
+     * Culture shock
+     * Culturgen
+     * Children's culture
+     * Culturalism
+     * Cyberculture
+     * Death and culture
+     * Disability culture
+          + Deaf culture
+     * Drinking culture
+     * Drug culture
+     * Eastern culture
+     * Emotions and culture
+     * Free-culture movement
+     * Historical culture
+     * Intercultural communication
+     * Intercultural competence
+     * Languaculture
+     * Living things in culture
+     * Media culture
+     * Oppositional culture
+     * Participatory culture
+     * Permission culture
+     * Rape culture
+     * Tea culture
+     * Transformation of culture
+     * Urban culture
+     * Welfare culture
+     * Western culture
+     * Youth culture
+
+     * Category
+
+   Authority control databases Edit this at Wikidata
+   International
+     * GND
+
+     National
+     * United States
+     * Israel
+
+       Other
+     * Yale LUX
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Culture_shock&oldid=1322619
+   233"
+
+   Categories:
+     * Anthropology
+     * Cross-cultural psychology
+     * Cultural assimilation
+     * Cultural concepts
+     * Sociology of culture
+     * Urban society
+
+   Hidden categories:
+     * All articles with dead external links
+     * Articles with dead external links from July 2022
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Wikipedia articles needing clarification from February 2024
+     * All articles with self-published sources
+     * Articles with self-published sources from March 2022
+     * All articles with failed verification
+     * Articles with failed verification from February 2022
+
+     * This page was last edited on 17 November 2025, at 05:50 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Culture shock
+   (BUTTON) 42 languages Add topic

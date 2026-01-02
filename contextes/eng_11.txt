@@ -1,0 +1,207 @@
+     * 3 Concepts in mammalian cell  | culture | 
+       (BUTTON) Toggle Concepts in mammalian cell culture subsection
+          + 3.2 Maintaining cells in  | culture | 
+               o 3.2.1 Cell  | culture |  basal media
+          + 3.3 Components of cell  | culture |  media
+     * 4 Applications of cell  | culture | 
+       (BUTTON) Toggle Applications of cell culture subsection
+          + 4.1 Cell  | culture |  in two dimensions
+          + 4.2 Cell  | culture |  in three dimensions
+               o 4.2.1 3D cell  | culture |  in scaffolds
+               o 4.2.2 3D cell  | culture |  in hydrogels
+          + 4.3 Tissue  | culture |  and engineering
+          + 4.5 Cell co- | culture | 
+          + 4.6 Cell  | culture |  in microfluidic device
+     * 5  | Culture |  of non-mammalian cells
+       (BUTTON) Toggle  | Culture |  of non-mammalian cells subsection
+          + 5.1 Plant cell  | culture |  methods
+          + 5.2 Insect cell  | culture | 
+          + 5.3 Bacterial and yeast  | culture |  methods
+          + 5.4 Viral  | culture |  methods
+Cell  | culture | 
+   "Co- | culture | " redirects here. For the concept of
+   cultures-within- | cultures | , see Subculture.
+   [250px-Cell_Culture_in_a_tiny_Petri_dish.jpg] Cell culture in a small
+   Petri dish[Epithelial-cells.jpg] Epithelial cells in culture, stained
+   Cell culture or tissue  | culture |  is the process by which cells are grown
+   to form an adherent  | culture |  as a monolayer (one single-cell thick),
+   culture.^[2] This is typically facilitated via use of a liquid,
+   culture commonly refers to the  | culture |  of animal cells and tissues,
+   with the more specific term plant tissue culture being used for plants.
+   In practice, the term "cell  | culture | " now refers to the culturing of
+   in contrast with other types of  | culture |  that also grow cells, such as
+   plant tissue culture, fungal  | culture | , and microbiological culture (of
+   microbes). The historical development and methods of cell culture are
+   closely interrelated with those of tissue culture and organ culture.
+   Viral culture is also related, with cells as hosts for the viruses.
+   tissue culture. In 1907 the zoologist Ross Granville Harrison
+   1910, establishing the methodology of tissue culture.^[10]
+   Gottlieb Haberlandt first pointed out the possibilities of the culture
+   of isolated tissues, plant tissue  | culture | .^[11] He suggested that the
+   potentialities of individual cells via tissue culture as well as that
+   tissue and cell culture have been realized, leading to significant
+   tissue culture was coined by American pathologist Montrose Thomas
+   Cell culture techniques were advanced significantly in the 1940s and
+   1950s to support research in virology. Growing viruses in cell cultures
+   of the first products mass-produced using cell culture techniques. This
+   vaccine was made possible by the cell culture research of John Franklin
+   virus in monkey kidney cell  | cultures | . Cell culture has contributed to
+   In modern usage, "tissue  | culture | " generally refers to the growth of
+   immortalised cell line. The cells are bathed in a culture medium, which
+   cells' survival.^[16] Thus, in its broader sense, "tissue culture" is
+   often used interchangeably with "cell culture". On the other hand, the
+   strict meaning of "tissue  | culture | " refers to the culturing of tissue
+   pieces, i.e. explant  | culture | .
+   Tissue culture is an important tool for the study of the biology of
+   manipulated and analysed. In animal tissue culture, cells may be grown
+   as two-dimensional monolayers (conventional culture) or within fibrous
+   tissue-like structures (3D  | culture | ). A 1988 NIH SBIR grant report
+   electrospun fibrous lattices for cell culture and tissue engineering
+   morphology typically seen in 2D  | culture | , cells grown on the electrospun
+   Plant tissue culture in particular is concerned with the growing of
+Concepts in mammalian cell  | culture | 
+   Cells can be isolated from tissues for ex vivo culture in several ways.
+   are capable of growth in  | culture | . Cells can be isolated from solid
+   available for culture. This method is known as explant culture.
+   cell  | cultures |  have limited lifespan.
+Maintaining cells in  | culture | 
+   [250px-DMEM_cell_culture_medium.jpg] A bottle of DMEM cell culture
+   in culture systems is the cell growth medium.^[21] Recipes for growth
+   for contamination of the  | culture |  with viruses or prions, particularly
+   serum in place of whole animal serum for cell culture.^[24]
+   Plating density (number of cells per volume of culture medium) plays a
+   Cells can be grown either in suspension or adherent cultures.^[26] Some
+   cultures so they can be grown to a higher density than adherent
+   tissue culture plastic or microcarrier, which may be coated with
+   adherent. Another type of adherent  | culture |  is organotypic culture,
+   as opposed to two-dimensional  | culture |  dishes. This 3D culture system is
+Cell  | culture |  basal media
+   There are different kinds of cell  | culture |  media which being used
+Components of cell  | culture |  media
+   Type Culture Collection (ATCC), the European Collection of Cell
+   Cultures (ECACC) and the German Collection of Microorganisms and Cell
+   Cultures (DSMZ), have received cell line submissions from researchers
+   problem for the quality of research produced using cell culture lines,
+   non-human culture in the USA. Intraspecies contamination was discovered
+   As cells generally continue to divide in culture, they generally grow
+       culture-adapted cells with decreased differentiation and increased
+   The choice of culture medium might affect the physiological relevance
+   of findings from cell culture experiments due to the differences in the
+   Among the common manipulations carried out on culture cells are media
+   performed using tissue  | culture |  methods that rely on aseptic technique.
+   In the case of adherent  | cultures | , the media can be removed directly by
+   cultures involve centrifuging the  | culture |  and resuspending the cells in
+   cultures are easily passaged with a small amount of culture containing
+   cultures, cells first need to be detached; this is commonly done with a
+   seed a new culture. Some cell  | cultures | , such as RAW cells are
+   cells; primary lymphoctyes die quickly in culture and only the fused
+   A cell strain is derived either from a primary culture or a cell line
+   been adapted to culture but, unlike cell lines, have a finite division
+Applications of cell  | culture | 
+   Mass culture of animal cell lines is fundamental to the manufacture of
+   viral vaccines and other products of biotechnology. Culture of human
+   cell culture is also used to harvest the molecules and exosomes that
+   animal cell  | cultures |  include enzymes, synthetic hormones,
+   using rDNA in bacterial  | cultures | , more complex proteins that are
+   the hormone erythropoietin. The cost of growing mammalian cell cultures
+   Cell culture is also a key technique for cellular agriculture, which
+Cell  | culture |  in two dimensions
+   primarily involves  | cultures |  of cells on flat plastic dishes. This
+   technique is known as two-dimensional (2D) cell culture, and was first
+   culture, commonly known as the Petri dish. Julius Richard Petri, a
+Cell  | culture |  in three dimensions
+   Cell culture in three dimensions has been touted as "Biology's New
+   Dimension".^[65] At present, the practice of cell culture remains based
+   2D.^[66] Currently, there is an increase in use of 3D cell cultures in
+   research.^[67]^[68]^[69] 3D cell  | cultures |  can be grown using a scaffold
+   or matrix, or in a scaffold-free manner. Scaffold based cultures
+   hanging drop plates,^[73]^[74] and rotary cell culture. Culturing cells
+   mimics tissues in the physiological states.^[75] A 3D cell culture
+   monolayer culture, and all three  | cultures |  were capable of sustaining
+   malignant transformation and metastasis, 3D cultures can provide
+3D cell  | culture |  in scaffolds
+   fibrous lattices for cell  | culture |  and tissue engineering showed that
+   culture, cells grown on the electrospun fibers exhibited a more
+3D cell  | culture |  in hydrogels
+   hydrogel culture matrices mimicking natural ECM structure are seen as
+   materials are available for 3D cell  | culture | , including animal ECM
+Tissue  | culture |  and engineering
+   Cell culture is a fundamental component of tissue culture and tissue
+   cells in vitro. The major application of human cell culture is in stem
+   currently made in cell  | cultures | . Due to the H5N1 pandemic threat,
+   research into using cell  | culture |  for influenza vaccines is being funded
+Cell co- | culture | 
+   to evaluate their interaction in a 3D culture environment to gain a
+   each other in the same  | culture |  media or matrix, indirect interaction
+   effect of drugs on therapeutic trials. The co-culture system in 3D
+   A co-culture method is used in tissue engineering to generate tissue
+   [250px-Cell_culture-fig.png] Schematic representation of 2D culture, 3D
+    | culture | , organ-on-a-chip and in vivo study
+Cell  | culture |  in microfluidic device
+   Main article: Microfluidic cell  | culture | 
+   laboratory. In recent years, 3D cell  | culture |  science has made
+ | Culture |  of non-mammalian cells
+   Besides the culture of well-established immortalised cell lines, cells
+Plant cell  | culture |  methods
+   Main article: Plant tissue  | culture | 
+   Plant cell cultures are typically grown as cell suspension cultures in
+   a liquid medium or as callus  | cultures |  on a solid medium. The culturing
+Insect cell  | culture | 
+   Main article: Insect cell  | culture | 
+Bacterial and yeast  | culture |  methods
+   Main article: Microbiological  | culture | 
+   such as agar, while large-scale  | cultures |  are grown with the cells
+Viral  | culture |  methods
+   Main article: Viral  | culture | 
+   The culture of viruses requires the  | culture |  of cells of mammalian,
+     * Tobacco BY-2 cells (kept as cell suspension culture, they are model
+       suspension  | culture | 
+        | culture | 
+       suspension  | culture | 
+     * Cell  | culture |  assays
+    1. ^ ^a ^b Taylor MW (2014). "A History of Cell Culture". Viruses and
+    3. ^ "Some landmarks in the development of tissue and cell culture".
+    4. ^ "Cell  | Culture | ". Retrieved 19 April 2006.
+   11. ^ Bonner J (June 1936). "Plant Tissue Cultures from a Hormone Point
+   14. ^ Plant Tissue  | Culture | . 100 years since Gottlieb Haberlandt.
+   16. ^ Martin BM (1 December 2013). Tissue Culture Techniques: An
+       for Cell Culture (R3RR03544A)". ResearchGate. Retrieved 22 May
+       cardiomyocyte isolation,  | culture | , and gene transfer". Journal of
+       endothelial culture media: feed wisely". Histochemistry and Cell
+       human platelet lysate versus fetal bovine serum for culture of
+       cell culture growth in a microfabricated bioreactor". Journal of
+   27. ^ Humpel C (October 2015). "Organotypic brain slice cultures: A
+       Henrietta Lacks, HeLa Cells, and Cell Culture Contamination. Arch
+       of cancer models with a physiological cell culture medium". Science
+       differentiation of mesenchymal stem cells through culture surface
+       skeletal muscle stem cell self-renewal in culture". Science. 329
+       Ott CM, Nickerson CA (November 2010). "Organotypic 3D cell culture
+       "Three-dimensional cell  | culture |  systems and their applications in
+       promotes three-dimensional liver cell culture". Journal of
+       versatile formation of co- | culture |  spheroids". Biotechnology and
+       culture models for cell growth, gene expression and drug
+       2021). "3D Cell Culture Systems: Tumor Application, Advantages, and
+       matrix mimics for 3D cell  | culture | ". Biotechnology and
+       advantages of co- | culture |  over mono cell culture in simulating in
+       co-culture". Journal of Tissue Engineering and Regenerative
+       scaffolding materials for 3D cell culture in microfluidics".
+   Cell Culture: Neurosphere generation, microscopical analysis and
+   primary cultures: Standardization and quality assessment for
+   tissue culture: Leo Loeb's contribution". Medical History. 27 (3):
+   Cell  | culture | 
+     * Cancer Cells in  | Culture | 
+     * Evolution of Cell  | Culture |  Surfaces
+     * Cell Culture Applications Archived 13 March 2017 at the Wayback
+     * Cell Culture Basics - Introduction to cell culture, covering topics
+       basic cell  | culture |  protocols and video training
+     * Database of Who's Who in Cell  | Culture |  and Related Research
+     * An Introduction To Cell  | Culture | . Archived 11 September 2017 at the
+       techniques, and potential pit-falls of mammalian cell culture.
+       Public Health England  | Culture |  Collections (ECACC)
+     * Cell  | culture | 
+     * Animal cell  | culture | 
+     * Tissue  | culture | 
+     * Cell  | culture | 
+     * Cell  | culture | 
+     * Cell  | culture | 
+   Cell  | culture | 

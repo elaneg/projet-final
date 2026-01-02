@@ -1,522 +1,528 @@
-   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+   #OCAPIAT » Flux OCAPIAT » Flux des commentaires OCAPIAT » Flux iCal
+   oEmbed (JSON) oEmbed (XML) JSON alternate
 
-   Aller au contenu
+   Mon espace OCAPIAT
 
-   [ ] Menu principal
-   Menu principal
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Navigation
-     * Page d’accueil
-     * Portails thématiques
-     * Article au hasard
-     * Contact
+   (BUTTON) MENUMENU
+     * Entreprises
+          + Réaliser un diagnostic
+               o Diagnostics RH
+               o Diagnostic de compétences clés et illettrisme
+               o Diagnostic de transformation digitale
+               o Autodiagnostic Formation Interne
+               o Autodiagnostic Marque employeur
+               o Le diagnostic de maturité écologique
+          + Etre accompagné
+               o Transition Ecologique : adaptez votre entreprise
+               o Illettrisme et illectronisme
+               o Le handicap
+               o AFESTtime : concevoir et mettre en place votre projet
+                 d’AFEST
+               o Transfert de savoir-faire
+               o Prévenir les risques professionnels
+               o L'investissement volontaire en compétences
+               o L’entretien professionnel
+               o Charte emploi
+               o Qualité de vie au travail
+          + Recruter
+               o Recruter un alternant
+               o POEC : Préparation Opérationnelle à l'Emploi Collective
+               o POEI : Préparation Opérationnelle à l’Emploi Individuelle
+               o Recruter avec formation interne en entreprise
+               o Recruter un réfugié
+          + Former
+               o Former en externe
+                    # Catalogue de formations
+                    # Actions hors catalogue (sur mesure)
+                    # Compétences d’avenir
+                    # Soutien aux filières
+                    # Former au bien-être animal
+               o Former en interne
+                    # Guide de la formation interne
+                    # Offre "Formations internes"
+                    # Former en situation de travail (AFEST)
+                    # Former en interne lors d'un recrutement
+                    # Former en interne un alternant
+                    # Former suite à une crise
+               o Espace Pêche, Cultures Marines et Coopération Maritime
+               o Former un salarié en contrat d’insertion
+               o Reconvertir et promouvoir un salarié
+               o Illettrisme et Illectronisme : s’informer et agir !
+               o Le Handicap : inclusion et performance
+               o Validation des acquis de l’expérience (VAE)
+               o E-learning : Camp’Num
+          + Bénéficier d'un cofinancement
+               o FSE+, une aide financière pour former vos salariés
+               o Transitions Collectives
+               o Prestation conseil RH
+               o Parcours PROREFEI
+               o Parcours ACT et Financement
+          + Verser mes contributions
+               o Verser mes contributions
+               o Contribution légale, conventionnelle et volontaire
+               o Verser mes contributions : Appels Volontaires
+          + Vérifier par secteur l’appartenance d’une entreprise à OCAPIAT
+          + Devenez l’un des 1000 ambassadeurs My Job Glasses en
+            partenariat avec OCAPIAT !
+     * Particuliers
+          + Salariés
+               o Me former
+                    # Changer de métier
+                    # Suivre une formation proposée par mon employeur
+                    # Lutter contre l’illettrisme et l’illectronisme
+                    # Handicap au travail
+                    # Pro-A
+                    # E Learning
+               o Evoluer
+                    # CléA, savoirs de base
+                    # Bénéficier d’un conseil en évolution professionnelle
+                      (CEP)
+                    # La certification professionnelle
+                    # Liste des certifications du champ d’Ocapiat
+                    # Préparer l’entretien professionnel
+               o Découvrez les métiers
+               o Financer mon projet
+                    # Utiliser le CPF et bénéficier des abondements
+                      d'OCAPIAT
+               o Devenez l’un des 1000 ambassadeurs My Job Glasses en
+                 partenariat avec OCAPIAT !
+          + Demandeurs d’emploi
+               o Découvrez les métiers
+               o Développer mes compétences
+                    # CléA, savoirs de base
+                    # La certification professionnelle
+                    # Êtes-vous éligible à l’alternance ?
+                    # Se préparer à un emploi dans nos métiers
+               o Rencontrer nos ambassadeurs
+               o Utiliser le CPF et bénéficier des abondements d'OCAPIAT
+          + Alternants
+               o Découvrez les métiers
+               o Offres de stages de 3ème et 2nde
+               o Cap vers l'alternance
+     * Prestataires
+          + Marchés publics et AMI
+          + Action de sensibilisation à la commande publique
+          + SPASER d’OCAPIAT (2025-2027)
+          + Services en ligne pour les organismes de formation et les CFA
+          + Illettrisme et Illectronisme : s’informer et agir !
+          + Le handicap
+          + E-learning : Camp'num
+          + Cap vers l'alternance
+          + La certification QUALIOPI
+     * Branches
+          + Les observatoires des métiers
+          + Certifications du champ OCAPIAT
+          + Les branches et les OPCO
+     * Outils
+     * A propos
+          + Découvrir OCAPIAT
+          + Chiffres clés
+          + Foire aux questions
+          + Réforme de la formation professionnelle
+          + Actualités nationales et régionales
+          + Agenda des salons
+          + Presse
+          + OCAPIAT recrute !
+          + Informations légales, réglementaires et contractuelles
+     * Nous contacter
 
-   Contribuer
-     * Débuter sur Wikipédia
-     * Aide
-     * Communauté
-     * Pages spéciales
-     * Modifications récentes
-
-   Wikipédia l'encyclopédie libre
-   Rechercher
+   (BUTTON)
    ____________________
-   (BUTTON) Rechercher
+   (BUTTON)
+   Mon espace OCAPIAT
 
-   [ ] Apparence
+   (BUTTON) MENUMENU
+     * Entreprises
+          + Réaliser un diagnostic
+               o Diagnostics RH
+               o Diagnostic de compétences clés et illettrisme
+               o Diagnostic de transformation digitale
+               o Autodiagnostic Formation Interne
+               o Autodiagnostic Marque employeur
+               o Le diagnostic de maturité écologique
+          + Etre accompagné
+               o Transition Ecologique : adaptez votre entreprise
+               o Illettrisme et illectronisme
+               o Le handicap
+               o AFESTtime : concevoir et mettre en place votre projet
+                 d’AFEST
+               o Transfert de savoir-faire
+               o Prévenir les risques professionnels
+               o L'investissement volontaire en compétences
+               o L’entretien professionnel
+               o Charte emploi
+               o Qualité de vie au travail
+          + Recruter
+               o Recruter un alternant
+               o POEC : Préparation Opérationnelle à l'Emploi Collective
+               o POEI : Préparation Opérationnelle à l’Emploi Individuelle
+               o Recruter avec formation interne en entreprise
+               o Recruter un réfugié
+          + Former
+               o Former en externe
+                    # Catalogue de formations
+                    # Actions hors catalogue (sur mesure)
+                    # Compétences d’avenir
+                    # Soutien aux filières
+                    # Former au bien-être animal
+               o Former en interne
+                    # Guide de la formation interne
+                    # Offre "Formations internes"
+                    # Former en situation de travail (AFEST)
+                    # Former en interne lors d'un recrutement
+                    # Former en interne un alternant
+                    # Former suite à une crise
+               o Espace Pêche, Cultures Marines et Coopération Maritime
+               o Former un salarié en contrat d’insertion
+               o Reconvertir et promouvoir un salarié
+               o Illettrisme et Illectronisme : s’informer et agir !
+               o Le Handicap : inclusion et performance
+               o Validation des acquis de l’expérience (VAE)
+               o E-learning : Camp’Num
+          + Bénéficier d'un cofinancement
+               o FSE+, une aide financière pour former vos salariés
+               o Transitions Collectives
+               o Prestation conseil RH
+               o Parcours PROREFEI
+               o Parcours ACT et Financement
+          + Verser mes contributions
+               o Verser mes contributions
+               o Contribution légale, conventionnelle et volontaire
+               o Verser mes contributions : Appels Volontaires
+          + Vérifier par secteur l’appartenance d’une entreprise à OCAPIAT
+          + Devenez l’un des 1000 ambassadeurs My Job Glasses en
+            partenariat avec OCAPIAT !
+     * Particuliers
+          + Salariés
+               o Me former
+                    # Changer de métier
+                    # Suivre une formation proposée par mon employeur
+                    # Lutter contre l’illettrisme et l’illectronisme
+                    # Handicap au travail
+                    # Pro-A
+                    # E Learning
+               o Evoluer
+                    # CléA, savoirs de base
+                    # Bénéficier d’un conseil en évolution professionnelle
+                      (CEP)
+                    # La certification professionnelle
+                    # Liste des certifications du champ d’Ocapiat
+                    # Préparer l’entretien professionnel
+               o Découvrez les métiers
+               o Financer mon projet
+                    # Utiliser le CPF et bénéficier des abondements
+                      d'OCAPIAT
+               o Devenez l’un des 1000 ambassadeurs My Job Glasses en
+                 partenariat avec OCAPIAT !
+          + Demandeurs d’emploi
+               o Découvrez les métiers
+               o Développer mes compétences
+                    # CléA, savoirs de base
+                    # La certification professionnelle
+                    # Êtes-vous éligible à l’alternance ?
+                    # Se préparer à un emploi dans nos métiers
+               o Rencontrer nos ambassadeurs
+               o Utiliser le CPF et bénéficier des abondements d'OCAPIAT
+          + Alternants
+               o Découvrez les métiers
+               o Offres de stages de 3ème et 2nde
+               o Cap vers l'alternance
+     * Prestataires
+          + Marchés publics et AMI
+          + Action de sensibilisation à la commande publique
+          + SPASER d’OCAPIAT (2025-2027)
+          + Services en ligne pour les organismes de formation et les CFA
+          + Illettrisme et Illectronisme : s’informer et agir !
+          + Le handicap
+          + E-learning : Camp'num
+          + Cap vers l'alternance
+          + La certification QUALIOPI
+     * Branches
+          + Les observatoires des métiers
+          + Certifications du champ OCAPIAT
+          + Les branches et les OPCO
+     * Outils
+     * A propos
+          + Découvrir OCAPIAT
+          + Chiffres clés
+          + Foire aux questions
+          + Réforme de la formation professionnelle
+          + Actualités nationales et régionales
+          + Agenda des salons
+          + Presse
+          + OCAPIAT recrute !
+          + Informations légales, réglementaires et contractuelles
+     * Nous contacter
 
-     * Faire un don
-     * Créer un compte
-     * Se connecter
+Exploitation agricole : transformer les défis en opportunités de croissance
 
-   [ ] Outils personnels
-     * Faire un don
-     * Créer un compte
-     * Se connecter
+   Dans le vaste et dynamique secteur de l’agroalimentaire, l’exploitation
+   agricole constitue la pierre angulaire de notre alimentation et de
+   notre économie. Essentielles à la production de nourriture, ces
+   exploitations façonnent le paysage rural, soutiennent les communautés
+   locales et jouent un rôle crucial dans la préservation de notre
+   environnement. Dans ce contexte, comprendre la gestion d’une
+   exploitation agricole, ses défis et opportunités, ainsi que les
+   compétences nécessaires pour réussir, devient essentiel pour un avenir
+   durable et prospère.
 
-Sommaire
+Qu’est-ce qu’une exploitation agricole ?
 
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-     * Début
-     * 1 Plantes cultivées
-       (BUTTON) Afficher / masquer la sous-section Plantes cultivées
-          + 1.1 Domestication des plantes
-          + 1.2 Taxinomie des plantes cultivées
-          + 1.3 Espèces cultivées
-          + 1.4 Espèces autrefois cultivées éteintes ou en voie
-            d'extinction
-     * 2 Notes et références
-     * 3 Voir aussi
-       (BUTTON) Afficher / masquer la sous-section Voir aussi
-          + 3.1 Bibliographie
-          + 3.2 Articles connexes
-          + 3.3 Liens externes
+   Une exploitation agricole est bien plus qu’une simple parcelle de terre
+   dédiée à la culture ou à l’élevage. Elle représente le cœur battant du
+   secteur agroalimentaire, un écosystème complexe où se mêlent tradition,
+   innovation et passion pour la terre. Fondamentalement, une exploitation
+   agricole se définit comme une unité de production où sont cultivées des
+   plantes et élevés des animaux, principalement dans le but de produire
+   de la nourriture et d’autres produits agricoles pour la consommation et
+   la vente.
 
-   [ ] Basculer la table des matières
+   Diversité est le maître-mot quand il s’agit de catégoriser les
+   exploitations agricoles. On distingue principalement trois types :
+     * les exploitations de cultures, qui se concentrent sur la production
+       de végétaux tels que les fruits, légumes, céréales et plantes
+       oléagineuses. Elles peuvent se spécialiser dans des cultures
+       uniques ou adopter une approche plus diversifiée pour réduire les
+       risques et optimiser les rotations de cultures ;
+     * les exploitations d’élevage, dédiées à la production animale,
+       englobant une vaste gamme d’espèces, comme le bétail, la volaille,
+       les porcs et les ovins ;
+     * les systèmes mixtes, qui combinent cultures et élevage, tirent
+       parti de la synergie entre ces deux activités pour améliorer
+       l’efficacité et la durabilité de l’exploitation.
 
-Culture (agriculture)
+   Et la diversité au sein des exploitations agricoles ne se limite pas
+   aux types de production ! Elle s’étend aux pratiques agricoles, allant
+   de l’agriculture traditionnelle à l’agroécologie et à l’agriculture de
+   précision, soulignant l’importance de l’innovation et de l’adaptation
+   aux défis contemporains tels que le changement climatique et la
+   sécurité alimentaire.
 
-   [ ] 64 langues
-     * Afrikaans
-     * Ænglisc
-     * العربية
-     * Беларуская
-     * Betawi
-     * Български
-     * বাংলা
-     * Català
-     * Čeština
-     * Cymraeg
-     * Deutsch
-     * English
-     * Esperanto
-     * Español
-     * Eesti
-     * Euskara
-     * فارسی
-     * Suomi
-     * Frysk
-     * עברית
-     * हिन्दी
-     * Hrvatski
-     * Հայերեն
-     * Bahasa Indonesia
-     * Igbo
-     * Italiano
-     * 日本語
-     * ಕನ್ನಡ
-     * 한국어
-     * Кыргызча
-     * Latina
-     * Lietuvių
-     * Latviešu
-     * Malagasy
-     * ꯃꯤꯇꯩ ꯂꯣꯟ
-     * Bahasa Melayu
-     * नेपाली
-     * नेपाल भाषा
-     * Nederlands
-     * Norsk nynorsk
-     * Norsk bokmål
-     * ਪੰਜਾਬੀ
-     * Polski
-     * پنجابی
-     * Português
-     * Runa Simi
-     * Русский
-     * संस्कृतम्
-     * سنڌي
-     * Srpskohrvatski / српскохрватски
-     * Simple English
-     * Slovenčina
-     * Српски / srpski
-     * Svenska
-     * தமிழ்
-     * తెలుగు
-     * ไทย
-     * Türkçe
-     * Українська
-     * اردو
-     * Tiếng Việt
-     * 吴语
-     * 中文
-     * 粵語
+   Au-delà de leur rôle productif, les exploitations agricoles incarnent
+   l’engagement envers la terre et la communauté. Elles sont le socle de
+   l’économie rurale, contribuant non seulement à la production
+   alimentaire, mais aussi à la conservation des paysages et à la
+   préservation de la biodiversité.
 
-   Modifier les liens
+Les piliers de la gestion d’une exploitation agricole
 
-     * Article
-     * Discussion
+   La gestion d’une exploitation agricole est un art qui nécessite une
+   compréhension fine et une maîtrise de plusieurs piliers fondamentaux.
+   Ces piliers sont les socles sur lesquels repose la réussite d’une
+   exploitation, garantissant sa durabilité et sa capacité à prospérer
+   dans un environnement en constante évolution. Il s’agit notamment de :
 
-   [ ] français
 
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
+     * la gestion des ressources naturelles et matérielles, comme la
+       terre, l’eau et la biodiversité, ainsi que des ressources
+       matérielles, incluant les équipements et les infrastructures.
+       L’adoption de pratiques agricoles durables et la maîtrise des
+       technologies modernes permettent de maximiser l’efficacité tout en
+       préservant l’environnement ;
+     * la planification des cultures et la rotation, afin d’optimiser les
+       rendements mais aussi pour préserver la santé du sol, réduire les
+       risques de maladies et minimiser l’usage des intrants chimiques.
+       Cette approche holistique favorise la résilience des exploitations
+       face aux aléas climatiques et économiques ;
+     * la gestion financière et les investissements, afin de maîtriser les
+       coûts de production et diversifier les sources de revenus pour
+       assurer la viabilité et le développement des activités agricoles ;
+     * l’importance de la technologie et de l’innovation : que ce soit à
+       travers l’agriculture de précision, l’utilisation de drones ou
+       l’adoption de systèmes d’irrigation intelligents, ces outils
+       permettent d’améliorer l’efficacité, de réduire l’impact
+       environnemental et de répondre aux défis de la production
+       alimentaire mondiale.
 
-   [ ] Outils
-   Outils
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Actions
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
+Les défis de l’exploitation agricole
 
-   Général
-     * Pages liées
-     * Suivi des pages liées
-     * Téléverser un fichier
-     * Lien permanent
-     * Informations sur la page
-     * Citer cette page
-     * Obtenir l'URL raccourcie
-     * Télécharger le code QR
+   L’exploitation agricole, pilier de notre sécurité alimentaire et
+   économique, navigue dans un environnement constellé de défis qui, loin
+   de décourager, stimulent l’innovation et la résilience des
+   professionnels du secteur :
+     * le changement climatique et les impacts environnementaux : ses
+       effets, comme les variations extrêmes de température, les
+       précipitations imprévisibles et les événements climatiques sévères,
+       menacent directement la stabilité et la productivité des
+       exploitations agricoles. Face à cette réalité, l’adoption de
+       pratiques agricoles résilientes et respectueuses de l’environnement
+       devient cruciale ;
+     * les pressions économiques et la concurrence : la volatilité des
+       prix des matières premières, les coûts de production élevés et
+       l’accès limité aux marchés sont autant de facteurs qui pèsent sur
+       la rentabilité des exploitations. La diversification des activités
+       et l’optimisation des processus de production s’avèrent
+       essentielles pour surmonter ces obstacles ;
+     * les réglementations et la conformité : le cadre réglementaire dans
+       lequel évoluent les exploitations agricoles est en constante
+       évolution, répondant aux préoccupations croissantes en matière de
+       sécurité alimentaire, de protection de l’environnement et de
+       bien-être animal. Se tenir à jour et en conformité avec ces
+       réglementations nécessite une veille constante et représente un
+       défi de taille pour les exploitants ;
+     * les problématiques de main-d’œuvre et de compétences requises : la
+       pénurie de main-d’œuvre qualifiée et le vieillissement de la
+       population agricole constituent un frein significatif pour le
+       secteur. Attractivité des métiers, formation continue et
+       transmission des savoirs sont autant de leviers à actionner pour
+       assurer le renouvellement et l’adaptation des compétences
+       nécessaires à l’agriculture de demain.
 
-   Imprimer / exporter
-     * Créer un livre
-     * Télécharger comme PDF
-     * Version imprimable
+Le rôle d’OCAPIAT pour une exploitation agricole
 
-   Dans d’autres projets
-     * Wikimedia Commons
-     * Élément Wikidata
+   Dans le paysage en constante évolution de l’agriculture, OCAPIAT se
+   positionne comme un partenaire stratégique essentiel pour les
+   exploitations agricoles, offrant un soutien inestimable à travers des
+   formations, des conseils et un accompagnement adapté aux besoins
+   spécifiques du secteur. Notre rôle est de catalyser le succès et le
+   développement durable des entreprises agricoles, en mettant l’accent
+   sur la montée en compétences et l’innovation.
 
-   Apparence
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Un article de Wikipédia, l'encyclopédie libre.
+   Au cœur de notre mission se trouve la conviction que la formation
+   continue est le moteur de l’innovation et de la compétitivité dans
+   l’agriculture. C’est pourquoi nous vous proposons un éventail de
+   formations, conçues pour répondre aux défis contemporains du secteur,
+   tels que le changement climatique, la transition écologique ou encore
+   les exigences du marché.
 
-   Cet article est une ébauche concernant l’agriculture.
-   Vous pouvez partager vos connaissances en l’améliorant (comment ?)
-   selon les recommandations des projets correspondants.
-   Page d’aide sur l’homonymie
+   Par ailleurs, conscients de l’importance de l’innovation et de la
+   durabilité, nous accompagnons les exploitations agricoles dans leur
+   transition vers des pratiques plus respectueuses de l’environnement et
+   économiquement viables. Cela inclut le soutien à l’adoption de
+   l’agroécologie, l’agriculture de précision et l’utilisation rationnelle
+   des ressources. Nous facilitons également la mise en réseau des
+   professionnels de l’agriculture, permettant l’échange de bonnes
+   pratiques, l’accès à des informations de pointe et la création de
+   synergies entre les différents acteurs du secteur. Ce réseau devient
+   une ressource précieuse pour nos adhérents, vous offrant des
+   opportunités uniques de collaboration et d’innovation.
 
-   Pour les articles homonymes, voir Culture (homonymie).
-   [250px-March%C3%A9_Reuilly_septembre_2017_11.jpg] Étal d'un maraîcher.
+   En résumé, le rôle d’OCAPIAT dépasse la simple offre de formation. Nous
+   sommes un catalyseur de croissance, un support pour la transition
+   écologique et un vecteur d’innovation pour les exploitations agricoles.
+   Notre engagement envers le développement des compétences, la durabilité
+   et l’excellence professionnelle façonne un avenir prometteur pour
+   l’agriculture française, garantissant sa place de leader sur la scène
+   mondiale.
+   
 
-   En agriculture, une culture est une production végétale tirée de
-   l'exploitation de la terre. Le terme désigne également une plante
-   cultivée c'est-à-dire une espèce végétale cultivée, par exemple le blé
-   ou la pomme de terre. Les plantes cultivées ont subi un processus de
-   domestication, qui les a conduites à développer des caractères
-   différents de leur ancêtre sauvage (« syndrome de domestication »)
+Téléchargement
 
-   Ce sens dérive par métonymie du sens premier du terme, à savoir,
-   « l'ensemble des travaux et techniques mis en œuvre pour traiter la
-   terre et pour en tirer des produits de consommation »^[1]. On parle
-   aussi de cultures de champignons, d'algues, et d'arbres (fruitiers,
-   peupliers, palmier à huile, hévéa).
+     * Fiche de présentation de DIAG RH
+     * Fiche de présentation de DIAG RH +
+     * Liste des prestataires DIAG RH
 
-Plantes cultivées
+Nous contacter
 
-   [modifier | modifier le code]
-   [250px-New_World_Domesticated_plants.JPG] Exemple de plantes
-   alimentaires domestiquées et cultivées
+   Besoin d’aide ? Contactez nos conseillers !
 
-Domestication des plantes
+   Nous sommes là pour répondre à vos questions et vous assister.
+   Contactez-nous dès maintenant pour obtenir de l’aide personnalisée.
+   Contactez-nous
 
-   [modifier | modifier le code]
-   Articles détaillés : Domestication et Culture sélective des plantes.
-   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
-   aide est la bienvenue ! Comment faire ?
+     * Accueil
+     * Mon espace OCAPIAT
+     * Nous contacter
+     * Outils
+     * A propos
+     * FAQ
 
-Taxinomie des plantes cultivées
+     *  Cap vers l’alternance
+     * Actualités
+     * Presse
+     * Les observatoires des métiers
+     * Marchés publics / AMI
+     * Formulaire de signalement
 
-   [modifier | modifier le code]
+     * La certification Qualiopi
+     * Découvrir les métiers
+     * Vérifier l’appartenance à OCAPIAT
+     * Verser mes contributions
+     * Camp’Num : E-learning
 
-   Ces plantes comportaient ou comportent encore (selon les espèces) un
-   grand nombre de variétés et font l'objet d'une taxonomie particulière.
-   Article détaillé : Taxinomie des plantes cultivées.
+   Rechercher: ____________________ Chercher
 
-Espèces cultivées
+   Consultez nos consignes en matière de Phishing et d’Antispam !
+   Attention à la fraude aux usurpations d’identité et pensez à nous
+   ajouter à votre liste blanche anti-spam.
 
-   [modifier | modifier le code]
-   Article détaillé : Liste de plantes cultivées.
-   Cette section est vide, insuffisamment détaillée ou incomplète. Votre
-   aide est la bienvenue ! Comment faire ?
+   Copyright OCAPIAT 2025
 
-Espèces autrefois cultivées éteintes ou en voie d'extinction
+   Politique de cookies
 
-   [modifier | modifier le code]
-   Article détaillé : Histoire de l'agriculture.
+   Protection des données
 
-   Le nombre d'espèces cultivées diminue régulièrement, et certaines
-   espèces sont même considérées comme éteintes, ou n'existent plus que
-   dans des collections botaniques ou jardins botaniques, dont :
-     * Anacyclus officinarum Hayne (Compositae), disparu
-     * Bromus mango Desv. (Gramineae), disparu
-     * Cycas szechuanensis C.Y.Cheng et L.K. Fu (Cycadaceae)
-     * Moringa hildebrandtii Engl(Moringaceae)
-     * Triticum ispahanicum Heslot (Gramineae)
-     * Triticum jakubzineri Udacz. et Schachm. Gramineae)
-     * Triticum karamyschevii Nevski (Gramineae)
-     * Triticum macha Dekapr. et Menabde (Gramineae)
-     * Triticum militinae Zhuk. et Migush. (Gramineae)
-     * Triticum parvicoccum Kislev (Gramineae), disparu
-     * Triticum timopheevii (Zhuk.) Zhuk. (Gramineae)
-     * Triticum zhukovskyi Menabde et Ericzjan (Gramineae)
-     * Viciola bistorta Bu¨ chel nom. nud. (Leguminosae), disparu
-     * Zea mexicana (Schrader) Kuntze et Post et Kuntze(Gramineae)
-     __________________________________________________________________
+   Mentions légales
 
-   D'autres étaient en 2004 considérées comme menacées de disparition (et
-   bien plus encore "vulnérables" (non citées ici)
-     * Aniba rosaeodora Ducke, (Lauraceae), disparu
-     * Calamus ovoideus Thw. ex Trime, (Arecaceae)
-     * Calamus zeylanicus Becc., (Arecaceae)
-     * Ceroxylon alpinum Bonpl. ex DC. ssp. alpinum, (Arecaceae), disparu
-     * Echinacea tennesseensis (Beadle) Small, (Compositae)
-     * Forsythia saxatilis (Nakai) Nakai, (Oleaceae), disparu
-     * Gustavia speciosa (Kunth) De Candolle ssp. speciosa,
-       (Lecythidaceae), disparu
-     * Juglans hindsii (Jepson) Jepson ex R. E. Sm.v (Juglandaceae),
-       disparu
-     * Latania lontaroides (Gaertner) H. E. Moore, (Arecaceae), disparu
-     * Malus hupehensis (Pamp.) Rehd, (Rosaceae), disparu
-     * Manihot brachyandra Pax et Hoffmv (Euphorbiaceae), disparu
-     * Meconopsis aculeata Royle, (Papaveraceae), disparu
-     * Medemia argun (Martius) Wurtt. ex H. A.Wndl., (Arecaceae), disparu
-     * Myristica malabarica Lam., (Myristicaceae), disparu
-     * Panax vietnamensis Ha et Grushv., (Araliaceae), disparu
-     * Portulaca villosa Cham., (Portulacaceae), disparu
-     * Pterocarpus santalinus L. f., (Leguminosae), disparu
-     * Puya pyramidata (Ruiz et Pavo´ n) Schultes f., (Bromeliaceae)
-     * Saintpaulia ionantha H. A. Wendl., (Gesneriaceae), disparu
-     * Saussurea costus (Flac.) Lipsch. (Compositae)
+   Plan du site
 
-   Des réflexions sont en cours pour établir une liste rouge des espèces
-   cultivées disparues, en voies d'extinction ou
-   vulnérables^[2]^,^[3]^,^[4].
+   Informations légales, réglementaires et contractuelles
 
-Notes et références
+   OCAPIAT est l’Opérateur de Compétences (OPCO) pour la Coopération
+   agricole, l’Agriculture, la Pêche, l’Industrie Agroalimentaire et les
+   Territoires.
 
-   [modifier | modifier le code]
-    1. ↑ Définition de « culture » par le CNRTL
-    2. ↑ Karl Hammer and Korous Khoshbakht, Towards a ‘red list’ for crop
-       plant species, 2004, Genetic Resources and Crop Evolution (2005)
-       52: 249–265
-    3. ↑ Imboden C. 1989. From the Directors desk: green lists instead of
-       Red Books? World Birdwatch 9(2): 2.
-    4. ↑ IUCN 1994. IUCN Red List Categories, IUCN species survival
-       commission, Gland. International Union for Conservation of Nature
-       and Natural Resources, Gland, 21pp.
+   (BUTTON) Accessibility
+   (BUTTON) Fermer
+   Agrandir ou réduire la police
+   (BUTTON) A- (BUTTON) A+
+   (BUTTON) Changer de police
+   Contraster
+   (BUTTON) Changer de couleur
+   (BUTTON) black (BUTTON) white (BUTTON) green (BUTTON) blue (BUTTON) red
+   (BUTTON) orange (BUTTON) yellow (BUTTON) navi
+   (BUTTON) Souligner les liens
+   (BUTTON) Nettoyer les cookies
+   (BUTTON) Inverser les couleurs
+   (BUTTON) Supprimer les animations
+   (BUTTON) Supprimer le style
+   (BUTTON) Fermer
+   Accessibility by WAH
 
-Voir aussi
+   Manage your privacy
+   Nous utilisons des technologies telles que les cookies pour stocker
+   et/ou accéder aux informations des appareils. Nous le faisons pour
+   améliorer l’expérience de navigation et pour afficher des publicités
+   (non-) personnalisées. Consentir à ces technologies nous permettra de
+   traiter des données telles que le comportement de navigation ou les ID
+   uniques sur ce site. Le fait de ne pas consentir ou de retirer son
+   consentement peut avoir un effet négatif sur certaines fonctionnalités
+   et fonctions.
+   Fonctionnel [ ] Fonctionnel Toujours activé
+   Le stockage ou l’accès technique est strictement nécessaire dans la
+   finalité d’intérêt légitime de permettre l’utilisation d’un service
+   spécifique explicitement demandé par l’abonné ou l’utilisateur, ou dans
+   le seul but d’effectuer la transmission d’une communication sur un
+   réseau de communications électroniques.
+   Préférences [ ] Préférences
+   L’accès ou le stockage technique est nécessaire dans la finalité
+   d’intérêt légitime de stocker des préférences qui ne sont pas demandées
+   par l’abonné ou l’internaute.
+   Statistiques [ ] Statistiques
+   Le stockage ou l’accès technique qui est utilisé exclusivement à des
+   fins statistiques. Le stockage ou l’accès technique qui est utilisé
+   exclusivement dans des finalités statistiques anonymes. En l’absence
+   d’une assignation à comparaître, d’une conformité volontaire de la part
+   de votre fournisseur d’accès à internet ou d’enregistrements
+   supplémentaires provenant d’une tierce partie, les informations
+   stockées ou extraites à cette seule fin ne peuvent généralement pas
+   être utilisées pour vous identifier.
+   Marketing [ ] Marketing
+   Le stockage ou l’accès technique est nécessaire pour créer des profils
+   d’utilisateurs afin d’envoyer des publicités, ou pour suivre
+   l’utilisateur sur un site web ou sur plusieurs sites web ayant des
+   finalités marketing similaires.
+     * Gérer les options
+     * Gérer les services
+     * Gérer {vendor_count} fournisseurs
+     * En savoir plus sur ces finalités
 
-   [modifier | modifier le code]
+   (BUTTON) J'accepte (BUTTON) Je refuse (BUTTON) Gérer les options
+   (BUTTON) Enregistrer les préférences Gérer les options
+     * {title}
+     * {title}
+     * {title}
 
-Bibliographie
+   (BUTTON) Gérer le consentement
 
-   [modifier | modifier le code]
-     * (en) Hammer K. 1999. Species diversity of wild relatives of crop
-       plants. Bot. Lithuan. Suppl. 2: 31–33
-     * (en) Hammer K. and Heller J. 1997. Promoting the conservation and
-       use of underutilized and neglected crops. Schriften Genet. Resour.
-       8: 223–227.
-     * (en) Hammer K., Heller J. and Engels J. 2001. Monographs on
-       underutilized and neglected crops. Genet. Resour. Crop Evol. 48:
-       3–5.
-     * (en) Hammer K., Laghetti G. and Perrino p. 1997. Proposal to make
-       the island of Linosa/Italy as a centre for on-farm conservation of
-       plant genetic resources. Genet. Resour. Crop Evol. 44: 127–134.
-     * (en) Hanelt P. 2001a. Amaranthaceae. In: Hanelt P. and Institute of
-       Plant Genetics and Crop Plant Research (eds), p. 265–284.
-     * (en) Hanelt P. 2001b. Alliaceae. In: Hanelt P. and Institute of
-       Plant Genetics ad Crop Plant Research (eds), p. 2250–2269.
-     * (en) Hanelt P. and Institute of Plant Genetics and Crop Plant
-       Research (eds) 2001. Mansfeld’s Encyclopedia of Agricultural and
-       Horticultural Crops. 6 vols. Springer, Berlin.
-     * (en) Harlan J.R. 1970. Evolution of cultivated plants. In: Frankel
-       O.H. and Bennett E. (eds.), Genetic Resources in Plants—Their
-       Exploration and Evaluation. Oxford p. 19–32.
-     * (en) Harlan J.R. and De Wet J.M.J. 1971. Towards a rational
-       classification of cultivated plants. Taxon 20: 509–517.
-       DOI 10.2307/1218252 JSTOR 1218252
-     * (en) Yves Vigouroux, Adeline Barnaud, Nora Scarcelli, Anne-Céline
-       Thuillet, « Biodiversity, evolution and adaptation of cultivated
-       crops (Biodiversité, évolution et adaptation des plantes
-       cultivées) », Comptes Rendus Biologies, vol. 334, n^os 5-6,‎ mai
-       2011, p. 450-457 (lire en ligne).
-
-Articles connexes
-
-   [modifier | modifier le code]
-     * Taxinomie des plantes cultivées
-     * Monoculture
-     * Polyculture
-     * Culture dérobée
-     * Culture intercalaire
-     * Culture hors-sol
-     * Grandes cultures
-     * Culture associée
-     * Culture biologique
-     * Culture vivrière
-     * Cultures sous-utilisées
-     * Champ
-     * Défense des cultures
-     * Rotation culturale
-     * Culture attelée
-     * Espèce menacée
-     * Principales productions agricoles en valeur
-     * Plantes alimentaires
-
-Liens externes
-
-   [modifier | modifier le code]
-
-   Sur les autres projets Wikimedia :
-     * Crops, sur Wikimedia Commons
-
-     *
-     * Ressource relative à la santé Voir et modifier les données sur
-       Wikidata  :
-          + Medical Subject Headings
-     * Notices dans des dictionnaires ou encyclopédies généralistes Voir
-       et modifier les données sur Wikidata  :
-          + Britannica
-          + Den Store Danske Encyklopædi
-          + L'Encyclopédie canadienne
-          + Gran Enciclopèdia Catalana
-          + Nationalencyklopedin
-     * Notices d'autorité Voir et modifier les données sur Wikidata  :
-          + BnF (données)
-          + LCCN
-          + GND
-          + Japon
-          + Israël
-          + Tchéquie
-     * (en) [PDF] « State of the World’s Plants and Fungi » 2020, Kew
-       Royal Botanic Gardens
-
-   v · m
-   Culture (agriculture)
-   Systèmes et concepts
-     * Agriculture biodynamique
-     * Agriculture biologique
-     * Agriculture familiale
-     * Agriculture de précision
-     * Agriculture de proximité
-     * Agriculture de subsistance
-     * Agriculture durable
-     * Agriculture extensive
-     * Agriculture intensive
-     * Agriculture itinérante
-     * Agriculture naturelle
-     * Agriculture pacifique
-     * Agriculture paysanne
-     * Agriculture raisonnée
-     * Agriculture syntropique
-     * Agriculture tropicale
-     * Agriculture urbaine
-     * Agriculture verticale
-     * Agriculture vivrière
-     * Agroécologie
-     * Agroforesterie
-     * Agropastoralisme
-     * Agrosylvopastoralisme
-     * Aquaponie
-     * Arboriculture
-     * Aridoculture
-     * forêt urbaine
-     * Guérilla jardinière
-     * Hydroponie
-     * Microagriculture biointensive
-     * Microforêt
-     * Milpa (ou trois sœurs)
-     * Monoculture
-     * Muvuca
-     * Permaculture
-     * Polyculture
-     * Rizipisciculture
-     * Serriculture
-     * Viticulture raisonnée
-     * Viticulture biologique
-     * Viticulture biodynamique
-
-   Cultures spécialisées
-     * Acériculture (Érable)
-     * Agrumiculture (Agrume)
-     * Arboriculture fruitière
-     * Arboriculture ornementale
-     * Arboriculture sur terrain sableux
-     * Bulbiculture (Plante ornementale à bulbe)
-     * Cacaoculture
-     * Cacticulture (Cactus)
-     * Caféiculture
-     * Castanéiculture (Châtaignier)
-     * Céréaliculture
-     * Cressiculture et Cressonnière (Cresson)
-     * Culture de la pomme de terre
-     * Floriculture
-     * Fraisiculture (Fraise)
-     * Hévéaculture (Hévéa)
-     * Horticulture
-     * Kiwiculture (Kiwi)
-     * Lavandiculture (Lavande)
-     * Liniculture (Lin)
-     * Maïsiculture (Maïs)
-     * Maraîchage
-     * Fungiculture (ou myciculture)
-     * Nuciculture (Noyer)
-     * Oléiculture (Olivier)
-     * Osiériculture (Osier)
-     * Phœniciculture (Dattier)
-     * Pomiculture (Pommier)
-     * Populiculture (Peuplier)
-     * Praticulture (Prairie)
-     * Pruniculture (Prunier)
-     * Riziculture
-     * Sylviculture
-     * Tabaculture (Tabac)
-     * Théiculture
-     * Trufficulture
-     * Vaniculture (Vanille)
-     * Viticulture (Vigne)
-
-     * Agriculture
-     * Liste de champignons comestibles
-     * Liste de légumes
-     * Liste de fruits comestibles
-
-     * icône décorative Portail de l'agriculture et de l'agronomie
-
-   Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=Culture_(agriculture)&oldi
-   d=226680877 ».
-   Catégorie :
-     * Agriculture
-
-   Catégories cachées :
-     * Wikipédia:ébauche agriculture
-     * Article avec une section vide ou incomplète
-     * Page utilisant une présentation en colonnes avec un nombre fixe de
-       colonnes
-     * Catégorie Commons avec lien local identique sur Wikidata
-     * Page utilisant P486
-     * Page pointant vers des bases externes
-     * Page pointant vers des bases relatives à la santé
-     * Page utilisant P1417
-     * Page utilisant P8313
-     * Page utilisant P5395
-     * Page utilisant P1296
-     * Page utilisant P3222
-     * Page pointant vers des dictionnaires ou encyclopédies généralistes
-     * Article de Wikipédia avec notice d'autorité
-     * Portail:Agriculture et agronomie/Articles liés
-     * Portail:Biologie/Articles liés
-     * Portail:Sciences/Articles liés
-     * Projet:Biologie/Pages liées
-
-     * La dernière modification de cette page a été faite le 21 juin 2025
-       à 18:58.
-     * Droit d'auteur : les textes sont disponibles sous licence Creative
-       Commons attribution, partage dans les mêmes conditions ; d’autres
-       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
-       pour plus de détails, ainsi que les crédits graphiques. En cas de
-       réutilisation des textes de cette page, voyez comment citer les
-       auteurs et mentionner la licence.
-       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
-       code fiscal des États-Unis.
-
-     * Politique de confidentialité
-     * À propos de Wikipédia
-     * Avertissements
-     * Contact
-     * Contacts juridiques & sécurité
-     * Code de conduite
-     * Développeurs
-     * Statistiques
-     * Déclaration sur les témoins (cookies)
-     * Version mobile
-
-     * Wikimedia Foundation
-     * Powered by MediaWiki
-
-   (BUTTON) Rechercher
-   ____________________
-   (BUTTON) Rechercher
-
-   [ ] Basculer la table des matières
-   Culture (agriculture)
-   (BUTTON) 64 langues Ajouter un sujet
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W2MPK2L3

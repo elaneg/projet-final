@@ -1,630 +1,680 @@
-   #Syndiquer tout le site
+   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
 
-     * Menu
-     * Contenu
-     * Moteur de recherche
-     * Pied de page
+   Aller au contenu
 
-   République
-   Française
-   (BUTTON) Rechercher (BUTTON) Menu
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Portails thématiques
+     * Article au hasard
+     * Contact
 
-   notre-environnement
+   Contribuer
+     * Débuter sur Wikipédia
+     * Aide
+     * Communauté
+     * Pages spéciales
+     * Modifications récentes
 
-   Le portail de tous les citoyens pour s’informer sur les enjeux de
-   l’environnement et du développement durable et trouver des services
-   utiles
-    - Retour à la page d'accueil
-     * À propos
-     * Actualités
-     * (BUTTON) Paramètres d’affichage
-
-   (BUTTON) Fermer
-   Rechercher ____________________
+   Wikipédia l'encyclopédie libre
+   Rechercher
+   ____________________
    (BUTTON) Rechercher
 
-   (BUTTON) Fermer
-
-     * (BUTTON) REE 2024
-       (BUTTON) Fermer
-       REE 2024
-       Le rapport sur l’État de l’environnement en France (REE), publié
-       tous les 4 ans par le CGDD, fournit des informations objectives,
-       fiables et scientifiquement fondées. Il apporte des clés de lecture
-       et de compréhension des grands enjeux de la transition écologique.
-       Cette édition 2024 s’articule autour de quatre défis
-       environnementaux, étroitement liés : l’épuisement des ressources
-       naturelles, la pollution des milieux naturels, le changement
-       climatique, et le déclin de la biodiversité.
-       Voir la page
-       4 grands défis pour demain
-          + Ressources naturelles
-          + Pollution des milieux naturels
-          + Changement climatique
-          + Déclin de la biodiversité
-     * (BUTTON) Biodiversité
-       (BUTTON) Fermer
-       Biodiversité
-       Les territoires métropolitains et ultramarins englobent des
-       écosystèmes diversifiés (zones humides, milieux marins, forêts,
-       montagnes, espaces agricoles et urbains).
-       C’est ainsi que la France héberge 10 % des espèces connues et
-       figure parmi les dix pays hébergeant le plus grand nombre d’espèces
-       menacées au niveau mondial, du fait des pressions exercées par les
-       activités humaines et de l’importance de ses territoires
-       ultramarins répartis sur l’ensemble du globe.
-       En réponse à ces enjeux, de multiples dispositifs de préservation
-       de la biodiversité sont mis en place.
-       Voir le thème
-       Biodiversité
-          + La connaissance de la biodiversité
-          + Les menaces sur la biodiversité
-          + Les mesures de protection et de restauration de la
-            biodiversité
-       Milieux et paysages
-          + Des sols et des sous-sols fragilisés
-          + Les milieux humides et aquatiques
-          + Les milieux littoraux et marins
-          + Les milieux montagneux
-          + Les forêts
-     * (BUTTON) Climat
-       (BUTTON) Fermer
-       Climat
-       L’augmentation dans l’atmosphère de la concentration en gaz à effet
-       de serre (GES) résultant des activités humaines (notamment la
-       combustion des énergies fossiles, l’utilisation d’engrais de
-       synthèse et la production de GES artificiels tels que les gaz
-       réfrigérants ) perturbe les équilibres climatiques de long terme à
-       l’échelle planétaire.
-       L’ampleur du réchauffement et ses effets se concrétisent de façon
-       différente (température, régime des pluies, montée des eaux,
-       fréquence et ampleur des phénomènes météorologiques extrêmes, etc.)
-       selon les régions et leur vulnérabilité.
-       Voir le thème
-          + Comprendre le changement climatique
-          + Les émissions de gaz à effet de serre et l’empreinte carbone
-            de la France
-          + Limitation des émissions de gaz à effet de serre
-          + S’adapter au changement climatique
-     * (BUTTON) Risques
-       (BUTTON) Fermer
-       Risques
-       Le France est exposée à de nombreux phénomènes naturels
-       susceptibles d’affecter l’intégrité des personnes et des biens et
-       de perturber les activités économiques : inondations, tempêtes,
-       cyclones, feux de forêts, mouvements de terrains... Leurs impacts
-       sont susceptibles de s’amplifier sous l’effet du dérèglement
-       climatique.
-       En outre, on distingue cinq sources de risque technologique : les
-       installations industrielles, les installations nucléaires, les
-       grands barrages, les transports de matières dangereuses et les
-       sites miniers.
-       Voir le thème
-       Risques naturels
-          + Les inondations
-          + Les mouvements de terrain et les érosions cotières
-          + Les éruptions volcaniques et les séismes
-          + Les feux de forêts
-       Risques technologiques
-          + Les risques industriels
-          + Les transports de matières dangereuses
-          + Les autres risques technologiques
-     * (BUTTON) Santé
-       (BUTTON) Fermer
-       Santé
-       Les acteurs économiques utilisent des substances chimiques dans
-       leurs activités quotidiennes, qu’elles soient professionnelles ou
-       privées.
-       Ces substances peuvent se disséminer dans l’environnement et
-       dégrader la qualité de l’eau, de l’air et des sols.
-       Ces contaminations des écosystèmes sont de nature à produire des
-       effets néfastes sur la santé humaine.
-       Voir le thème
-       Impact sur la santé
-       Polluants et nuisances
-          + Les produits chimiques
-          + Les bruits et les nuisances sonores
-          + La radioactivité
-          + Les ondes électromagnétiques
-       Pollution des milieux
-          + La pollution de l’air extérieur
-          + Pollution de l’air intérieur
-          + L’amiante
-          + La pollution des sols
-          + La pollution de l’eau douce
-     * (BUTTON) Économie
-       (BUTTON) Fermer
-       Économie
-       La transition écologique appelle de profondes mutations du monde
-       économique et de ses acteurs, aussi bien de la part des entreprises
-       que des consommateurs, dans tous les secteurs.
-       Ces changements sont technologiques, organisationnels,
-       stratégiques. Ils concernent les modes de production, les modes de
-       vie et de consommation, les savoir-faire et les compétences.
-       Pour impulser, orienter, accompagner ces changements, une
-       transition écologique réussie doit s’appuyer sur différents leviers
-       et instruments à destination des acteurs économiques.
-       Voir le thème
-       Outils économiques
-          + La finance durable
-          + La fiscalité environnementale
-       Production et consommation responsables
-          + L’économie circulaire
-          + L’économie de la fonctionnalité et de la coopération
-          + L’utilisation des ressources naturelles
-          + L’affichage environnemental
-          + Le commerce équitable
-          + Les dépenses pour la protection de l’environnement
-          + Les engagements pour la croissance verte (ECV)
-          + Les nudges appliqués à l’économie verte
-          + Les pôles de compétitivité
-       Secteurs économiques
-          + L’écoconception des produits
-          + L’énergie : au cœur de la lutte contre le changement
-            climatique
-          + Le tourisme
-          + L’agriculture
-          + Les déchets
-     * (BUTTON) Société
-       (BUTTON) Fermer
-       Société
-       Dans un monde confronté au changement climatique et à la perte de
-       biodiversité, la transition écologique devient un enjeu majeur,
-       tant pour nos sociétés que pour chaque citoyen.
-       Elle interroge nos manières de produire, de consommer, d’urbaniser,
-       ainsi que nos relations aux milieux naturels.
-       Elle implique une conscience des responsabilités, une volonté et un
-       pouvoir d’agir sur ces mutations écologiques, ainsi qu’un
-       engagement de tous les acteurs (citoyens, associations,
-       entreprises…).
-       Voir le thème
-          + Les conséquences du mode de vie en France sur l’environnement
-          + Les effets de l’alimentation sur l’environnement
-          + L’éducation au développement durable
-          + Cadre et grands principes de la participation du public
-          + La responsabilité sociétale des entreprises
-          + Les services publics écoresponsables
-          + Transport et déplacements du quotidien : quels effets sur
-            l’environnement ?
-          + Le logement et ses conséquences sur l’environnement
-          + Limites planétaires
-          + Les achats publics durables
-          + Perception des enjeux par les citoyens
-     * (BUTTON) Évaluation
-       (BUTTON) Fermer
-       Évaluation
-       Les politiques de la transition écologique présentent deux
-       caractéristiques : leurs impacts concernent des biens et des
-       services qui sont souvent hors de la sphère de l’économie de marché
-       et leurs effets se déploient sur un temps long.
-       L’évaluation de ces politiques vise à apprécier leurs impacts, en
-       qualifiant ou quantifiant leurs effets, pour juger de leur valeur
-       au regard d’un ensemble de critères, dans l’objectif de les
-       améliorer et d’éclairer la décision publique.
-       Elle permet ainsi d’apprécier le bon usage des financements publics
-       et la soutenabilité des politiques, des projets, ou des mesures
-       vis-à-vis de l’environnement, du développement économique et du
-       progrès social. Elle intègre de plus en plus souvent une dimension
-       participative et citoyenne, avec la consultation et l’implication
-       des parties prenantes et du public.
-       Voir le thème
-          + Les Objectifs de développement durable (ODD)
-          + L’évaluation des politiques publiques
-          + L’évaluation socio-économique
-          + L’évaluation française des écosystèmes et des services
-            écosystémiques (Efese)
-          + L’évaluation environnementale
-          + Éviter, réduire, compenser » (ERC) : en quoi consiste cette
-            démarche ?
-
-   (BUTTON) Fermer
-
-   (BUTTON) Voir le fil d’Ariane
-    1. Accueil
-    2. Biodiversite
-    3. Les milieux littoraux et marins
-    4. Typologie des cultures des exploitations agricoles en 2010
-
-   Économie
-
-Typologie des cultures des exploitations agricoles en 2010
-
-   Mis à jour le 2 septembre 2019 | Commissariat général au développement
-   durable
-
-   Partager la page
-     * Partager sur Facebook
-     * Partager sur Twitter
-     * Partager sur LinkedIn
-     * Partager par email
-     * (BUTTON) Copier dans le presse-papier
-
-Typologie des cultures des exploitations agricoles en 2010
-
-    1. Panorama général
-    2. Caractérisation des classes typologiques
-    3. Analyse géographique
-    4. Dans le détail
-    5. Typologie des cultures et viabilité des exploitations agricoles
-    6. Analyse statistique
-    7. Méthodologie
-
-   L’agriculture littorale subit des pressions foncières importantes et
-   répercute souvent plus fortement les problèmes rencontrés par
-   l’agriculture sur l’ensemble du territoire : diminution importante du
-   nombre d’exploitations, âge des exploitants en augmentation, difficulté
-   de reprise, augmentation du prix des terres. Les surfaces agricoles
-   diminuent sur la frange littorale alors qu’elles jouent un rôle
-   essentiel de production et de maintien des équilibres dans
-   l’aménagement du territoire.
-
-Panorama général
-
-   Les grandes cultures et l’élevage dominent sur tout l’arc mer du Nord -
-   Manche - Atlantique. Les grandes cultures sont importantes du Nord à la
-   Seine-Maritime. Prairies et fourrages sont très présents dans le
-   Calvados et surtout dans la Manche. Les côtes de Bretagne et des Pays
-   de la Loire sont marquées par la présence de grandes cultures couplées
-   à de l’élevage intensif. Les cultures légumières y sont également non
-   négligeables, surtout en Nord Bretagne. La viticulture est par ailleurs
-   présente en Charente-Maritime.
-
-   En Méditerranée continentale, les cultures spécialisées dominent :
-   vignes et autres cultures entretenues (vergers et petits fruits) aux
-   côtés de légumes. En Corse, les parcours et prairies sont très
-   nombreux, la viticulture étant présente en Haute-Corse.
-
-   Enfin, l’outre-mer est marquée par l’empreinte des cultures de légumes,
-   fruits et canne à sucre caractérisant une grande part des communes
-   ultramarines.
-   Classes typologiques des cultures des exploitations agricoles
-
-   IFRAME: //datawrapper.dwcdn.net/bktC8/2/
-
-   Données complémentaires, par classe typologique
-
-   IFRAME: //datawrapper.dwcdn.net/fOsFI/3/
-
-Caractérisation des classes typologiques
-
-   Six classes typologiques basées sur la répartition des grands types de
-   cultures des exploitations agricoles ont été révélées par l’analyse
-   statistique (voir méthodologie).
-
-   Ces classes, une fois définies, ont été étudiées au regard de variables
-   qualitatives supplémentaires (type de commune – urbain / périurbain /
-   rural) et surtout quantitatives (variables démographiques et
-   touristiques, occupation du sol…).
-
-   Classe 1 : légumes, fruits, fleurs et canne à sucre
-   La première classe regroupe un dixième des communes étudiées. Elle
-   comprend les quatre cinquièmes des communes littorales ultramarines. En
-   métropole, elle est plus importante en bord de mer que dans
-   l’arrière-pays. Les cultures industrielles destinées à la
-   transformation (surtout la canne à sucre), les cultures légumières et
-   de pommes de terre, et les cultures entretenues (arbres fruitiers) sont
-   très importantes. Avec 0,8 % de la SAU, les cultures florales sont
-   également 5 fois plus importantes dans ce groupe que la moyenne pour
-   l’ensemble des communes étudiées.
-
-   On compte, en moyenne, 1,6 UTA (unité de travail agricole) par
-   exploitation et assez peu de bovins. La densité de population des
-   communes concernées est élevée, environ 350 hab. par km². Cela implique
-   un taux d’artificialisation également important. Plus d’une commune sur
-   deux est urbaine et le taux de fonction touristique des communes de
-   métropole concernées est assez faible.
-
-   Cette classe regroupe de nombreuses communes ayant une agriculture de
-   type urbain / périurbain : faible part de SAU en nette diminution,
-   -24 % de 1988 à 2000, forte population et importance dans les
-   assolements des légumes, des fleurs et des vergers souvent destinés à
-   des filières de vente locale.
-
-   Classe 2 : parcours et prairies naturelles
-   La classe 2 comprend 8 % des communes étudiées, en métropole comme en
-   outre-mer. Les prairies peu productives (parcours, landes) dominent la
-   SAU, avec près des trois quarts des surfaces. Les cultures intensives
-   sont peu présentes. Les terres agricoles représentent, par ailleurs,
-   seulement un dixième de l’occupation du sol.
-
-   La densité de population des communes concernées est faible, 67
-   hab./km² en moyenne. C’est la plus faible densité des 6 classes. Les
-   territoires artificialisés sont peu importants et seulement une commune
-   sur huit est urbaine. Les résidences secondaires sont nombreuses dans
-   le parc de logements et le taux de fonction touristique est élevé. Les
-   soldes migratoires sont importants sur la période récente et les soldes
-   naturels quasi nuls.
-
-   Classe 3 : prairies et cultures fourragères
-   La classe 3 comprend 428 communes, soit 21 % du total. La surface
-   fourragère principale est importante, avec 84 % de la SAU, répartie
-   entre surfaces toujours en herbe (51 %) et cultures fourragères. Les
-   cheptels de vaches laitières sont plus importants que ceux de vaches
-   allaitantes.
-
-   La classe 3 est plus présente en métropole, surtout dans l’arrière-pays
-   littoral, qu’en outre-mer. La densité de population moyenne est assez
-   faible et peu de communes sont urbaines, le taux d’artificialisation
-   des territoires étant parmi les plus faibles des 6 classes
-   typologiques.
-   Répartition des communes par classe typologique sur le littoral et dans
-   son arrière-pays
-
-   IFRAME: //datawrapper.dwcdn.net/48s0x/3/
-
-   Classe 4 : vignes et autres cultures
-   La classe 4 est celle comprenant le plus faible effectif de communes,
-   avec un peu moins de 8 % du total, soit 163 communes. Elles sont
-   presque toutes situées en métropole, leur part étant plus importante en
-   bord de mer que dans l’arrière-pays. Les terres viticoles représentent
-   un peu plus de la moitié de la SAU. Elles sont surtout accompagnées de
-   prairies et de céréales. On compte près de deux UTA par exploitation.
-
-   La densité de population est assez élevée, un peu plus de 150 hab./km²
-   et les soldes migratoires sont très forts entre 2007 et 2012. Le
-   tourisme est important, avec un taux de fonction touristique proche de
-   deux et une part importante de résidences secondaires dans le parc de
-   logements. La SAU a fortement diminué depuis 1988.
-
-   Classe 5 : grandes cultures, prairies et fourrages
-   La classe 5 comprend un cinquième des communes étudiées, soit 418. En
-   métropole, elles regroupent près du quart des communes littorales et
-   19 % des communes d’arrière-pays. La surface fourragère principale
-   représente 60 % de la SAU, surtout représentée par des cultures
-   fourragères, maïs fourrage et prairies artificielles. Les cultures
-   céréalières sont assez importantes, avec près du tiers de l’assolement.
-   La densité moyenne de vaches laitières est forte, de même que celle des
-   porcs charcutiers. Cette classe est donc caractérisée par une
-   agriculture intensive avec élevage et grandes cultures.
-
-   Les petites exploitations sont peu nombreuses, de même que la part des
-   exploitants / co-exploitants âgés de plus de 55 ans. Les communes
-   concernées ont une densité de population assez élevée et sont assez peu
-   touristiques. Les terres agricoles y occupent près des trois quarts de
-   l’occupation du sol, ratio le plus élevé des 6 classes.
-
-   Classe 6 : grandes cultures
-   La classe 6 est la plus importante. Elle regroupe un tiers des communes
-   étudiées. En métropole, elles sont particulièrement nombreuses dans
-   l’arrière-pays littoral. Les grandes cultures dominent les assolements.
-   Les cultures céréalières occupent 45 % de la SAU. Les oléagineux,
-   protéagineux, cultures industrielles et pommes de terres sont également
-   nettement plus importants que dans les 5 autres classes.
-
-   Les petites exploitations sont peu nombreuses et la SAU a nettement
-   moins diminué dans les communes de cette classe que dans les autres.
-   Les soldes migratoires sont modérés sur la période récente et le
-   tourisme est dans la moyenne des communes étudiées.
-
-Analyse géographique
-
-   La classe 1 est présente dans toutes les régions littorales. En
-   métropole, excepté dans les communes littorales de Paca, elle ne
-   représente jamais une forte proportion de communes, en bord de mer
-   comme dans l’arrière-pays, où elle est généralement un peu moins
-   présente (surtout en Bretagne, dans les Pays de la Loire et en Paca).
-   Elle est, par contre, très majoritaire dans les quatre départements
-   ultramarins.
-
-   La classe 2 est rarement dominante, excepté en Corse, en bord de mer
-   comme dans l’arrière-pays.
-
-   La classe 3 est surtout importante en Normandie. Elle est également
-   assez présente dans les Pays de la Loire, en Sud Atlantique, en Corse
-   et en Guyane.
-
-   La classe 4 est surtout présente dans le sud de l’hexagone, en Sud
-   Atlantique et sur le pourtour méditerranéen, principalement en
-   Languedoc-Roussillon.
-
-   La classe 5 est présente dans l’ouest de la France, de la Bretagne aux
-   Pays de la Loire.
-
-   Enfin la classe 6 est importante dans les Hauts-de-France et en
-   Normandie, dans le prolongement des plaines céréalières du grand bassin
-   parisien. Elle est assez représentée dans les Pays de la Loire et sur
-   la façade Sud Atlantique. Elle est très peu importante en Méditerranée
-   et est absente en outre-mer.
-
-Dans le détail
-
-   La classe 1 est surtout présente en outre-mer, dans les Alpes-Maritimes
-   et dans le Var, en contexte plutôt urbain. Elle est également assez
-   importante dans les Bouches-du-Rhône, les Pyrénées-Orientales, la
-   Loire-Atlantique et les côtes bretonnes (cultures légumières sur le
-   littoral nord de la Bretagne).
-
-   La classe 2 est importante en Corse-du-Sud et en Haute-Corse (prairies
-   maigres et maquis). Elle est également présente ponctuellement dans les
-   Antilles, la Somme, le Morbihan, la Vendée, en Aquitaine et en
-   Méditerranée continentale.
-
-   La classe 3 est surtout présente sur l’arc Manche-Atlantique. Elle est
-   très importante dans la Manche et le Calvados. Elle est également non
-   négligeable en Centre-Atlantique, de la Vendée à la Gironde, dans les
-   Pyrénées-Atlantiques et en Haute-Corse.
-
-   La classe 4 est présente en Charente-Maritime, dans les Landes et sur
-   le pourtour méditerranéen. Elle est très importante des
-   Pyrénées-Orientales à l’Hérault et des Bouches-du-Rhône au Var. Elle
-   est non négligeable en Haute-Corse.
-
-   La classe 5 caractérise nettement l’agriculture de l’ouest de la
-   France. Elle est très importante des Côtes-d’Armor à la
-   Loire-Atlantique. Elle est non négligeable à proximité de cet ensemble,
-   en Ille-et-Vilaine et en Vendée, ainsi que dans les Landes.
-
-   La classe 6 est importante aux marges du bassin parisien, du Nord au
-   Calvados, aux marges du bassin aquitain (de la Vendée aux
-   Pyrénées-Atlantiques, et au cœur de la Camargue (riziculture).
-   Détail de la répartition des classes typologiques dans les communes
-   littorales
-
-   IFRAME: //datawrapper.dwcdn.net/WUjpS/1/
-
-Typologie des cultures et viabilité des exploitations agricoles
-
-   En parallèle au travail mené sur la typologie des cultures en bord de
-   mer, un travail a été réalisé pour caractériser l’agriculture littorale
-   sous un angle socio-économique. Il a abouti à une échelle de viabilité
-   des exploitations allant des plus fragiles (exploitations de petite
-   dimension économique, exploitants âgés…) aux plus prospères (production
-   brute standard élevée, bon niveau de formation…).
-
-   Le croisement de ces deux typologies est présenté dans la figure
-   ci-après.
-
-   Il existe un lien assez net entre les types de cultures et l’échelle de
-   viabilité des exploitations. Les classes 5 et 6 regroupant les grandes
-   cultures seules ou avec des ateliers d’élevage intensif sont plutôt
-   prospères. Ainsi, 82 % des communes à l’agriculture prospère sont en
-   classes 5 et 6.
-
-   À l’opposé, les classes 1 et 4 orientées vers des cultures spécialisées
-   (vignes, cultures entretenues, fruits, légumes, fleurs, canne) sont
-   surtout classées en agriculture en difficulté. Près des trois quarts
-   des communes de la classe 4 “vignes et autres cultures” sont concernées
-   et plus de la moitié des communes de la classe 1 “légumes, fruits,
-   fleurs, canne à sucre”.
-
-   Les classes 2 et 3, marquées par l’importance de l’élevage, regroupent
-   surtout des communes à l’agriculture peu rentable. La classe 2
-   “parcours et prairies naturelles” avec un élevage plutôt extensif ne
-   comprend aucune commune à l’agriculture prospère.
-   Typologie des cultures et niveau de viabilité des exploitations
-
-   IFRAME: //datawrapper.dwcdn.net/kXKmp/1/
-
-Analyse statistique
-
-   La classification ascendante hiérarchique a été faite par la méthode de
-   Ward (maximisation de l’inertie interclasse du nuage des individus), à
-   partir des coordonnées des communes étudiées sur les axes de l’analyse
-   en composantes principales.
-
-   Les classes les plus homogènes (faible distance moyenne des différentes
-   communes de la classe étudiée au barycentre de la même classe) sont les
-   classe 2, 3 et 5. Les différences entre communes sont plus fortes dans
-   les classes 1 et 4. Ces classes marquées par l’importance des cultures
-   spécialisées peuvent en effet regroupées des communes aux assolements
-   très différents : des communes spécialisées dans les cultures
-   légumières dans le nord de la Bretagne et des communes recouvertes
-   d’arbres fruitiers ou d’oliviers sur le pourtour méditerranéen.
-
-   Comme le montre la représentation graphique ci-dessous (coordonnées des
-   barycentres des classes et des variables étudiées sur les axes 1 et 2
-   de l’analyse en composantes principales), les classes sont parfaitement
-   distinctes, les classes 1 et 4 étant assez proches et caractérisant les
-   cultures spécialisées.
-
-Méthodologie
-
-   Une analyse typologique a été menée pour caractériser l’agriculture
-   littorale et la répartition des différents types de cultures. Les
-   grands types de culture ont été intégrés à une analyse en composantes
-   principales (ACP) puis à une classification ascendante hiérarchique
-   (CAH). Ces méthodes statistiques permettent de définir des classes de
-   communes homogènes suivant les critères étudiés.
-
-   La surface agricole utile (SAU) se répartit globalement comme suit :
-     * les terres labourables : céréales, oléagineux (colza, tournesol),
-       protéagineux (pois, féverole...), cultures industrielles pour la
-       transformation (canne, betterave, lin...) ;
-     * la surface fourragère principale (SFP) : elle comprend les
-       fourrages (maïs fourrage, prairies artificielles) et les surfaces
-       toujours en herbe (STH), comme les prairies naturelles et les
-       surfaces herbagères peu productives (parcours, landes) ;
-     * les cultures spécialisées : légumes (pomme de terre, légumes
-       frais), vignes, fleurs et cultures permanentes entretenues
-       (pépinières, petits fruits et vergers dont les oliviers).
-       Pour chaque exploitation, les données sont affectées à la commune
-       de son siège.
-       Toutes ces variables ont été prises en compte en tenant compte de
-       leurs parts respectives dans la SAU.
-
-   Auteur : Service de la donnée et des études statistiques (SDES).
-
-Lire plus sur le thème
-
-   Économie
-
-Agriculture, pêche et aquaculture : l'actualité
-
-     * Une agriculture bio poussée par la vente directe Consulter cet
-       article du 11 octobre 2024
-     * Quels sont les pesticides les plus utilisés en agriculture ?
-       Consulter cet article du 17 juillet 2024
-     * 25^e édition du Printemps BIO : découvrez le savoir-faire des
-       agriculteurs près de chez vous Consulter cet article du 13 mai 2024
-     * Irrigation : quels sont les besoins en eau de notre agriculture ?
-       Consulter cet article du 24 avril 2024
-     * Pesticides en agriculture : comment évoluent les ventes des
-       substances les plus préoccupantes pour la santé ? Consulter cet
-       article du 25 avril 2024
-     * Les légumineuses : des bienfaits pour la santé…et pour
-       l’environnement ! Consulter cet article du 25 avril 2024
-     * « Cartobio », la carte interactive des parcelles agricoles en bio
-       sur votre territoire Consulter cet article du 25 avril 2024
-     * Le 23 septembre, c’est la Journée européenne du Bio ! Consulter cet
-       article du 25 avril 2024
-
-Ouvrir l'horizon
-
-     * (BUTTON) Les indispensables
-     * (BUTTON) Les coups de cœur
-     * (BUTTON) Surprenez-moi !
-
-     * Chiffres clés du climat - France, Europe et Monde -édition 2024
-     * Cartes IGN : l’application pour découvrir la France autrement
-     * Qui sont les Français qui optent pour une voiture électrique ?
-     * État de l’environnement en France
-     * Comment composter facilement chez soi ?
-     * 5 conseils pour une pratique sportive respectueuse de
-       l’environnement
-     * La France en bonne voie d’atteindre ses objectifs climatiques d’ici
-       2030
-     * Laisser la nature s’exprimer, une approche bénéfique pour les
-       villes et les citadins
-     * Télétravail : combien de tonnes de CO[2] évitées ?
-     * Limites planétaires
-     * 3 minutes pour comprendre les risques naturels auxquels nous sommes
-       exposés
-     * Le castor : une espèce protégée utile à l’écosystème
-
-   Suivez-nous sur les réseaux sociaux
-     * X
-     * Linkedin
-
-   Haut de page
-
-   République
-   Française
-
-   Le portail de tous les citoyens pour s’informer sur les enjeux de
-   l’environnement, du développement durable et trouver des services
-   utiles
-     * info.gouv.fr  - ouvre une nouvelle fenêtre
-     * service-public.fr  - ouvre une nouvelle fenêtre
-     * legifrance.gouv.fr  - ouvre une nouvelle fenêtre
-     * data.gouv.fr  - ouvre une nouvelle fenêtre
-
-     * Plan du site
-     * Accessibilité : partiellement conforme (95.71%)
-     * Mentions légales
-     * Données personnelles
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Histoire de la culture des rosiers
+     * 2 Conditions générales
+     * 3 Multiplication
+     * 4 Plantation
+     * 5 Taille
+     * 6 Ennemis des rosiers
+       (BUTTON) Afficher / masquer la sous-section Ennemis des rosiers
+          + 6.1 Principales maladies
+          + 6.2 Principaux ravageurs
+     * 7 Traitements
+     * 8 Économie
+       (BUTTON) Afficher / masquer la sous-section Économie
+          + 8.1 En France
+     * 9 Obtenteurs et rosiéristes fameux
+     * 10 Roseraies de rosiéristes
+     * 11 Galerie
+     * 12 Notes et références
+     * 13 Voir aussi
+       (BUTTON) Afficher / masquer la sous-section Voir aussi
+          + 13.1 Articles connexes
+          + 13.2 Bibliographie
+          + 13.3 Liens externes
+
+   [ ] Basculer la table des matières
+
+Culture des rosiers
+
+   [ ] Ajouter des langues
+
+   Ajouter des liens
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier
+     * Modifier le code
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l'URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+     * Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
+   ici pour en savoir plus.
+
+   Cet article ne cite pas suffisamment ses sources (juillet 2022).
+
+   Si vous disposez d'ouvrages ou d'articles de référence ou si vous
+   connaissez des sites web de qualité traitant du thème abordé ici, merci
+   de compléter l'article en donnant les références utiles à sa
+   vérifiabilité et en les liant à la section « Notes et références ».
+   En pratique : Quelles sources sont attendues ? Comment ajouter mes
+   sources ?
+
+   La culture des rosiers se pratique soit dans un cadre professionnel :
+   pépiniéristes rosiéristes, gestionnaires d'espaces verts publics, soit
+   dans un cadre privé. Les jardins de particuliers sont de fait rarement
+   sans rosiers.
+
+   La culture des rosiers remonte à plusieurs millénaires en Asie et à
+   l'âge du bronze dans le bassin méditerranéen.
+
+   À l'époque contemporaine, cette activité peut avoir pour objectif la
+   production de fleurs coupées pour le secteur de la fleuristerie, pour
+   la production de parfum comme à Grasse, ou de plants de rosiers vendus
+   le plus souvent par la filière des jardineries ou des grandes surfaces,
+   ou bien l'ornementation des jardins publics ou privés.
+
+Histoire de la culture des rosiers
+
+   [modifier | modifier le code]
+   [250px-G%C3%A9n%C3%A9alogie_rosiers.jpg] Généalogie des différentes
+   espèces de rosiers.
+
+   La culture des rosiers date, en Chine et en Perse, de plus de
+   5 000 ans, et ils ont été cultivés en Grèce dès l'âge du bronze.
+
+   En Europe, les premiers rosiers cultivés furent les rosiers galliques
+   aux fleurs uniquement blanches, roses ou rouges, les rosiers
+   pimprenelle Spinolea de Pline l'Ancien, rosiers d'Écosse, et Rosa
+   foetida la ronce d'Autriche, un rosier à fleurs jaunes. Puis d'autres
+   espèces botaniques ou cultivées ont été ramenées du reste du monde,
+   d'abord par Thibaud IV et ses Croisés, les rosiers de Damas, Rosa
+   damascena (il semble que ce soit un hybride spontané de Rosa gallica ×
+   Rosa phoenicia) et Rosa damascena semperflorens (hybride supposé de
+   Rosa gallica × moschata). C'est à partir de Rosa gallica officinalis
+   (ou rose des apothicaires) qu'on commença la culture des rosiers,
+   d'abord pour leurs vertus médicinales, puis pour leur beauté.
+
+   Ce n'est qu'à la fin du XVIII^e siècle, que l'importation de rosiers et
+   la création de nouvelles variétés, encore par croisements spontanés, a
+   pris son plein essor (ce qui est d'ailleurs le cas pour de nombreuses
+   fleurs d'ornement), d'abord en France grâce à la "rosomanie" que
+   développe l'Impératrice Joséphine en cultivant près de 200 rosiers au
+   château de Malmaison^[1], puis en Angleterre, Hollande, Belgique. Les
+   nouvelles espèces de rosiers provenaient de Chine avec les rosiers thé
+   et pour les hybrides de colonies comme l'île de La Réunion, avec les
+   rosiers Bourbon, ou encore la Louisiane pour les rosiers Noisette. Tous
+   ces rosiers hybrides de rosiers provenant de Chine ont connu une très
+   grande popularité, du fait du savoir-faire chinois qui a su produire
+   des rosiers parfumés, fortement remontants, voire à floraison
+   quasi-continuelle.
+
+Conditions générales
+
+   [modifier | modifier le code]
+   [250px-Aubergenville_-_Rond-Point01.jpg] Plate bande de rosiers
+   buissons et rosiers tiges dans un jardin public (Aubergenville,
+   Yvelines).
+
+   Les conditions générales requises pour la culture des rosiers sont : de
+   préférence un sol argileux siliceux assez frais ; la plupart des
+   variétés ne supportent pas les terrains trop calcaires (pas plus de
+   15 % de calcaire, voire moins si le sol est plus pauvre en
+   argile)^[2] ; une exposition ensoleillée, cependant il existe des
+   cultivars supportant la mi-ombre et un climat tempéré adapté à la
+   rusticité de l'espèce ou de la variété.
+
+Multiplication
+
+   [modifier | modifier le code]
+
+   La multiplication peut s'effectuer par greffage, drageonnage,
+   bouturage, semis et multiplication in vitro.
+
+   Le semis est incontournable pour la production de nouvelles variétés
+   par hybridation. En revanche, les cultivars créés sont le plus souvent
+   reproduits par greffage, mode de multiplication végétative qui préserve
+   les caractères phénotypiques (c'est un clonage) et qui permet de
+   choisir un porte-greffe mieux adapté aux conditions de culture
+   ultérieures.
+
+   Le jardinier amateur peut multiplier certains rosiers par bouturage ou
+   par prélèvement de drageons. Pour le bouturage, on prélève des rameaux
+   de l'année de préférence légèrement aoûtés d'au moins trois yeux (soit
+   10 à 15 cm de long) qu'on plante au 2/3 dans un substrat humide et
+   drainant à l'abri du plein soleil. Pour les variétés non-remontantes,
+   on peut procéder au bouturage (de préférence à l'étouffée) en été tout
+   de suite après l'unique floraison. Pour les variétés remontantes, on
+   bouture plutôt en automne. Une fois plantée, on maintient la bouture
+   dans un substrat humide jusqu'à l'apparition des racines, période à
+   laquelle on pourra transplanter la bouture.
+
+   Les nouvelles variétés sont souvent protégées par des certificats
+   d'obtention végétale (COV) ou par des marques déposées, voire les deux,
+   l'origine légale des plants étant garantie par des étiquettes
+   officielles portant le nom de variété déposé et la marque commerciale.
+
+   La multiplication des rosiers par greffage est essentiellement le fait
+   des pépiniéristes spécialisés. Les porte-greffes sont des écotypes de
+   Rosa canina et Rosa rubiginosa qui ont l'inconvénient de drageonner
+   beaucoup, ou Rosa indica major qui drageonne peu et Rosa coriifolia
+   var. froebelii (souvent appelé à tort « laxa ») qui ne drageonne pas.
+
+Plantation
+
+   [modifier | modifier le code]
+
+   La plantation s'effectue en automne et hiver (de novembre à mars dans
+   l'hémisphère nord), dans un sol bien défoncé puis reposé, dans une
+   cavité suffisante pour que les racines soient à l'aise et le point de
+   greffe (ou le collet pour les rosiers non greffés) très légèrement
+   enterré. Un arrosage assure le tassement de la terre.
+
+   Ces rosiers doivent ensuite être arrosés régulièrement la première
+   année et le pied paillé pour les protéger du froid en hiver.
+
+Taille
+
+   [modifier | modifier le code]
+   [250px-P%C3%A9pini%C3%A8re_Caillouet0111.jpg] Pépinière de rosiers
+   tiges à Caillouet (Eure, France).
+
+   En plus de l'enlèvement des fleurs fanées (conseillé non seulement pour
+   des raisons esthétiques, mais parce qu'il favorise la refloraison), il
+   convient en général d'effectuer une taille annuelle, avant le démarrage
+   de la végétation (vers fin février dans l'hémisphère nord) pour les
+   rosiers remontants, après la floraison pour les autres, qui variera
+   suivant l'espèce, l'âge et l'état du rosier. Il faut surtout supprimer
+   le vieux bois et tailler d'autant plus court qu'il s'agit d'une petite
+   espèce, et laisser de la grandeur aux grimpants qui sinon pourraient
+   redevenir buissons^[3].
+
+Ennemis des rosiers
+
+   [modifier | modifier le code]
+   Articles détaillés : Ravageurs du rosier et Maladies du rosier.
+   [250px-Black_spot.jpg] Maladie des taches noires[250px-Aphids.jpg]
+   Pucerons verts[250px-Rosebud_and_aphids_J1.jpg] Bouton de rose attaqué
+   par des pucerons[250px-Galle1.jpg] Galle, appelée bédégard, due à un
+   cynips (Diplolepis rosae)[250px-Hymenoptere2%28s%29.JPG] Hyménoptère
+   butinant sur une rose[250px-Rosa_Nevada04.jpg] Cétoine dorée broutant
+   une fleur de 'Nevada' (hybride de Rosa moyesii)
+
+   Les rosiers cultivés ont de nombreux ennemis^[4] qui attaquent les
+   différentes parties de la plante. Il s'agit principalement de maladies
+   cryptogamiques, dont les plus connues sont la maladie de taches noires,
+   le blanc du rosier (oïdium) et la rouille. Ils sont aussi victimes de
+   divers insectes ravageurs tels que les tenthrèdes, cochenilles et
+   pucerons.
+
+Principales maladies
+
+   [modifier | modifier le code]
+
+   Les feuilles des rosiers cultivés portent souvent des taches dues à
+   diverses maladies cryptogamiques^[5] :
+
+   La rouille du rosier causée par un champignon, Phragmidium subcorticum,
+   se manifeste par de petites pustules orangées à la face inférieure des
+   feuilles, ainsi que sur les tiges.
+
+   La maladie des taches noires provoque l'apparition de taches sombres,
+   brun noirâtre, de forme arrondie, d'environ un centimètre de diamètre,
+   dues au champignon Marssonina rosae. Cette maladie entraîne la chute
+   des feuilles et affaiblit fortement les plantes.
+
+   Le blanc du rosier est une forme d'oïdium qui produit un feutrage banc
+   sur les feuilles et les pousses, entraînant un dessèchement des boutons
+   floraux. Ces maladies sont favorisées par un temps chaud et humide.
+   Certaines variétés sont plus résistantes que d'autres.
+
+   De nombreuses autres maladies, moins fréquentes, sont susceptibles
+   d'affecter les rosiers : chancres, pourridiés, anthracnose, fonte des
+   semis, mildiou, mosaïque....
+
+   La distinction Anerkannte Deutsche Rose pour les rosiers ADR est un
+   label allemand qui garantit la résistance des rosiers contre les
+   maladies, le froid et les parasites.
+
+Principaux ravageurs
+
+   [modifier | modifier le code]
+
+   Les jeunes pousses sont souvent envahies par des colonies de pucerons,
+   notamment le puceron vert du rosier (Macrosiphum rosae). Cette
+   prolifération peut entraîner le flétrissement des pousses et la perte
+   des boutons floraux. Le miellat sécrété par les pucerons attire les
+   fourmis et peut provoquer la formation de fumagine, maladie
+   cryptogamique qui se manifeste par une pellicule noirâtre sur les
+   plantes.
+
+   Parmi les ravageurs du rosier figurent aussi de nombreux insectes,
+   tenthrèdes dont les chenilles dévorent les feuilles ou les enroulent
+   pour s'y abriter, hibernie défeuillante dont la chenille broute les
+   bourgeons, mégachiles, sortes d'abeilles qui prélèvent des découpes
+   régulières dans les feuilles pour construire leurs loges, cochenilles,
+   cécidomyies, etc.
+
+   Les chenilles de papillons de nuit (hétérocères) suivants (classés par
+   famille) se nourrissent de rosier :
+     * cidarie dérivée,
+     * cidarie fauve (Geometridae),
+     * noctuelle des moissons (Noctuidae).
+
+   Les rosiers sont aussi affectés par des nématodes qui attaquent les
+   racines provoquant la formation de galles, et par des acariens présents
+   sur les feuilles.
+
+   Une curiosité est la formation de galles filamenteuses, les
+   « bédégars », formées par une réaction des tissus de la tige à la
+   présence de larves de cynips du rosier (Diplolepis rosae).
+
+Traitements
+
+   [modifier | modifier le code]
+
+   Le blanc du rosier se traite par une pulvérisation de soufre et les
+   taches noires de mildiou par une pulvérisation de bouillie bordelaise
+   (on peut sous certaines formes mélanger les deux en traitement
+   préventif). Un autre traitement écologiques est de pulvériser du savon
+   noir dilué à 5 %. En effet le savon noir étant alcalin, celui-ci agit
+   comme un excellent répulsif sans pour autant endommager la plante. Il
+   faut bien choisir du savon noir sans colorant, parfum et ingrédients
+   synthétiques ajouté. À exclure tous les savons noirs de supermarché qui
+   sont composés d'ingrédients synthétiques pour des raisons de coût.
+
+   Les pucerons seront mangés par les coccinelles ou chassés par un
+   arrosage. Les problèmes plus particuliers relèvent du conseil de
+   spécialiste.
+
+   Sels minéraux, engrais « spécial rosier » ou cendre de bois sont
+   utilisés pour la fertilisation.
+
+Économie
+
+   [modifier | modifier le code]
+   [20px-Circle-icons-globe.svg.png]
+   Cette section adopte un point de vue régional ou culturel particulier
+   et doit être internationalisée (juillet 2022).
+
+   La culture des rosiers s'adresse à deux marchés distincts, celui de la
+   fleur coupée (roses sur tiges) pour bouquets et décoration florale
+   d'intérieur, celui des plants de rosiers pour les jardins particuliers
+   et les parcs publics, vendus en conteneurs ou à racines nues selon la
+   saison.
+
+   Le marché de la fleur coupée, essentiellement européen à l'origine,
+   tend à se mondialiser. Les principales aires de production sont situées
+   en Europe (Pays-Bas, Italie, France), en Amérique du Nord (États-Unis),
+   en Asie (Japon, Chine, Israël), en Amérique latine (Mexique, Colombie,
+   Équateur) et en Afrique (Éthiopie, Kenya, Ouganda, Zimbabwe,
+   Maroc)^[6].
+
+   Les marchés de consommation se situent principalement en Europe où les
+   transactions se concentrent principalement au marché aux fleurs
+   (Bloemenveiling) d'Aalsmeer (Hollande-Septentrionale) d'où les roses
+   sont réexpédiées dans toute l'Europe, et en Amérique du Nord où le
+   principal centre de redistribution pour les États-Unis est Miami. La
+   production des pays d'Afrique est exportée principalement vers l'Europe
+   et celle d'Amérique du Sud vers les États-Unis. Ce marché connaît une
+   forte expansion en Asie (Chine, Inde, Sud-Est asiatique).
+
+   Cette mondialisation soulève diverses questions : conditions de travail
+   dans certains pays, évoquées par exemple par le film colombien Maria
+   pleine de grâce, et d'autre part coût énergétique des transports en
+   avion.
+   [250px-Rosier_-_%C3%A9tiquette_d%27identification01.jpg] Étiquette
+   d'identification d'un plant de rosier. On peut lire le nom de
+   fantaisie, 'Niccolo Paganini', qui est en l'occurrence une marque
+   déposée et le nom officiel du cultivar, 'Meicairma', nom codé dont la
+   première syllabe correspond à l'obtenteur, Meilland.
+
+En France
+
+   [modifier | modifier le code]
+
+   En France, le commerce des rosiers et des roses concerne^[7] :
+     * les producteurs, horticulteurs-pépiniéristes : les pépinièristes
+       pour les plants, les horticulteurs pour les fleurs coupées et de
+       façon anecdotique la culture pour la fabrication de l'eau de rose
+       et de l'essence de rose (pratiquées en Bulgarie dans la région de
+       Varna, en Égypte, en Inde, en Chine...).
+     * les marchés de gros,
+     * le commerce de détail,
+          + 13 838 fleuristes déclarés en 2003,
+          + 960 marchands de graines,
+          + 960 jardineries,
+          + 800 marbriers-fleuristes,
+          + 616 fleuristes de marché (registre 2004),
+          + les coins jardinerie des hypermarchés, supermarchés et grandes
+            surfaces de bricolage.
+
+   Les roses représentent 52,7 % des achats de fleurs coupées. Les
+   importations de roses (fleurs coupées) se montent à 111,7 millions
+   d'euros surtout en provenance des Pays-Bas (qui en ont traité pour
+   705,9 millions d'euros aux marchés du cadran)
+
+   Les achats de rosiers se sont montés en France en 2003 à 64 millions
+   d'euros. La France importe des rosiers des Pays-Bas, du Danemark,
+   d'Espagne, de Hongrie, de Pologne (où sont installés des horticulteurs
+   allemands) et en exporte en Italie, Allemagne, Suisse, Éthiopie,
+   Espagne...
+
+   Enfin il ne faut pas oublier les licences sur les créations et les
+   partenariats, comme celui entre Meilland et Conard-Pyle Co aux
+   États-Unis.
+
+Obtenteurs et rosiéristes fameux
+
+   [modifier | modifier le code]
+     * Joséphine de Beauharnais, pour sa roseraie du château de la
+       Malmaison,
+     * Jacques-Louis Descemet (1761-1839), premier obtenteur de roses
+       français,
+     * Louis Claude Noisette (1772-1849), France / États-Unis obtenteur
+       des rosiers Noisette
+     * Jean-Pierre Vibert (1777-1866), France
+     * Jules Gravereaux, créateur de la première roseraie du monde, la
+       roseraie du Val-de-Marne,
+     * Jean-Baptiste Guillot, obtenteur de La France, le premier hybride
+       de thé,
+     * Jean Liabaud, horticulteur lyonnais, créateur de nombreux hybrides
+       remontants au XIX^e siècle,
+     * Moreau-Robert, France
+     * Jean Pernet, père, élève de Guillot, de ses créations reste connue
+       'Baronne de Rothschild'
+     * Joseph Pernet-Ducher (« le magicien de Lyon »), obtenteur de
+       'Madame Caroline Testout' et de 'Soleil d'Or',
+     * Rudolf Geschwind (1829–1910), Autriche-Hongrie,
+     * Joseph Hardwick Pemberton (1852-1926), Angleterre
+     * les Meilland, créateurs de 'Peace' (Madame Antoine Meilland),
+       devenus les pépinières Meilland-Richardier,
+     * Kordes et Tantau, les plus grands rosiéristes allemands,
+     * Harkness, rosiériste anglais existant depuis 1879^[8],
+     * David Austin, le créateur des roses anglaises,
+     * Georges Delbard et ses successeurs, créateurs des séries « grands
+       parfums » et « roses des peintres » aux couleurs flammées.
+     * Tom Carruth, principal créateur américain actuel,
+     * Seizo Suzuki (1913-2000), (« Mister Rose »), rosiériste japonais et
+       directeur de l'Institut de recherche du Japon sur la rose.
+     * Ralph Moore, spécialiste des roses miniatures (Sequoia Nursery),
+     * Paul Barden, auteur de Old Garden Roses and Beyond et The Uncommon
+       Rose,
+     * Amanda et Peter Beales ont écrit de nombreux livres sur les roses.
+     * Griffith Buck, professeur d'horticulture à l'université d'État de
+       l'Iowa de 1948 à 1985, qui a créé par hybridation environ 90
+       variétés de roses dont 'Buck', connue pour sa résistance aux
+       maladies.
+     * Conard-Pyle Co (Star Roses),
+     * Louis Lens (* - 2001), Belgique, obtenteur de 'Pascali', élue rose
+       favorite du monde en 1991
+
+Roseraies de rosiéristes
+
+   [modifier | modifier le code]
+
+   Au Royaume-Uni, des parties de la collection nationale de roses sont
+   conservées par David Austin, Peter Beales et la Royal National Rose
+   Society. Mottisfont Abbey garde une collection de roses anciennes
+   d'avant 1900 et la collection du jardin botanique de l'Université de
+   Birmingham se nomme « histoire de la rose européenne ».
+
+   En France, il existe de nombreuses roseraies (liste des roseraies) et
+   l'on peut visiter les pépinières et les collections de la plupart des
+   rosiéristes :
+     * Michel Adam, à Liffré,
+     * Roseraie Barth à Lochwiller,
+     * François Dorieux rosiériste obtenteur à Montagny
+     * André Eve à Pithiviers,
+     * Delbard, dont le jardin-verger de Malicorne est classé
+       conservatoire français des collections végétales spécialisées,
+     * Roseraie Guillot, Crémieu,
+     * Francia Thauvin (« 'Gilles Clément', 'Fraise des Bois'... »),
+       rosiériste à Saint-Cyr-en-Val, elle produit avec sa fille les
+       rosiers anciens orléannais, dont beaucoup avaient pratiquement
+       disparu.
+     * Roses d'antan, et sa roseraie conservatoire
+     * Pépinière de la Saulaie, Jacques et Christophe Travers, à
+       Doué-la-Fontaine,
+     * La collection privée de roses anciennes d'Odile Masquelier La Bonne
+       Maison in La Mulatière 69350
+
+Galerie
+
+   [modifier | modifier le code]
+     * [250px-Rose_2014_%283%29..jpg]
+     * [250px-Rose2014_%282%29.jpg]
+     * [250px-Rose2014..jpg]
+     * [330px-Rose_Amber_Flush_20070601.jpg]
+     * [250px-Roses_Boutons_FR_2012.jpg]
+     * [330px-Mrs._Herbert_Stevens_May_2008.jpg]
+     * [250px-Bouquet_de_roses_roses.jpg]
+     * Rose 'corrida'
+       Rose 'corrida'
+     * Rose 'La France'
+       Rose 'La France'
+     * Rose 'miracle'
+       Rose 'miracle'
+     * Rosa 'Rosengräfin Marie Henriette'.
+       Rosa 'Rosengräfin Marie Henriette'.
+
+Notes et références
+
+   [modifier | modifier le code]
+     * Cet article est partiellement ou en totalité issu de l'article
+       intitulé « Rosier » (voir la liste des auteurs).
+
+    1. ↑ François Joyaux, Les Roses de l'Impératrice, la rosomanie au
+       temps de Joséphine, éditions Complexe (ISBN 2-8048-0041-5)
+    2. ↑ Le Bon jardinier, La Maison rustique, Paris, 1982,
+       (ISBN 2-7066-0044-6), p. 1541.
+    3. ↑ "Le jardin de roses ou comment cultiver les roses en Belgique et
+       ailleurs" par Pierre Lauwers
+    4. ↑ Guide pratique de défense des cultures, ACTA, Paris, 1980,
+       (ISBN 2-85794-007-6).
+    5. ↑ André Tracol et Gérald Montagneux, Les maladies des plantes
+       ornementales, éd. MAT, Tain-l'Hermitage, 1985,
+       (ISBN 2-902646-09-7).
+    6. ↑ Henri Delbard in Jardins de France, Évolution du marché des
+       rosiers de jardin et des fleurs coupées, SNHF, mai 2003.
+    7. ↑ UNIFLOR et UBI-FRANCE^[réf. incomplète]
+    8. ↑ Auteurs des grands succès: 'Amber Queen', 'Ena Harkness', 'Pride
+       of England'
+
+Voir aussi
+
+   [modifier | modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * Galerie de roses, sur Wikimedia Commons
+     * Rosa, sur Wikimedia Commons
+     * Rosa, sur Wikispecies
+     * rosier, sur le Wiktionnaire
+
+Articles connexes
+
+   [modifier | modifier le code]
+     * Rosier, Rose Rosiériste
+     * Horticulture, Floriculture
+
+Bibliographie
+
+   [modifier | modifier le code]
+     * Peter Beales (trad. Jérôme Goutier), Roses, Paris, Sté Nouvelle des
+       Éditions du Chêne, 1989, 431 p. (ISBN 2851085891)
+     * Alice Caron Lambert, Le Roman des roses, éd. du Chêne, 1999
+       (ISBN 978-2-84277-170-6)
+     * Éléonore Cruse, Roses anciennes et botaniques, photographies de
+       Paul Starosta, éd. du Chêne, 1999 (ISBN 2-84277-034-X)
+     * Georges Delbard, Le Grand Livre de la rose, éd. G. Delbard
+       (ISBN 2-85056-521-0)
+     * Marie-Thérèse Haudebourg, Roses et jardins, Hachette, Paris, 2005
+       (ISBN 2-01-236947-2)
+     * François Joyaux, La Rose, une passion française. Histoire de la
+       rose en France 1778-1914, éditions Complexe, 2001
+       (ISBN 2-87027-871-3).
+     * François Joyaux, Les Roses de l'Impératrice, la Rosomanie au temps
+       de Joséphine, éditions Complexe (ISBN 2-8048-0041-5)
+     * François Joyaux, Nouvelle encyclopédie des roses anciennes, Ulmer,
+       Paris, 2005 (ISBN 2-84138-205-2).
+     * François Joyaux et Georges Lévêque, La Rose de France, rosa gallica
+       et sa descendance, Imprimerie nationale éditions, 1998
+       (ISBN 2-7433-0251-8).
+     * Nadia de Kermel, Petit Larousse des roses : Les meilleures roses
+       conseillées par les meilleurs spécialistes, Larousse, 2011, 190 p.
+       (ISBN 978-2-03-585135-2)
+     * Allen Lacy, Splendeur des roses, Flammarion, 1999
+       (ISBN 2-08-200-921-1)
+     * Daniel Lemonnier (préf. Brent C. Dickerson), Le livre des roses :
+       Histoire des roses de nos jardins, Paris, Belin, 2014, 320 p.
+       (ISBN 978-2-7011-7668-0)
+     * Peter McHoy, Le Grand Livre des roses, Manise, 1998
+       (ISBN 2-841980847)
+     * Roger Phillips et Martyn Rix, Les Roses, Solar, 1988
+       (ISBN 2-263-01257-5)
+     * Roger Phillips et Martyn Rix, Histoire des roses, La Maison
+       rustique, 1994 (ISBN 2-7066-1737-3)
+     * Charlotte Testu, Les roses anciennes, La Maison rustique -
+       Flammarion, Paris, 1984 (ISBN 2-7066-0139-6)
+       Les rosiers botaniques et les cultivars introduits avant l'année
+       1920, 700 taxons disponibles en Europe sont traités
+     * Claude-Antoine Thory, Les Roses, Firmin-Didot, 1817-1824. 3 vol.
+       (156, 122 et 125 pages; 55, 60 et 54 planches de Pierre-Joseph
+       Redouté.) Consultable sur Gallica
+     * William Wheeler, Histoires de roses, éditions Du May, 1995, 141 p.
+       (ISBN 2-84102-021-5)
+     * David Austin, Les roses anglaises, Éditions Larousse, 2006,
+       (ISBN 2-03-582276-9)
+     * Ouvrage collectif sous la direction de Patrick Mioulane, Roses et
+       rosiers, Éditions Larousse, 2005, (ISBN 2-03-560315-3)
+     * Maurice Lecoq, À propos de roses, édition des Roseraies du Val de
+       la Loire, 1930, 172 pages illustrées hors-texte et dépliant
+     * Orietta Sala, Guide des roses, Éditions Delachaux et Niestlé, 2000,
+       (ISBN 2-603-01192-8)
+     * Le bon jardinier, encyclopédie horticole (152^e édition), Paris, La
+       Maison rustique, 1964 (ISBN 2-7066-0044-6).
+
+Liens externes
+
+   [modifier | modifier le code]
+     * Conseils de plantation, d'entretien et de taille sur « Un monde de
+       roses »
+
+     * icône décorative Portail du jardinage et de l’horticulture
+     * icône décorative Portail des roses et des rosiers
+
+   Ce document provient de
+   « https://fr.wikipedia.org/w/index.php?title=Culture_des_rosiers&oldid=
+   228262242 ».
+   Catégories :
+     * Rosier
+     * Horticulture
+     * Floriculture
+
+   Catégories cachées :
+     * Article manquant de références depuis juillet 2022
+     * Article manquant de références/Liste complète
+     * Article à internationaliser
+     * Portail:Jardinage et horticulture/Articles liés
+     * Portail:Biologie/Articles liés
+     * Portail:Botanique/Articles liés
+     * Projet:Biologie/Pages liées
+     * Portail:Sciences/Articles liés
+     * Portail:Loisirs et divertissements/Articles liés
+     * Portail:Roses et rosiers/Articles liés
+
+     * La dernière modification de cette page a été faite le 19 août 2025
+       à 21:18.
+     * Droit d'auteur : les textes sont disponibles sous licence Creative
+       Commons attribution, partage dans les mêmes conditions ; d’autres
+       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
+       pour plus de détails, ainsi que les crédits graphiques. En cas de
+       réutilisation des textes de cette page, voyez comment citer les
+       auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
+       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
+       code fiscal des États-Unis.
+
+     * Politique de confidentialité
+     * À propos de Wikipédia
+     * Avertissements
      * Contact
-     * Gestion des cookies
-     * (BUTTON) Paramètres d’affichage
+     * Contacts juridiques & sécurité
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
 
-   Sauf mention contraire, tous les contenus de ce site sont sous licence
-   etalab-2.0Lien externe
+     * Wikimedia Foundation
+     * Powered by MediaWiki
 
-   (BUTTON) Fermer
+   (BUTTON) Rechercher
+   ____________________
+   (BUTTON) Rechercher
 
-Paramètres d’affichage
-
-   Choisissez un thème pour personnaliser l’apparence du site.
-
-   (*) Thème clair
-   ( ) Thème sombre
-   ( ) Système Utilise les paramètres système.
+   [ ] Basculer la table des matières
+   Culture des rosiers
+   (BUTTON) Ajouter des langues Ajouter un sujet

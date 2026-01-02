@@ -1,0 +1,252 @@
+    #Institute for Molecular Science and Engineering » Feed Institute for
+   Molecular Science and Engineering » Comments Feed oEmbed (JSON) oEmbed
+   (XML) JSON
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-NDH95W87
+
+   Skip to main content Skip to blog sidebar View accessibility support
+   page
+
+   Imperial College London
+
+Institute for Molecular Science and Engineering
+
+Breadcrumbs
+
+     * Home
+     * Imperial blogs
+     * Institute for Molecular Science and Engineering
+     * The rise of cultivated meat II: beyond cell culture
+
+     * Alternative food
+     * alternative food
+     * cultivated meat
+     * future of food
+     * lab grown
+     * transdisciplinary research
+
+The rise of cultivated meat II: beyond cell culture
+
+   Elena Corujo Simon
+
+   9 October 2024
+
+   In our previous blog (Future of Food: Exploring the Rise of Cultivated
+   Meat), guest bloggers, Wynsee Lu and Mekumi Chan, told us about the
+   potential of cultivated meat as a sustainable food option. As they read
+   articles on the topic, they discovered this industry goes beyond
+   standard cell culture. In fact, there are a lot of additional aspects
+   to consider for cultivated meat. Lab-grown meat is a great example of
+   how we need to have molecular understanding to effectively engineer new
+   products. In this blog, they explore the diversity in this industry and
+   its potential for growth.
+
+The molecular origin of flavour
+
+   For consumers, the most important sensory characteristics of cultivated
+   meats are the taste and texture compared to real meat. The main way
+   industries have attempted to achieve the natural taste of meat within
+   this sustainable food option is by mimicking the Maillard reaction. The
+   Maillard reaction is the natural process that normal meats undergo when
+   browning under heat to bring out aromas and flavours. Simultaneous
+   chemical reactions between the amino acids and reducing sugars in the
+   meat achieve the desired outcome. To mimic this, researchers use a
+   temperature-sensitive flavour-switchable scaffold to enhance the
+   aromatic properties of cultivated meats. This scaffold “switches on’
+   while cooking and the chemical reactions within it release crucial
+   flavours to appease consumers. This is not the only way to reproduce
+   the flavours of real meat and industries are developing new methods
+   every day.
+
+   Maillard reaction Maillard reaction. Image credit: Food research Lab
+   https://www.foodresearchlab.com/insights/what-science-can-do/what-is-ma
+   illard-reaction/
+
+Scaffolds to build the right growth environment
+
+   In the emerging world of technology, computational modeling is at the
+   forefront of science. The use of 3D models has even extended to the
+   industry of cultivated meats to select certain materials, shapes, or
+   topography of scaffolds, allowing uniformity across a particular meat
+   type. In addition, researchers are also investigating 3D
+   microenvironments to grow and proliferate these stem cells instead of
+   bioreactors. Cells are confined within 3D microenvironment, which can
+   eradicate the shear stress presented by microcarriers and prevent the
+   aggregate accumulation occurring in bioreactors. Through the science of
+   scaffolding, scientists can ‘build’ the desired shape of cultivated
+   meats.
+   Diagram showing NaOH scaffolds seeded with cells. Schematic diagram of
+   scaffolds seeded with mesenchymal cells at different time points. Image
+   credit:
+   https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fpha
+   r.2020.00471/full
+
+Companies leading the way in the sector
+
+   Some companies are already beginning to utilize this research to pave
+   the way for the future of cultivated meats. London based, Hoxton Farms,
+   are a company dedicated to improving the flavour of lab grown meats. By
+   cultivating the precursor cells (stem cells) of pork fat in a blend of
+   plant- based nutrients, these cells can successfully grow and mature
+   into pork fat, a popular ingredient in dishes known for its strong
+   umami flavour. This technology is scaled using modular cultivators
+   showing that flavour does not need to be compromised when choosing
+   sustainable meats.
+
+   Many vegans and vegetarians argue that while these sustainable meats do
+   not involve the direct killing of animals, the growth of stem cells
+   still require the use of animal products. Companies typically use
+   foetal bovine serum (FBS) to cultivate the animal stem cells to grow
+   their meats. However, FBS’s origin is the blood of a bovine foetus.
+
+   Therefore, there has been recent research into non-animal-based growth
+   media that could be applied to the cultured meat industry. Multus, a
+   start-up company based at Imperial College London has developed an
+   alternative to FBS. Multus distributes up to 10,000 L of its serum each
+   week to cultivated meat companies around the world. This development
+   allows companies to manufacture animal- free meats.
+   Simplified cultivated meat production process. Image credit: Multus
+   Biotechnology Simplified cultivated meat production process. Image
+   credit: Multus Biotechnology
+
+   Matrix Meats have also developed electro-spun nanofiber scaffolds that
+   can be adapted to different meat development processes. Additionally,
+   Aleph Farms are targeting the use of textured soy protein (TSP) as a
+   material for this scaffold.
+
+Potential for more improvements and companies in the sector
+
+   The future of cultivated meat does not stop at cell culture. Further
+   research into the practicalities of developing large-scale production
+   of cultivated meats has to be considered as an important part of the
+   future food production. Moreover, the rise in industries highlights the
+   potential to play a huge role for economic growth and resilience!
+   UK cultivated meat investment graph showing an increase from £2m in
+   2020 to £61m in 2022. UK cultivated meat investment graph. Image
+   credit: Good Food Institute
+
+   By Elena Corujo Simon
+
+   Categorised under Alternative food, Uncategorised
+
+   Tagged alternative food, cultivated meat, future of food, lab grown,
+   transdisciplinary research
+
+Sidebar
+
+About Institute for Molecular Science and Engineering
+
+     * Who we are and what we do
+
+Archives
+
+   Archives [Select Month__]
+     * May 2025
+     * April 2025
+     * February 2025
+     * January 2025
+     * December 2024
+     * November 2024
+     * October 2024
+     * September 2024
+     * August 2024
+     * July 2024
+     * May 2024
+     * April 2024
+     * February 2024
+     * November 2023
+     * October 2023
+     * September 2023
+     * August 2023
+     * July 2023
+     * June 2023
+     * May 2023
+     * April 2023
+     * March 2023
+     * February 2023
+     * January 2023
+     * December 2022
+     * November 2022
+     * October 2022
+     * September 2022
+     * August 2022
+     * July 2022
+     * June 2022
+     * May 2022
+     * April 2022
+     * March 2022
+     * February 2022
+     * January 2022
+     * December 2020
+     * November 2020
+     * October 2020
+     * September 2020
+
+Categories
+
+   Categories[Select Category___________]
+     * Alternative food
+     * Catalysis
+     * Clean water
+     * Cultural heritage
+     * Engineering biology
+     * Fast fashion
+     * Green energy
+     * Greener formulations
+     * Health formulations
+     * IMSE events
+     * IMSE people
+     * Mental health
+     * Plastics
+     * Podcast
+     * Quantum
+     * Smart surfaces
+     * Solar fuels
+     * Transdisciplinary research
+     * Uncategorised
+     * Zero waste
+
+Recent Posts
+
+     * Can space food save the Earth?
+     * Alternative proteins – a bite for the environment
+     * Not a drop in the ocean, households’ potential to reduce carbon
+       emissions
+     * Sustainable flavourings
+     * DNA, the blueprint and concrete of biological engineers
+
+Post navigation
+
+   Previous post:
+
+   Future of Food: Exploring the Rise of Cultivated Meat
+
+   Next post:
+   Predicting protein structures and building Legos
+
+College information
+
+   Imperial College London
+
+   South Kensington Campus
+   London SW7 2AZ, UK
+   tel: +44 (0)20 7589 5111
+
+   Campuses & maps >
+
+Follow Imperial
+
+     * Facebook
+     * Twitter
+     * YouTube
+     * LinkedIn
+     * Google Plus
+     * Instagram
+     * Weibo
+
+Site information
+
+     * Log in
+     * Accessibility
+     * Use of cookies
+     * © 2026 Imperial College London

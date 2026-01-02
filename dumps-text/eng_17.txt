@@ -1,17 +1,1147 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 137809293
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:37 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Medical uses
+     * 2 Procedure
+       (BUTTON) Toggle Procedure subsection
+          + 2.1 Collection
+          + 2.2 Culturing
+          + 2.3 Identification
+          + 2.4 Antibiotic susceptibility testing
+     * 3 Limitations
+     * 4 History
+     * 5 Notes
+     * 6 References
+       (BUTTON) Toggle References subsection
+          + 6.1 Bibliography
+
+   [ ] Toggle the table of contents
+
+Blood culture
+
+   [ ] 21 languages
+     * العربية
+     * Català
+     * Deutsch
+     * Español
+     * Euskara
+     * فارسی
+     * Français
+     * 한국어
+     * Հայերեն
+     * Italiano
+     * മലയാളം
+     * Nederlands
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Српски / srpski
+     * Suomi
+     * ไทย
+     * Türkçe
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   This is a good article. Click here for more information.
+   From Wikipedia, the free encyclopedia
+   Test to detect bloodstream infections
+   "Blood cultures" redirects here. For the indie pop group, see Blood
+   Cultures (band).
+
+   Medical intervention
+       Blood culture
+   See caption.
+   A laboratory worker unloads blood culture bottles from a BACT/Alert
+   machine, an automated system used to incubate blood cultures and detect
+   microbial growth
+      MeSH     D000071997
+      LOINC    600-7
+   MedlinePlus 003744
+   [edit on Wikidata]
+
+   A blood culture is a medical laboratory test used to detect bacteria or
+   fungi in a person's blood. Under normal conditions, the blood does not
+   contain microorganisms: their presence can indicate a bloodstream
+   infection such as bacteremia or fungemia, which in severe cases may
+   result in sepsis. By culturing the blood, microbes can be identified
+   and tested for resistance to antimicrobial drugs, which allows
+   clinicians to provide an effective treatment.
+
+   To perform the test, blood is drawn into bottles containing a liquid
+   formula that enhances microbial growth, called a culture medium.
+   Usually, two containers are collected during one draw, one of which is
+   designed for aerobic organisms that require oxygen, and one of which is
+   for anaerobic organisms, that do not. These two containers are referred
+   to as a set of blood cultures. Two sets of blood cultures are sometimes
+   collected from two different blood draw sites. If an organism only
+   appears in one of the two sets, it is more likely to represent
+   contamination with skin flora than a true bloodstream infection. False
+   negative results can occur if the sample is collected after the person
+   has received antimicrobial drugs or if the bottles are not filled with
+   the recommended amount of blood. Some organisms do not grow well in
+   blood cultures and require special techniques for detection.
+
+   The containers are placed in an incubator for several days to allow the
+   organisms to multiply. If microbial growth is detected, a Gram stain is
+   conducted from the culture bottle to confirm that organisms are present
+   and provide preliminary information about their identity. The blood is
+   then subcultured, meaning it is streaked onto an agar plate to isolate
+   microbial colonies for full identification and antimicrobial
+   susceptibility testing. Because it is essential that bloodstream
+   infections are diagnosed and treated quickly, rapid testing methods
+   have been developed using technologies like polymerase chain reaction
+   and MALDI-TOF MS.
+
+   Procedures for culturing the blood were published as early as the
+   mid-19th century, but these techniques were labour-intensive and bore
+   little resemblance to contemporary methods. Detection of microbial
+   growth involved visual examination of the culture bottles until
+   automated blood culture systems, which monitor gases produced by
+   microbial metabolism, were introduced in the 1970s. In developed
+   countries, manual blood culture methods have largely been made obsolete
+   by automated systems.
+
+Medical uses
+
+   [edit]
+
+   Blood is normally sterile.^[1] The presence of bacteria in the blood is
+   termed bacteremia, and the presence of fungi is called fungemia.^[2]
+   Minor damage to the skin^[3] or mucous membranes, which can occur in
+   situations like toothbrushing or defecation,^[4]^[5] can introduce
+   bacteria into the bloodstream, but this bacteremia is normally
+   transient and is rarely detected in cultures because the immune system
+   and reticuloendothelial system quickly sequester and destroy the
+   organisms.^[3]^[6] Bacteria can enter the blood from infections such as
+   cellulitis, UTIs and pneumonia;^[7] and infections within the vascular
+   system, such as bacterial endocarditis or infections associated with
+   intravenous lines, may result in a constant bacteremia.^[4] Fungemia
+   occurs most commonly in people with poorly functioning immune
+   systems.^[2] If bacteria or fungi are not cleared from the bloodstream,
+   they can spread to other organs and tissues,^[3] or evoke an immune
+   response that leads to a systemic inflammatory condition called sepsis,
+   which can be life-threatening.^[8]^[9]
+
+   When sepsis is suspected, it is necessary to draw blood cultures to
+   identify the causative agent and provide targeted antimicrobial
+   therapy.^[10] People who are hospitalized and have a fever, a low body
+   temperature, a high white blood cell count or a low count of
+   granulocytes (a category of white blood cells) commonly have cultures
+   drawn to detect a possible bloodstream infection.^[11]^[12] Blood
+   cultures are used to detect bloodstream infections in febrile
+   neutropenia, a common complication of chemotherapy in which fever
+   occurs alongside a severely low count of neutrophils (white blood cells
+   that defend against bacterial and fungal pathogens).^[13]^[14]^[15]
+   Bacteremia is common in some types of infections, such as meningitis,
+   septic arthritis and epidural abscesses, so blood cultures are
+   indicated in these conditions. In infections less strongly associated
+   with bacteremia, blood culture may still be indicated if the individual
+   is at high risk of acquiring an intravascular infection or if cultures
+   cannot be promptly obtained from the main site of infection (for
+   example, a urine culture in pyelonephritis or a sputum culture in
+   severe community-acquired pneumonia).^[16]^[17] Blood culture can
+   identify an underlying microbial cause in cases of endocarditis^[18]
+   and fever of unknown origin.^[11]^[19]
+
+   The pathogens most frequently identified in blood cultures include
+   Staphylococcus aureus, Escherichia coli and other members of the family
+   Enterobacteriaceae, Enterococcus species, Pseudomonas aeruginosa and
+   Candida albicans.^[20]^[21] Coagulase-negative staphylococci (CNS) are
+   also commonly encountered, although it is often unclear whether these
+   organisms, which constitute part of the normal skin flora,^[22] are
+   true pathogens or merely contaminants.^[21] In blood cultures taken
+   from newborn babies and children, CNS can indicate significant
+   infections.^[23] The epidemiology of bloodstream infections varies with
+   time and place; for instance, Gram-positive organisms overtook
+   Gram-negative organisms as the predominant cause of bacteremia in the
+   United States during the 1980s and 1990s,^[24] and rates of fungemia
+   have greatly increased in association with a growing population of
+   people receiving immunosuppressive treatments such as
+   chemotherapy.^[25] Gram-negative sepsis is more common in Central and
+   South America, Eastern Europe, and Asia than in North America and
+   Western Europe; and in Africa, Salmonella enterica is a leading cause
+   of bacteremia.^[26]
+
+Procedure
+
+   [edit]
+   Three clear bottles with differently coloured caps and labels.
+   Anaerobic, aerobic, and paediatric blood culture bottles
+
+Collection
+
+   [edit]
+
+   Blood cultures are typically drawn through venipuncture. Collecting the
+   sample from an intravenous line is not recommended, as this is
+   associated with higher contamination rates, although cultures may be
+   collected from both venipuncture and an intravenous line to diagnose
+   catheter-associated infections.^[11]^[27] Prior to the blood draw, the
+   top of each collection bottle is disinfected using an alcohol swab to
+   prevent contamination.^[11] The skin around the puncture site is then
+   cleaned and left to dry; some protocols recommend disinfection with an
+   alcohol-based antiseptic followed by either chlorhexidine or an
+   iodine-based preparation,^[note 1]^[27]^[28] while others consider
+   using only an alcohol-containing antiseptic to be sufficient.^[17]^[29]
+   If blood must be drawn for other tests at the same time as a blood
+   culture, the culture bottles are drawn first to minimize the risk of
+   contamination.^[30] Because antimicrobial therapy can cause false
+   negative results by inhibiting the growth of microbes, it is
+   recommended that blood cultures are drawn before antimicrobial drugs
+   are given, although this may be impractical in people who are
+   critically ill.^[10]
+
+   A typical blood culture collection involves drawing blood into two
+   bottles, which together form one "culture" or "set". One bottle is
+   designed to enhance the growth of aerobic organisms, and the other is
+   designed to grow anaerobic organisms. In children, infection with
+   anaerobic bacteria is uncommon, so a single aerobic bottle may be
+   collected to minimize the amount of blood required.^[31] It is
+   recommended that at least two sets are collected from two separate
+   venipuncture locations. This helps to distinguish infection from
+   contamination, as contaminants are less likely to appear in more than
+   one set than true pathogens. Additionally, the collection of larger
+   volumes of blood increases the likelihood that microorganisms will be
+   detected if present.^[32]
+
+   Blood culture bottles contain a growth medium, which encourages
+   microorganisms to multiply, and an anticoagulant that prevents blood
+   from clotting.^[33] Sodium polyanethol sulfonate (SPS) is the most
+   commonly used anticoagulant^[33] because it does not interfere with the
+   growth of most organisms.^[28] The exact composition of the growth
+   medium varies, but aerobic bottles use a broth that is enriched with
+   nutrients, such as brain-heart infusion or trypticase soy broth,^[34]
+   and anaerobic bottles typically contain a reducing agent such as
+   thioglycollate. The empty space in an anaerobic bottle is filled with a
+   gas mixture that does not contain oxygen.^[33]^[35]
+
+   Many commercially manufactured bottles contain a resin that absorbs
+   antibiotics to reduce their action on the microorganisms in the
+   sample.^[11] Bottles intended for paediatric use are designed to
+   accommodate lower blood volumes and have additives that enhance the
+   growth of pathogens more commonly found in children.^[36] Other
+   specialized bottles may be used to detect fungi and mycobacteria.^[35]
+   In low and middle income countries, pre-formulated culture bottles can
+   be prohibitively expensive, and it may be necessary to prepare the
+   bottles manually. It can be difficult to access the proper supplies and
+   facilities,^[37] and in some regions, it may not be possible to perform
+   blood cultures at all.^[38]
+
+   It is important that the bottles are neither underfilled nor
+   overfilled: underfilling can lead to false negative results as fewer
+   organisms are present in the sample, while overfilling can inhibit
+   microbial growth because the ratio of growth medium to blood is
+   comparatively lower. A 1:10 to 1:5 ratio of blood to culture medium is
+   suggested to optimize microbial growth.^[28]^[39] For routine blood
+   cultures in adults, the Clinical and Laboratory Standards Institute
+   (CLSI) recommends the collection of two sets of bottles from two
+   different draws, with 20–30 mL of blood drawn in each set.^[11] In
+   children, the amount of blood to be drawn is often based on the child's
+   age or weight.^[36]^[40] If endocarditis is suspected, a total of six
+   bottles may be collected.^[41]
+
+Culturing
+
+   [edit]
+   See caption. Signs of growth in manual blood culture systems: a) a film
+   of growth (pellicle) on the surface; b) bubbles from gas production; c)
+   turbidity from microbial growth (in right bottle); d) visible microbial
+   colonies^[42]
+
+   After the blood is collected, the bottles are incubated at body
+   temperature to encourage the growth of microorganisms. Bottles are
+   usually incubated for up to five days in automated systems,^[43]
+   although most common bloodstream pathogens are detected within 48
+   hours.^[44] The incubation time may be extended further if manual blood
+   culture methods are used or if slower-growing organisms, such as
+   certain bacteria that cause endocarditis, are suspected.^[43]^[45] In
+   manual systems, the bottles are visually examined for indicators of
+   microbial growth, which might include cloudiness, the production of
+   gas, the presence of visible microbial colonies, or a change in colour
+   from the digestion of blood, which is called hemolysis. Some manual
+   blood culture systems indicate growth using a compartment that fills
+   with fluid when gases are produced, or a miniature agar plate which is
+   periodically inoculated by tipping the bottle.^[46] To ensure that
+   positive blood cultures are not missed, a sample from the bottle is
+   often inoculated onto an agar plate (subcultured) at the end of the
+   incubation period regardless of whether or not indicators of growth are
+   observed.^[47]
+
+   In developed countries, manual culture methods have largely been
+   replaced by automated systems that provide continuous computerized
+   monitoring of the culture bottles.^[48] These systems, such as the
+   BACTEC, BacT/ALERT and VersaTrek, consist of an incubator in which the
+   culture bottles are continuously mixed. Growth is detected by sensors
+   that measure the levels of gases inside the bottle—most commonly carbon
+   dioxide—which serve as an indicator of microbial metabolism.^[46] An
+   alarm or a visual indicator alerts the microbiologist to the presence
+   of a positive blood culture bottle.^[49] If the bottle remains negative
+   at the end of the incubation period, it is generally discarded without
+   being subcultured.^[47]
+
+   A technique called the lysis-centrifugation method can be used for
+   improved isolation of slow-growing or fastidious organisms, such as
+   fungi, mycobacteria, and Legionella.^[50]^[51] Rather than incubating
+   the blood in a bottle filled with growth medium,^[52] this method
+   involves collecting blood into a tube containing an agent that destroys
+   (lyses) red and white blood cells, then spinning the sample in a
+   centrifuge. This process concentrates the solid contents of the sample,
+   including microorganisms if present, into a pellet, which is used to
+   inoculate the subculture media. While lysis-centrifugation offers
+   greater sensitivity than conventional blood culture methods, it is
+   prone to contamination because it requires extensive manipulation of
+   the sample.^[53]
+
+Identification
+
+   [edit]
+   A few large, spherical, purple bacteria in small clusters on a faded
+   pink background
+   Off-white colonies of bacteria growing on a blood agar plate
+   Left: Direct Gram stain from a positive blood culture bottle, showing
+   spherical bacteria (cocci) that stain purple (Gram-positive). Right:
+   Growth of Staphylococcus aureus, a Gram-positive coccus and a pathogen
+   commonly isolated from blood cultures, on blood agar.
+
+   If growth is detected, a microbiologist will perform a Gram stain on a
+   sample of blood from the bottle for a rapid preliminary identification
+   of the organism.^[54] The Gram stain classifies bacteria as
+   Gram-positive or Gram-negative and provides information about their
+   shape—whether they are rod-shaped (referred to as bacilli), spherical
+   (referred to as cocci), or spiral-shaped (spirochetes)—as well as their
+   arrangement.^[55] Gram-positive cocci in clusters, for example, are
+   typical of Staphylococcus species.^[56] Yeast and other fungi may also
+   be identified from the Gram stain.^[57]^[58] A Gram stain identifying
+   microbial growth from a blood culture is considered a critical result
+   and must immediately be reported to the clinician.^[59] The Gram stain
+   provides information about the possible identity of the organism, which
+   assists the clinician in the selection of a more appropriate
+   antimicrobial treatment before the full culture and sensitivity results
+   are complete.^[54]
+
+   In traditional methods, the blood is then subcultured onto agar plates
+   to isolate the organism for further testing. The Gram stain results
+   inform microbiologists about what types of agar plates should be used
+   and what tests might be appropriate to identify the organism.^[60] In
+   some cases, no organisms are seen on the Gram stain despite the culture
+   bottle showing indicators of growth or being reported as positive by
+   automated instruments. This may represent a false positive result, but
+   it is possible that organisms are present but cannot easily be
+   visualized microscopically. Positive bottles with negative Gram stains
+   are subcultured before being returned to the incubator, often using
+   special culture media that promotes the growth of slow-growing
+   organisms.^[61]
+
+   It typically takes 24 to 48 hours for sufficient growth to occur on the
+   subculture plates for definitive identification to be possible.^[57] At
+   this point, the microbiologist will assess the appearance of the
+   bacterial or fungal colonies^[62] and carry out tests that provide
+   information about the metabolic and biochemical features of the
+   organism, which permit identification to the genus or species level.
+   For example, the catalase test can distinguish streptococci and
+   staphylococci (two genera of Gram-positive cocci)^[63] from each other,
+   and the coagulase test can differentiate Staphylococcus aureus, a
+   common culprit of bloodstream infections, from the less pathogenic
+   coagulase-negative staphylococci.^[29]^[64]
+   A gloved hand holds a metal plate onto which microbial samples have
+   been placed, ready to load it into the sampling area of the MALDI-TOF
+   instrument Loading a target plate containing microbial samples into a
+   Bruker Biotyper, an instrument used for MALDI-TOF analysis in
+   microbiology
+
+   Microorganisms may also be identified using automated systems, such as
+   instruments that perform panels of biochemical tests,^[65] or
+   matrix-assisted laser desorption/ionization time-of-flight mass
+   spectrometry (MALDI-TOF MS), in which microbial proteins are ionized
+   and characterized on the basis of their mass-to-charge ratios; each
+   microbial species exhibits a characteristic pattern of proteins when
+   analyzed through mass spectrometry.^[66]
+
+   Because bloodstream infections can be life-threatening, timely
+   diagnosis and treatment is critical,^[67] and to this end several rapid
+   identification methods have been developed.^[57] MALDI-TOF can be used
+   to identify organisms directly from positive blood culture bottles
+   after separation and concentration procedures,^[68] or from preliminary
+   growth on the agar plate within a few hours of subculturing.^[69]
+   Genetic methods such as polymerase chain reaction (PCR) and microarrays
+   can identify microorganisms by detection of DNA sequences specific to
+   certain species in blood culture samples. Several systems designed for
+   the identification of common blood culture pathogens are commercially
+   available.^[70] Some biochemical and immunologic tests can be performed
+   directly on positive blood cultures, such as the tube coagulase test
+   for identification of S. aureus^[57] or latex agglutination tests for
+   Streptococcus pneumoniae,^[71] and unlike PCR and MALDI-TOF, these
+   methods may be practical for laboratories in low and middle income
+   countries.^[42] It is also possible to directly inoculate microbial
+   identification panels with blood from a positive culture bottle,
+   although this is not as reliable as testing subcultured bacteria
+   because additives from the growth media can interfere with the
+   results.^[72]
+
+   Even faster diagnosis could be achieved through bypassing culture
+   entirely and detecting pathogens directly from blood samples. A few
+   direct testing systems are commercially available as of 2018, but the
+   technology is still in its infancy. Most panels detect only a limited
+   number of pathogens, and the sensitivity can be poor compared to
+   conventional blood culture methods. Culturing remains necessary in
+   order to carry out full antimicrobial sensitivity testing.^[73]
+
+Antibiotic susceptibility testing
+
+   [edit]
+   Further information: Antibiotic susceptibility testing
+   An agar plate containing multiple small white disks. Bacteria are
+   growing evenly throughout the agar plate except where disks are placed.
+   Clear areas around the disks indicate the effect of antibiotics.
+   A small incubator, somewhat resembling a microwave. The door of the
+   instrument is open, revealing a carousel containing four testing
+   panels.
+   Left: Manual antibiotic sensitivity testing by the disk diffusion test.
+   Right: Pre-formulated panels loaded into a BD Phoenix M50, an
+   instrument used for automated antibiotic sensitivity testing.
+
+   Antimicrobial treatment of bloodstream infections is initially empiric,
+   meaning it is based on the clinician's suspicion about the causative
+   agent of the disease and local patterns of antimicrobial resistance.
+   Carrying out antibiotic susceptibility testing (AST) on pathogens
+   isolated from a blood culture allows clinicians to provide a more
+   targeted treatment and to discontinue broad-spectrum antibiotics, which
+   can have undesirable side effects.^[8]^[10] In traditional AST methods,
+   such as the disk diffusion test, pure colonies of the organism are
+   selected from the subculture plate and used to inoculate a secondary
+   medium. These methods require overnight incubation before results can
+   be obtained.^[74] There are automated systems which use pre-formulated
+   antibiotic panels, measure microbial growth automatically, and
+   determine the sensitivity results using algorithms; some of these can
+   provide results in as little as five hours, but others require
+   overnight incubation as well.^[65]^[75]
+
+   Rapid administration of effective antimicrobial drugs is crucial in the
+   treatment of sepsis,^[8] so several methods have been developed to
+   provide faster antibiotic sensitivity results. Conventional AST methods
+   can be carried out on young growth from the subculture plate,^[76]
+   pellets of microorganisms obtained from concentration and purification
+   of the positive blood culture, or directly from the culture
+   bottle.^[77]^[78] Because direct testing methods do not isolate the
+   organisms, they do not provide accurate results if more than one
+   microorganism is present, although this is an infrequent occurrence in
+   blood cultures.^[76] Another source of error is the difficulty in
+   standardizing the amount of bacteria in the sample (the inoculum),
+   which has a profound effect on the test results.^[79]
+
+   Genetic testing can be used for rapid detection of certain
+   antimicrobial resistance markers.^[80] Methods such as PCR and
+   microarrays, which can be performed directly on positive blood culture
+   samples,^[70] detect DNA sequences associated with genes that confer
+   resistance, such as the mecA gene found in methicillin-resistant
+   Staphylococcus aureus or the vanA and vanB genes of
+   vancomycin-resistant enterococci.^[68] MALDI-TOF has been explored as a
+   rapid antimicrobial sensitivity testing method; principles involve
+   measuring microbial growth in the presence of antibiotics, identifying
+   the breakdown of antibiotics by microbial enzymes, and detecting
+   protein spectra associated with bacterial strains that exhibit
+   antibiotic resistance.^[79] Some of these methods can be performed on
+   pellets from positive blood culture bottles.^[81] However, the lack of
+   established methodologies for AST by MALDI-TOF limits its use in
+   clinical practice,^[82] and direct AST by MALDI-TOF, unlike genetic
+   testing methods, had not been approved by the Food and Drug
+   Administration as of 2018.^[81]
+
+Limitations
+
+   [edit]
+
+   Blood cultures are subject to both false positive and false negative
+   errors. In automated culture systems, identification of positive
+   bottles is based on the detection of gases produced by cellular
+   metabolism, so samples with high numbers of white blood cells may be
+   reported as positive when no bacteria are present. Inspection of the
+   growth curve produced by the instrument can help to distinguish between
+   true and false positive cultures, but Gram staining and subculturing
+   are still necessary for any sample that is flagged as positive.^[61]
+
+   Blood cultures can become contaminated with microorganisms from the
+   skin or the environment, which multiply inside the culture bottle,
+   giving the false impression that those organisms are present in the
+   blood.^[11] Contamination of blood cultures can lead to unnecessary
+   antibiotic treatment and longer hospital stays.^[29] The frequency of
+   contamination can be reduced by following established protocols for
+   blood culture collection, but it cannot be eliminated;^[83] for
+   instance, bacteria can survive in deeper layers of the skin even after
+   meticulous disinfection of the blood draw site.^[29] The CLSI defines
+   an acceptable contamination rate as no greater than 3% of all blood
+   cultures.^[11] The frequency of contamination varies widely between
+   institutions and between different departments in the same
+   hospital;^[83] studies have found rates ranging from 0.8 to 12.5
+   percent.^[29]
+
+   When faced with a positive blood culture result, clinicians must decide
+   whether the finding represents contamination or genuine infection. Some
+   organisms, such as S. aureus or Streptococcus pneumoniae, are usually
+   considered to be pathogenic when detected in a blood culture, while
+   others are more likely to represent contamination with skin flora; but
+   even common skin organisms such as coagulase-negative staphylococci can
+   cause bloodstream infections under certain conditions. When such
+   organisms are present, interpretation of the culture result involves
+   taking into account the person's clinical condition and whether or not
+   multiple cultures are positive for the same organism.^[29]
+
+   False negatives may be caused by drawing blood cultures after the
+   person has received antibiotics or collecting an insufficient amount of
+   blood. The volume of blood drawn is considered the most important
+   variable in ensuring that pathogens are detected: the more blood that
+   is collected, the more pathogens are recovered.^[11] However, if the
+   amount of blood collected far exceeds the recommended volume, bacterial
+   growth may be inhibited by natural inhibitors present in the blood and
+   an inadequate amount of growth medium in the bottle. Over-filling of
+   blood culture bottles may also contribute to iatrogenic anemia.^[28]
+
+   Not all pathogens are easily detected by conventional blood culture
+   methods. Particularly fastidious organisms, such as Brucella and
+   Mycobacterium species, may require prolonged incubation times or
+   special culture media. Some organisms are exceedingly difficult to
+   culture or do not grow in culture at all, so serology testing or
+   molecular methods such as PCR are preferred if infection with these
+   organisms is suspected.^[45]^[84]
+
+History
+
+   [edit]
+   See caption. An early vacuum tube system for blood culture collection,
+   described by C.E. Simon & C.C.W. Judd in 1915^[85]
+
+   Early blood culture methods were labour-intensive.^[86] One of the
+   first known procedures, published in 1869, recommended that leeches be
+   used to collect blood from the patient.^[87] A microbiology textbook
+   from 1911 noted that decontamination of the draw site and equipment
+   could take over an hour, and that due to a lack of effective methods
+   for preserving blood, the cultures would sometimes have to be prepared
+   at the patient's bedside. In addition to subculturing the broth, some
+   protocols specified that the blood be mixed with melted agar and the
+   mixture poured into a petri dish.^[86] In 1915, a blood culture
+   collection system consisting of glass vacuum tubes containing glucose
+   broth and an anticoagulant was described. Robert James Valentine
+   Pulvertaft published a seminal work on blood cultures in 1930,^[88]
+   specifying—among other insights—an optimal blood-to-broth ratio of 1:5,
+   which is still accepted today.^[87] The use of SPS as an anticoagulant
+   and preservative was introduced in the 1930s and 40s and resolved some
+   of the logistical issues with earlier methods.^[86] From the 1940s
+   through the 1980s, a great deal of research was carried out on broth
+   formulations and additives, with the goal of creating a growth medium
+   that could accommodate all common bloodstream pathogens.^[87]
+
+   In 1947, M.R. Castañeda invented a "biphasic" culture bottle for the
+   identification of Brucella species, which contained both broth and an
+   agar slant, allowing the agar to be easily subcultured from the
+   broth;^[42] this was a precursor of some contemporary systems for
+   manual blood cultures.^[43] E.G. Scott in 1951 published a protocol
+   described as "the advent of the modern blood culture set".^[86] Scott's
+   method involved inoculating blood into two rubber-sealed glass bottles;
+   one for aerobes and one for anaerobes. The aerobic bottle contained
+   trypticase soy broth and an agar slant, and the anaerobic bottle
+   contained thioglycollate broth. The lysis-centrifugation method was
+   introduced in 1917 by Mildred Clough, but it was rarely used in
+   clinical practice until commercial systems were developed in the
+   mid-1970s.^[86]^[89]
+
+   Automated blood culture systems first became available in the
+   1970s.^[90] The earliest of these—the BACTEC systems, produced by
+   Johnston Laboratories (now Becton Dickinson)—used culture broths
+   containing nutrients labelled with radioactive isotopes. Microbes that
+   fed on these substrates would produce radioactive carbon dioxide, and
+   growth could be detected by monitoring its concentration.^[50]^[91]
+   Before this technique was applied to blood cultures, it had been
+   proposed by NASA as a method for detecting life on Mars.^[86]
+   Throughout the 1970s and 80s several manufacturers attempted to detect
+   microbial growth by measuring changes in the electrical conductivity of
+   the culture medium, but none of these methods were commercially
+   successful.^[91]
+
+   A major issue with the early BACTEC systems was that they produced
+   radioactive waste, which required special disposal procedures,^[50] so
+   in 1984 a new generation of BACTEC instruments was released that used
+   spectrophotometry to detect CO[2].^[91] The BacT/ALERT system, which
+   indirectly detects production of CO[2] by measuring the decrease in the
+   medium's pH, was approved for use in the US in 1991. Unlike the BACTEC
+   systems available at the time, the BacT/ALERT did not require a needle
+   to be introduced into the bottle for sampling; this reduced the
+   frequency of contamination^[91] and made it the first system to provide
+   truly continuous monitoring of blood cultures.^[92] This non-invasive
+   measurement method was adopted in 1992 by the BACTEC 9000 series, which
+   used fluorescent indicators to detect pH changes.^[93] The Difco ESP, a
+   direct predecessor of the contemporary VersaTREK system^[86] which
+   detects gas production by measuring pressure changes, was also first
+   approved in 1992.^[91] By 1996, an international study found that 55%
+   of 466 laboratories surveyed were using the BACTEC or BacT/ALERT
+   systems, with other automated systems accounting for 10% of the
+   total.^[94]
+
+Notes
+
+   [edit]
+    1. ^ Chlorhexidine is not recommended for use in infants under two
+       months old, and iodine-based antiseptics are contraindicated in
+       low-birth-weight infants.^[28]
+
+References
+
+   [edit]
+    1. ^ Carroll, KC et al. (2015). p. 755.
+    2. ^ ^a ^b Turgeon, ML (2016). p. 510.
+    3. ^ ^a ^b ^c Mahon, CR et al. (2018). p. 866.
+    4. ^ ^a ^b Procop, GW & Koneman, EW (2017). p. 188.
+    5. ^ Pitt, SJ (2018). p. 26.
+    6. ^ Carroll, KC et al. (2015) pp. 755–6.
+    7. ^ Mahon, CR et al. (2018). p. 867.
+    8. ^ ^a ^b ^c Martinez, RM; Wolk, DM (2016). "Bloodstream Infections".
+       Microbiology Spectrum. 4 (4).
+       doi:10.1128/microbiolspec.DMIH2-0031-2016. ISSN 2165-0497.
+       PMID 27726765.
+    9. ^ Bennett, JE et al. (2019). p. 990.
+   10. ^ ^a ^b ^c Rhodes, A; Evans, E; Alhazzani, W; Levy, MM; Antonelli,
+       M; Ferrer, R; et al. (2017). "Surviving Sepsis Campaign:
+       International Guidelines for Management of Sepsis and Septic Shock:
+       2016". Intensive Care Medicine. 43 (3): 304–377.
+       doi:10.1007/s00134-017-4683-6. ISSN 0342-4642. PMID 28101605.
+       S2CID 206884481.
+   11. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i Garcia, RA; Spitzer, ED; Beaudry, J;
+       Beck, C; Diblasi, R; Gilleeny-Blabac, M; et al. (2015).
+       "Multidisciplinary team review of best practices for collection and
+       handling of blood cultures to determine effective interventions for
+       increasing the yield of true-positive bacteremias, reducing
+       contamination, and eliminating false-positive central
+       line–associated bloodstream infections". American Journal of
+       Infection Control. 43 (11): 1222–1237.
+       doi:10.1016/j.ajic.2015.06.030. ISSN 0196-6553. PMID 26298636.
+   12. ^ Willems, E; Smismans, A; Cartuyvels, R; Coppens, G; Van
+       Vaerenbergh, K; Van den Abeele, AM; Frans, J (2012). "The
+       preanalytical optimization of blood cultures: a review and the
+       clinical importance of benchmarking in 5 Belgian hospitals".
+       Diagnostic Microbiology and Infectious Disease. 73 (1): 1–8.
+       doi:10.1016/j.diagmicrobio.2012.01.009. ISSN 0732-8893.
+       PMID 22578933.
+   13. ^ Klastersky, J; de Naurois; Rolston, K; Rapoport, B; Maschmeyer,
+       G; Aapro, M; Herrstedt, J. (2016). "Management of febrile
+       neutropaenia: ESMO Clinical Practice Guidelines". Annals of
+       Oncology. 27 (suppl 5): v111 – v118. doi:10.1093/annonc/mdw325.
+       ISSN 0923-7534. PMID 27664247.
+   14. ^ Walls, R et al. (2017). p. 1497.
+   15. ^ Territo, M (July 2018). "Neutropenia – Hematology and Oncology".
+       Merck Manuals Professional Edition. Archived from the original on
+       22 July 2019. Retrieved 30 September 2020.
+   16. ^ Fabre, V; Sharara, SL; Salinas, AB; Carroll, KC; Desai, S;
+       Cosgrove, SE (2020). "Does This Patient Need Blood Cultures? A
+       Scoping Review of Indications for Blood Cultures in Adult
+       Nonneutropenic Inpatients". Clinical Infectious Diseases. 71 (5):
+       1339–1347. doi:10.1093/cid/ciaa039. ISSN 1058-4838. PMID 31942949.
+   17. ^ ^a ^b Doern, GV (3 June 2020). "Detection of bacteremia: Blood
+       cultures and other diagnostic tests". UpToDate. Retrieved 30
+       September 2020.
+   18. ^ Cahill, TJ; Prendergast, BD (2016). "Infective endocarditis". The
+       Lancet. 387 (10021): 882–893. doi:10.1016/S0140-6736(15)00067-7.
+       ISSN 0140-6736. PMID 26341945. S2CID 205975776.
+   19. ^ Cunha, BA; Lortholary, O; Cunha, CB (2015). "Fever of Unknown
+       Origin: A Clinical Approach". The American Journal of Medicine. 128
+       (10): 1138.e1–1138.e15. doi:10.1016/j.amjmed.2015.06.001.
+       ISSN 0002-9343. PMID 26093175.
+   20. ^ Ford, M. (2019). p. 95.
+   21. ^ ^a ^b McMullen, AR, Wilen, CB, & Burnham, CAD. Chapter 9 in
+       Dunne, WM & Burnham, CAD eds. (2018). sec. "Bacteria".
+   22. ^ Mahon, CR et al. (2018). p. 863.
+   23. ^ Fajardo Olivares M, Hidalgo Orozco R, Rodríguez Garrido S, Gaona
+       Álvarez C, Sánchez Silos RM, Hernández Rastrollo R, Martínez Tallo
+       E, Cordero Carrasco JL (March 2012). "[Activity of vancomycin,
+       teicoplanin and linezolid in methicillin resistant
+       coagulase-negative Staphylococci isolates from paediatric blood
+       cultures]". Revista Espanola de Quimioterapia (in European
+       Spanish). 25 (1): 25–30. PMID 22488538.
+   24. ^ Mahon, CR et al. (2018). pp. 865–6.
+   25. ^ McMullen, AR, Wilen, CB, & Burnham, CAD. Chapter 9 in Dunne, WM &
+       Burnham, CAD eds. (2018). sec. "Fungal Bloodstream Infections".
+   26. ^ Bennett, JE et al. (2019). p. 996.
+   27. ^ ^a ^b Septimus, E (1 August 2019). "Collecting Cultures: a
+       Clinician Guide". Centers for Disease Control and Prevention.
+       Archived from the original on 25 September 2020.
+   28. ^ ^a ^b ^c ^d ^e Mahon, CR et al. (2018). p. 869.
+   29. ^ ^a ^b ^c ^d ^e ^f Doern, GV; Carroll, KC; Diekema, DJ; Garey, KW;
+       Rupp, ME; Weinstein, MP; et al. (2019). "Practical Guidance for
+       Clinical Microbiology Laboratories: A Comprehensive Update on the
+       Problem of Blood Culture Contamination and a Discussion of Methods
+       for Addressing the Problem". Clinical Microbiology Reviews. 33 (1).
+       doi:10.1128/CMR.00009-19. ISSN 0893-8512. PMC 6822992.
+       PMID 31666280. S2CID 204974894.
+   30. ^ Pagana, KD et al. (2014). p. xiii.
+   31. ^ Pitt, SJ (2018) p. 34.
+   32. ^ Mahon, CR et al. (2018). p. 870.
+   33. ^ ^a ^b ^c Atkinson-Dunn, R. & Dunne, WM. Chapter 2 in Dunne, WM &
+       Burnham, CAD eds. (2018). sec. "Introduction".
+   34. ^ Procop, GW & Koneman, EW (2017). p. 194.
+   35. ^ ^a ^b Ford, M (2019). p. 85.
+   36. ^ ^a ^b Dien Bard, J; McElvania TeKippe, E; Kraft, CS (2016).
+       "Diagnosis of Bloodstream Infections in Children". Journal of
+       Clinical Microbiology. 54 (6): 1418–1424. doi:10.1128/JCM.02919-15.
+       ISSN 0095-1137. PMC 4879304. PMID 26818669.
+   37. ^ Baron, EJ (2019). "Clinical Microbiology in Underresourced
+       Settings". Clinics in Laboratory Medicine. 39 (3): 359–369.
+       doi:10.1016/j.cll.2019.05.001. ISSN 0272-2712. PMID 31383262.
+       S2CID 198292851.
+   38. ^ Dondorp, AM et al. (2019). pp. 172–3.
+   39. ^ Tibbetts, RJ & Robinson-Dunn, B. Chapter 10 in Dunne, WM &
+       Burnham, CAD eds. (2018). sec. "Introduction".
+   40. ^ Revell, P & Doern, C. Chapter 8 in Dunne, WM & Burnham, CAD eds.
+       (2018). sec. "Specimen Collection".
+   41. ^ Bennett, JE et al. (2019). p. 202.
+   42. ^ ^a ^b ^c Ombelet, S; Barbé, B; Affolabi, D; Ronat, JB; Lompo, P;
+       Lunguya, O; et al. (2019). "Best Practices of Blood Cultures in
+       Low- and Middle-Income Countries". Frontiers in Medicine. 6: 131.
+       doi:10.3389/fmed.2019.00131. ISSN 2296-858X. PMC 6591475.
+       PMID 31275940.
+   43. ^ ^a ^b ^c Mahon, CR et al. (2018). p. 871.
+   44. ^ Ford, M (2019). p. 88.
+   45. ^ ^a ^b Procop, GW & Koneman, EW (2017). p. 199.
+   46. ^ ^a ^b Mahon, CR et al. (2018). pp. 871–2.
+   47. ^ ^a ^b Ford, M (2019). p. 87.
+   48. ^ Carroll, KC et al. (2015). p. 756.
+   49. ^ Procop, GW & Koneman, EW (2017). pp. 197–8.
+   50. ^ ^a ^b ^c Mahon, CR et al. (2018). p. 872.
+   51. ^ Procop, GW & Koneman, EW (2017). p. 196.
+   52. ^ Truant, AL (2016). p. 12.
+   53. ^ McPherson, RA & Pincus, MR (2017). p. 1207.
+   54. ^ ^a ^b Ford, M (2019). p. 89.
+   55. ^ Turgeon, ML (2016). pp. 492–3.
+   56. ^ Carroll, KC et al. (2016). p. 203.
+   57. ^ ^a ^b ^c ^d Mahon, CR et al. (2018). p. 874.
+   58. ^ Procop, GW & Koneman, EW (2017). p. 81.
+   59. ^ Mahon, CR et al. (2018). pp. 868–71.
+   60. ^ Ford, M (2019). pp. 91–2.
+   61. ^ ^a ^b Ford, M (2019). p. 90.
+   62. ^ Procop, GW & Koneman, EW (2017). p. 94.
+   63. ^ Mahon, CR et al. (2018). p. 126.
+   64. ^ Procop, GW & Koneman, EW (2017). p. 104.
+   65. ^ ^a ^b Winstanley, T; Courvalin, P (2011). "Expert Systems in
+       Clinical Microbiology". Clinical Microbiology Reviews. 24 (3):
+       515–556. doi:10.1128/CMR.00061-10. ISSN 0893-8512. PMC 3131062.
+       PMID 21734247.
+   66. ^ Mahon, CR et al. (2018). p. 244.
+   67. ^ Carroll, KC et al. (2016). p. 756.
+   68. ^ ^a ^b Opota, O; Croxatto, A; Prod'hom, G; Greub, G (2015). "Blood
+       culture-based diagnosis of bacteraemia: state of the art". Clinical
+       Microbiology and Infection. 21 (4): 313–322.
+       doi:10.1016/j.cmi.2015.01.003. ISSN 1198-743X. PMID 25753137.
+   69. ^ Pitt, SJ (2018) p. 35.
+   70. ^ ^a ^b Farron, ML & Ledeboer, NA. Chapter 11 in Dunne, WM &
+       Burnham, CAD eds. (2018). sec. "Molecular Detection from Positive
+       Blood Cultures".
+   71. ^ Ford, M (2019). p. 93.
+   72. ^ Ford, M (2019). pp. 93–4.
+   73. ^ Gonzales, MD & Jerris, RC. Chapter 7 in Dunne, WM & Burnham, CAD
+       eds. (2018). sec. "Introduction"; "Summary".
+   74. ^ Mahon, CR et al. (2018). pp. 273–7.
+   75. ^ Mahon, CR et al. (2018). pp. 287–8.
+   76. ^ ^a ^b Idelevich, EA; Becker, K (2019). "How to accelerate
+       antimicrobial susceptibility testing". Clinical Microbiology and
+       Infection. 25 (11): 1347–1355. doi:10.1016/j.cmi.2019.04.025.
+       ISSN 1198-743X. PMID 31055166.
+   77. ^ Lamy, B; Sundqvist, M; Idelevich, EA (2020). "Bloodstream
+       infections – Standard and progress in pathogen diagnostics".
+       Clinical Microbiology and Infection. 26 (2): 142–150.
+       doi:10.1016/j.cmi.2019.11.017. ISSN 1198-743X. PMID 31760113.
+   78. ^ "Rapid AST directly from blood culture bottles". European
+       Committee on Antimicrobial Susceptibility Testing. 2020. Archived
+       from the original on 12 May 2020. Retrieved 1 October 2020.
+   79. ^ ^a ^b Dubourg, G; Lamy, B; Ruimy, R (2018). "Rapid phenotypic
+       methods to improve the diagnosis of bacterial bloodstream
+       infections: meeting the challenge to reduce the time to result".
+       Clinical Microbiology and Infection. 24 (9): 935–943.
+       doi:10.1016/j.cmi.2018.03.031. ISSN 1198-743X. PMID 29605563.
+   80. ^ Farron, ML & Ledeboer, NA. Chapter 11 in Dunne, WM & Burnham, CAD
+       eds. (2018). sec. "Rapid Diagnostics".
+   81. ^ ^a ^b Farron, ML & Ledeboer, NA. Chapter 11 in Dunne, WM &
+       Burnham, CAD eds. (2018). sec. "Direct antimicrobial resistance
+       testing".
+   82. ^ Benkova, M; Soukup, O; Marek, J (2020). "Antimicrobial
+       susceptibility testing: currently used methods and devices and the
+       near future in clinical practice". Journal of Applied Microbiology.
+       129 (4): 806–822. doi:10.1111/jam.14704. ISSN 1364-5072.
+       PMID 32418295. S2CID 218679078.
+   83. ^ ^a ^b Dawson, S (2014). "Blood culture contaminants". Journal of
+       Hospital Infection. 87 (1): 1–10. doi:10.1016/j.jhin.2014.02.009.
+       ISSN 0195-6701. PMID 24768211.
+   84. ^ Mahon, CR et al. (2018). pp. 872–4.
+   85. ^ Judd, CCW; Simon, CE (1915). "The vacuum tube of Keidel, as
+       applied to blood-culture work". Journal of the American Medical
+       Association. LXIV (10): 822. doi:10.1001/jama.1915.25710360002018a.
+       ISSN 0002-9955.
+   86. ^ ^a ^b ^c ^d ^e ^f ^g Dunne, WM. Chapter 1 in Dunne, WM & Burnham,
+       CAD eds. (2018).
+   87. ^ ^a ^b ^c Hansen, GT (2016). "Laboratory Blood Cultures: Past,
+       Present, and Future". Clinical Microbiology Newsletter. 38 (15):
+       119–128. doi:10.1016/j.clinmicnews.2016.07.001. ISSN 0196-4399.
+   88. ^ Pulvertaft, RJV (1930). "The Clinical Interpretation of Aids to
+       Diagnosis". The Lancet. 215 (5563): 821–822.
+       doi:10.1016/S0140-6736(00)88443-3. ISSN 0140-6736.
+   89. ^ TeKippe, EM & Pence, MA. Chapter 3 in Dunne, WM & Burnham, CAD
+       eds. (2018). sec. "History of Lysis-Centrifugation Blood Culture
+       Methods".
+   90. ^ Murray, PR; Masur, H (2012). "Current approaches to the diagnosis
+       of bacterial and fungal bloodstream infections in the intensive
+       care unit". Critical Care Medicine. 40 (12): 3277–3282.
+       doi:10.1097/CCM.0b013e318270e771. ISSN 0090-3493. PMC 4201853.
+       PMID 23034460.
+   91. ^ ^a ^b ^c ^d ^e Ryan, MR; Murray, PR (1993). "Historical evolution
+       of automated blood culture systems". Clinical Microbiology
+       Newsletter. 15 (14): 105–108. doi:10.1016/0196-4399(93)90051-N.
+       ISSN 0196-4399.
+   92. ^ Truant, AL (2016). p. 13.
+   93. ^ Chamberland, RR. Chapter 4 in Dunne, WM & Burnham, CAD eds.
+       (2018). sec. "History"; "Bactec 9000 Series Studies".
+   94. ^ Rohner, P; Auckenthaler, R (1999). "Review on evaluations of
+       currently available blood-culture systems". Clinical Microbiology
+       and Infection. 5 (9): 513–529.
+       doi:10.1111/j.1469-0691.1999.tb00429.x. ISSN 1198-743X.
+       PMID 11851703.
+
+Bibliography
+
+   [edit]
+     *
+
+   Bennett, JE; Dolin, R; Blaser, MJ (8 August 2019). Mandell, Douglas,
+   and Bennett's Principles and Practice of Infectious Diseases. Elsevier
+   Health Sciences. ISBN 978-0-323-48255-4.
+
+     Carroll, KC; Butel, JS; Morse, SA (12 August 2015). Jawetz Melnick &
+   Adelbergs Medical Microbiology 27 E. McGraw-Hill Education.
+   ISBN 978-0-07-182503-0.
+
+     Dondorp, AM; Dünser, MW; Schultz, MJ (8 February 2019). Sepsis
+   Management in Resource-limited Settings. Springer.
+   ISBN 978-3-030-03143-5.
+
+     Dunne, WM; Burnham, CAD (2018). The Dark Art of Blood Cultures.
+   Wiley. ISBN 978-1-68367-306-4.
+
+     Ford, M (5 June 2019). Medical Microbiology. Oxford University Press.
+   ISBN 978-0-19-881814-4.
+
+     Mahon, CR; Lehman, DC; Manuselis, G (18 January 2018). Textbook of
+   Diagnostic Microbiology. Elsevier Health Sciences.
+   ISBN 978-0-323-48212-7.
+
+     McPherson, RA; Pincus, MR (5 April 2017). Henry's Clinical Diagnosis
+   and Management by Laboratory Methods (23 ed.). Elsevier Health
+   Sciences. ISBN 978-0-323-41315-2.
+
+     Pagana, KD; Pagana, TJ; Pagana, TN (19 September 2014). Mosby's
+   Diagnostic and Laboratory Test Reference - E-Book. Elsevier Health
+   Sciences. ISBN 978-0-323-22592-2.
+
+     Pitt, SJ (2018). Clinical Microbiology for Diagnostic Laboratory
+   Scientists. Wiley. ISBN 978-1-118-74582-3.
+
+     Procop, GW; Koneman, EW (2017). Koneman's Color Atlas and Textbook of
+   Diagnostic Microbiology. Wolters Kluwer Health. ISBN 978-1-4511-1659-5.
+
+     Truant, AL (28 March 2016). Manual of Commercial Methods in Clinical
+   Microbiology. Wiley. ISBN 978-1-119-02186-5.
+
+     Turgeon, ML (2016). Linné & Ringsrud's Clinical Laboratory Science:
+   Concepts, Procedures, and Clinical Applications (7 ed.). Elsevier
+   Mosby. ISBN 978-0-323-22545-8.
+
+     Walls, R; Hockberger, R; Gausche-Hill, M (9 March 2017). Rosen's
+   Emergency Medicine - Concepts and Clinical Practice (9 ed.). Elsevier
+   Health Sciences. ISBN 978-0-323-39016-3.
+
+     * v
+     * t
+     * e
+
+   Blood tests for infectious disease
+
+   Bacterial infection
+
+     * syphilis
+          + Venereal Disease Research Laboratory test
+          + rapid plasma reagin
+          + Wassermann test
+          + Fluorescent treponemal antibody absorption test
+          + Abelin reaction
+     * Rickettsia
+          + Weil–Felix test
+     * Helicobacter
+          + HelicoCARE direct
+     * Streptococcus
+          + Anti-streptolysin O
+
+   Viral infection
+
+     * HIV testing
+          + Branched DNA assay
+          + mChip
+     * Epstein–Barr virus
+          + Heterophile antibody test
+     * Dengue fever
+          + NS1 antigen test
+     * measles
+          + Warthin–Finkeldey cell
+     * Inclusion bodies
+          + Downie bodies
+          + B type inclusion
+          + Orthopoxvirus inclusion bodies
+     * rabies
+          + Negri bodies
+     * Cowdry bodies
+     * yellow fever
+          + Councilman body
+     * Tzanck test
+
+   Protozoan infection
+
+     * toxoplasmosis
+          + Sabin–Feldman dye test
+     * malaria
+          + Diagnosis of malaria
+          + Schüffner's dots
+
+   Bloodstream infections
+
+     * Blood culture
+     * Viremia
+     * Fungemia
+     * Parasitemia
+     * Algaemia
+
+   General
+
+     * C-reactive protein
+     * Procalcitonin
+
+     * v
+     * t
+     * e
+
+   Techniques in clinical microbiology
+
+   Isolation
+   and culture
+
+   Isolation techniques
+     * Asepsis
+     * Streak plate
+     * Selective media
+
+   Cultures by body site
+     * Blood culture
+     * Genital culture
+     * Sputum culture
+     * Throat culture
+     * Urine culture
+     * Wound culture
+
+   Cultures by organism
+     * Bacterial culture
+     * Fungal culture
+     * Viral culture
+
+   Identification
+   and testing
+
+   Manual testing: basic techniques
+     * Colonial morphology
+          + Hemolysis
+     * Staining
+          + Gram stain
+          + Acid-fast stain
+          + Giemsa stain
+          + India ink stain
+          + Ziehl–Neelsen stain
+     * Wet prep
+     * Rapid tests
+          + Oxidase
+          + Catalase
+          + Indole
+          + PYR
+
+   Manual testing:
+   biochemical and immunologic tests
+     * ALA test
+     * Amino acid decarboxylase test
+     * Bile solubility test
+     * CAMP test
+     * Citrate test
+     * Coagulase test
+     * DNAse test
+     * IMViC
+     * KOH test
+     * Methyl red test
+     * Nitrite test
+     * ONPG test
+     * Oxidative/fermentation glucose test
+     * Phenylalanine deaminase test
+     * Reverse CAMP test
+     * Salt tolerance test
+     * Sulfide indole motility test
+     * Triple sugar iron test
+     * Urease test
+          + rapid
+     * Voges–Proskauer test
+     * X and V factor test
+     * Bacitracin susceptibility test
+     * Optochin susceptibility test
+     * Novobiocin susceptibility test
+     * Lancefield grouping
+     * RPR test
+
+   Automated and point-of-care testing
+     * Analytical profile index
+     * MALDI-TOF
+     * Polymerase chain reaction
+     * VITEK
+     * Rapid strep test
+     * Monospot test
+
+   Antibiotic susceptibility testing
+     * Beta-lactamase test
+     * Disk diffusion test
+     * Etest
+     * McFarland standards
+     * Minimum inhibitory concentration
+
+   Equipment
+
+     * Agar plate
+          + Growth medium
+     * Anaerobic jar
+          + Gas-pak
+     * Durham tube
+     * Biosafety cabinet
+     * Incubator
+     * Inoculation loop
+     * Inoculation needle
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Blood_culture&oldid=1292022
+   797"
+
+   Categories:
+     * Microbiology techniques
+     * Blood tests
+
+   Hidden categories:
+     * CS1 European Spanish-language sources (es-es)
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Good articles
+     * Use dmy dates from September 2020
+     * Use Canadian English from September 2020
+     * All Wikipedia articles written in Canadian English
+     * Pages using multiple image with auto scaled images
+
+     * This page was last edited on 24 May 2025, at 19:33 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Blood culture
+   (BUTTON) 21 languages Add topic

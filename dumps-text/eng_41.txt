@@ -1,17 +1,562 @@
-   Wikimedia
+   #search
 
-Error
+   Skip page header and navigation
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-T9MS37W
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Arts Council England
+     * About us
+          +
 
-   Request served via cp6015 cp6015, Varnish XID 87711020
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:42 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+About us
+            We are the national development agency for creativity and
+            culture. We have set out our strategic vision in Let’s Create
+            that by 2030 we want England to be a country in which the
+            creativity of each of us is valued and given the chance to
+            flourish and where everyone of us has access to a remarkable
+            range of high quality cultural experiences. We invest public
+            money from Government and The National Lottery to help support
+            the sector and to deliver this vision.
+               o Events
+               o Let's Create (BUTTON)
+                    # Strategy 2020-2030
+                    # Delivery Plan 2021-2024
+                    # Delivery Plan 2024-2027
+                    # Investment Principles Resource Hub
+               o Our organisation (BUTTON)
+                    # Annual reports
+                    # Area Councils
+                    # Data Protection
+                    # Expenditure data
+                    # Freedom of Information
+                    # National Council
+                    # Our history
+                    # Our structure
+                    # Performance and Audit Committee
+               o Work with us (BUTTON)
+                    # Jobs and careers
+                    # Governance recruitment
+                    # Supplying the Arts Council
+               o Contact us (BUTTON)
+                    # Press contacts
+                    # Raising a concern
+            (BUTTON)
+     * What we do
+          +
+
+Make the case for art and culture
+            Link to Make the case for art and culture page
+            Let everyone know why publicly funded art and culture is
+            important
+               o Developing creativity and culture (BUTTON)
+                    # Children and young people
+                    # Communities and Engagement
+                    # Creative Ageing Peer Learning Programme
+                    # Developing a digital culture
+                    # Diversity
+                    # Environment
+                    # Illuminate
+                    # Leadership and governance
+                    # Supporting individual creative and cultural
+                      practitioners
+                    # Transforming Governance
+                    # Creative health
+               o How we invest public money (BUTTON)
+                    # 2023-26 Investment Programme
+                    # Arts Council Development Funds
+                    # Useful information
+               o Supporting arts, museums and libraries (BUTTON)
+                    # Annual Museum Survey: Five-year trends analysis
+                    # Children and young people in museums
+               o In your area (BUTTON)
+                    # Culture and Place Data Explorer
+            (BUTTON)
+     * Guidance and resources
+          +
+
+Digital Culture Network
+            Link to Digital Culture Network page
+            Develop your digital skills and make the most of technology
+            available to your organisation.
+               o Resource Hub
+               o Research and data (BUTTON)
+                    # Arts Council England: Touring Research 2024
+                    # Ebook lending in public libraries research
+                    # International cultural partnership programmes:
+                      impacts and ingredients
+                    # Research to understand the levels of public
+                      investment in museums
+                    # Social Impact Framework
+                    # Space to Breathe: Young Creatives on The Role of
+                      Arts and Culture in Improving Youth Mental Health
+               o Digital Culture Network
+               o National Portfolio Organisations
+               o Creative People and Places (BUTTON)
+                    # National Portfolio Creative People and Places
+                      Funding 2026-29
+                    # National Portfolio Creative People and Places
+                      Extension year funding 2025-26
+                    # CPP: Key Documents and Guidance
+                    # Learning from Creative People and Places
+                    # The impact of Creative People and Places
+               o Music Hubs
+               o Partnership agreement guidance
+            (BUTTON)
+     * Get funding
+          +
+
+Latest on our systems
+            Link to Latest on our systems page
+            The latest information and resources about applying for
+            funding with us
+               o Applying for funding with us (BUTTON)
+                    # Q&A: Applying for funding with us
+               o Our open funds
+               o National Lottery Project Grants (BUTTON)
+                    # National Lottery Project Grants: Guidance Library
+               o Developing Your Creative Practice (DYCP) (BUTTON)
+                    # Update: research and development funding for
+                      individuals
+               o NPO: Investment Programme
+            (BUTTON)
+     * Discussion and debate
+
+     * About us
+          + Events
+          + Let's Create (BUTTON) Open menu
+               o Strategy 2020-2030
+               o Delivery Plan 2021-2024
+               o Delivery Plan 2024-2027
+               o Investment Principles Resource Hub
+          + Our organisation (BUTTON) Open menu
+               o Annual reports
+               o Area Councils
+               o Data Protection
+               o Expenditure data
+               o Freedom of Information
+               o National Council
+               o Our history
+               o Our structure
+               o Performance and Audit Committee
+          + Work with us (BUTTON) Open menu
+               o Jobs and careers
+               o Governance recruitment
+               o Supplying the Arts Council
+          + Contact us (BUTTON) Open menu
+               o Press contacts
+               o Raising a concern
+     * What we do
+          + Developing creativity and culture (BUTTON) Open menu
+               o Children and young people
+               o Communities and Engagement
+               o Creative Ageing Peer Learning Programme
+               o Developing a digital culture
+               o Diversity
+               o Environment
+               o Illuminate
+               o Leadership and governance
+               o Supporting individual creative and cultural practitioners
+               o Transforming Governance
+               o Creative health
+          + How we invest public money (BUTTON) Open menu
+               o 2023-26 Investment Programme
+               o Arts Council Development Funds
+               o Useful information
+          + Supporting arts, museums and libraries (BUTTON) Open menu
+               o Annual Museum Survey: Five-year trends analysis
+               o Children and young people in museums
+          + In your area (BUTTON) Open menu
+               o Culture and Place Data Explorer
+     * Guidance and resources
+          + Resource Hub
+          + Research and data (BUTTON) Open menu
+               o Arts Council England: Touring Research 2024
+               o Ebook lending in public libraries research
+               o International cultural partnership programmes: impacts
+                 and ingredients
+               o Research to understand the levels of public investment in
+                 museums
+               o Social Impact Framework
+               o Space to Breathe: Young Creatives on The Role of Arts and
+                 Culture in Improving Youth Mental Health
+          + Digital Culture Network
+          + National Portfolio Organisations
+          + Creative People and Places (BUTTON) Open menu
+               o National Portfolio Creative People and Places Funding
+                 2026-29
+               o National Portfolio Creative People and Places Extension
+                 year funding 2025-26
+               o CPP: Key Documents and Guidance
+               o Learning from Creative People and Places
+               o The impact of Creative People and Places
+          + Music Hubs
+          + Partnership agreement guidance
+     * Get funding
+          + Applying for funding with us (BUTTON) Open menu
+               o Q&A: Applying for funding with us
+          + Our open funds
+          + National Lottery Project Grants (BUTTON) Open menu
+               o National Lottery Project Grants: Guidance Library
+          + Developing Your Creative Practice (DYCP) (BUTTON) Open menu
+               o Update: research and development funding for individuals
+          + NPO: Investment Programme
+     * Discussion and debate
+
+   (BUTTON) Search (BUTTON) Open menu (BUTTON) Close menu
+     * About us
+          +
+
+About us
+            We are the national development agency for creativity and
+            culture. We have set out our strategic vision in Let’s Create
+            that by 2030 we want England to be a country in which the
+            creativity of each of us is valued and given the chance to
+            flourish and where everyone of us has access to a remarkable
+            range of high quality cultural experiences. We invest public
+            money from Government and The National Lottery to help support
+            the sector and to deliver this vision.
+               o Events
+               o Let's Create (BUTTON)
+                    # Strategy 2020-2030
+                    # Delivery Plan 2021-2024
+                    # Delivery Plan 2024-2027
+                    # Investment Principles Resource Hub
+               o Our organisation (BUTTON)
+                    # Annual reports
+                    # Area Councils
+                    # Data Protection
+                    # Expenditure data
+                    # Freedom of Information
+                    # National Council
+                    # Our history
+                    # Our structure
+                    # Performance and Audit Committee
+               o Work with us (BUTTON)
+                    # Jobs and careers
+                    # Governance recruitment
+                    # Supplying the Arts Council
+               o Contact us (BUTTON)
+                    # Press contacts
+                    # Raising a concern
+            (BUTTON)
+     * What we do
+          +
+
+Make the case for art and culture
+            Link to Make the case for art and culture page
+            Let everyone know why publicly funded art and culture is
+            important
+               o Developing creativity and culture (BUTTON)
+                    # Children and young people
+                    # Communities and Engagement
+                    # Creative Ageing Peer Learning Programme
+                    # Developing a digital culture
+                    # Diversity
+                    # Environment
+                    # Illuminate
+                    # Leadership and governance
+                    # Supporting individual creative and cultural
+                      practitioners
+                    # Transforming Governance
+                    # Creative health
+               o How we invest public money (BUTTON)
+                    # 2023-26 Investment Programme
+                    # Arts Council Development Funds
+                    # Useful information
+               o Supporting arts, museums and libraries (BUTTON)
+                    # Annual Museum Survey: Five-year trends analysis
+                    # Children and young people in museums
+               o In your area (BUTTON)
+                    # Culture and Place Data Explorer
+            (BUTTON)
+     * Guidance and resources
+          +
+
+Digital Culture Network
+            Link to Digital Culture Network page
+            Develop your digital skills and make the most of technology
+            available to your organisation.
+               o Resource Hub
+               o Research and data (BUTTON)
+                    # Arts Council England: Touring Research 2024
+                    # Ebook lending in public libraries research
+                    # International cultural partnership programmes:
+                      impacts and ingredients
+                    # Research to understand the levels of public
+                      investment in museums
+                    # Social Impact Framework
+                    # Space to Breathe: Young Creatives on The Role of
+                      Arts and Culture in Improving Youth Mental Health
+               o Digital Culture Network
+               o National Portfolio Organisations
+               o Creative People and Places (BUTTON)
+                    # National Portfolio Creative People and Places
+                      Funding 2026-29
+                    # National Portfolio Creative People and Places
+                      Extension year funding 2025-26
+                    # CPP: Key Documents and Guidance
+                    # Learning from Creative People and Places
+                    # The impact of Creative People and Places
+               o Music Hubs
+               o Partnership agreement guidance
+            (BUTTON)
+     * Get funding
+          +
+
+Latest on our systems
+            Link to Latest on our systems page
+            The latest information and resources about applying for
+            funding with us
+               o Applying for funding with us (BUTTON)
+                    # Q&A: Applying for funding with us
+               o Our open funds
+               o National Lottery Project Grants (BUTTON)
+                    # National Lottery Project Grants: Guidance Library
+               o Developing Your Creative Practice (DYCP) (BUTTON)
+                    # Update: research and development funding for
+                      individuals
+               o NPO: Investment Programme
+            (BUTTON)
+     * Discussion and debate
+
+     * About us
+          + Events
+          + Let's Create (BUTTON) Open menu
+               o Strategy 2020-2030
+               o Delivery Plan 2021-2024
+               o Delivery Plan 2024-2027
+               o Investment Principles Resource Hub
+          + Our organisation (BUTTON) Open menu
+               o Annual reports
+               o Area Councils
+               o Data Protection
+               o Expenditure data
+               o Freedom of Information
+               o National Council
+               o Our history
+               o Our structure
+               o Performance and Audit Committee
+          + Work with us (BUTTON) Open menu
+               o Jobs and careers
+               o Governance recruitment
+               o Supplying the Arts Council
+          + Contact us (BUTTON) Open menu
+               o Press contacts
+               o Raising a concern
+     * What we do
+          + Developing creativity and culture (BUTTON) Open menu
+               o Children and young people
+               o Communities and Engagement
+               o Creative Ageing Peer Learning Programme
+               o Developing a digital culture
+               o Diversity
+               o Environment
+               o Illuminate
+               o Leadership and governance
+               o Supporting individual creative and cultural practitioners
+               o Transforming Governance
+               o Creative health
+          + How we invest public money (BUTTON) Open menu
+               o 2023-26 Investment Programme
+               o Arts Council Development Funds
+               o Useful information
+          + Supporting arts, museums and libraries (BUTTON) Open menu
+               o Annual Museum Survey: Five-year trends analysis
+               o Children and young people in museums
+          + In your area (BUTTON) Open menu
+               o Culture and Place Data Explorer
+     * Guidance and resources
+          + Resource Hub
+          + Research and data (BUTTON) Open menu
+               o Arts Council England: Touring Research 2024
+               o Ebook lending in public libraries research
+               o International cultural partnership programmes: impacts
+                 and ingredients
+               o Research to understand the levels of public investment in
+                 museums
+               o Social Impact Framework
+               o Space to Breathe: Young Creatives on The Role of Arts and
+                 Culture in Improving Youth Mental Health
+          + Digital Culture Network
+          + National Portfolio Organisations
+          + Creative People and Places (BUTTON) Open menu
+               o National Portfolio Creative People and Places Funding
+                 2026-29
+               o National Portfolio Creative People and Places Extension
+                 year funding 2025-26
+               o CPP: Key Documents and Guidance
+               o Learning from Creative People and Places
+               o The impact of Creative People and Places
+          + Music Hubs
+          + Partnership agreement guidance
+     * Get funding
+          + Applying for funding with us (BUTTON) Open menu
+               o Q&A: Applying for funding with us
+          + Our open funds
+          + National Lottery Project Grants (BUTTON) Open menu
+               o National Lottery Project Grants: Guidance Library
+          + Developing Your Creative Practice (DYCP) (BUTTON) Open menu
+               o Update: research and development funding for individuals
+          + NPO: Investment Programme
+     * Discussion and debate
+
+   Search Arts Council England
+   Search
+   _______________
+   (Search) Search
+
+    1. Home
+    2. Let's Create
+    3. Strategy 2020-2030
+    4. Our vision
+
+Our vision
+
+     * Introduction
+     * Case for change
+     * Our vision
+     * How we will achieve it
+     * The strategy
+     * Outcomes
+     * Our Investment Principles
+     * Our role and commitment
+     * So now, Let's Create
+
+   Arts Council England
+
+     * Introduction
+     * Case for change
+     * Our vision
+     * How we will achieve it
+     * The strategy
+     * Outcomes
+     * Our Investment Principles
+     * Our role and commitment
+     * So now, Let's Create
+
+   (BUTTON) Explore the strategy (BUTTON) Explore the strategy
+
+     * Introduction
+     * Case for change
+     * Our vision
+     * How we will achieve it
+     * The strategy
+     * Outcomes
+     * Our Investment Principles
+     * Our role and commitment
+     * So now, Let's Create
+
+Our vision
+
+   (BUTTON)
+   (BUTTON) OUR DEFINITION OF CULTURE AND CREATIVITY
+   (BUTTON)
+
+OUR DEFINITION OF CULTURE
+
+   ‘Culture’ means many things to many people and is often used to refer
+   to food, religion and other forms of heritage. Here, though, we use it
+   to mean all those areas of activity associated with the artforms and
+   organisations in which Arts Council England invests: collections,
+   combined arts, dance, libraries, literature, museums, music, theatre
+   and the visual arts. By describing all of this work collectively as
+   ‘culture’, rather than separately as ‘the arts’, ‘museums’ and
+   ‘libraries’, we aim to be inclusive of the full breadth of activity
+   that we support, as well as to reflect findings from the research we
+   commissioned for this Strategy, which showed that members of the public
+   tend to use the words ‘the arts’ and ‘artists’ to refer specifically to
+   classical music, opera, ballet or the fine arts. Similarly, we have
+   used ‘creative practitioners’ rather than ‘artists’ as an umbrella term
+   for all those who work to create new, or reshape existing,
+   cultural content.
+
+
+
+OUR DEFINITION OF CREATIVITY
+
+   ‘Creativity’ describes the process through which people apply their
+   knowledge, skill and intuition to imagine, conceive, express or make
+   something that wasn’t there before. While creativity is present in all
+   areas of life, in this Strategy, we use it specifically to refer to the
+   process of making, producing or participating in ‘culture’. We also
+   recognise that the traditional boundaries between and around cultural
+   activities are disappearing as new technologies and other societal
+   changes alter the ways in which many artists, curators, librarians and
+   other practitioners work, as well as how culture is made and shared.
+   We’re excited by these changes, which we expect to accelerate over the
+   next decade – and in response, we will become more flexible about the
+   range and type of cultural activities that we support over the years
+   to come.
+
+BY 2030, WE WANT ENGLAND TO BE A COUNTRY IN WHICH THE CREATIVITY OF EACH OF
+US IS VALUED AND GIVEN THE CHANCE TO FLOURISH, AND WHERE EVERY ONE OF US HAS
+ACCESS TO A REMARKABLE RANGE OF HIGH-QUALITY CULTURAL EXPERIENCES
+
+   We believe that creativity and culture are deeply connected, but
+   different. Creativity is the process by which, either individually or
+   with others, we make something new: a work of art, or a reimagining of
+   an existing work. Culture is the result of that creative process: we
+   encounter it in the world, in museums and libraries, theatres and
+   galleries, carnivals and concert halls, festivals and digital spaces.
+   In this Strategy, we are drawing a distinction between the two because
+   we want everyone to have more opportunities for both: to be creative,
+   and to experience high-quality culture. Having the time and tools to
+   develop personal creative potential can be profoundly fulfilling, while
+   engaging in culture is often a route to inspiration and delight. Taken
+   together, they can help us make sense of ourselves and of each other:
+   they provoke and uplift us; they unite communities; and they bring us
+   joy. If access to either creativity or culture is limited by where
+   people come from or what they do, the whole of society loses out.
+   A child taking part in an art activity at a museum
+   Photo by Children from Ingleton School working on arts projects, The
+   Bowes Museum
+   1
+
+Let's create a nation full of creators
+
+   Many people already lead wide-ranging creative and cultural lives: they
+   dance, draw and write; they read, visit museums, and listen to music;
+   and they encourage their children to do the same. Much of this activity
+   is not publicly funded, and has therefore traditionally fallen outside
+   of the Arts Council’s remit. But with this Strategy, we aim to
+   recognise and champion the creative activities and cultural experiences
+   of every person in every town, village and city in this country, and to
+   ensure that, over the next 10 years, we support more people to express
+   and develop their creativity and create more opportunities for them to
+   enjoy the widest possible range of culture. We will do this because we
+   believe that everyone, everywhere should benefit from public investment
+   in creativity and culture, given their power to fulfil us, and to
+   transform the communities in which we live and work. And we will do
+   this because we want England to strengthen its reputation as one of the
+   most creative countries in the world.
+   Case for change How we will achieve it
+
+   Image Captions
+     * 1 Children from Ingleton School working on arts projects, The Bowes
+       Museum
+
+Connect with us:
+
+     *
+     *
+     *
+     *
+
+Watch, read, listen:
+
+     *
+     *
+     *
+
+     * Contact us
+     * Press Office
+     * E-newsletter sign up
+     * Access support
+     * Cookies and privacy
+     * Terms & conditions
+     * Accessibility statement
+     * Modern Slavery statement
+
+   Arts Council funding logo
+
+   © Arts Council England 2025, all rights reserved.

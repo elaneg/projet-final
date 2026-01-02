@@ -41,53 +41,70 @@ Contents
 
    (BUTTON) move to sidebar (BUTTON) hide
      * (Top)
-     * 1 History
-     * 2 Behavioral norms
-       (BUTTON) Toggle Behavioral norms subsection
-          + 2.1 Gender roles
-          + 2.2 Homosexuality
-     * 3 Adolescents
-       (BUTTON) Toggle Adolescents subsection
-          + 3.1 Relationships
-     * 4 College
-       (BUTTON) Toggle College subsection
-          + 4.1 Relationships
-     * 5 Peer culture
-     * 6 Risks
-       (BUTTON) Toggle Risks subsection
-          + 6.1 Drugs and alcohol
-               o 6.1.1 "Dry dating" trend
-     * 7 Wider culture
-       (BUTTON) Toggle Wider culture subsection
-          + 7.1 Media
-          + 7.2 Extra effects and causes
-     * 8 Communication theory
-       (BUTTON) Toggle Communication theory subsection
-          + 8.1 Attachment theory
-          + 8.2 Sexual script theory
-          + 8.3 Cultivation theory
-     * 9 Research
+     * 1 Etymology
+       (BUTTON) Toggle Etymology subsection
+          + 1.1 Kulturkampf
+     * 2 Research
        (BUTTON) Toggle Research subsection
-          + 9.1 Research to explain a "hookup"
-          + 9.2 Influences of dating sites and apps
-          + 9.3 Understanding the risks
-          + 9.4 Effect on future relationships
-          + 9.5 Areas for future research
-     * 10 Critique
-     * 11 See also
-     * 12 References
-     * 13 Sources
+          + 2.1 Criticism and evaluation
+               o 2.1.1 Artificiality or asymmetry
+     * 3 Culture wars by country
+       (BUTTON) Toggle Culture wars by country subsection
+          + 3.1 United States
+               o 3.1.1 1920s–1991: Origins
+               o 3.1.2 1991–2001: Rise in prominence
+               o 3.1.3 2001–2012: Post-9/11 era
+               o 3.1.4 2012–present: Broadening of the culture war
+          + 3.2 Canada
+          + 3.3 Australia
+          + 3.4 African continent
+          + 3.5 United Kingdom
+          + 3.6 Turkey
+          + 3.7 Europe
+     * 4 See also
+       (BUTTON) Toggle See also subsection
+          + 4.1 Drugs
+          + 4.2 Education and parenting
+          + 4.3 Environment and energy
+          + 4.4 Gender and sexuality
+          + 4.5 Law and government
+          + 4.6 Life issues
+          + 4.7 Society and culture
+     * 5 References
+     * 6 Further reading
+     * 7 External links
 
    [ ] Toggle the table of contents
 
-Hookup culture
+Culture war
 
-   [ ] 8 languages
+   [ ] 29 languages
      * العربية
-     * Bikol Central
+     * Azərbaycanca
+     * বাংলা
+     * Български
+     * Čeština
+     * Deutsch
+     * Español
+     * Esperanto
      * فارسی
-     * پښتو
-     * Română
+     * Français
+     * 한국어
+     * Hrvatski
+     * Bahasa Indonesia
+     * עברית
+     * Nederlands
+     * 日本語
+     * Norsk bokmål
+     * ਪੰਜਾਬੀ
+     * Polski
+     * Português
+     * Русский
+     * Sesotho
+     * Српски / srpski
+     * Suomi
+     * Svenska
+     * Türkçe
      * Українська
      * Tiếng Việt
      * 中文
@@ -126,1509 +143,1594 @@ Hookup culture
      * Printable version
 
    In other projects
+     * Wikimedia Commons
      * Wikidata item
 
    Appearance
    (BUTTON) move to sidebar (BUTTON) hide
    From Wikipedia, the free encyclopedia
-   Globe icon.
-   The examples and perspective in this article deal primarily with the
-   United States and do not represent a worldwide view of the subject. You
-   may improve this article, discuss the issue on the talk page, or create
-   a new article, as appropriate. (August 2022) (Learn how and when to
-   remove this message)
-   Overview of casual sex encounters without commitment
+   Conflict between cultural values
+   For the "culture war" between the Catholic Church and the German state
+   in the 1870s, see Kulturkampf.
+   "Culture Wars" redirects here. For the book, see Culture Wars: The
+   Struggle to Define America.
 
-   Hookup culture is a social phenomenon that accepts and encourages
-   casual sexual encounters, including one-night stands and related
-   activities, without necessarily including emotional intimacy, bonding
-   or a committed relationship.^[1] It is generally associated with
-   Western late adolescent sexuality and, in particular, United States
-   college culture.^[2]^[3]^[4] The term hookup has an ambiguous
-   definition because it can indicate kissing or any form of physical
-   sexual activity between sexual partners.^[5]^[6] The term has been
-   widely used in the U.S. since at least 2000.^[6] It has also been
-   called nonrelationship sex,^[7] or sex without dating.
+   A culture war is a form of cultural conflict (metaphorical war) between
+   different social groups who struggle to politically impose their own
+   ideology upon mainstream society,^[1]^[2] or upon the other. In
+   political usage, culture war is a metaphor for "hot-button" politics
+   about values and ideologies, realized with intentionally adversarial
+   social narratives meant to provoke political polarization among the
+   mainstream of society over economic matters,^[3]^[4] such as those of
+   public policy,^[5] as well as of consumption.^[1] As practical
+   politics, a culture war is about social policy wedge issues that are
+   based on abstract arguments about values, morality, and lifestyle meant
+   to provoke political cleavage in a multicultural society.^[2]
 
-   Most research on hookups has been focused on U.S. college students;
-   however, it is important to note that hookups are not limited to
-   college campuses.^[8]^[9] Adolescents and emerging adults engage in
-   hookups for a variety of reasons, which may include from instant
-   physical gratification, to fulfillment of emotional needs, to using it
-   as a means of finding a long-term romantic partner.^[9] Media reaction
-   to hookup culture has been often considered as a form of moral
-   panic.^[10]^[11]^[12] The introduction of cell phones, mobile hookup
-   apps and websites has modernized hookup culture, especially among gay
-   men.^[13]
-
-History
+Etymology
 
    [edit]
+   [250px-Kladderadatsch_1875_-_Zwischen_Berlin_und_Rom.png] Otto Von
+   Bismarck (left) and Pope Pius IX (right), from the German satirical
+   magazine Kladderadatsch, 1875
 
-   The rise of hookups, a form of casual sex, has been described by
-   evolutionary biologist Justin Garcia and others as a "cultural
-   revolution" that had its beginnings in the 1920s.^[14] Historians
-   D'Emilio and Freedman put the beginning of casual sex, including
-   college hookups, further back in history, to the early 1800s, and
-   explain the phenomenon as shaped by historical and cultural
-   forces.^[15] Lisa Wade, a sociologist, documents that 19th-century
-   white fraternity men often had what would be called hookup sex with
-   prostitutes, poor women, and enslaved women (however, the latter is
-   generally defined as rape^[citation needed]).^[16] Homosexual men also
-   engaged in hookup sex during the 1800s, meeting in spaces that were
-   transient in nature, such as wharves and boarding houses.^[15] Since
-   the 1920s, there has been a transition from an age of courtship to an
-   era of hookup culture.^[17]^[15]^[16] Technological advancements, such
-   as the automobile and movie theaters, brought young couples out of
-   their parents' homes, and out from their watchful eyes, giving them
-   more freedom and more opportunity to engage in casual sexual
-   activity.^[14]
-
-   The sexual revolution of the 1960s brought a loosening of sexual morals
-   which allowed for sex to become uncoupled from relationships and
-   non-marital sex to become more socially acceptable.^[3]^[18]
-
-   Support for sexual freedom became increasingly popular as new ideas and
-   beliefs evolved about the positive and negative aspects of engaging in
-   sexual intercourse.^[19] It became more widely accepted that having sex
-   was not necessarily always intended for reproduction, but rather had
-   more emphasis on physical pleasure.^[19] This new outlook was
-   influenced by several factors, including the eradication of 1930s
-   censorship laws regarding sexually explicit content in media, and also
-   a growing accessibility to birth control pills, condoms, and other
-   forms of contraception.^[19]^[16] Before the 1960s, unmarried women
-   were usually denied access to birth control since it was traditional
-   for men and women to refrain from having sex until after marriage.^[16]
-
-   Feminism grew substantially in the 1960s, with supporters arguing that
-   a woman should have complete control over her own body.^[19] Supporters
-   of the feminist movement also argued that women should be able to
-   "pursue" men in the same way men traditionally approached women, and
-   made efforts to change the negative attitudes usually associated with
-   women that decided to have sex before marriage.^[19]
-
-   Kathleen Bogle has stated that the growing acceptance of casual sex in
-   the 1960s could also be attributed to a sharp rise in female student
-   enrollment at colleges and universities.^[19] The number of women
-   attending college in the United States in 1972 was three times larger
-   than the number in 1960.^[19]^[20] With a greater number of females on
-   campuses compared to males, women had to adjust to the sexual scripts
-   outlined by men, which are based more on engaging in uncommitted sex
-   rather than on developing relationships.^[19]
-
-   Some scholars, including Garcia and Freitas, have found that dating,
-   while it has not disappeared, has decreased as the frequency of hookups
-   have increased.^[11]^[21] By the mid-1990s, Freitas found that hookups
-   were an accepted form of interactions among sexually active adults,
-   especially those located on college campuses.^[1]
-
-   According to a review by Garcia, this is "an unprecedented time in the
-   history of human sexuality."^[14] People are marrying and beginning
-   families at ages later than previous generations while becoming
-   sexually mature at an earlier age. As a result, Garcia and other
-   scholars argue that young adults are able to reproduce physiologically
-   but are not psychologically or socially ready to 'settle down' and
-   begin a family.^[14]
-
-   These developmental shifts, Garcia's systematic review of the
-   literature suggests, is one of the factors driving the increase in
-   hookups, a "popular cultural change that has infiltrated the lives of
-   emerging adults throughout the Western world."^[14] The review shows
-   that hookups are becoming increasingly normative among young adults and
-   adolescents in North America and have taken root throughout the Western
-   world, which represents a notable shift in how casual sex is perceived
-   and accepted.^[11]
-
-   Garcia and others have noted that the "past decade has witnessed an
-   explosion in interest in the topic of hookups, both scientifically and
-   in the popular media. Research on hookups is not seated within a
-   singular disciplinary sphere; it sits at the crossroads of theoretical
-   and empirical ideas drawn from a diverse range of fields, including
-   psychology, anthropology, sociology, biology, medicine, and public
-   health."^[11] However, research shows that COVID-19 has impacted
-   hook-up culture by lowering the prevalence of casual sex.^[22]
-   Difficulties in defining the term can lead to different perceptions of
-   its prevalence.^[23] Hookup culture is vaguely defined due to a variety
-   of perspectives taken on this subject relating to human sexuality. It
-   is hard to make sense of hookup culture without understanding why it
-   exists in society and why individuals participate in the culture.^[24]
-
-   According to Shannon T. Boodram, "hooking up is nothing more than
-   settling; it is the microwaveable burrito of sex."^[24] Hooking up is
-   engaged in for the instant gratification for sex, pleasure, a feeling
-   of being loved, an emotional feeling of being adhered to, the thought
-   of the potential of the hookup developing into something less casual,
-   and many more reasons.^[24]
-
-   According to Kathleen Bogle, the phrase 'hooking up' is "a slang term"
-   deemed unofficial and unpredictable due to the extended variation of
-   its meaning.^[17] Many other slang terms for hooking up were and are
-   still used such as "friends with benefits" and "booty call."^[17] Other
-   terms for repeated acts of hooking up include, "casual sex" or
-   "recreational sex," or defined as a relationship with "no strings
-   attached."^[25]
-
-Behavioral norms
+Kulturkampf
 
    [edit]
-
-   The definition of hooking up can vary depending on the person or on the
-   age group. It can range from acts that involve kissing, oral sex,
-   manual sex, or sexual intercourse.^[26]^[27] The term "hooking up,"
-   meaning an instance of casual sex, differs from hookup culture. A
-   hookup is an act that involves sexual intimacy, claimed by many to be a
-   sexually liberating act. On the other hand, hookup culture is thought
-   to be oppressive and monolithic, with intimacy only occurring within a
-   specific context.^[28] Jennifer Aubrey and Siobhan Smith have found
-   that between genders there are minimal differences when it comes to
-   behavior and frequency in hookups; on the other hand, women still face
-   a harder social stigma, because their social status decreases with
-   increased sexual partners, but men's social status increases with more
-   sexual partners.^[29] There is also a difference between men and women
-   when it comes to the reason to partake in casual sex. Men hook up to
-   increase sexual experiences and to gain their manhood, but women tend
-   to hook up with the hopes of it becoming a long-term relationship and
-   to satisfy their partner.^[30] In a study conducted by Danielle M.
-   Currier, she explores how the phrase "hooking up" conveys different
-   meanings depending on whether a man or woman uses it when describing
-   their sexual encounters; furthermore, Currier notes that men use
-   "hooking up" to emphasize their masculinity and heterosexuality, but
-   women use the phrase to preserve their femininity by being
-   strategically ambiguous to downplay their sexual desires.^[31]
-
-Gender roles
-
-   [edit]
-
-   Both men and women participate in hookups, but Bogle notes that males
-   and females often choose casual sex for different reasons.^[19]
-   Researchers suggest men and women have distinct sexual scripts, ways in
-   which cultural influences can affect an individual's sexual
-   behaviors.^[19]^[16] Furthermore, society judges the sexual behaviors
-   of men and women in a completely different manner.^[19]^[16] For men,
-   sex is characterized as "central to male identity," and research
-   suggests men tend to "prefer nonrelational sex."^[16] In contrast,
-   women are viewed as "sexual objects" and are normally "sexually passive
-   compared to men."^[16] Society typically admires or glorifies men who
-   frequently engage in casual sex, but women are scrutinized or
-   admonished for the same behaviors.^[19] For that reason, a woman's
-   sexual script has more focus on finding some type of commitment or
-   relationship.^[19] Additionally, women pursue relationships to "protect
-   their reputation" in college, but men have more sexual freedom without
-   the fear of reproach.^[19] Women risk being called "sluts" or being
-   accused of "getting around too much" since society has historically
-   identified that as inappropriate behavior for women.^[19]^[32] Men are
-   not held to the same standards, particularly in high school and
-   college. Men who engage in regular sexual activity are seen as
-   successful individuals who are "players."^[19] In fact, men are rarely
-   reprimanded for their sexual behavior unless they are practicing
-   abstinence in which case their peers might say that they cannot "get
-   any."^[19]
-
-   Researcher Donna Freitas challenges society's perceptions of the male
-   sexual script. Through conversations and interviews with men on college
-   campuses, she states that they expressed a need to "fit in" with other
-   males to be successful.^[32] Men claim to hook up more because of peer
-   expectations, rather than to meet their own desires.^[32] Men also say
-   they cannot express disapproval for hookup culture the same way that
-   women can without facing criticism from their peers.^[32] To summarize,
-   women face several risks by participating in hook-up culture, but
-   Freitas says "men risk gaining a reputation by not being a part of
-   it."^[32]
-
-   However, both men and women let societal pressure influence their
-   sexual behavior on college campuses. Pluralistic ignorance leads people
-   to behave in alignment with beliefs that they attribute to their group
-   although they are usually false, regardless of the individual's
-   beliefs. Research done on a college campus found that men and women
-   overestimate their same-gendered peers' comfort towards hookups and act
-   in accordance with their perception of how their peers feel, rather
-   than their own comfort level.^[33] Pluralistic ignorance is supported
-   by the results that women felt moderate discomfort with intercourse
-   during a hookup, but 32% still reported participating, and all women
-   rated their peers' comfort higher than their own.^[33] The study found
-   that men were more comfortable with all sexual behaviors discussed than
-   women were.^[33] Researchers argue that both lead to negative
-   consequences like sexual assault, especially for women.^[33]
-
-Homosexuality
-
-   [edit]
-
-   Stereotypes suggest most people believe that gay men are the most
-   likely to engage in casual or uncommitted sex on a regular basis.^[34]
-   Studies conclude that gay men participated in more frequent casual sex
-   than individuals "across all genders, sexes, and sexual orientations
-   comparison groups."^[34]^[35] Overall, hookup culture is understood to
-   be most prominent within the gay community.^[34]^[35] Biologically
-   speaking, sexual behavior is closely connected to someone's birth
-   sex.^[35] Under that assumption, women are considered a "limiting
-   factor in sexual encounters."^[34]^[35] Gay men do not have to question
-   the sexual desires of other men like they would if a woman was involved
-   in the scenario.^[34]^[35]
-
-   Additionally, society's early negative perspectives on homosexuality
-   along with a lack of "regulation" in gay relationships may explain the
-   higher rate of casual sex encounters among gay men.^[34]^[35] Certain
-   perceptions of gay men like prejudice and homophobia adversely affected
-   the overall mental health of gay men, and they were often forced to
-   explore their sexual needs and desires in a discreet fashion.^[34]^[35]
-
-   More recent technology, such as dating websites and mobile apps, have
-   also contributed to the current hookup tendencies observed in gay
-   men.^[15]^[34]^[36] Apps like Grindr have further advanced the sexual
-   scripts of homosexual men.^[15] Apps such as Taimi, Her and Zoe have
-   advanced the sexual scripts for homosexual women. Other apps, like
-   Tinder, Hinge or Bumble, have been created to follow a similar script
-   for heterosexual individuals. Nevertheless, because casual hookups and
-   anonymous sexual encounters have been classified as more prominent in
-   homosexuals, apps like Tinder and Bumble still maintain a broader focus
-   on more long-term goals like dating or relationships, especially when
-   compared to apps like Grindr.^[15]
-
-Adolescents
-
-   [edit]
-
-   Some North American surveys published in the mid-2000s have shown that
-   upwards of 60% or 70% of sexually active teens reported having had
-   uncommitted sex within the last year.^[11]^[37]^[38]^[39] That is more
-   common among males than females.^[37] Among sexually experienced
-   adolescents, 28% of males and 16% of females reported losing their
-   virginity to either someone they have just met or to a friend who is
-   not a dating partner.^[40]
-
-   Males are more likely than females to have several hookup partners at
-   the same time and to hook up with someone they are not dating.^[37] For
-   both genders, hookups are more likely to be with an ex-boyfriend, an
-   ex-girlfriend, or a friend than an acquaintance.^[37] The majority of
-   teens (68%) who hook up with a friend or an ex will hook up with them
-   again.^[37]
-
-   About half of all hookups among adolescents were a one-time affair, and
-   this is the same for both genders.^[37] Only 6% of teens have had sex
-   with someone they just met, and those encounters are a one-time affair
-   75% of the time.^[37] Over all, 25% of those who had a sexual
-   experience with a dating partner have also hooked up with someone they
-   were not dating.^[37] Additionally, 40% of those who had hooked up with
-   someone they were not dating had also hooked up with a dating partner
-   in the previous 12 months.^[37]
-
-   Studies have shown that most high school girls are more interested in a
-   relationship than high school boys, who are interested mostly in sex.
-   Young women tend to be honest about their sexual encounters and
-   experiences, and young men tend to lie more often about
-   theirs.^[citation needed] Another study shows that once a person has
-   sex for their first time, it becomes less of an issue to future
-   relationships or hookups. The study showed that girls in high school do
-   not care as much as boys do about having sex in a relationship. On the
-   contrary, girls will have sex with their partner to match them.^[41]
-
-Relationships
-
-   [edit]
-
-   For some adolescents, sex and relationships have been
-   decoupled.^[citation needed]
-
-   Some worry that if society disconnects intimate sexual behavior and
-   emotional connection, teens who hookup will have trouble forming stable
-   intimate relationships later in life.^[42]^[43]^[44]
-
-   Journalist Sabrina Weill asserts that "casual teen attitudes toward
-   sex—particularly oral sex—reflect their confusion about what is normal
-   behavior" and adds that they are facing an intimacy crisis that could
-   haunt them in future relationships. "When teenagers fool around before
-   they're ready or have a very casual attitude toward sex, they proceed
-   toward adulthood with a lack of understanding about intimacy."^[43]
-
-College
-
-   [edit]
-
-   Historical research documents that white male college students have a
-   long history of engaging in hookup sex.^[15]^[16] Journals and letters
-   from the 1800s demonstrate that wealthy young white male college
-   students hooked up with prostitutes, with poor women, and with enslaved
-   African American women.
-
-   Today, according to one study, more than 90% of American college
-   students say their campus is characterized by a hookup culture,^[45]
-   and students believe that about 85% of their classmates have hooked
-   up.^[4] There have been several studies conducted that found men
-   emerging into adulthood have a higher number of casual sex partners and
-   will engage in more casual sex as opposed to women. It also seems that
-   hooking up has replaced much of the dating scene on many U.S. college
-   campuses, though men and women's definition of hookups varied.^[30]
-   Studies show that most students (most recent data suggest between 60%
-   and 80%) do have some sort of casual sex experience.^[11]^[14] Of those
-   students who have hooked up, between 30% and 50% report that their
-   hookups included sexual intercourse.^[4] In the U.S., women outnumber
-   men in college enrollment by 4 to 3, leading some researchers to argue
-   that the gender imbalance fosters a culture of hooking up because men,
-   as the minority and limiting factor, hold more power in the sexual
-   marketplace and use it to pursue their preference of casual sex over
-   long-term relationships.^[46]
-
-   However, most students overestimate the number of hookups in which
-   their peers engage.^[47]^[16] Only 20% of students regularly hook
-   up.^[45] Roughly one half will occasionally hook up, and one-third of
-   students do not hook up at all.^[45] The median number of college
-   hookups reported by graduating seniors is seven, and the average
-   college student acquires two new sexual partners during their college
-   career.^[45] Half of all hookups are repeats, and 25% of students will
-   graduate from college a virgin.^[45] African American female students
-   are less likely to engage in hookup sex than white female
-   students.^[16]
-
-   One study has found that the strongest predictor of hookup behavior was
-   previous experience hooking up. Those who have engaged in hookups that
-   involve penetrative sex are 600% more likely to hookup again during the
-   same semester.^[14]^[48]
-
-   Subculture can affect gender roles and sexuality, and youth subcultures
-   are particularly susceptible to peer pressure.^[citation needed]
-   Self-esteem is also an indicator: men with high self-esteem and women
-   with low self-esteem are more likely to have multiple sexual partners,
-   but hookups are less likely among both genders when they have high
-   self-esteem. Most predictors among males and females rarely
-   differ.^[49]
-
-   One third of gay and bisexual college men have met an anonymous sexual
-   partner in a public place such as a park, bookstore, or restroom.^[11]
-   Other venues such as public cruising areas, Internet cruising networks,
-   and bathhouses are popular for gay men, but not for lesbians or
-   heterosexuals.^[11]
-
-   The trend toward marrying later may be what is fueling the hookup scene
-   on college campuses.^[50] At colleges, hookups are common between
-   students at parties, in dormitories and fraternity houses, at
-   surrounding bars and clubs, and at popular student vacation
-   destinations. For example, a study of Canadian college students who
-   planned to hookup while on spring break showed that 61% of men and 34%
-   of women had sex within a day of meeting their partner.^[11]
-
-   Another study was based on a survey of over 18,000 college students
-   from ages 18–25. This survey asked questions like how many sexual
-   partners they have had since graduating high school, how many sexual
-   partners per year, and how many times per week they have sex. It was
-   reported that a little over 59% of college students have sex once per
-   week. A little over 31% reported to having at least one sexual partner
-   per year, and about 50% said that they have had more than two sexual
-   partners since the age of 18.^[51] Perceptions of "frat boys" and how
-   this stereotype seems to be the typical male who only pursues women to
-   have sexual relations. Many female college students explained how the
-   "frat boy" perfectly embodies the persona of a sex driven male.^[50]
-
-Relationships
-
-   [edit]
-
-   Hooking up generally refers to having sex; however, many others
-   indicated that when they say hooking up they are referring to something
-   less than intercourse.^[52] In a hookup culture, young people often
-   have little experience with dating and developing romantic
-   relationships.^[53]^[54] Hooking up is means for experiencing casual
-   sexual encounters, but it is also a means for beginning
-   relationships.^[50] Students often feel that hookups are the only
-   option and that their peers do not date, which becomes a
-   self-fulfilling prophecy as fewer students date because they believe
-   their classmates do not believe in dating.^[55] Freitas' study has
-   found that students on these campuses generally feel that the decision
-   about whether or not to be in a relationship is out of their control
-   and that "hookup culture dictated for them that there would be no
-   dating and that they simply had to endure this reality."^[21]
-
-   Kimmel believes that while sexual promiscuity once existed on college
-   campuses alongside more traditional forms of dating, hooking up is now
-   "the alpha and omega of young adult romance."^[56] Wade, on the other
-   hand, says that college students are merely engaging in a different
-   form of courtship that often results in monogamous relationships.^[45]
-   This view is echoed by Armstrong, Hamilton and England, who state that
-   college students have not abandoned dating.^[10] Some students claim
-   that hookups fit their busy personal and professional schedules better
-   than traditional dating does and is thus liberating.^[57] Freitas
-   counters that living in the hookup culture is not at all liberating if
-   what students want is to actually go on dates.^[58]
-
-   Freitas has opined that a "hookup is a sexual act that thwarts meaning,
-   purpose, and relationship."^[59] However, most students do want to be
-   in a romantic relationship.^[8]^[11]^[45] One study has found that 63%
-   of college-aged men and 83% of college-aged women would prefer a
-   traditional romantic relationship at their current stage in life to
-   casual sex.^[11] Additionally, 95% of women and 77% of men say they
-   prefer dating to hooking up.^[45] "Without exception," sex counselor
-   Ian Kerner says, "[students] discuss a long-term monogamous
-   relationship as their desired end goal."^[8] While more than half of
-   students of both genders say they would like a hookup to develop into a
-   romantic relationship,^[8]^[11]^[60] only 6.5% (4.4% of men and 8.2% of
-   women) expect that one will.^[14]^[61] 51% of women, and 42% of men,
-   have tried discussing the possibility of beginning a romantic
-   relationship with a hookup partner.^[11]
-
-   More than half of college relationships begin with a hookup, Bogle's
-   research has found.^[62]^[63] Freitas' study shows that when a
-   relationship is born of a hookup, it is usually after months of
-   engaging in a series of sexual encounters.^[64] Relationships that
-   begin as a hookup, or as a "friends with benefits" situation, report
-   lower levels of satisfaction.^[11] Garcia says that hookup culture can
-   lead to a lower incidence of dating among youth, but as people get a
-   bit older they outgrow their desire for hookups and settle into
-   traditional dating.^[8]
-
-   Oftentimes, men and women seem to not be on the "same page." According
-   to Bogle, many males believed that females often invested themselves or
-   had an ulterior motive for pursuing a hookup like situation. For
-   instance, when a male student was asked if he felt that women looked
-   for different components in a hookup; his response was that most
-   females generally did not lean towards a "one and done" thing.^[50]
-
-   Sociologist Wade^[16] discusses several scholars who disagree that
-   contemporary college students desire long-term monogamous
-   relationships. She cites Elizabeth Armstrong and Laura Hamilton,^[65]
-   Hanna Rosin,^[66] and Kate Taylor^[57] who posit that hookup culture is
-   good for women as it frees them to focus on their studies and on their
-   professional development for careers instead of seeking a long-term
-   partner or marriage.
-
-   Freitas believes the lessons imparted by hookup culture have "set back"
-   students who often have little experience dating, and few skills in
-   asking a romantic partner out as a result.^[1] There has been such a
-   decline in dating culture on college campuses that most students have
-   had more hookups than first dates.^[8] On some campuses, dating is so
-   rare that many students do not have the skills to know how to ask
-   someone out.^[1] Boston College even offers a course on how to plan and
-   execute a date.^[1]
-
-Peer culture
-
-   [edit]
-
-   College students base their sexual ideas and sexual actions within a
-   peer culture, where students who are peers are comparing and differing
-   sexual situations in one's own life among one another to create a
-   foundation for the current hookup culture.^[17] Kathleen Bogle
-   describes the peer culture at universities as the "sexual arena."^[17]
-   College students on campuses create and explore their own sexual beings
-   in life by referencing others' intimacy, which tends to be presented
-   publicly.^[17]
-
-   This peer culture is not reserved to college students, but it may start
-   to develop around the time puberty starts in middle school for both
-   genders around the age of eleven to fourteen years old. In general,
-   puberty is a time that sexuality and self-awareness becomes a main
-   focus for individuals to formulate this aspect of their identity. Once
-   in college, for most students, the parental aspect is diminished, which
-   leaves them feeling a high degree of freedom to truly explore and
-   expand their whole personal identity, strongly including sexual
-   identity in this "sexual arena."^[17]
-
-   According to Bogle, the campuses her studies were done at had a common
-   trend of college students being strongly interested in every other
-   student's private life.^[17] That awareness of all the happenings in
-   other students' lives made the college scene an open door in looking at
-   others' relationships and sexual intimacy.^[17] College is a highly
-   public environment, and any kind of sexual activity or public display
-   of affection at parties or on campus is exposed to others. The viewers
-   of that activity process, interpret, and form assumptions about what
-   was observed. Those types of sexual activity or public displays of
-   affection could be as meaningless as two individuals romantically
-   speaking to each other in a high-capacity location on campus or could
-   be as extreme as two individuals walking into a bedroom together at a
-   party.^[17]
-
-   The peer culture has evolved and escalated with access to rapid
-   communication such as texting on cell phones and multiple social media
-   applications. Most of those social media applications are identity
-   profiles, public thought disposals, and virtual photo albums of oneself
-   in which others' are just a click away from cyberanalysis of how that
-   individual displays themselves physically, sexually, psychologically,
-   emotionally, and mentally on the internet. Bogle states that the
-   knowing of others' personal lives is not just a purpose to gossip, but
-   a way to observe, analyze, and be impacted by other's sexual actions,
-   solely for the purpose of their own actions.^[17] A peer culture is one
-   in which norms surface because individuals begin to conduct themselves
-   in the same manner as their peers, which creates the typical and common
-   style of acquitting oneself.^[17]
-
-Risks
-
-   [edit]
-
-   Most people choose to take part in hookups to experience physical
-   intimacy and sexual pleasure, but that type of behavior can result in a
-   variety of negative outcomes, too.^[16] The impacts can range from
-   "emotional and psychological injury, sexual violence, sexually
-   transmitted infections (STIs), and/or unintended pregnancy."^[16]
-   Despite the known potential effects, many college students are either
-   unaware or unbothered by those sexual risks.^[67] According to a survey
-   focused on how students perceive the risk of contracting sexual
-   diseases, only half of a group of 71 students reported having concerns
-   about STI contraction while they engaged in sexual intercourse.^[67]
-   Further analysis of the survey determined that many students claimed to
-   trust their sexual partners and communities too much and that they were
-   misinformed about sexual risks in general.^[67] Research suggests
-   frequent drug or alcohol use can also lead to lower perceptions of
-   those health risks.^[19]^[32]^[16]
-
-   Engaging in hook-ups can have negative effects on a person's mental
-   health as well, including feelings of anxiety or discomfort.^[16]^[68]
-   One study suggests that nearly 35% of surveyed students described
-   feeling regretful or disappointed after a hookup.^[20]^[68] Experts
-   have used qualitative analyses to gauge both the type and the level of
-   regret that a student might have after uncommitted sex. Many reported
-   having feelings of embarrassment, emotional issues, and an overall lack
-   of respect from their peers.^[16]^[69]
-
-   Garcia's review has found that hookups can result in emotional and
-   psychological injury, sexual violence, sexually transmitted infections,
-   and/or unintended pregnancy.^[11]^[14] Most students report with not
-   concerning themselves with or being concerned about the health risks
-   that come with hookups, however, especially if their partner was a
-   member of their own community, such as a student on the same college
-   campus.^[11] Garcia notes that there can be much pressure when it comes
-   to hooking up, which can contribute to discomfort, performance anxiety,
-   and stress.^[69]
-
-   Some studies have found that students, both men and women,
-   overwhelmingly regret their hookups.^[11] In one, 77% of students
-   regretted their hookups,^[14]^[70] and in another, 78% of women and 72%
-   of men who had uncommitted vaginal, anal, and/or oral sex regretted the
-   experience.^[14]^[70] Intercourse that occurred less than 24 hours
-   after meeting and those that took place only one time are the most
-   likely to be regretted.^[71] Men were more likely to be sorry for
-   having used another person, and women regretted the experience because
-   they felt they had been used.^[14]^[71] While women usually felt worse
-   after a hookup than men do, 39% of men expressed extreme regret, shame,
-   and frustration with themselves about their hookup experiences.^[72]
-
-   Other studies found that many college students do not regret their
-   hookup experiences. Wade interviewed many women and men who were
-   enthusiastic about their hookup experiences.^[16] Vrangalova and Ong's
-   study documented that students who had a stable personality orientation
-   towards casual sex reported a heightened sense of well-being after
-   experiencing casual sex.^[73] In Owen and Fincham's study, "Both men
-   and women reported that their emotional reactions to hookups were more
-   positive than negative".^[74] Fielder and Carey's study of hookups
-   among female college students found that "participants enjoyed their
-   most recent hookups ... and indicated a low level of regret".^[75]
-
-   Some research shows that hookup regret is gendered, with women tending
-   to regret hooking up much more than men do. According to one study of
-   832 college students, 26% of women and 50% of men reported positive
-   emotional reactions following a hookup, and 49% of women and 26% of men
-   reported negative reactions following a hookup.^[11] According to one
-   study, there are at least four explanations for why women may regret
-   hookups more than men. They may have different attitudes towards
-   relationships, hooking up, and sex; there may be differences in sexual
-   initiation and agency within hookups; there may be differences in the
-   frequency of orgasm within hookups;^[76] and there may be differences
-   in perceived inequality in orgasms during hookups.^[77] Other studies,
-   such as Vrangalova and Ong, found no gender difference.^[73]
-
-   Regret from hooking up may be linked to negative emotional outcomes,
-   especially in women. According to an article by Steven E. Rhoads, Laura
-   Webber, et al., "the more partners women have in the course of their
-   lives, the more likely they are to be depressed, to cry almost every
-   day, and to report relatively low satisfaction with their lives."^[78]
-   In Premarital Sex in America: How Young Americans Meet, Mate, and Think
-   About Marrying, Mark Regnerus and Jeremy Uecker report that having more
-   sexual partners is associated with "poorer emotional states in women,
-   but not in men."^[79]
-
-   The American Psychological Association also states that hookups can
-   result in guilt and negative feelings. In a study of 169 sexually
-   experienced men and women surveyed in singles' bars, when presented
-   with the statement, "I feel guilty or would feel guilty about having
-   sexual intercourse with someone I had just met," 32 percent of men and
-   72 percent of women agreed.^[80]^[14]
-
-   Students who reported to Freitas that they were profoundly upset about
-   hooking up stated the encounters made them feel, among other things,
-   used, miserable, disgusted, and duped.^[81] To avoid becoming a victim,
-   experts believe "that the first step is to acknowledge the dangers
-   inherent in the free-and-easy hookup approach to dating and sex."^[82]
-   In one qualitative study, only 2% felt desirable or wanted after a
-   hookup.^[83] More than a third, on the other hand, felt regretful or
-   disappointed, and others reported feeling nervous or uncomfortable as
-   well.^[83]
-
-Drugs and alcohol
-
-   [edit]
-   [250px-A_glamorous_woman_looking_ruefully_into_her_empty_wine_glass_Wel
-   lcome_L0027289.jpg] A poster that represents a warning against the
-   risks posed by alcohol consumption, promiscuity, and venereal diseases.
-
-   Some studies have made a connection between hookup culture and
-   substance use.^[14] Most students said that their hookups occurred
-   after drinking alcohol.^[14]^[84]^[85] Frietas stated that in her
-   study, the relationships between drinking and the party scene and
-   between alcohol and hookup culture were "impossible to miss."^[86]
-   Hookups "almost always" occur when at least one participant is drunk,
-   according to Kimmel.^[87] On average, men have five drinks when they
-   hook up and women three.^[87] Students who reported using marijuana or
-   cocaine in the past year were also more likely than their peers to have
-   hooked up during that period.^[14]^[88]
-
-   About a third of the students who reported engaging in vaginal, anal,
-   or oral sex during a hookup reported being very intoxicated, and
-   another third reported being mildly intoxicated.^[14]^[89] Alcohol may
-   act as a cue regarding sexual availability, as a disinhibitor, and as a
-   rationalization or an excuse for their behavior, poor sexual
-   performance, premature ejaculation, and other sexual
-   dysfunctions.^[90]^[14]^[83] It also is the "liquid courage," which
-   allows them to make a sexual advance in the first place.^[90]
-
-   Studies suggest that the degree of alcoholic intoxication directly
-   correlates with the level of risky behavior.^[49] In one study, 33% of
-   those who had hooked up indicated that it was "unintentional" and
-   likely from the influence of alcohol or other drugs.^[14]^[61] In a
-   survey of first-year students, women said that 64% of their hookups
-   came after drinking alcohol.^[14]^[84] Those results were similar to
-   another study, which found that 61% of all undergraduates reported
-   drinking alcohol before their last hookup.^[14]^[85]
-
-   Studies have generally shown that greater alcohol use is associated
-   with more sexual activity over the course of a hookup.^[14]^[48] The
-   students who reported consuming the least amount of alcohol were also
-   the least likely to hookup. At the other end of the spectrum, the
-   greatest alcohol consumption was associated with penetrative sex and
-   less alcohol consumption with non-penetrative hookups.^[14]^[48] Of
-   those who took part in a hookup that included vaginal, anal, or oral
-   sex, 35% were very intoxicated, 27% were mildly intoxicated, 27% were
-   sober, and 9% were extremely intoxicated.^[14]^[89]
-
-"Dry dating" trend
-
-   [edit]
-
-   A recent trend called "dry dating" is gaining popularity to replace
-   "liquid courage", which involves going on dates without consuming
-   alcohol.^[91]^[92]^[93]
-
-Wider culture
-
-   [edit]
-   [250px-Hookup_apps.jpg] Mobile applications have become very popular in
-   regards to online dating, but have also served as a way for people to
-   engage in hook-ups.
-
-   Hookup culture on college campuses is intertwined with a broader
-   society. On the other hand, some sociologists have argued that hookup
-   culture is a characteristic of the American college environment and
-   does not reflect broader American youth culture, just as many college
-   graduates stop engaging in hookups when they leave college by
-   preferring dating or other sexual arrangements.^[3] Others, including
-   Michael Kimmel, have said that "the hookup culture can extend for
-   years" beyond college, "well into their thirties and even their
-   forties."^[94] Baby boomer fears of hookup culture have been termed a
-   "moral panic."^[10] Until recently, those who studied the rise of
-   hookup culture generally assumed that it was driven by men and that
-   women were reluctant participants, who were more interested in romance
-   than casual sexual encounters. However, evidence exists that young
-   women are propelling it too.^[46]
-
-   Hookup culture also exists outside of the college environment.
-   Location-based geosocial networking smartphone applications, also known
-   as hookup apps or dating apps, are increasingly being used to locate
-   potential hookups.^[13] Men who have sex with men (MSM) commonly use
-   mobile dating apps designed for the gay male market such as Grindr,
-   Jack'd, and SCRUFF to find hookup partners.^[95] One study noted that
-   gay men's increased use of mobile hookup apps has eroded gay public
-   life, especially for those gay men who are on the urban margins in
-   terms of social class and generation.^[96] Hookup apps designed for
-   heterosexuals emerged after the gay-oriented Grindr; Tinder, for
-   example, was introduced in 2013.^[97] There have been a variety of
-   dating apps for women who identify as lesbian, but they have been
-   criticized for merely being "reskins" of successful hookup apps for gay
-   men.^[97] Daatch is described as one of the few successful hookup apps
-   designed for lesbians.^[97]
-
-   Life course studies indicate that as people grow older and subjectively
-   identify as adult, they are less likely to engage in casual sexual
-   behavior.^[98] However, social scientists recognize that there is
-   little scientific research on older people's sex lives and so no
-   definitive conclusions may be drawn.^[99]
-
-Media
-
-   [edit]
-   See also: Media and American adolescent sexuality
-
-   The American Academy of Pediatrics argues that media representations of
-   sexuality may influence teen sexual behavior,^[100] a view that is
-   supported by a number of studies.^[11]^[101]^[102]^[unbalanced
-   opinion?] Some studies suggest that teens who watch movies with more
-   sexual content tend to become sexually active at an earlier age and to
-   engage in riskier sexual behaviors.^[103] The idea is that the media
-   may serve as a "super peer" for youth,^[104] who then seek to develop a
-   sexual identity that is in line with popular portrayals.^[4]^[105] On
-   the other side, conservatives opposed to hookup culture have sparked
-   controversy and come under criticism.^[106]
-
-   Cable television is filled with reality shows that depict an image of
-   partying and glorified hookups, one of the most well known shows being
-   MTV's Jersey Shore.^[29] Studies have found that about 35% of sexual
-   behavior on cable television is with people "who are not in established
-   committed relationships."^[29] In television, sexual monogamy differs
-   by gender, which suggests men stray away from commitment, and women
-   desire it.^[107] That further suggesting that masculinity is equal to
-   sex and possibly leads male viewers to be more accepting of hookup
-   culture.^[107]
-
-   As the cost of personal computers dropped and online access has
-   increased, Heldman and Wade, along with others, argue that internet
-   pornography has "emerged as a primary influence on young people's,
-   especially men's, attitudes towards sex and their own
-   sexuality."^[4]^[104]^[108] Heldman and Wade believe that the increase
-   of access to pornography via the internet is what "spurred" hookup
-   culture, in part by challenging the idea that "good sex" takes place in
-   a monogamous relationship.^[108]^[1] Feminist Gail Dines has opined
-   that pornography is "a cultural force that is shaping the sexual
-   attitudes of an entire generation" and a "major form of sex ed today
-   for boys."^[109]
-
-Extra effects and causes
-
-   [edit]
-
-   There are many ideas as to why people think young adults are involved
-   in hookup culture, such as that they feel like they have to do it to
-   fit in.^[8] Some girls also reported that the main reason that they are
-   involved with random hookups is because they think that is what boys
-   want.^[110] The feeling of being wanted by a cute guy is what they want
-   and hookups are how girls think that they can get that attention.
-   However, many boys and girls reported that they do hookup with random
-   people to find someone with whom they could possibly start something
-   serious.^[8] That being said, not all young adults are hooking up with
-   each other to fit the college norm and gain sexual pleasure, but some
-   truly want to find someone with whom they have a serious connection.
-   There was a study by University of Louisville researchers Owen and
-   Fincham, who asked 500 undergraduate students that have been involved
-   in hookup culture how they felt about commitment. About 45% of men and
-   65% of women said they wanted their hookups to possibly end up in a
-   serious relationship.^[111]
-
-   There have also been a number of studies that have studied the mental
-   aspects of casual hookups. A study done by psychologist Seth Schwartz
-   has shown results that people who had many random hookups had more
-   psychological issues.^[112] For instance, students in college that had
-   stated they were involved in casual sex had higher levels of depression
-   and anxiety and lower levels of self-esteem, happiness and life
-   satisfaction compared to the students who did not engage in a casual
-   hookup in the past thirty days.^[112] There was then a study of about
-   400 young adults that felt lonely and depressed and adults who had less
-   feeling of loneliness and depression who were involved in sexual
-   intercourse.^[14] They then researched what emotional affects being
-   involved in sexual intercourse hookups had on them. They came up with
-   results that showed that penetrative sex hookups made people with
-   greater feelings of depression and loneliness have a decrease in those
-   symptoms and feelings.^[14] People who expressed fewer symptoms of
-   loneliness and depression had an increase in those feelings after a
-   penetrative sex hookup.^[14] It makes people feel depressed but also
-   uncomfortable. For example, a study by Reiber and Garcia in 2010 show
-   that many people who engage in sexual hookups feel uncomfortable.^[14]
-   They also concluded that 78% of people in a hookup overestimate how
-   comfortable their partner is doing certain things during their sexual
-   engagement. Random hookups also have shown to cause feelings of
-   pressure and performance anxiety in a study by Paul, et al.^[14]
-
-   The continuation of the sexual double standard between men and women
-   may be due to the motivations behind men's and women's hook ups. The
-   sexual marketplace makes it seem that women hold all of the power, but
-   most women report engaging in casual sex to satisfy their partners and
-   increase the possibility of it turning into a long-term, monogamous
-   relationship in which men use casual sex to increase their sexual
-   experience and explore themselves before they are tied down by
-   marriage.^[30]
-
-   CAPTION: Total number of sexual partners among U.S. young adults^[111]
-
-         1988–1996 2004–2012
-     0   10%       15%
-     1   23%       23%
-     2   16%       13%
-    3–5  23%       24%
-   6–12  20%       17%
-   13–20 5%        5%
-    ≥21  4%        3%
-
-Communication theory
-
-   [edit]
-
-   The majority of academic research about hookup culture focuses on the
-   psychological, biological, and societal influences on an individual's
-   inclination to engage in uncommitted sex, but some scholars have
-   examined theories of communication and how they relate to hook-up
-   culture.
-
-Attachment theory
-
-   [edit]
-
-   The premise behind John Bowlby's attachment theory is to "describe the
-   behaviors that humans use to relate to one another."^[73]^[113]
-   Attachment theory suggests people develop an attachment style during
-   childhood and then carry it into adulthood, where it can have impacts
-   on the relationships they form.^[73]^[113] Researcher Mary Ainsworth
-   identified different attachment styles and suggested that they can
-   influence someone's relational and sexual behavior.^[73]^[114] In one
-   analysis, these attachment styles were applied to explain how
-   homosexual men behave sexually.^[73] For example, gay men with an
-   anxious-ambivalent attachment style (an individual made uncomfortable
-   by "close emotional relationships, but will desperately try to seek out
-   reassurance from another person") might be more reluctant to use
-   condoms during sexual intercourse because they believe that will make
-   them feel more wanted by their partner.^[73]^[115] Meanwhile, a gay man
-   with an anxious-avoidant attachment style (an individual who does not
-   like to get close to others) will most likely try to remain
-   disconnected from his partner for fear of becoming too close or
-   intimate.^[73]^[115]
-
-Sexual script theory
-
-   [edit]
-
-   How cultural norms affects someone's sexual habits and behavior is
-   defined as sexual script theory.^[19]^[25] Researchers John Gagnon and
-   William Simon originally developed the concept and suggested these
-   scripts serve as "guides for behavior."^[25] The scripts can help
-   individuals determine what is and is not appropriate based on
-   surrounding cultural influences.^[25] In the United States, the script
-   includes "kissing, then sexual touching, and ultimately culminates in
-   sexual intercourse (i.e., the 'bases')."^[19] The sexual scripts also
-   help define gender roles and explain the actions that both males and
-   females take in hookups and uncommitted sexual encounters.^[19]^[25]
-
-   Casual sexual scripts have emerged as a subset of traditional sexual
-   scripts.^[116] The traditional dating script follows a formal pattern
-   and heteronormative gender roles.^[116] The casual script is perceived
-   as less formal and lacks clarity.^[116]
-
-   Hookups seem to offer a chance to break away from normative dating
-   patterns. Research on friends with benefits relationships contradicts
-   this perception.^[117] Some women seek to flip the gender scripts and
-   behave as a powerful man might with casual relationships.^[117] They
-   suppress their emotions and in turn feel a lack of power and
-   control.^[117] Reverting to characteristics of traditional sexual
-   scripts, women may find themselves further entrenched in unwanted
-   gender roles.^[117]
-
-   Mediated sexual scripts portray two different narratives for men and
-   women.^[118] The male script portrays sex as uncomplicated, fun, and
-   expected.^[118] The female sexual script emphasizes the need for
-   caution and expectation of criticism.^[118] When viewed, the mediated
-   scripts encode into personal sexual script and influence
-   behavior.^[118] The results of a study looking at first-year college
-   students supported that claim. Male students were likely to endorse or
-   take part in hookup culture if they had viewed such scripts.^[118]
-
-Cultivation theory
-
-   [edit]
-
-   The concept of cultivation theory suggests "media influence people
-   indirectly."^[25] Researchers suggest that how media portray sexual
-   activity of different age groups is disproportionate to
-   reality.^[25]^[119] Someone who consumes a variety of media will
-   demonstrate such influences when they are confronted with hookups or
-   uncommitted sexual scenarios.^[25]^[119]
+   This section is an excerpt from Kulturkampf.[edit]
+
+   The Kulturkampf (
+   German pronunciation: [kʊlˈtuːɐ̯ˌkamp͡f]; lit. 'Cultural Struggle') was
+   the seven-year political conflict (1871–1878) between the Catholic
+   Church in Germany led by Pope Pius IX and the Kingdom of Prussia, led
+   by Chancellor Otto von Bismarck, as well as other German states. The
+   Prussian church-and-state political conflict was about the church's
+   direct control over both education and ecclesiastical appointments in
+   the Prussian kingdom. Moreover, when compared to other church-and-state
+   conflicts about political culture, the Kulturkampf of Prussia also
+   featured anti-Polish sentiment.
+
+   In modern political usage, the German term Kulturkampf describes any
+   conflict (political, ideological, or social) between the secular
+   government and the religious authorities of a society. The term also
+   describes the great and small culture wars among political factions who
+   hold deeply opposing values and beliefs within a nation, a community,
+   and a cultural group.^[6]^[better source needed]
+
+   In the English language, the term culture war is a calque of the German
+   word Kulturkampf (culture struggle), which refers to a historical event
+   in Germany. The term appears as the title of an 1875 British book
+   review of a German pamphlet.^[7]
 
 Research
 
    [edit]
 
-   Most research regarding hookup culture has been reliant on conducting
-   interviews and surveys with sexually active individuals, particularly
-   those at a high school or college level.^[19]^[32]^[25] Each
-   investigator's set of questions, however, has served a different
-   purpose in the overall analysis of hookup culture.
-
-Research to explain a "hookup"
+Criticism and evaluation
 
    [edit]
 
-   Scholars have expressed the difficulty of defining a "hookup" since it
-   has different meanings, based on cultural norms and personal
-   preferences.^[19]^[32]^[25]^[16] Researchers like Kathleen Bogle and
-   Donna Freitas have interviewed males and females, both separately and
-   together, to gain a better understanding of the hookup culture on
-   campuses in the United States.^[19]^[32] Their studies have focused on
-   how the growing hookup culture has shaped the trajectory of dating and
-   forming relationships, and they have also aimed to gain a better
-   understanding of the difference in sexual scripts between men and
-   women.^[19]^[32] They have also used this data to help further explain
-   what specific actions and behaviors constitute a hookup.^[19]^[32]
+   Since the time that James Davison Hunter first applied the concept of
+   culture wars to American life, the idea has been subject to questions
+   about whether "culture wars" names a real phenomenon, and if so,
+   whether the phenomenon it describes is a cause of, or merely a result
+   of, membership in groups like political parties and religions. Culture
+   wars have also been subject to the criticism of being artificial,
+   imposed, or asymmetric conflicts, rather than a result of authentic
+   differences between cultures. Researchers have differed about the
+   scientific validity of the notion of culture war. Some claim it does
+   not describe real behavior, or that it describes only the behavior of a
+   small political elite. Others claim culture war is real and widespread,
+   and even that it is fundamental to explaining Americans' political
+   behavior and beliefs. A 2023 study on the circulation of conspiracy
+   theories on social media noted that disinformation actors insert
+   polarizing claims in culture wars by taking one side or the other, thus
+   making the adherents circulate and parrot disinformation as a
+   rhetorical ammunition against their perceived opponents.^[1]
 
-Influences of dating sites and apps
+   Political scientist Alan Wolfe participated in a series of scholarly
+   debates in the 1990s and 2000s against Hunter, claiming that Hunter's
+   concept of culture wars did not accurately describe the opinions or
+   behavior of Americans, which Wolfe claimed were more united than
+   polarized.^[8] A meta-analysis of opinion data from 1992 to 2012
+   published in the American Political Science Review concluded that, in
+   contrast to a common belief that political party and religious
+   membership shape opinion on culture war topics, instead opinions on
+   culture war topics lead people to revise their political party and
+   religious orientations. The researchers view culture war attitudes as
+   "foundational elements in the political and religious belief systems of
+   ordinary citizens."^[9]
 
-   [edit]
-
-   Another avenue of research has studied the influences of dating
-   websites and mobile dating apps on hookup culture.^[15]^[16]^[73]
-   Scholar Carey Noland suggests the advent of finding hookups or dates
-   through the Internet has made talking about sex easier because of the
-   possibility to "skip the small talk" and not needing to worry about the
-   normal "barriers" of saving face by talking to someone
-   online.^[25]^[120] Additional research has analyzed hookup patterns to
-   see how mobile app developers have catered to their potential
-   users.^[15] For example, the creators of Grindr capitalized on the
-   increased sexual desires among gay men^[73]^[36] to base its app on
-   locational awareness.^[15] That paved the way for apps in which users
-   can find connections and meet up with people, who are often right
-   around the corner.^[15]
-
-Understanding the risks
-
-   [edit]
-
-   Research conducted on hook-up culture has also been applied to
-   scientific studies about sexually transmitted infections. Knowing more
-   information about a man's or a woman's behavior during casual sex has
-   increased the understanding of how STIs are contracted, whether it is
-   through oral sex or sexual intercourse and how frequently or
-   infrequently individuals take steps to prevent them.^[16]^[67] By
-   interviewing individuals who engage in hookups, scholars have been able
-   to better address health risk perceptions or the lack thereof.
-   Researchers have also applied their findings to study the potential
-   psychological effects of hookups, including feelings of depression or
-   regret.^[16]^[68]^[69]
-
-Effect on future relationships
+Artificiality or asymmetry
 
    [edit]
 
-   According to a 2004 peer-reviewed study published in the Journal of
-   Marriage and Family found that women who have more than one premarital
-   sexual relationship have a higher likelihood in the long run of
-   disruptions if ever married, with this effect being the "strongest for
-   women who have multiple premarital coresidential unions".^[121] Kahn
-   and London (1991) found that premarital sex and divorce are positively
-   correlated.^[122] According to a 2014 report, couples that began as
-   hook-ups tended to have lower marital quality than couples who had not
-   begun as a hook up.^[123]
+   Some writers and scholars have said that culture wars are created or
+   perpetuated by political special interest groups, by reactionary social
+   movements, by party dynamics, or by electoral politics as a whole.
+   These authors view culture war not as an unavoidable result of
+   widespread cultural differences, but as a technique used to create
+   in-groups and out-groups for a political purpose. Political commentator
+   E. J. Dionne has written that culture war is an electoral technique to
+   exploit differences and grievances, remarking that the real cultural
+   division is "between those who want to have a culture war and those who
+   don't."^[10]
 
-Areas for future research
+   Sociologist Scott Melzer says that culture wars are created by
+   conservative, reactive organizations and movements. Members of these
+   movements possess a "sense of victimization at the hands of a liberal
+   culture run amok. In their eyes, immigrants, gays, women, the poor, and
+   other groups are (undeservedly) granted special rights and privileges."
+   Melzer writes about the example of the National Rifle Association of
+   America, which he says intentionally created a culture war in order to
+   unite conservative groups, particularly groups of white men, against a
+   common perceived threat.^[11] Similarly, religion scholar Susan B.
+   Ridgely has written that culture wars were made possible by Focus on
+   the Family. This organization produced conservative Christian
+   "alternative news" that began to bifurcate American media consumption,
+   promoting a particular "traditional family" archetype to one part of
+   the population, particularly conservative religious women. Ridgely says
+   that this tradition was depicted as under liberal attack, seeming to
+   necessitate a culture war to defend the tradition.^[12]
+
+   Political scientists Matt Grossmann and David A. Hopkins have written
+   about an asymmetry between the US's two major political parties, saying
+   the Republican party should be understood as an ideological movement
+   built to wage political conflict, and the Democratic party as a
+   coalition of social groups with less ability to impose ideological
+   discipline on members.^[13] This encourages Republicans to perpetuate
+   and to draw new issues into culture wars, because Republicans are well
+   equipped to fight such wars.^[14] According to The Guardian, "many on
+   the left have argued that such [culture war] battles [a]re
+   'distractions' from the real fight over class and economic
+   issues."^[15]
+
+Culture wars by country
 
    [edit]
 
-   Experts have suggested several areas for future research, including
-   additional studies about how members of the LGBTQ community are
-   impacted and have been affected by hookup culture.^[73]^[97]^[36]
-   Researcher Kathleen Bogle highlights another area of study; she says a
-   new focus should be on individuals who choose not to participate in
-   hookups and how they are "affected by the dominant hookup culture that
-   surrounds them."^[19] Finally, a third avenue for future research could
-   include an analytical view of individuals who use apps like Grindr or
-   Tinder with hopes of finding connections or developing relationships,
-   rather than using them for the more common use of casual hookups.^[15]
+United States
 
-Critique
+   [edit]
+   This section is an excerpt from History of ethnocultural politics in
+   the United States.[edit]
+
+   In the United States, ethnocultural politics or ethnoreligious politics
+   refers to the pattern of certain cultural groups or religious
+   denominations to vote heavily for one party. Groups can be based on
+   ethnicity (such as Hispanics, Irish, Germans, etc.), race (White
+   people, Black people, Asian Americans, etc.) or religion (Protestant
+   and later Evangelical or Catholic, etc.) or on overlapping categories
+   (e.g. Irish Catholics). In the Southern United States, race was the
+   determining factor. Each of the two major parties was a coalition of
+   ethnoreligious groups in the Second Party System (1830s–1850s) and also
+   in the Third Party System (1850s–1890s).
+   [250px-Christopher_Columbus_Statue_Torn_Down_at_Minnesota_State_Capitol
+   _on_June_10%2C_2020.jpg] Members of the American Indian Movement
+   toppled a statue of Christopher Columbus in Saint Paul, Minnesota, on
+   June 10, 2020.
+
+1920s–1991: Origins
+
+   [edit]
+   [icon]
+   This section needs expansion. You can help by adding to it. (December
+   2021)
+
+   In American usage, culture war may imply a conflict between those
+   values considered traditionalist or conservative and those considered
+   progressive or liberal. This usage originated in the 1920s when urban
+   and rural American values came into closer conflict.^[16] This followed
+   several decades of immigration to the States by people who earlier
+   European immigrants considered 'alien'. It was also a result of the
+   cultural shifts and modernizing trends of the Roaring Twenties,
+   culminating in the presidential campaign of Al Smith in 1928.^[17] In
+   subsequent decades during the 20th century, the term was published
+   occasionally in American newspapers.^[18]^[19] Historian Matthew Dallek
+   argues the John Birch Society (JBS) was an early promoter of culture
+   war ideas.^[20] Scholar Celestini Carmen traces the JBS's apocalyptic
+   culture war rhetoric through the connections of Christian right leaders
+   such as Tim LaHaye and Phyllis Schlafly to the JBS and their founding
+   of the Moral Majority.^[21]
+
+1991–2001: Rise in prominence
 
    [edit]
 
-   Several scholars have critiqued how outside influences have shaped or
-   contributed to hookup culture as a whole.^[19]^[32]^[25]
+   James Davison Hunter, a sociologist at the University of Virginia,
+   introduced the expression again in his 1991 publication, Culture Wars:
+   The Struggle to Define America. Hunter described what he saw as a
+   dramatic realignment and polarization that had transformed American
+   politics and culture. He argued that on an increasing number of
+   "hot-button" defining issues—abortion, gun politics, separation of
+   church and state, privacy, recreational drug use, homosexuality,
+   censorship—there existed two definable polarities. Furthermore, not
+   only were there a number of divisive issues, but society had divided
+   along essentially the same lines on these issues, so as to constitute
+   two warring groups, defined primarily not by nominal religion,
+   ethnicity, social class, or even political affiliation, but rather by
+   ideological world-views. Hunter characterized this polarity as stemming
+   from opposite impulses, toward what he referred to as Progressivism and
+   as Orthodoxy. Others have adopted the dichotomy with varying labels.
+   For example, Bill O'Reilly, a conservative political commentator and
+   former host of the Fox News Channel talk show The O'Reilly Factor,
+   emphasizes differences between "Secular-Progressives" and
+   "Traditionalists" in his 2006 book Culture Warrior.^[22]^[23]
 
-   Many ideas and beliefs about the growing hookup culture suggest that
-   the act of engaging in uncommitted sex is found primarily among
-   teenagers or college students.^[19]^[25] Teenagers and college students
-   may be sexually active, but it is important to understand that other
-   age and social groups take part in casual sex too.^[19]^[25] One of the
-   reasons for that disconnect is the misrepresentation of sexual activity
-   among certain age groups in media.^[25]^[119] In television, teens are
-   most commonly shown to be sexually active, and it is rare to see any
-   kind of sexual activity portrayed for individuals aged 65 or
-   older.^[25]^[119] Further research shows, however, that that is
-   opposite of the actual sexual activity reported among those age
-   groups.^[25]^[119]
+   Historian Kristin Kobes Du Mez attributes the 1990s emergence of
+   culture wars to the end of the Cold War in 1991. She writes that
+   Evangelical Christians viewed a particular Christian masculine gender
+   role as the only defense of the United States against the threat of
+   communism. When this threat ended upon the close of the Cold War,
+   Evangelical leaders transferred the perceived source of threat from
+   foreign communism to domestic changes in gender roles and
+   sexuality.^[24]
+   [250px-Patrickjbuchanan.JPG] Pat Buchanan in 2008
 
-   The stereotypes and different sexual scripts of males and females in
-   hookups have also been influenced greatly by different media like
-   movies, television, and pornography.^[32] In the media, women are
-   frequently depicted as "sexual objects" and men portrayed as "there to
-   objectify them."^[32]
+   During the 1992 presidential election, commentator Pat Buchanan mounted
+   a campaign for the Republican nomination for president against
+   incumbent George H. W. Bush. In a prime-time slot at the 1992
+   Republican National Convention, Buchanan gave his speech on the culture
+   war.^[25] He argued: "There is a religious war going on in our country
+   for the soul of America. It is a cultural war, as critical to the kind
+   of nation we will one day be as was the Cold War itself."^[26] In
+   addition to criticizing environmentalists and feminism, he portrayed
+   public morality as a defining issue:
 
-   On another note, scholars suggest the reality of emotional risks
-   associated with hooking up can be linked to a lack of conversation or
-   discussion about them.^[25] When discussing sex with adolescents, both
-   parents and sex education programs tend to focus on the health risks,
-   like STIs and pregnancy, but the exchanges rarely highlight the
-   "emotions that occur from sexual experiences."^[25] The conversations
-   seldom present information about motives for engaging in sex aside from
-   reproduction and rarely acknowledge the positive emotions associated
-   with that type of activity like physical pleasure.^[25] The imbalance
-   of information regarding sexual behavior and activity has also
-   contributed to the sexual scripts that are seen in hookup culture
-   today.^[25]
+     The agenda [Bill] Clinton and [Hillary] Clinton would impose on
+     America—abortion on demand, a litmus test for the Supreme Court,
+     homosexual rights, discrimination against religious schools, women
+     in combat units—that's change, all right. But it is not the kind of
+     change America wants. It is not the kind of change America needs.
+     And it is not the kind of change we can abide in a nation that we
+     still call God's country.^[26]
+
+   A month later, Buchanan characterized the conflict as about power over
+   society's definition of right and wrong. He named abortion, sexual
+   orientation and popular culture as major fronts—and mentioned other
+   controversies, including clashes over the Confederate flag, Christmas,
+   and taxpayer-funded art. He also said that the negative attention his
+   "culture war" speech received was itself evidence of the United States'
+   polarization.^[27]
+
+   The culture war had significant impact on national politics in the
+   1990s.^[4] The rhetoric of the Christian Coalition of America may have
+   weakened president George H. W. Bush's chances for re-election in 1992
+   and helped his successor, Bill Clinton, win reelection in 1996.^[28] On
+   the other hand, the rhetoric of conservative cultural warriors helped
+   Republicans gain control of Congress in 1994.^[29] The culture wars
+   influenced the debate over state-school history curricula in the United
+   States in the 1990s. In particular, debates over the development of
+   national educational standards in 1994 revolved around whether the
+   study of American history should be a "celebratory" or "critical"
+   undertaking and involved such prominent public figures as Lynne Cheney,
+   Rush Limbaugh, and historian Gary Nash.^[30]^[31]
+
+2001–2012: Post-9/11 era
+
+   [edit]
+   [250px-Bush_War_Budget_2003-crop.jpg] (from right to left) 43rd
+   President George W. Bush, Donald Rumsfeld, and Paul Wolfowitz were
+   prominent neoconservatives of the 2000s.
+
+   A political view called neoconservatism shifted the terms of the debate
+   in the early 2000s. Neoconservatives differed from their opponents in
+   that they interpreted problems facing the nation as moral issues rather
+   than economic or political ones. For example, neoconservatives saw the
+   decline of the traditional family structure as well as the decline of
+   religion in American society as spiritual crises that required a
+   spiritual response. Critics accused neoconservatives of confusing cause
+   and effect.^[32]
+
+   During the 2000s, voting for Republicans began to correlate heavily
+   with traditionalist or orthodox religious belief across diverse
+   religious sects. Voting for Democrats became more correlated with
+   liberal or modernist religious belief, and with being
+   nonreligious.^[10] Belief in scientific conclusions, such as climate
+   change, also became tightly coupled with political party affiliation in
+   this era, causing climate scholar Andrew Hoffman to observe that
+   climate change had "become enmeshed in the so-called culture
+   wars."^[33]
+   [250px-Fresno_-_Prop_8_Rally.jpg] Rally for Proposition 8, an item on
+   the 2008 California ballot to ban same-sex marriage
+
+   Topics traditionally associated with culture war were not prominent in
+   media coverage of the 2008 election season, with the exception of
+   coverage of vice-presidential candidate Sarah Palin,^[34] who drew
+   attention to her conservative religion and created a performative
+   climate change denialism brand for herself.^[35] Palin's defeat in the
+   election and subsequent resignation as governor of Alaska caused the
+   Center for American Progress to predict "the coming end of the culture
+   wars," which they attributed to demographic change, particularly high
+   rates of acceptance of same-sex marriage among millennials.^[36]
+
+2012–present: Broadening of the culture war
+
+   [edit]
+   See also: List of monuments and memorials removed during the George
+   Floyd protests, List of changes made due to the George Floyd protests,
+   and List of name changes due to the George Floyd protests
+   [250px-JEB_Stuart_Monument_2020-05-31.jpg] The J. E. B. Stuart
+   Monument, defaced during protests in Richmond, Virginia, was removed on
+   July 7, 2020.
+
+   In the early 2010s, the American right took issue with the perceived
+   worldwide dominance of leftism in international politics and corporate
+   activity, anti-nationalism, and secular human rights policies and
+   activism not based on Abrahamic religious worldviews.^[37]
+
+   While traditional culture war issues, like abortion, continue to be a
+   focal point,^[38] the issues identified with the culture war broadened
+   and intensified in the mid-late 2010s. Jonathan Haidt, author of The
+   Coddling of the American Mind, identified a rise in cancel culture via
+   social media among young progressives since 2012, which he believes had
+   "transformative effects on university life and later on politics and
+   culture throughout the English-speaking world," in what Haidt^[39] and
+   other commentators^[40]^[41] have called the "Great Awokening".
+   Journalist Michael Grunwald says that "President Donald Trump has
+   pioneered a new politics of perpetual culture war" and lists Black
+   Lives Matter, U.S. national anthem protests, climate change, education
+   policy, healthcare policy including Obamacare, and infrastructure
+   policy as culture war issues in 2018.^[42] The rights of transgender
+   people and the role of religion in lawmaking were identified as "new
+   fronts in the culture war" by political scientist Jeremiah Castle, as
+   the polarization of public opinion on these two topics resembles that
+   of previous culture war issues.^[43] In 2020, during the COVID-19
+   pandemic, North Dakota governor Doug Burgum described opposition to
+   wearing face masks as a "senseless" culture war issue that jeopardizes
+   human safety.^[44]
+   [250px-Anti-abortion_protest%2C_1986.jpg]
+   [250px-Drag_Queen_Story_Hour_Protest_-_52452239331.png]
+   [250px-Save_our_children_hashtag_%28cropped%29_%28cropped%29.png]
+   [250px-Chaya_Raichik_and_MTG.jpg]
+   Clockwise from top left: anti-abortion protesters in 1986; members of
+   the Proud Boys protest a drag queen story hour; Representative Marjorie
+   Taylor Greene of Georgia and Libs of TikTok creator Chaya Raichik hold
+   up an anti-transgender sign; "Save Our Children" graffiti near downtown
+   Lufkin, Texas in relation to the LGBT grooming conspiracy theory.
+
+   This broader understanding of culture war issues in the mid-late 2010s
+   and 2020s is associated with a political strategy called "owning the
+   libs." Conservative media figures employing this strategy emphasize and
+   expand upon culture war issues with the goal of upsetting liberals.
+   According to Nicole Hemmer of Columbia University, this strategy is a
+   substitute for the cohesive conservative ideology that existed during
+   the Cold War. It holds a conservative voting bloc together in the
+   absence of shared policy preferences among the bloc's members.^[45]
+   [330px-Charlottesville_%27Unite_the_Right%27_Rally_%2835780274914%29_cr
+   op.jpg] The Unite the Right rally in Charlottesville, Virginia, in
+   August 2017, an alt-right event regarded as a battle of the culture
+   wars^[46]
+
+   A number of conflicts about diversity in popular culture occurring in
+   the 2010s, such as the Gamergate controversy, Comicsgate and the Sad
+   Puppies science fiction voting campaign, were identified in the media
+   as being examples of the culture war.^[47] Journalist Caitlin Dewey
+   described Gamergate as a "proxy war" for a larger culture war between
+   those who want greater inclusion of women and minorities in cultural
+   institutions versus anti-feminists and traditionalists who do not.^[48]
+   The perception that culture war conflict had been demoted from
+   electoral politics to popular culture led writer Jack Meserve to call
+   popular movies, games, and writing the "last front in the culture war"
+   in 2015.^[49]
+
+   These conflicts about representation in popular culture re-emerged into
+   electoral politics via the alt-right and alt-lite movements.^[50]
+   According to media scholar Whitney Phillips, Gamergate "prototyped"
+   strategies of harassment and controversy-stoking that proved useful in
+   political strategy. For example, Republican political strategist Steve
+   Bannon publicized pop-culture conflicts during the 2016 presidential
+   campaign of Donald Trump, encouraging a young audience to "come in
+   through Gamergate or whatever and then get turned onto politics and
+   Trump."^[51]
+
+Canada
+
+   [edit]
+
+   Main articles: Political culture of Canada and Monuments and memorials
+   in Canada removed in 2020–2022
+
+   Some observers in Canada have used the term "culture war" to refer to
+   differing values between Western versus Eastern Canada, urban versus
+   rural Canada, as well as conservatism versus liberalism and
+   progressivism.^[52] The phrase has also been used to describe the
+   Harper government's attitude towards the arts community. Andrew Coyne
+   termed this negative policy towards the arts community as "class
+   warfare."^[53]
+
+Australia
+
+   [edit]
+
+   See also: Australian history wars
+
+   During the tenure of the Liberal–National Coalition government of 1996
+   to 2007, interpretations of Aboriginal history became a part of a wider
+   political debate regarding Australian national pride and symbolism
+   occasionally called the "culture wars", more often the "history
+   wars".^[54] This debate extended into a controversy over the
+   presentation of history in the National Museum of Australia and in
+   high-school history curricula.^[55]^[56] It also migrated into the
+   general Australian media, with major broadsheets such as The
+   Australian, The Sydney Morning Herald and The Age regularly publishing
+   opinion pieces on the topic. Marcia Langton has referred to much of
+   this wider debate as "war porn"^[57] and as an "intellectual dead
+   end".^[58]
+
+   Two Australian Prime Ministers, Paul Keating (in office 1991–1996) and
+   John Howard (in office 1996–2007), became major participants in the
+   "wars". According to Mark McKenna's analysis for the Australian
+   Parliamentary Library,^[59] Howard believed that Keating portrayed
+   Australia pre-Whitlam (PM 1972–1975) in an unduly negative light, while
+   Keating sought to distance the modern Labor movement from its
+   historical support for the monarchy and for the White Australia policy
+   by arguing that it was the conservative Australian parties which had
+   been barriers to national progress. He accused Britain of having
+   abandoned Australia during the Second World War. Keating staunchly
+   supported a symbolic apology to Aboriginal Australians for their
+   mistreatment at the hands of previous administrations, and outlined his
+   view of the origins and potential solutions to contemporary Aboriginal
+   disadvantage in his Redfern Park Speech of December 10, 1992 (drafted
+   with the assistance of historian Don Watson). In 1999, following the
+   release of the 1998 Bringing Them Home Report, Howard passed a
+   parliamentary Motion of Reconciliation describing treatment of
+   Aboriginal people as the "most blemished chapter" in Australian
+   history, but declined to issue an official apology.^[60] Howard saw an
+   apology as inappropriate as it would imply "intergeneration guilt",
+   saying measures were a better response to contemporary Aboriginal
+   disadvantage. Keating argued for the eradication of remaining symbols
+   linked to colonial origins, including deference for ANZAC Day,^[61] for
+   the Australian flag, and for the monarchy in Australia, while Howard
+   supported these institutions. Unlike fellow Labor leaders and
+   contemporaries, Bob Hawke (PM 1983–1991) and Kim Beazley (Labor Party
+   leader 2005–2006), Keating never travelled to Gallipoli for ANZAC Day
+   ceremonies. In 2008 he described those who gathered there as
+   "misguided".^[62]
+
+   The defeat of the Howard government in the 2007 Australian federal
+   election and its replacement by the Rudd Labor government altered the
+   dynamic of the debate. Rudd made an official apology to the Aboriginal
+   Stolen Generations^[63] with bi-partisan support.^[64] Like Keating,
+   Rudd supported an Australian republic, but in contrast to Keating, Rudd
+   declared support for the Australian flag and supported the
+   commemoration of ANZAC Day; he also expressed admiration for Liberal
+   Party founder Robert Menzies.^[65]^[66] Subsequent to the 2007 change
+   of government, and prior to the passage of the official apology,
+   historian Richard Nile argued: "the culture and history wars are over
+   and with them should also go the adversarial nature of intellectual
+   debate",^[67] a view contested by others, including conservative
+   commentator Janet Albrechtsen.^[68]
+
+   Climate change in Australia is also considered a highly divisive or
+   politically controversial topic, to the point it is sometimes called a
+   "culture war".^[69]^[70]
+
+   Since the defeat of the 2023 Australian Indigenous Voice referendum,
+   there has been a significant calls reignited from conservative
+   politicians and commentators to oppose or scale down Indigenous
+   Reconciliation, viewing customs such as Welcome to Country ceremonies
+   and placing the Aboriginal and Torres Strait Islander flags alongside
+   the national flag as "divisive".^[71]
+
+African continent
+
+   [edit]
+
+   According to political scientist Constance G. Anthony, American culture
+   war perspectives on human sexuality were exported to Africa as a form
+   of neocolonialism. In his view, this began during the AIDS epidemic in
+   Africa, with the United States government first tying HIV/AIDS
+   assistance money to evangelical leadership and the Christian right
+   during the Bush administration, then to LGBTQ tolerance during the
+   administration of Barack Obama. This stoked a culture war that resulted
+   in (among others) the Uganda Anti-Homosexuality Act of 2014.^[72]
+
+   Zambian scholar Kapya Kaoma notes that because "the demographic center
+   of Christianity is shifting from the global North to the global South"
+   Africa's influence on Christianity worldwide is increasing. American
+   conservatives export their culture wars to Africa, Kaoma says,
+   particularly when they realize they may be losing the battle back home.
+   US Christians have framed their anti-LGBT initiatives in Africa as
+   standing in opposition to a "Western gay agenda", a framing which Kaoma
+   finds ironic.^[73]
+
+   North American and European conspiracy theories have become widespread
+   in West Africa via social media, according to 2021 survey by First
+   Draft News. COVID-19 misinformation, New World Order conspiracy
+   thinking, QAnon and other conspiracy theories associated with culture
+   war topics are spread by American, Pro-Russian, French-language, and
+   local disinformation websites and social media accounts, including
+   prominent politicians in Nigeria. This has contributed to vaccine
+   hesitancy in West Africa, with 60 percent of survey respondents saying
+   they were unlikely to try to get vaccinated, and an erosion of trust in
+   institutions in the region.^[74]
+
+United Kingdom
+
+   [edit]
+
+   See also: Actions against memorials in Great Britain during the George
+   Floyd protests
+
+   [250px-Statue_of_Robert_Milligan%2C_West_India_Quay_on_9_June_2020_-_st
+   atue_covered_and_with_Black_Lives_Matter_sign_03.jpg] The statue of
+   Robert Milligan on June 9, 2020, the day of its removal
+
+   A 2021 report from King's College London argued that many people's
+   views on cultural issues in Britain had become tied up with the side of
+   the Brexit debate with which they identify, while the public
+   party-political identities, although not as strong, show similar
+   alignments and that around half the country held relatively strong
+   views on "culture war" issues such as debates on Britain's colonial
+   history or Black Lives Matter; however, the report concluded Britain's
+   cultural and political divide was not as stark as the
+   Republican–Democratic divide in the US and that a sizeable section of
+   the public can be categorised as having either moderate views or as
+   being disengaged from social debates. It also found that The Guardian,
+   as opposed to the centre-right newspapers, was more likely to talk
+   about the culture wars.^[75]
+
+   The Conservative Party have been described as attempting to ignite
+   culture wars in regard to "conservative values" under the tenure of
+   Prime Minister Boris Johnson. Others argue that it is the left who are
+   engaging in "culture wars", particularly against liberal values,
+   accepted words, and British institutions.^[76]^[77]^[78]^[79] Observers
+   such as Johns Hopkins University professor Yascha Mounk and journalist
+   and author Louise Perry have argued that the collapse in support for
+   the Labour Party during the 2019 United Kingdom general election came
+   as a result of both a media-induced public perception and a deliberate
+   strategy of Labour of pursuing messages and policy ideas based on
+   cultural issues that resonated with more university educated grassroots
+   activists on the left of the party but alienated Labour's traditional
+   working class voters.^[80]^[81]
+
+   An April 2022 survey found evidence that Britons are less divided on
+   "culture war" issues than has often been portrayed in the media. The
+   greatest predictor of opinion was how people voted in the UK's
+   referendum on membership of the European Union, Brexit, yet even among
+   those who voted Leave, 75% agreed "it is important to be attentive to
+   issues of race and social justice". Similarly, even among Remainers and
+   those who last voted for the Labour Party, there was moderately strong
+   support for several socially conservative positions.^[82]^[83]
+
+Turkey
+
+   [edit]
+
+   Main articles: White Turks and Black Turks
+
+   [icon]
+   This section is empty. You can help by adding to it. (December 2024)
+
+Europe
+
+   [edit]
+
+   See also: "Polish death camp" controversy, Language policy in Ukraine,
+   LGBT-free zone, Controversy over ethnic and linguistic identity in
+   Moldova, Soviet imagery during the Russo-Ukrainian War, and List of
+   monuments and memorials removed following the Russian invasion of
+   Ukraine
+
+   [250px-Konev_Monument_in_Bubene%C4%8D_%286181%29.jpg] Statue of Ivan
+   Konev in Prague was removed in 2020.
+
+   In 2020, French President Emmanuel Macron promised that France would
+   not erase elements of its history or remove statues of controversial
+   public figures, saying "The Republic won't erase any name from its
+   history. It will forget none of its artworks, it won't take down
+   statues."^[84]
+
+   Several politicians, such as Poland's Law and Justice party,^[85]
+   Hungary's Viktor Orbán, Serbia's Aleksandar Vučić, and Slovenia's Janez
+   Janša,^[86] have been accused of fomenting culture wars in their
+   respective countries by encouraging dissent, resistance to LGBT rights,
+   and restrictions on abortion. One facet of the controversy in Poland is
+   the removal of Soviet War Memorials, which is divisive because some
+   Poles viewed the memorials positively as commemorations of their
+   ancestors who died during World War II, while others felt negatively
+   due to the oppression that some Poles experienced under the
+   Soviet-backed Polish People's Republic.^[87]^[88] Culture war in
+   Hungary is alleged by Kim Scheppele to be a disguise for democratic
+   backsliding by Orbán.^[89] Ukraine also experienced a decades-long
+   culture war pitting the eastern, predominately Russian-speaking,
+   regions against the western Ukrainian-speaking areas of the
+   country.^[90] LGBT rights are controversial in Poland, as exemplified
+   by President Andrzej Duda's vow in 2020 to oppose both same-sex
+   marriage and LGBT adoption.^[91]^[92]
+
+   Different interpretations of bitter events during World War II have
+   become especially contentious in Poland since 2015, shortly after the
+   start of the Russo-Ukrainian War.^[93] One disputed issue is whether
+   Poland bears any responsibility for the Holocaust, or whether Poland
+   was entirely a victim of Nazi Germany. This dispute is embodied by the
+   "Polish death camp" controversy (involving concentration camps that had
+   been built by Nazi Germany during World War II on German-occupied
+   Polish soil) and an attempt to address that controversy with a now
+   partly repealed law.^[94]
+
+   A second issue, also addressed by the partly repealed law, revolves
+   around Poland–Ukraine relations. In the region, in passing a law to
+   criminalize negative interpretations of the country's collaborationist
+   nationalist movements during World War II, Poland is not alone,^[95]
+   and Poland–Ukraine relations have suffered as a result of a similar law
+   in Ukraine that was criticized in Poland for deflecting blame away from
+   the Ukrainian Insurgent Army and their massacres of Poles in Volhynia
+   and Eastern Galicia.^[96]
+   [250px-%D0%A2%D0%B5%D1%80%D0%BD%D0%BE%D0%BF%D1%96%D0%BB%D1%8C_-_%D0%9F%
+   D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%96%D0%B9_%D0%BF%D0%BE%D1%81%D1%82%D0%B
+   0%D0%BC%D0%B5%D0%BD%D1%82_%D0%B1%D0%B5%D0%B7_%D0%BF%D0%B0%D0%BC%E2%80%9
+   9%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_%D0%9F%D1%83%D1%88%D0%BA%D1%96%D0
+   %BD%D1%83_-_22040934.jpg] The empty plinth of a statue dedicated to
+   Alexander Pushkin in Ternopil, Ukraine, April 11, 2022
+
+   Derussification in Ukraine is a process of removing Russian influence
+   from the post-Soviet country of Ukraine. This derussification started
+   after the collapse of the Soviet Union in 1991 and intensified with the
+   demolition of monuments to Lenin during Euromaidan in 2014 and the
+   further systemic process of decommunization in Ukraine. The Russian
+   invasion of Ukraine gave a strong impetus to the process.^[97]
+
+   In 2024, the city of Vienna rejected a monument to Polish King John III
+   Sobieski due to concerns about Islamophobia and anti-Turkish
+   sentiment.^[98]
 
 See also
 
    [edit]
-     * icon Sexuality portal
-     * icon Society portal
 
-     * Going steady
-     * Seduction community
+     * Class conflict
+     * Ethnic conflict
+     * Identity politics
+
+Drugs
+
+   [edit]
+     * Drug decriminalization
+     * Harm reduction
+     * Legal drinking age
+     * War on drugs
+
+Education and parenting
+
+   [edit]
+     * Corporal punishment and child discipline, most notably spanking
+     * Creation–evolution controversy
+     * Family values
+     * Homeschooling and educational choice
+     * Sexual education and abstinence only education
+
+Environment and energy
+
+   [edit]
+     * Global warming controversy^[33]
+
+Gender and sexuality
+
+   [edit]
+     * Age disparity in sexual relationships
+     * Age of consent
+     * Anti-gender movement
+     * Circumcision controversies
+     * Feminism
+     * LGBTQ grooming conspiracy theory
+     * LGBT rights and same-sex marriage
+     * Polyamory
+     * Sex work
+     * Sexual revolution
+     * Toplessness and Nudity
+
+Law and government
+
+   [edit]
+     * Crypto wars
+     * Disfranchisement
+     * Gerrymandering
+     * Gun rights
+     * Immigration reform
+     * Law and order
+     * Red state vs. blue state divide
+
+Life issues
+
+   [edit]
+     * Anti-war movement
+     * Capital punishment
+     * Reproductive rights including birth control and in vitro
+       fertilization (and their coverage by insurance)
+     * Right to die movement and euthanasia
+     * Stem-cell research
+     * Universal healthcare
+
+Society and culture
+
+   [edit]
+     * Cancel culture
+     * Counterculture
+     * Cultural Marxism conspiracy theory
+     * Cultural Revolution
+     * Expurgation – Form of censorship of artistic or other media works
+     * Geographical renaming
+     * History wars
+     * Kulturkampf
+     * Media bias in the U.S.
+     * Moral absolutism vs. moral relativism
+     * Multiculturalism
+     * Negationism
+     * Owning the libs
+     * Permissive society
+     * Race, affirmative action
+     * Secularism and secularization
+     * Social justice warrior
+     * Squatting
+     * Theory wars
+     * Woke
 
 References
 
    [edit]
-    1. ^ ^a ^b ^c ^d ^e ^f Freitas 2013.
-    2. ^ Dockterman, Eliana (July 23, 2013). "What Everyone's Getting
-       Wrong About the Ivy League Hookup Culture". Time. Retrieved
-       2013-07-29.
-    3. ^ ^a ^b ^c Bogle 2007.
-    4. ^ ^a ^b ^c ^d ^e Paul, Elizabeth L. (2006). "Beer Goggles, Catching
-       Feelings, and the Walk of Shame: The Myths and Realities of the
-       Hookup Experience". In Kirkpatrick, Dan Charles; Duck, Steve;
-       Foley, Megan K. (eds.). Relating Difficulty. Mahwah, NJ: Lawrence
-       Erlbaum Associates. pp. 141–160. ISBN 9780805854121. Retrieved
-       2013-07-22.
-    5. ^ Dye, Lee (September 21, 2011). "Want to have a hookup? What does
-       it mean?". ABC News. Retrieved 2013-07-29. "Hookups have replaced
-       casual sex and even dating on many college campuses over the years,
-       but as is so often the case when sex is discussed, it's not
-       altogether clear what everybody is talking about when they say
-       "hookup." One new study at a large university suggests that most
-       young people are doing it, although not everyone agrees what "it"
-       is. Researchers at the University of Montana found so many
-       different definitions among the students they studied that they had
-       to come up with a precise definition to be sure everybody was
-       talking about the same thing."
-    6. ^ ^a ^b Wolfe, Tom. "Hooking Up". New York Times. Retrieved
-       2013-07-29. ""Hooking up" was a term known in the year 2000 to
-       almost every American child over the age of nine, but to only a
-       relatively small percentage of their parents, who, even if they
-       heard it, thought it was being used in the old sense of "meeting"
-       someone. Among the children, hooking up was always a sexual
-       experience, but the nature and extent of what they did could vary
-       widely."
-    7. ^ "Manning: Hooking up: The relationship contexts of
-       "nonrelationship" sex | 2006 | Michigan Population Studies Center
-       (PSC)". www.psc.isr.umich.edu. Archived from the original on July
-       22, 2022. Retrieved July 28, 2017.
-    8. ^ ^a ^b ^c ^d ^e ^f ^g ^h Kerner, Ian (May 16, 2013). "Young Adults
-       and a Hookup Culture". CNN. Retrieved 2013-07-22.
-    9. ^ ^a ^b McKay, Brett (May 2, 2013). "Mating Intelligence with Drs.
-       Glenn Geher and Scott Barry Kaufman". Art of Manliness. Retrieved
-       2013-06-22.
-   10. ^ ^a ^b ^c Armstrong, Elizabeth A.; Hamilton, Laura; England, Paula
-       (2010). "Is Hooking Up Bad For Young Women?". Contexts. 9 (3):
-       22–27. doi:10.1525/ctx.2010.9.3.22. Retrieved 2013-07-22.
-   11. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l ^m ^n ^o ^p ^q ^r ^s Garcia,
-       Justin R.; Reiber, Chris; Massey, Sean G.; Merriwether, Ann M.
-       (2012). "Sexual Hookup Culture: A Review" (PDF). Review of General
-       Psychology. 16 (2): 161–176. doi:10.1037/a0027911. PMC 3613286.
-       PMID 23559846. Archived from the original (PDF) on 2015-03-18.
-       Retrieved 2013-06-25.
-   12. ^ Yglesias, Matthew (July 16, 2013). "Who Will Save College
-       Students From The Scourge of Doomed Campus Relationships?". Slate.
-       Retrieved 2013-07-29. "There's an awful lot wrong with moral panic
-       stories about "hookup culture" on campus [...]"
-   13. ^ ^a ^b Hahn, Hunter A.; You, Dokyoung S.; Sferra, Michale;
-       Hubbard, Meagan; Thamotharan, Sneha; Fields, Sherecce A. (2018).
-       "Is it Too Soon to Meet? Examining Differences in Geosocial
-       Networking App Use and Sexual Risk Behavior of Emerging Adults".
-       Sexuality & Culture. 22 (1): 1–21. doi:10.1007/s12119-017-9449-3.
-       S2CID 149441709.
-   14. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l ^m ^n ^o ^p ^q ^r ^s ^t ^u ^v
-       ^w ^x ^y ^z ^aa ^ab ^ac Garcia, Justin R.; Reiber, Chris; Massey,
-       Sean G.; Merriwether, Ann M. (February 2013). "Sexual Hook-up
-       Culture". Monitor on Psychology. Vol. 44, no. 2. American
-       Psychological Association. p. 60. Retrieved 2013-06-04.
-   15. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l D'Emilio, John, and Estelle
-       Freedman. (2012). Intimate Matters: A History of Sexuality in
-       America. Chicago, IL: Chicago University Press. ISBN 9780226923819
-   16. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l ^m ^n ^o ^p ^q ^r ^s ^t ^u ^v
-       Wade, Lisa. (2017). American Hookup: The New Culture of Sex on
-       Campus. W. W. Norton. ISBN 9780393355536
-   17. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l Bogle 2008, pp. 7–.
-   18. ^ Bogle 2008, pp. 20–21.
-   19. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l ^m ^n ^o ^p ^q ^r ^s ^t ^u ^v
-       ^w ^x ^y ^z ^aa ^ab ^ac ^ad Bogle, Kathleen A. (January 2008).
-       Hooking Up: Sex, Dating, and Relationships on Campus. NYU Press.
-       ISBN 9780814789919.
-   20. ^ ^a ^b Paul, Elizabeth; McManus, Brian; Hayes, Allison (2000).
-       "Hookups: Characteristics and Correlates of College Students'
-       Spontaneous and Anonymous Sexual Experiences". Journal of Sex
-       Research. 37: 76–88. doi:10.1080/00224490009552023.
-   21. ^ ^a ^b Freitas 2013, p. 159.
-   22. ^ Prochner, I. and Z. Chen, T. Kang, and H. Lu (2021). Casual Sex
-       During the COVID-19 Pandemic: Risks, Recommendations and Spaces for
-       Design Intervention. Imagination Lancaster. pp. 48–51.{{cite
-       book}}: CS1 maint: multiple names: authors list (link)
-   23. ^ Stuart, Laura Anne (February 21, 2011). "College Hookup Culture:
-       Myth or Reality?". Express Milwaukee. Retrieved 2013-07-22.
-   24. ^ ^a ^b ^c Boodram, Shannon T. (2009). Laid : Young People's
-       Experiences with Sex in an Easy-Access Culture. Berkeley,
-       California: Seal Press. pp. 1–58. ISBN 9781580053242.
-   25. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l ^m ^n ^o ^p ^q ^r ^s ^t ^u
-       Bruce, Michael; Stewart, Robert (2010). College sex : philosophers
-       with benefits. Malden, MA: John Wiley & Sons. pp. 91–102.
-       ISBN 9781444324488.
-   26. ^ Napper, Lucy E.; Kenney, Shannon R.; LaBrie, Joseph W.
-       (2016-10-20). "The Longitudinal Relationships among Injunctive
-       Norms and Hooking Up Attitudes and Behaviors in College Students".
-       Journal of Sex Research. 52 (5): 499–506.
-       doi:10.1080/00224499.2014.952809. ISSN 0022-4499. PMC 4374023.
-       PMID 25255916.
-   27. ^ Stein, Arlene; O'Brien, Jodi (2017). Gender, Sexuality, and
-       Intimacy: A Contexts Reader. SAGE Publications. p. 158.
-       ISBN 978-1-50635-230-5. Retrieved November 21, 2023.
-   28. ^ "The difference between casual sex and hooking up -
-       Chatelaine.com". Chatelaine. 2013-03-27. Retrieved 2016-10-20.
-   29. ^ ^a ^b ^c Aubrey, Jennifer Stevens; Smith, Siobhan E. (2016). "The
-       Impact of Exposure to Sexually Oriented Media on the Endorsement of
-       Hookup Culture: A Panel Study of First-Year College Students". Mass
-       Communication and Society. 19 (1): 74–101.
-       doi:10.1080/15205436.2015.1070875. S2CID 143211704.
-   30. ^ ^a ^b ^c Olmstead, Spencer B.; Conrad, Kathryn A.; Anders,
-       Kristin M. (2018). "First Semester College Students' Definitions of
-       and Expectations for Engaging in Hookups". Journal of Adolescent
-       Research. 33 (3): 275–305. doi:10.1177/0743558417698571.
-       ISSN 0743-5584. S2CID 152031778.
-   31. ^ Currier, Danielle M. (2013). "Strategic Ambiguity: Protecting
-       Emphasized Femininity and Hegemonic Masculinity in the Hookup
-       Culture". Gender & Society. 27 (5): 704–727.
-       doi:10.1177/0891243213493960. S2CID 146542719.
-   32. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k ^l ^m ^n "The Impact of Exposure
-       to Sexually Oriented Media on the Endorsement of Hookup Culture: A
-       Panel Study of First-Year College Students". Mass Communication and
-       Society. 19.
-   33. ^ ^a ^b ^c ^d Reiber, C; Garcia, J.R. (2010). "Hooking up: Gender
-       Differences, Evolution, and Pluralistic Ignorance". Evolutionary
-       Psychology. 8 (3): 390–404. doi:10.1177/147470491000800307.
-       PMC 10480847. PMID 22947808. S2CID 16777121.
-   34. ^ ^a ^b ^c ^d ^e ^f ^g ^h Lufkin, Kyle M. (2017). Hookup Culture in
-       Gay Men: an Application of Minority Stress Model, Just World
-       Belief, and Attachment Style on Interpersonal Relationship Choices
-       (BS thesis). University of Portland. doi:10.15760/honors.382. Paper
-       387.
-   35. ^ ^a ^b ^c ^d ^e ^f ^g Howard, Rhea; Perilloux, Carin (2016). "Is
-       mating psychology most closely tied to biological sex or preferred
-       partner's sex?". Personality and Individual Differences. 115:
-       83–89. doi:10.1016/j.paid.2016.05.009. S2CID 147938806.
-   36. ^ ^a ^b ^c Race, Kane (2015). "Speculative pragmatism and intimate
-       arrangements: online hook-up devices in gay life". Health &
-       Sexuality. 17 (4): 496–511. doi:10.1080/13691058.2014.930181.
-       PMID 24992161. S2CID 37111444.
-   37. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i Manning, W. S.; Giordano, P. C.;
-       Longmore, M. A. (2006). "Hooking up: The relationship contexts of
-       "nonrelationship" sex". Journal of Adolescent Research. 21 (5):
-       459–483. doi:10.1177/0743558406291692. S2CID 145785599.
-   38. ^ Grello, C. M.; Welsh, D. P.; Harper, M. S.; Dickson, J. W.
-       (2003). "Dating and sexual relationship trajectories and adolescent
-       functioning". Adolescent & Family Health. 3: 103–112.
-   39. ^ Katie Couric (2005). "Nearly 3 in 10 young teens 'sexually
-       active'". NBC News. Retrieved 2007-01-21.
-   40. ^ "www.guttmacher.org" (PDF). Guttmacher Institute. June 2013.
-       Retrieved 2013-08-14.
-   41. ^ Lowrey, Annie (2010-11-15). "Freaks, Geeks, and Economists".
-       Slate. ISSN 1091-2339. Retrieved 2016-10-21.
-   42. ^ Jarrell, Anne (2000-04-02). "The Teenage Face of Sex Grows
-       Younger". New York Times. Retrieved 2007-12-08.
-   43. ^ ^a ^b Jayson, Sharon (2005-10-19). "Teens define sex in new
-       ways". USA Today. Retrieved 2013-07-22.
-   44. ^ Sax 2005, p. 131.
-   45. ^ ^a ^b ^c ^d ^e ^f ^g ^h Wade, Lisa (May 30, 2013). "Hookup
-       culture: College kids can handle it". Los Angeles Times. Retrieved
-       2013-06-04.
-   46. ^ ^a ^b Taylor, Kate (14 July 2013). "Sex on Campus: She Can Play
-       That Game, Too". The New York Times. Retrieved 1 October 2016.
-   47. ^ Skelton, Alissa (October 5, 2011). "Study: Students Not 'Hooking
-       Up' as Much as You Might Think". USA Today. Archived from the
-       original on June 10, 2013. Retrieved 2013-07-22.
-   48. ^ ^a ^b ^c Owen, J.; Fincham, F. D. (2011). "Young Adults'
-       Emotional Reactions After Hooking Up Encounters". Archives of
-       Sexual Behavior. 40 (2): 321–330. doi:10.1007/s10508-010-9652-x.
-       PMID 20809375. S2CID 4171705.
-   49. ^ ^a ^b Paul, Elizabeth L.; McManus, Brian; Hayes, Allison (2000).
-       "'Hookups': Characteristics and Correlates of College Students'
-       Spontaneous and Anonymous Sexual Experiences". Journal of Sex
-       Research. 37 (1): 76–88. doi:10.1080/00224490009552023.
-   50. ^ ^a ^b ^c ^d Bogle 2008, p. ^[page needed].
-   51. ^ "The Truth About College Students and Casual Sex Revealed". Live
-       Science. Retrieved 2016-10-21.
-   52. ^ Bogle 2008, p. 85-88.
-   53. ^ Freitas 2013, p. 170.
-   54. ^ Kimmel 2008, p. 190.
-   55. ^ Freitas 2013, p. 160.
-   56. ^ Kimmel 2008, p. 191.
-   57. ^ ^a ^b Taylor, Kate (July 12, 2013). "Sex on Campus: She Can Play
-       That Game, Too". New York Times. Retrieved 2013-07-22.
-   58. ^ Freitas 2013, p. 165.
-   59. ^ Freitas 2013, p. 29.
-   60. ^ Freitas 2013, p. 112.
-   61. ^ ^a ^b Garcia, J. R.; Kruger, D. J. (2010). "Unbuckling in the
-       Bible Belt: Conservative Sexual Norms Lower Age at Marriage" (PDF).
-       The Journal of Social, Evolutionary, and Cultural Psychology. 4
-       (4): 206–214. doi:10.1037/h0099288.
-   62. ^ Whelan, Christine B. (November 9, 2009). "Defining the Hook-Up
-       Culture". Busted Halo. Retrieved 2013-06-04.
-   63. ^ Bogle 2008.
-   64. ^ Freitas 2013, p. 158.
-   65. ^ Armstrong, Elizabeth, and Laura Hamilton. (2015). Paying for the
-       Party: How College Maintains Inequality. Harvard University Press.
-       ISBN 9780674088023
-   66. ^ Rosin, Hannah (September 2012). "Boys on the side". The Atlantic.
-   67. ^ ^a ^b ^c ^d Downing-Matibag, Teresa; Geisinger, Brandi (September
-       2009). "Hooking Up and Sexual Risk Taking Among College Students: A
-       Health Belief Model Perspective". Qualitative Health Research. 19
-       (9): 1196–1209. doi:10.1177/1049732309344206. PMID 19690202.
-       S2CID 23367788.
-   68. ^ ^a ^b ^c Paul, Elizabeth; Hayes, Kristen (2002). "The casualties
-       of "casual" sex: A qualitative exploration of the phenomenology of
-       college students' hook-ups". Journal of Social and Personal
-       Relationships. 19 (5): 639–661. doi:10.1177/0265407502195006.
-       S2CID 146677050.
-   69. ^ ^a ^b Lewis, Melissa; Granato, Hollie; Blayney, Jessica;
-       Lostutter, Ty; Kilmer, Jason (2011). "Predictors of hooking up
-       sexual behavior and emotional reactions among U.S. college
-       students". Archives of Sexual Behavior. 41 (5): 1219–1229.
-       doi:10.1007/s10508-011-9817-2. PMC 4397976. PMID 21796484.
-   70. ^ ^a ^b Eshbaugh, E. M.; Gute, G. (2008). "Hookups and sexual
-       regret among college women". The Journal of Social Psychology. 148
-       (1): 77–89. doi:10.3200/SOCP.148.1.77-90. PMID 18476484.
-       S2CID 207708750.
-   71. ^ ^a ^b Cambell, A (2008). "The morning after the night before:
-       Affective reactions to one-night stands among mated and unmated
-       women and men". Human Nature. 19 (2): 157–173.
-       doi:10.1007/s12110-008-9036-2. PMID 26181462. S2CID 13552488.
-   72. ^ Freitas 2013, p. 111.
-   73. ^ ^a ^b ^c ^d ^e ^f ^g ^h ^i ^j ^k Vrangalova, Zhana; Ong, Anthony
-       D. (2014). "Who Benefits From Casual Sex? The Moderating Role of
-       Sociosexuality". Social Psychological and Personality Science. 5
-       (8): 883–891. doi:10.1177/1948550614537308. S2CID 146722784.
-   74. ^ Owen, Jesse, Frank D. Fincham. 2011. Young Adults’ Emotional
-       Reactions After Hooking Up Encounters. Archives of Sexual
-       Behavaviour 40, 321–330.
-   75. ^ Fielder, R. L., & Carey, M. P. (2010b). Prevalence and
-       characteristics of sexual hookups among first-semester female
-       college students. J Sex Marital Ther. 2010 July ; 36(4): 346–359.
-   76. ^ Natalie Kitroeff (November 11, 2013). "In Hookups, Inequality
-       Still Reigns". The New York Times. Archived from the original on
-       2019-07-30.
-   77. ^ Jeremy E. Uecker; Brandon C. Martinez. "Explaining Gender
-       Differences in Hookup Regret". Archived from the original on
-       November 11, 2020. Retrieved March 3, 2016.
-   78. ^ "The Emotional Costs of Hooking Up". The Chronicle of Higher
-       Education. 2010-06-20. Retrieved 2016-03-03.
-   79. ^ Regnerus, Mark. (2011). Premarital sex in America : how young
-       Americans meet, mate, and think about marrying. Uecker, Jeremy.
-       Oxford: Oxford University Press. ISBN 9780199743285.
-       OCLC 606235109.
-   80. ^ Herold, Edward S.; Mewhinney, Dawn-arie K. (1993). "Gender
-       differences in casual sex and AIDS prevention: A survey of dating
-       bars". Journal of Sex Research. 30 (1): 36–42.
-       doi:10.1080/00224499309551676. ISSN 0022-4499.
-   81. ^ Freitas 2013, p. 48.
-   82. ^ Pardes, Arielle (July 15, 2013). "What It's Really Like to Have
-       Sex at Penn". Cosmopolitan. Retrieved 2013-07-22.
-   83. ^ ^a ^b ^c Paul, E. L.; Hayes, K. A. (2002). "The Casualties of
-       'Casual' Sex: A Qualitative Exploration of the Phenomenology of
-       College Students' Hookups". Journal of Social and Personal
-       Relationships. 19 (5): 639–661. doi:10.1177/0265407502195006.
-       S2CID 146677050.
-   84. ^ ^a ^b Fielder, R. L.; Carey, M. P. (2010). "Predictors and
-       Consequences of Sexual "Hookups" Among College Students: A
-       Short-Term Prospective Study". Archives of Sexual Behavior. 39 (5):
-       1105–1119. doi:10.1007/s10508-008-9448-4. PMC 2933280.
-       PMID 19130207.
-   85. ^ ^a ^b Lewis, M. A.; Granato, H.; Blayney, J. A.; Lostutter, T.
-       W.; Kilmer, J. R. (2011). "Predictors of Hooking Up Sexual Behavior
-       and Emotional Reactions Among U.S. College Students". Archives of
-       Sexual Behavior. 41 (5): 1219–1229. doi:10.1007/s10508-011-9817-2.
-       PMC 4397976. PMID 21796484.
-   86. ^ Freitas 2013, p. 41.
-   87. ^ ^a ^b Kimmel 2008, p. 199.
-   88. ^ Van Gelder, M. M. H. J.; Reefhuis, J.; Herron, A. M.; Williams,
-       M. L.; Roeleveld, N. (2011). "Reproductive Health Characteristics
-       of Marijuana and Cocaine Users: Results from the 2002 National
-       Survey of Family Growth". Perspectives on Sexual and Reproductive
-       Health. 43 (3): 164–172. doi:10.1363/4316411. PMID 21884384.
-       S2CID 24936759.
-   89. ^ ^a ^b Fisher, M. L.; Worth, K.; Garcia, J. R.; Meredith, T.
-       (2012). "Feelings of Regret Following Uncommitted Sexual Encounters
-       in Canadian University Students". Culture, Health & Sexuality. 14
-       (1): 45–57. doi:10.1080/13691058.2011.619579. PMID 22077716.
-       S2CID 20466688.
-   90. ^ ^a ^b Kimmel 2008, p. 200.
-   91. ^ "Dry dating: The rise of sober love and sex". www.bbc.com.
-   92. ^ "The Secret to Great Dating This Winter? Cut The Booze". HuffPost
-       UK. 7 November 2022.
-   93. ^ Thompson, Sarah Jane (10 January 2019). "Trend for sober dating
-       sees an increase as singles seek love during Dry January". Daily
-       Record.
-   94. ^ Kimmel 2008, p. 259.
-   95. ^ Chan, Lik Sam (2017). "The Role of Gay Identity Confusion and
-       Outness in Sex-Seeking on Mobile Dating Apps Among Men Who Have Sex
-       With Men: A Conditional Process Analysis". Journal of
-       Homosexuality. 64 (5): 622–637. doi:10.1080/00918369.2016.1196990.
-       PMID 27268871. S2CID 13368182.
-   96. ^ Davis, Mark; Flowers, Paul; Lorimer, Karen; Oakland, Jane;
-       Frankis, Jamie (2016). "Location, safety and (non) strangers in gay
-       men's narratives on 'hook-up' apps" (PDF). Sexualities. 19 (7):
-       836–852. doi:10.1177/1363460716629334. S2CID 147833472.
-   97. ^ ^a ^b ^c ^d Murray, Sarah; Sapnar Ankerson, Megan (2016). "Lez
-       takes time: designing lesbian contact in geosocial networking
-       apps". Critical Studies in Media Communication. 33 (1): 53–69.
-       doi:10.1080/15295036.2015.1133921. S2CID 147003223.
-   98. ^ Lyons, Heidi Ann (2015). "Subjective adult identity and casual
-       sexual behavior". Advances in Life Course Research. 26: 1–10.
-       doi:10.1016/j.alcr.2015.07.001. PMC 4821070. PMID 27065759.
-   99. ^ DeLamater, John. (2015). "Sexual expression in later life," pp.
-       175-197 in Sexualities: Identities, Behaviors, and Society, Michael
-       Kimmel and the Stony Brook Sexualities Group, ed. Oxford University
-       Press.
-   100. ^ Bar-on, Miriam E.; Broughton, Daniel D.; Buttross, Susan;
-       Corrigan, Suzanne; Gedissman, Alberto; González de Rivas, M.
-       Rosario; Rich, Michael; Shifrin, Donald L. (January 2001).
-       "Sexuality, Contraception, and the Media". Pediatrics. 107 (1):
-       191–1994. doi:10.1542/peds.107.1.191. PMID 11134460.
-   101. ^ "Media Literacy". University of Washington. Retrieved
-       2012-03-07.
-   102. ^ Victor C. Strasburger, MD (2005). "Adolescents, Sex, and the
-       Media: Ooooo, Baby, Baby – a Q & A". JAMA Pediatrics. 16 (2):
-       269–288. doi:10.1016/j.admecli.2005.02.009. PMID 16111618.
-   103. ^ Humphries, Linda (October 24, 2012). "Sexy Movies Increase Teen
-       Sex". Tallahassee.com. Retrieved 2012-11-18.
-   104. ^ ^a ^b Jones, Sam (March 22, 2006). "Media 'Influence' Adolescent
-       Sex". The Guardian. London. Retrieved 2013-08-03.
-   105. ^ Kimmel 2008, p. 207.
-   106. ^ Horn, Heather (May 17, 2010). "Caitlin Flanagan on Young Women,
-       Hookup Culture and Relationships". The Atlantic Wire. Retrieved
-       2013-07-22.
-   107. ^ ^a ^b Kim, Janna L.; Lynn Sorsoli, C.; Collins, Katherine;
-       Zylbergold, Bonnie A.; Schooler, Deborah; Tolman, Deborah L.
-       (2007). "From sex to sexuality: Exposing the heterosexual script on
-       primetime network television". Journal of Sex Research. 44 (2):
-       145–157. doi:10.1080/00224490701263660. PMID 17599272.
-       S2CID 45859683.
-   108. ^ ^a ^b Heldman, Caroline; Wade, Lisa (July 10, 2010). "Hook-Up
-       Culture: Setting a New Research Agenda". Sexuality Research and
-       Social Policy. 7 (4): 323–333. doi:10.1007/s13178-010-0024-z.
-       S2CID 5688674.
-   109. ^ Don Aucoin (July 27, 2010). "The shaping of things". The Boston
-       Globe.
-   110. ^ "Most women don't enjoy hookup culture—so why do we force
-       ourselves to participate?". Quartz. Retrieved 2016-10-20.
-   111. ^ ^a ^b "The Shocking Truth About Hook-Ups". Psychology Today.
-       Retrieved 2016-10-20.
-   112. ^ ^a ^b "How Casual Sex Can Affect Our Mental Health". Psychology
-       Today. Retrieved 2016-10-20.
-   113. ^ ^a ^b Duck, Steve (2011). Rethinking Relationships. Thousand
-       Oaks, CA: SAGE Publications. pp. 29–80.
-   114. ^ Ainsworth, Mary (1978). "The Bowlby-Ainsworth attachment
-       theory". The Behavioral and Brain Sciences. 1 (3): 436–438.
-       doi:10.1017/S0140525X00075828. S2CID 144032434.
-   115. ^ ^a ^b Starks, Tyrel; Parsons, Jeffrey (2014). "Adult attachment
-       among partnered gay men: Patterns and associations with sexual
-       relationship quality". Archives of Sexual Behavior. 43 (1):
-       107–117. doi:10.1007/s10508-013-0224-8. PMID 24297659.
-       S2CID 207090984.
-   116. ^ ^a ^b ^c Timmermans, E; Van den Bulck, J (2018). "Casual Sexual
-       Scripts on the Screen: A Quantitative Content Analysis". Archives
-       of Sexual Behavior. 47 (5): 1481–1496.
-       doi:10.1007/s10508-018-1147-1. PMC 5954064. PMID 29589163.
-   117. ^ ^a ^b ^c ^d Fahs, B; Munger, A (2015). "Friends with benefits?
-       Gendered performances in women's casual sexual relationships".
-       Personal Relationships. 22 (2): 188–203. doi:10.1111/pere.12073.
-   118. ^ ^a ^b ^c ^d ^e Aubrey, J.S.; Smith, S.E. (2016). "The Impact of
-       Exposure to Sexually Oriented Media on the Endorsement of Hookup
-       Culture: A Panel Study of First-Year College Students". Mass
-       Communication & Society. 19 (1): 74–101.
-       doi:10.1080/15205436.2015.1070875. S2CID 143211704.
-   119. ^ ^a ^b ^c ^d ^e Hetsroni, Amir (2008). "Overrepresented Topics,
-       Underrepresented Topics, and the Cultivation Effect". Communication
-       Research Reports. 25 (3): 200–210. doi:10.1080/08824090802237642.
-       S2CID 145000434.
-   120. ^ McKenna, Katelyn (2008). "MySpace or Your Place: Relationship
-       Initiation and Development of the Wired and Wireless World". In
-       Sprecher, Susan; Wenzel, Amy; Harvey, John (eds.). Handbook of
-       Relationship Initiation. New York: Psychology Press.
-   121. ^ Teachman, Jay (2003). "Premarital Sex, Premarital Cohabitation,
-       and the Risk of Subsequent Marital Dissolution Among Women".
-       Journal of Marriage and Family. 65 (2): 444–455.
-       doi:10.1111/j.1741-3737.2003.00444.x. "Women who cohabit prior to
-       marriage or who have premarital sex have an increased likelihood of
-       marital disruption. Considering the joint effects of premarital
-       cohabitation and premarital sex, as well as histories of
-       pre-marital relationships, extends previous research. The most
-       salient finding from this analysis is that women whose intimate
-       premarital relationships are limited to their husbands—either
-       premarital sex alone or premarital cohabitation—do not experience
-       an increased risk of divorce. It is only women who have more than
-       one intimate pre-marital relationship who have an elevated risk of
-       marital disruption. This effect is strongest for women who have
-       multiple premarital coresidental unions."
-   122. ^ Teachman, Jay (2003). "Premarital Sex, Premarital Cohabitation,
-       and the Risk of Subsequent Marital Dissolution Among Women".
-       Journal of Marriage and Family. 65 (2): 444–455.
-       doi:10.1111/j.1741-3737.2003.00444.x. "The literature on the
-       relationship between pre-marital intercourse and divorce is
-       limited. Kahn and London (1991) found a relatively strong positive
-       relationship between the two. They suggested, as is the case for
-       premarital cohabitation, that the relationship may be due to either
-       selectivity on preexisting characteristics or altered perceptions
-       of marriage and alternatives to marriage that occur as the result
-       of engaging in premarital sex."
-   123. ^ Rhoades, Galena; Stanley, Scott (2014). "Before "I Do" What Do
-       Premarital Experiences Have to Do with Marital Quality Among
-       Today's Young Adults?" (PDF). The National Marriage Project.
-       University of Virginia. p. 9. Archived from the original (PDF) on
-       2023-06-03. Retrieved 2022-11-17.
 
-Sources
+    1. ^ ^a ^b ^c Diaz Ruiz, Carlos; Nilsson, Tomas (August 8, 2022).
+       "Disinformation and Echo Chambers: How Disinformation Circulates on
+       Social Media Through Identity-Driven Controversies". Journal of
+       Public Policy & Marketing. 42: 18–35.
+       doi:10.1177/07439156221103852. ISSN 0743-9156. S2CID 248934562.
+    2. ^ ^a ^b Koleva, Spassena P.; Graham, Jesse; Iyer, Ravi; Ditto,
+       Peter H.; Haidt, Jonathan (April 1, 2012). "Tracing the threads:
+       How five moral concerns (especially Purity) help explain culture
+       war attitudes". Journal of Research in Personality. 46 (2):
+       184–194. doi:10.1016/j.jrp.2012.01.006. ISSN 0092-6566.
+       S2CID 6786293.
+    3. ^ Saleem, Saleena Begum (July 18, 2023). Trust in Polarised Plural
+       Societies: Intersections Across the Ideological Divides of Women's
+       Groups in Malaysia (dphil thesis). University of Liverpool.
+       Archived from the original on November 5, 2023. Retrieved October
+       23, 2023.
+    4. ^ ^a ^b Andrew Hartman, A War for the Soul of America: A History of
+       the Culture Wars (University of Chicago Press, 2015)
+    5. ^ "Culture Wars". Encyclopedia.com. Archived from the original on
+       November 11, 2020. Retrieved October 21, 2019.
+    6. ^ "Kulturkampf – Definition, meaning & more". Collins Dictionary.
+       Retrieved December 21, 2016.
+    7. ^ See The Month and Catholic Review (March 1875) vol 4 p. 380
+    8. ^ Hunter, James Davison; Wolfe, Alan (2006). Is There a Culture
+       War? : A Dialogue on Values and American Public Life. Washington,
+       D.C.: Brookings Institution Press. OCLC 76966750.
+    9. ^ Goren, Paul; Chapp, Christopher (February 24, 2017). "Moral
+       Power: How Public Opinion on Culture War Issues Shapes Partisan
+       Predispositions and Religious Orientations". American Political
+       Science Review. 111 (1): 110–128. doi:10.1017/S0003055416000435.
+       S2CID 151573922.
+   10. ^ ^a ^b Dionne, E. J. Jr. (January 2006). "Why the Culture War Is
+       the Wrong War". The Atlantic. Archived from the original on
+       December 13, 2020.
+   11. ^ Melzer, Scott (October 1, 2009). Gun Crusaders: The NRA's Culture
+       War. New York University Press. p. 59. ISBN 978-0814764503.
+       Archived from the original on April 6, 2023. Retrieved May 25,
+       2020.
+   12. ^ Ridgely, Susan B. (March 2020). "Conservative Christianity and
+       the Creation of Alternative News: An Analysis of Focus on the
+       Family's Multimedia Empire". Religion and American Culture. 30 (1):
+       1–25. doi:10.1017/rac.2020.1.
+   13. ^ Grossmann, Matt; Hopkins, David A. (March 2015). "Ideological
+       Republicans and Group Interest Democrats: The Asymmetry of American
+       Party Politics". Perspectives on Politics. 13 (1): 119–139.
+       doi:10.1017/S1537592714003168. S2CID 144639776.
+   14. ^ Hopkins, David A. (April 15, 2020). "Solving the COVID Crisis
+       Requires Bipartisanship, But the Modern GOP Isn't Built for It".
+       Honest Graft. Archived from the original on May 18, 2020. Retrieved
+       May 24, 2020.
+   15. ^ O. Taiwo, Olufemi (May 16, 2022). "Are culture wars really a
+       distraction?". The Guardian. Archived from the original on July 17,
+       2022. Retrieved July 17, 2022.
+   16. ^ "Seminar on the Culture Wars of the 1920s". Fall 2001. Archived
+       from the original on October 25, 2021. Retrieved October 24, 2021.
+   17. ^ Dionne, E. J. "Culture Wars: How 2004". Archived from the
+       original on December 10, 2020. Retrieved January 30, 2009.
+   18. ^ "What Bismarck could not do (Culture War reference) (1906)".
+       Washington Palladium. December 21, 1906. p. 2. Archived from the
+       original on August 18, 2020. Retrieved March 13, 2019.
+   19. ^ "'Culture War' to be theme of talk (1942)". Oakland Tribune.
+       February 18, 1942. p. 5. Archived from the original on December 12,
+       2023. Retrieved March 13, 2019.
+   20. ^ Gross, Terry (May 17, 2023). A historian details how a secretive,
+       extremist group radicalized the American right (Radio broadcast).
+       Fresh Air. National Public Radio.
+   21. ^ Celestini, Carmen (2018). God, Country, and Christian
+       Conservatives: The National Association of Manufacturers, the John
+       Birch Society, and the Rise of the Christian Right (PDF) (PhD).
+       University of Waterloo. pp. iv, 37, 283, 322–325, 328–334.
+   22. ^ Brian Dakss, "Bill O'Reilly's 'Culture Warrior'" Archived
+       December 13, 2020, at the Wayback Machine, CBS News, December 5,
+       2006. Retrieved March 27, 2020.
+   23. ^ O'Reilly, Bill (September 2006). Culture Warrior. New York:
+       Broadway Books. ISBN 0-7679-2092-9.
+   24. ^ Illing, Sean (July 9, 2020). "Is evangelical support for Trump a
+       contradiction?". Vox. Archived from the original on June 16, 2023.
+       Retrieved July 9, 2020.
+   25. ^ "Dogs of War". New Donkey. September 2, 2004. Archived from the
+       original on March 8, 2005. Retrieved August 29, 2006. "Not since
+       Pat Buchanan's famous 'culture war' speech in 1992 has a major
+       speaker at a national political convention spoken so hatefully, at
+       such length, about the opposition."
+   26. ^ ^a ^b Buchanan, Patrick (August 17, 1992). 1992 Republican
+       National Convention Speech (Speech). Archived from the original on
+       December 8, 2020. Retrieved November 3, 2014.
+   27. ^ Buchanan, Patrick. "The Cultural War for the Soul of America".
+       Archived from the original on March 17, 2015. Retrieved March 6,
+       2015.
+   28. ^ Chávez, Karma R. (2010). "Christian Coalition". In Chapman, Roger
+       (ed.). Culture Wars: An Encyclopedia of Issues, Viewpoints and
+       Voices, Volume 1. Armonk, N.Y.: M.E. Sharpe. p. 88.
+       ISBN 978-0-7656-1761-3.
+   29. ^ Benedic, Diane; Rising, George (2010). "Democratic Party". In
+       Chapman, Roger (ed.). Culture Wars: An Encyclopedia of Issues,
+       Viewpoints and Voices, Volume 1. Armonk, N.Y.: M.E. Sharpe. p. 136.
+       ISBN 978-0-7656-1761-3.
+   30. ^ Who Owns History: Rethinking the Past in a Changing World at
+       Google Books
+   31. ^ History on Trial: Culture Wars and the Teaching of the Past at
+       Google Books
+   32. ^ Zafirovski, Milan. "Modern Free Society and Its Nemesis: Liberty
+       Versus Conservatism in the New Millennium " Archived December 12,
+       2023, at the Wayback Machine Google Books. September 6, 2018.
+   33. ^ ^a ^b Climate Science as Culture War: The public debate around
+       climate change is no longer about science—it's about values,
+       culture, and ideology Archived November 21, 2020, at the Wayback
+       Machine Fall 2012 Stanford Social Innovation Review
+   34. ^ "How the News Media Covered Religion in the 2008 General
+       Election: Sarah Palin and the "Culture Wars"" (PDF). Pew Research.
+       November 20, 2008. pp. 8, 11–12. Archived (PDF) from the original
+       on October 22, 2020. Retrieved May 23, 2020.
+   35. ^ Hatzisavvidou, Sophia (September 17, 2019). "'The climate has
+       always been changing': Sarah Palin, climate change denialism, and
+       American conservatism" (PDF). Celebrity Studies. 12 (3): 371–388.
+       doi:10.1080/19392397.2019.1667251. S2CID 204377874. Archived (PDF)
+       from the original on March 6, 2023. Retrieved January 24, 2023.
+   36. ^ Teixeira, Ruy (July 15, 2009). "The Coming End of the Culture
+       Wars". Center for American Progress. Archived from the original on
+       December 9, 2020. Retrieved May 23, 2020.
+   37. ^ Bob, Clifford (2012). The Global Right Wing and the Clash of
+       World Politics. New York: Cambridge University Press. pp. i.
+       ISBN 978-0-521-19381-8.
+   38. ^ Smith, Karl. "The Abortion Debate Is Not Part of the Culture
+       Wars." Archived July 20, 2019, at the Wayback Machine Bloomberg.
+   39. ^ Haidt, Jonathan (April 11, 2022). "Why the Past 10 Years of
+       American Life Have Been Uniquely Stupid". The Atlantic. Archived
+       from the original on April 10, 2023. Retrieved August 29, 2022.
+   40. ^ Mirzaei, Abas (September 8, 2019). "Where 'woke' came from and
+       why marketers should think twice before jumping on the social
+       activism bandwagon". The Conversation. Archived from the original
+       on March 20, 2023. Retrieved April 10, 2023.
+   41. ^ Yglesias, Matthew. "How Hillary Clinton unleashed the Great
+       Awokening". www.slowboring.com. Archived from the original on March
+       28, 2023. Retrieved January 6, 2023.
+   42. ^ Grunwald, Michael (November 2018). "How Everything Became the
+       Culture War". Politico. Archived from the original on May 24, 2020.
+       Retrieved May 24, 2020.
+   43. ^ Castle, Jeremiah (December 14, 2018). "New Fronts in the Culture
+       Wars? Religion, Partisanship, and Polarization on Religious Liberty
+       and Transgender Rights in the United States". American Politics
+       Research. 47 (3): 650–679. doi:10.1177/1532673X18818169.
+       S2CID 220207260.
+   44. ^ Blake, Aaron (May 23, 2020). "GOP governor offers emotional plea
+       to the anti-mask crowd: Stop this senseless culture war". The
+       Washington Post. Archived from the original on May 24, 2020.
+       Retrieved May 24, 2020.
+   45. ^ Peters, Jeremy W. (August 3, 2020). "These Conservatives Have a
+       Laser Focus: 'Owning the Libs'". New York Times. Archived from the
+       original on August 3, 2020. Retrieved August 3, 2020.
+   46. ^ Buffington, Melanie L. (January 1, 2017). "Contemporary Culture
+       Wars: Challenging the Legacy of the Confederacy". Journal of
+       Cultural Research in Art Education. 34: 45–59.
+       doi:10.2458/jcrae.4883. ISSN 2152-7172. S2CID 148760859. Archived
+       from the original on July 29, 2020. Retrieved May 24, 2020.
+   47. ^ Hurley, Kameron (April 9, 2015). "Hijacking the Hugo Awards Won't
+       Stifle Diversity in Science Fiction". The Atlantic. Archived from
+       the original on December 5, 2020. Retrieved May 23, 2020.
+   48. ^ Dewey, Caitlin (October 14, 2014). "The only guide to Gamergate
+       you will ever need to read". The Washington Post. Archived from the
+       original on June 11, 2017. Retrieved May 23, 2020.
+   49. ^ Meserve, Jack (Spring 2015). "Last Front in the Culture War".
+       Democracy: A Journal of Ideas (36). Archived from the original on
+       August 17, 2020. Retrieved May 23, 2020.
+   50. ^ Nagle, Angela (June 30, 2017). Kill All Normies: Online Culture
+       Wars From 4Chan And Tumblr To Trump And The Alt-Right. Zero Books.
+       ISBN 9781785355431.
+   51. ^ Warzel, Charlie (August 15, 2019). "How an Online Mob Created a
+       Playbook for a Culture War". The New York Times. Archived from the
+       original on July 2, 2023. Retrieved May 24, 2020.
+   52. ^ Caplan, Gerald (October 20, 2012). "Culture clash splits
+       Canadians over basic values". The Globe and Mail. Toronto. Archived
+       from the original on April 25, 2017. Retrieved August 26, 2017.
+   53. ^ Andrew Coyne (October 2, 2008). "Coyne: This isn't a culture war,
+       it's a good old class war". Macleans. Archived from the original on
+       July 7, 2018. Retrieved March 6, 2015.
+   54. ^ Manne, Robert (November 2008). "What is Rudd's Agenda?". The
+       Monthly. Archived from the original on March 16, 2016. Retrieved
+       March 15, 2016.
+   55. ^ Rundle, Guy (June 28, 2007). "1915 and all that: History in a
+       holding pattern". Crikey. Archived from the original on July 6,
+       2010. Retrieved April 27, 2010.
+   56. ^ Ferrari, Justine (October 14, 2008). "History curriculum author
+       defies his critics to find bias". The Australian. Archived from the
+       original on October 6, 2009. Retrieved April 27, 2010.
+   57. ^ Baudrillard J. War porn. Journal of Visual Culture, Vol. 5, No.
+       1, 86–88 (2006) doi:10.1177/147041290600500107
+   58. ^ Langton M. Essay: "Trapped in the aboriginal reality show"
+       Archived July 24, 2020, at the Wayback Machine. Griffith Review
+       2007, 19:Re-imagining Australia.
+   59. ^ Mark McKenna (November 10, 1997). "Different Perspectives on
+       Black Armband History". Parliamentary Library: Research Paper 5
+       1997-98. The Parliament of Australia. Archived from the original on
+       February 19, 2015. Retrieved March 5, 2015.
+   60. ^ "The History of Apologies Down Under". thinkingfaith.org.
+       February 21, 2008. Archived from the original on December 2, 2014.
+       Retrieved March 5, 2015.
+   61. ^ Wright, Tony (October 30, 2008). "A nation reborn at Anzac Cove?
+       Utter nonsense: Keating". The Sydney Morning Herald. Archived from
+       the original on April 24, 2018. Retrieved April 24, 2018.
+   62. ^ Wright, Tony (October 31, 2008). "A nation reborn at Anzac Cove?
+       Utter nonsense: Keating". The Age. Melbourne. Archived from the
+       original on January 15, 2010. Retrieved March 5, 2010.
+   63. ^ "Full text of Australia's apology to Aborigines". CNN. February
+       12, 2008. Archived from the original on September 18, 2009.
+       Retrieved April 27, 2010.
+   64. ^ "Brendan Nelson's sorry speech". The Sydney Morning Herald.
+       February 13, 2008. Archived from the original on March 15, 2008.
+       Retrieved April 27, 2010.
+   65. ^ "Paul Keating 'utterly wrong' to reject Gallipoli identity, says
+       Kevin Rudd". October 31, 2008. Archived from the original on
+       September 12, 2012. Retrieved February 19, 2015.
+   66. ^ "Is Rudd having a Bob each way? - Opinion". The Sydney Morning
+       Herald. October 28, 2004. Archived from the original on June 5,
+       2011. Retrieved April 27, 2010.
+   67. ^ "End of the culture wars". The Australian. November 28, 2007.
+       Archived from the original on March 9, 2010. Retrieved April 27,
+       2010.
+   68. ^ "Orwellian Left quick to unveil totalitarian heart". The
+       Australian. December 12, 2007.
+   69. ^ Hornsey, Matthew J.; Chapman, Cassandra M.; Fielding, Kelly S.;
+       Louis, Winnifred R.; Pearson, Samuel (August 2022). "A political
+       experiment may have extracted Australia from the climate wars".
+       Nature Climate Change. 12 (8): 695–696.
+       Bibcode:2022NatCC..12..695H. doi:10.1038/s41558-022-01431-4.
+       ISSN 1758-6798. S2CID 251043448. Archived from the original on
+       September 22, 2022. Retrieved September 20, 2022.
+   70. ^ Baker, Nick (January 23, 2022). "The recent history of
+       Australia's climate change wars". SBS News. Archived from the
+       original on September 20, 2022. Retrieved September 20, 2022.
+   71. ^ Chrysanthos, Natassia (February 15, 2025). "Feeling unwelcome:
+       Why debate is mounting over an ancient ceremony". The Sydney
+       Morning Herald. Retrieved February 15, 2025.
+   72. ^ Anthony, Constance G. (November 2018). "Schizophrenic
+       Neocolonialism: Exporting the American Culture War on Sexuality to
+       Africa". International Studies Perspectives. 19 (4): 289–304.
+       doi:10.1093/isp/eky004.
+   73. ^ van Klinken, Adriaan (2017). "Culture Wars, Race, and Sexuality:
+       A Nascent Pan-African LGBT-Affirming Christian Movement and the
+       Future of Christianity". Journal of Africana Religions. 5 (2):
+       217–238. doi:10.5325/jafrireli.5.2.0217.
+       JSTOR 10.5325/jafrireli.5.2.0217. Archived from the original on
+       August 10, 2021. Retrieved May 4, 2021.{{cite journal}}: CS1 maint:
+       bot: original URL status unknown (link)
+   74. ^ Dotto, Carlotta; Cubbon, Seb (June 23, 2021). Disinformation
+       exports: How foreign anti-vaccine narratives reached West African
+       communities online (Report). First Draft News. Archived from the
+       original on June 23, 2021. Retrieved June 23, 2021.
+   75. ^ Duffy, Bobby; Hewlett, Kirstie; Murkin, George; Benson, Rebecca;
+       Hesketh, Rachel; Page, Ben; Skinner, Gideon; Gottfried, Glenn (June
+       2021). "'Culture wars' in the UK" (PDF). The Policy Institute at
+       King's College London. Archived (PDF) from the original on November
+       2, 2023. Retrieved November 2, 2023.
+   76. ^ Balls, Katy (September 29, 2020). "The Tories are spoiling for a
+       culture war to stand up for 'British values'". inews.co.uk.
+       Archived from the original on May 10, 2023. Retrieved February 8,
+       2021.
+   77. ^ Malik, Kenan (December 20, 2020). "The Tory 'class agenda' is a
+       culture war stunt that will leave inequality untouched". The
+       Guardian. Archived from the original on February 8, 2021. Retrieved
+       February 8, 2021.
+   78. ^ Mason, Paul (February 10, 2021). "Boris Johnson's probe into
+       left-wing "extremism" is a dangerous distraction from the fascist
+       threat". New Statesman. Archived from the original on February 13,
+       2021. Retrieved February 18, 2021. "This is, at one level, part of
+       the pre-scripted culture war being orchestrated by those around
+       [Boris] Johnson."
+   79. ^ "UK culture war: museum trustees are paying the price for
+       disagreeing with government's policies". The Art Newspaper. June 7,
+       2021. Archived from the original on June 7, 2021. Retrieved June 7,
+       2021.
+   80. ^ Mounk, Yascha (December 13, 2019). "How Labour Lost the Culture
+       War". The Atlantic. Archived from the original on December 8, 2021.
+       Retrieved December 8, 2021.
+   81. ^ Perry, Louise (June 22, 2021). "The UK is immersed in a
+       class-culture war – and Labour is incapable of winning it". New
+       Statesman. Archived from the original on December 8, 2021.
+       Retrieved December 8, 2021.
+   82. ^ Savage, Michael (May 1, 2022). "Four in five people in the UK
+       believe in being 'woke' to race and social justice". The Guardian.
+       Archived from the original on May 3, 2022. Retrieved May 3, 2022.
+   83. ^ Anjeh, Renie; Doraisamy, Isabel (April 2022). "The Centre Holds"
+       (PDF). Global Future. Archived (PDF) from the original on January
+       29, 2023. Retrieved May 3, 2022.
+   84. ^ "Paris statues of Voltaire and a colonial-era general splashed
+       with red paint". France 24. June 22, 2020.
+   85. ^ Rohac, Dalibor; Kokonos, Lance (November 2, 2020). "Poland's
+       Culture Wars". Foreign Policy. Archived from the original on April
+       7, 2023. Retrieved November 4, 2020.
+   86. ^ Kakissis, Joanna (November 4, 2020). "Slovenian Prime Minister
+       Cheers Trump 'Triumph' Despite Untallied Votes". NPR. Athens,
+       Greece. Archived from the original on November 4, 2020. Retrieved
+       November 4, 2020.
+   87. ^ "Poland plans to tear down hundreds of Soviet memorials".
+       Deutsche Welle. April 13, 2016. Archived from the original on March
+       26, 2022. Retrieved October 31, 2021.
+   88. ^ "Then And Now: Soviet Monuments Disappear Across Poland". Radio
+       Free Europe/Radio Liberty. October 23, 2020. Archived from the
+       original on March 30, 2022. Retrieved October 31, 2021.
+   89. ^ "Here's why American conservatives are heading to Hungary for a
+       big conference". NPR.org. Archived from the original on May 19,
+       2022. Retrieved May 19, 2022.
+   90. ^ "Ukraine's Culture War". The National Interest. February 7, 2014.
+       Archived from the original on October 22, 2021. Retrieved October
+       31, 2021.
+   91. ^ "Polish President Calls 'LGBT Ideology' More Harmful Than
+       Communism". Time. Archived from the original on June 13, 2020.
+       Retrieved June 14, 2020.
+   92. ^ "Polish election: Andrzej Duda says LGBT 'ideology' worse than
+       communism". BBC News. June 14, 2020. Archived from the original on
+       October 31, 2021. Retrieved October 31, 2021.
+   93. ^ "The Polish-Ukrainian Battle for the Past"., Carnegie Europe
+   94. ^ Hackmann, Jörg (2018). "Defending the "Good Name" of the Polish
+       Nation: Politics of History as a Battlefield in Poland, 2015–18".
+       Journal of Genocide Research. 20 (4): 587–606.
+       doi:10.1080/14623528.2018.1528742. S2CID 81922100.
+   95. ^ Katz, Dovid (April 25, 2018). "Poland's New Holocaust Law Is Bad,
+       But Not the Worst". Jewish Currents. Retrieved October 26, 2020.
+   96. ^ ""Mówię: UPA odpowiada za ludobójstwo Polaków. Ukraińcy,
+       ścigajcie mnie!"" (in Polish). Retrieved March 6, 2018.
+   97. ^ "The cost of Ukraine's de-Russification". Politico. August 26,
+       2022.
+   98. ^ "Vienna cancels statue of Polish king over 'Islamaphobia' fears".
+       Brussels Signal. November 13, 2024.
+
+Further reading
 
    [edit]
-     *
 
-   Bogle, K. A. (2007). "The Shift from Dating to Hooking Up in College:
-   What Scholars Have Missed". Sociology Compass. 1 (2): 775–788.
-   doi:10.1111/j.1751-9020.2007.00031.x.
+     * Chapman, Roger, and James Ciment. Culture Wars: An Encyclopedia of
+       Issues, Viewpoints and Voices (2nd ed. Routledge, 2015)
+     * D'Antonio, William V., Steven A. Tuch and Josiah R. Baker,
+       Religion, Politics, and Polarization: How Religiopolitical Conflict
+       Is Changing Congress and American Democracy (Rowman & Littlefield,
+       2013)
 
-     Bogle, Kathleen A. (2008). Hooking Up: Sex, Dating, and Relationships
-   on Campus. New York: New York University Press. ISBN 978-0814799697.
+   ISBN 1442223979 ISBN 978-1442223974
 
+     Fiorina, Morris P., with Samuel J. Abrams and Jeremy C. Pope, Culture
+   War?: The Myth of a Polarized America (Longman, 2004)
+   ISBN 0-321-27640-X
 
+     Graff, Gerald. Beyond the Culture Wars: How Teaching the Conflicts
+   Can Revitalize American Education (1992)
 
-   Freitas, Donna (2013). The End of Sex: How Hookup Culture is Leaving a
-   Generation Unhappy, Sexually Unfulfilled, and Confused About Intimacy.
-   New York: Basic Books. ISBN 978-0-465-00215-3.
+     Griffith, R. Marie (2017). Moral Combat: How Sex Divided American
+   Christians and Fractured American Politics. Basic Books.
+   ISBN 978-0465094752.
 
-     Kimmel, Michael (2008). Guyland. New York: Harper.
-   ISBN 978-0-06-083134-9.
+     Hartman, Andrew. A war for the soul of America: a history of the
+   culture wars (University of Chicago Press, 2015)
 
-     Sax, Leonard (2005). Why Gender Matters. Doubleday.
-   ISBN 9780385510738.
+     Hunter, James Davison, Culture Wars: The Struggle to Define America
+   (New York: Basic Books, 1992) ISBN 0-465-01534-4
 
-   Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=Hookup_culture&oldid=132869
-   3992"
+     Jay, Gregory S., American Literature and the Culture Wars, (Cornell
+   University Press, 1997) ISBN 0-8014-3393-2 ISBN 978-0801433931
 
-   Categories:
-     * Casual sex
-     * Sexuality and society
+     Jensen, Richard. "The Culture Wars, 1965-1995: A Historian's Map"
+   Journal of Social History 29 (Oct 1995) 17–37. in JSTOR
+
+     Jones, E. Michael, Degenerate Moderns: Modernity As Rationalized
+   Sexual Misbehavior, Ft. Collins, CO: Ignatius Press, 1993
+   ISBN 0-89870-447-2
+
+     Petro, Anthony, After the Wrath of God: AIDS, Sexuality, and American
+   Religion (Oxford University Press, 2015)
+
+     Petro, Anthony (2025). Provoking Religion: Sex, Art, and the Culture
+   Wars. Oxford University Press. ISBN 9780190938437.
+
+     Prothero, Stephen (2017). Why Liberals Win the Culture Wars (Even
+   When They Lose Elections): A History of the Religious Battles That
+   Define America from Jefferson's Heresies to Gay Marriage Today.
+   HarperOne. ISBN 978-0061571312.
+
+     Strauss, William & Howe, Neil, The Fourth Turning, An American
+   Prophecy: What the Cycles of History Tell Us About America's Next
+   Rendezvous With Destiny, 1998, Broadway Books, New York
+
+     Thomson, Irene Tavis., Culture Wars and Enduring American Dilemmas,
+   (University of Michigan Press, 2010) ISBN 978-0-472-07088-6
+
+     Walsh, Andrew D., Religion, Economics, and Public Policy: Ironies,
+   Tragedies, and Absurdities of the Contemporary Culture Wars, (Praeger,
+   2000) ISBN 0-275-96611-9
+
+     Webb, Adam K., Beyond the Global Culture War, (Routledge, 2006)
+   ISBN 0-415-95313-8
+
+     Zimmerman, Jonathan, Whose America? Culture Wars in the Public
+   Schools (Harvard University Press, 2002) ISBN 0-674-01860-5
+
+External links
+
+   [edit]
+
+     * The dictionary definition of culture war at Wiktionary
+
+     * v
+     * t
+     * e
+
+   Social conservatism in the United States
+
+   Issues and ideas
+
+     * Anti-abortion
+     * Anti-LGBTQ (Gay agenda)
+     * Anti-pornography movement
+     * Cultural conservatism
+     * Culture war
+     * Eminent domain
+     * Euthanasia
+     * Familialism
+     * Family values
+     * Gender roles
+     * Organized religion
+     * Parental rights movement
+     * Prohibition of drugs
+     * Public morality
+     * Religious liberty
+     * School prayer
+
+   Advocates
+
+     * Abbott
+     * Ashcroft
+     * Bachmann
+     * Baldwin
+     * Bannon
+     * Barton
+     * Bennett
+     * Brownback
+     * Bryant
+     * Boebert
+     * Boykin
+     * Bozell
+     * Buchanan
+     * Cameron
+     * Carlson
+     * Carson
+     * Coburn
+     * Colson
+     * Cruz
+     * DeLay
+     * DeMint
+     * DeSantis
+     * Dice
+     * Dobson
+     * Donohue
+     * D'Souza
+     * Falwell Sr.
+     * Falwell Jr.
+     * Frist
+     * George
+     * Gingrich
+     * Gohmert
+     * Greene
+     * Harris
+     * Helms
+     * Hostettler
+     * Huckabee
+     * Johnson
+     * Jones
+     * Kennedy
+     * Keyes
+     * King
+     * Kirk
+     * Knowles
+     * LaHaye
+     * LaHaye
+     * Limbaugh
+     * Lott
+     * McCarthy
+     * Moore
+     * Owens
+     * Palin
+     * Parsley
+     * Pence (Greg)
+     * Pence (Mike)
+     * Perkins
+     * Peroutka
+     * Perry
+     * Phillips
+     * Prager
+     * Raichik
+     * Reed
+     * Robertson
+     * Robinson
+     * Ruzicka
+     * Santorum
+     * Scarborough
+     * Schlafly
+     * Schundler
+     * Scott
+     * Shapiro
+     * Stenzel
+     * Stuckey
+     * Tancredo
+     * Tatum
+     * Thomas
+     * Trump
+     * Uihlein
+     * Walsh
+
+   Groups
+
+     * American Principles Project
+     * Concerned Women for America
+     * Eagle Forum
+     * Faith and Freedom Coalition
+     * Family Research Council
+     * Focus on the Family
+     * Foundation for Moral Law
+     * Heritage Foundation
+     * Moms for Liberty
+     * Moral Majority
+     * National Center on Sexual Exploitation
+     * National Organization for Marriage
+     * National Right to Life Committee
+     * Parents Television and Media Council
+     * Traditional Values Coalition
+
+   Political parties
+
+     * American Communist Party
+     * American Solidarity Party
+     * Constitution Party
+     * Prohibition Party
+     * Republican Party
+
+   Related
+
+     * American nationalism
+     * Christian nationalism
+     * Christian right
+     * Culture war
+     * Factions in the Republican Party
+     * Left-conservatism
+     * LGBT conservatism in the United States
+     * Manhattan Declaration
+     * Paleoconservatism
+     * Reactionary
+     * Social justice
+     * Straight pride
+
+     * Conservatism portal
+     * flag United States portal
+
+     * v
+     * t
+     * e
+
+   Culture
+
+   Outline
+
+   Sciences
+
+     * Cultural anthropology
+     * Cultural astronomy
+     * Cultural ecology
+     * Cultural geography
+     * Cultural neuroscience
+     * Cultural studies
+     * Culturology
+     * Culture theory
+
+   Subfields
+
+     * Bioculture
+     * Cross-cultural studies
+          + Cross-cultural communication
+          + Cross-cultural leadership
+          + Cross-cultural psychiatry
+          + Cross-cultural psychology
+     * Cultural analytics
+     * Cultural economics
+     * Cultural entomology
+     * Cultural history
+     * Cultural mapping
+     * Cultural mediation
+     * Cultural psychology
+     * Cultural values
+     * Culturomics
+     * Intercultural learning
+     * Intercultural relations
+     * Philosophy of culture
+     * Popular culture studies
+     * Postcritique
+     * Semiotics of culture
+     * Sociology of culture
+     * Sound culture
+     * Theology of culture
+     * Transcultural nursing
+
+   Types
+
+     * Constructed culture
+     * Dominant culture
+     * Folk culture
+     * High culture
+     * Individualistic culture
+     * Legal culture
+     * Microculture
+     * Official culture
+     * Political culture
+          + Civic
+     * Popular culture
+          + Low culture
+          + Media culture
+          + Recombinant culture
+          + Remix culture
+          + Trash culture
+          + Urban
+     * Primitive culture
+     * Resistance through culture
+     * Subculture
+          + Alternative culture
+          + Counterculture
+          + Fandom
+          + Far-right subcultures
+          + Underground culture
+          + Youth subculture
+          + list
+     * Super culture
+     * Supporter Culture
+     * Vernacular culture
+     * Culture by location
+
+   Aspects
+
+     * Acculturation
+     * Cultural appreciation
+     * Cultural appropriation
+     * Cultural area
+     * Cultural artifact
+     * Cultural baggage
+     * Cultural bias
+     * Cultural capital
+          + Cross-cultural
+     * Cultural communication
+     * Cultural conflict
+     * Cultural cringe
+     * Cultural dissonance
+     * Cultural emphasis
+     * Cultural framework
+     * Cultural heritage
+          + Destroyed
+     * Cultural icon
+     * Cultural identity
+     * Cultural industry
+     * Cultural invention
+     * Cultural landscape
+     * Cultural learning
+     * Cultural leveling
+     * Cultural memory
+     * Cultural pluralism
+     * Cultural practice
+     * Cultural property
+     * Cultural reproduction
+     * Cultural system
+     * Cultural technology
+     * Cultural universal
+     * Cultureme
+     * Enculturation
+     * High- and low-context cultures
+     * High-trust and low-trust societies
+     * Interculturality
+     * Internet culture
+     * Manuscript culture
+     * Material culture
+     * Non-material culture
+     * Organizational culture
+          + Assessment culture
+          + Design culture
+          + Journalism culture
+     * Print culture
+     * Protoculture
+     * Relational mobility
+     * Safety culture
+     * Symbolic culture
+     * Technoculture
+     * Trans-cultural diffusion
+     * Transculturation
+     * Visual culture
+
+   Politics
+
+     * Colonial mentality
+     * Consumer capitalism
+     * Cross cultural sensitivity
+     * Cultural assimilation
+     * Cultural attaché
+     * Cultural backwardness
+     * Cultural Bolshevism
+     * Cultural conservatism
+     * Cultural contracts
+     * Cultural deprivation
+     * Cultural diplomacy
+     * Cultural environmentalism
+     * Cultural exception
+     * Cultural feminism
+     * Cultural genocide
+     * Cultural globalization
+     * Cultural hegemony
+     * Cultural imperialism
+     * Cultural intelligence
+     * Cultural liberalism
+     * Cultural nationalism
+     * Cultural pessimism
+     * Cultural policy
+     * Cultural racism
+     * Cultural radicalism
+     * Cultural retention
+     * Cultural Revolution
+     * Cultural rights
+     * Cultural safety
+     * Cultural silence
+     * Cultural subsidy
+     * Cultural Zionism
+     * Culture change
+     * Culture minister
+     * Culture of fear
+     * Culture war
+     * Deculturalization
+     * Dominator culture
+     * Interculturalism
+     * Monoculturalism
+     * Multiculturalism
+          + Biculturalism
+     * Multiracial democracy
+     * Pluriculturalism
+     * Polyculturalism
+     * Transculturism
+
+   Religions
+
+     * Buddhism
+     * Christianity
+          + Catholicism
+          + Cultural Christians
+          + Protestantism
+          + Role of Christianity in civilization
+          + Eastern Orthodoxy
+          + Mormonism
+     * Cultural Hindus
+     * Islam
+          + Cultural Muslims
+     * Judaism
+     * Sikhism
+
+   Related
+
+     * Algorithmic culture
+     * Animal culture
+     * Archaeological culture
+     * Bennett scale
+     * Cannabis culture
+     * Circuit of culture
+     * Civilization
+     * Coffee culture
+     * Cringe culture
+     * Cross-cultural
+     * Cultural center
+     * Cultural competence
+     * Cultural critic
+     * Cultural determinism
+     * Cultural diversity
+     * Cultural evolutionism
+     * Cultural homogenization
+     * Cultural institution
+     * Cultural jet lag
+     * Cultural lag
+     * Cultural literacy
+     * Cultural mosaic
+     * Cultural movement
+     * Cultural mulatto
+     * Cultural probe
+     * Cultural relativism
+     * Cultural tourism
+          + Pop-culture
+     * Cultural translation
+     * Cultural turn
+     * Cultural sensibility
+     * Culture and menstruation
+     * Culture and positive psychology
+     * Culture and social cognition
+     * Culture gap
+     * Culture hero
+     * Culture industry
+     * Culture shock
+     * Culturgen
+     * Children's culture
+     * Culturalism
+     * Cyberculture
+     * Death and culture
+     * Disability culture
+          + Deaf culture
+     * Drinking culture
+     * Drug culture
+     * Eastern culture
+     * Emotions and culture
+     * Free-culture movement
+     * Historical culture
+     * Intercultural communication
+     * Intercultural competence
+     * Languaculture
+     * Living things in culture
+     * Media culture
+     * Oppositional culture
+     * Participatory culture
+     * Permission culture
+     * Rape culture
+     * Tea culture
+     * Transformation of culture
+     * Urban culture
+     * Welfare culture
+     * Western culture
      * Youth culture
 
-   Hidden categories:
-     * CS1 maint: multiple names: authors list
-     * Wikipedia articles needing page number citations from September
-       2021
-     * Articles with limited geographic scope from August 2022
-     * United States-centric
-     * Articles with short description
-     * Short description is different from Wikidata
-     * All articles with unsourced statements
-     * Articles with unsourced statements from October 2024
-     * Articles with unsourced statements from December 2018
-     * All articles with minor POV problems
-     * Articles with minor POV problems from July 2013
+     * Category
 
-     * This page was last edited on 21 December 2025, at 09:13 (UTC).
+   Authority control databases Edit this at Wikidata
+   National
+     * United States
+     * Czech Republic
+     * Israel
+
+    Other
+     * Yale LUX
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Culture_war&oldid=132823081
+   8"
+
+   Categories:
+     * Cultural politics
+     * Culture of the United States
+     * Political terminology of the United States
+
+   Hidden categories:
+     * Webarchive template wayback links
+     * CS1: unfit URL
+     * CS1 maint: bot: original URL status unknown
+     * CS1 Polish-language sources (pl)
+     * Articles with short description
+     * Short description matches Wikidata
+     * Use mdy dates from June 2025
+     * Articles containing German-language text
+     * Articles with excerpts
+     * Articles to be expanded from December 2021
+     * All articles to be expanded
+     * Pages using multiple image with auto scaled images
+     * Articles to be expanded from December 2024
+     * Articles with empty sections from December 2024
+     * All articles with empty sections
+
+     * This page was last edited on 18 December 2025, at 17:17 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        4.0 License; additional terms may apply. By using this site, you
        agree to the Terms of Use and Privacy Policy. Wikipedia® is a
@@ -1654,5 +1756,5 @@ Sources
    (BUTTON) Search
 
    [ ] Toggle the table of contents
-   Hookup culture
-   (BUTTON) 8 languages Add topic
+   Culture war
+   (BUTTON) 29 languages Add topic

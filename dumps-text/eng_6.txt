@@ -1,17 +1,657 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 124676871
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:35 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Development
+       (BUTTON) Toggle Development subsection
+          + 1.1 Gymnastics of ancient Greece and Rome
+          + 1.2 Nineteenth century
+          + 1.3 World War II
+          + 1.4 The Cold War
+          + 1.5 Mass participation, commercialization
+          + 1.6 Technology, specialization, branding
+     * 2 Influences
+       (BUTTON) Toggle Influences subsection
+          + 2.1 Mass media
+          + 2.2 Peer influence
+          + 2.3 Personal trainers
+          + 2.4 Fitness fashion
+     * 3 See also
+     * 4 References
+     * 5 Further reading
+
+   [ ] Toggle the table of contents
+
+Fitness culture
+
+   [ ] 4 languages
+     * العربية
+     * Български
+     * Čeština
+     * Polski
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Sociocultural phenomenon surrounding exercise and physical fitness
+   This article is written like a personal reflection, personal essay, or
+   argumentative essay that states a Wikipedia editor's personal feelings
+   or presents an original argument about a topic. Please help improve it
+   by rewriting it in an encyclopedic style. (July 2024) (Learn how and
+   when to remove this message)
+   [250px-Mann_mit_ausgepr%C3%A4gten_Muskeln_am_Arm.jpg]
+   [250px-Amanda_Fran%C3%A7ozo_At_The_Runner_Sports-5.jpg]
+   A man and a woman in a health club
+
+   Fitness culture is a sociocultural phenomenon surrounding exercise and
+   physical fitness.^[1] It is usually associated with gym culture, as
+   doing physical exercises in locations such as gyms, wellness centres
+   and health clubs is a popular activity. An international survey found
+   that more than 27% of the world's total adult population attends
+   fitness centres, and that 61% of regular exercisers are currently doing
+   "gym-type" activities.^[2] Getting and maintaining physical fitness has
+   been shown to benefit individuals' inner and outer health. Fitness
+   culture has been highly promoted through modern technology and social
+   media platforms.^[3]
+
+Development
+
+   [edit]
+
+Gymnastics of ancient Greece and Rome
+
+   [edit]
+
+   The word gymnastics is derived from the Greek word gymnazein which
+   literally means "to exercise naked".^[4] In ancient Greece and Rome, a
+   public place devoted to athletes training, called gymnasion (plural:
+   gymnasia) for Greeks and palaestra (plural: palaestrae) for Romans
+   existed in cities. Fitness was regarded as a concept shaped by two
+   cultural codes: rationalization and asceticism; authenticity and
+   hedonism, respectively. In Greece, gymnastic excellence was regarded as
+   a noble and godly pursuit and was included in a complete education.
+   Gymnasiums became the center of the community, being associated with
+   the arts, the study of logic, and a source of entertainment. Skilled
+   athletes attained an elevated status and devoted their lives to
+   becoming proficient in exercise.^[5] Both men and women participated in
+   various gymnastic exercises. The series of activities included
+   swimming, throwing, wrestling, jumping and weightlifting.^[4] After the
+   Romans conquered Greece, they developed the activities into a more
+   formal sport and used their gymnasiums to prepare their legions for
+   warfare. However, with the decline of the Roman Empire, people lost
+   their interest in gymnastics, and it is now only known as a form of
+   entertainment.
+
+Nineteenth century
+
+   [edit]
+
+   From around 1800, gymnastics developed in Western countries that was
+   meant to enhance the body in order to sustain public morals and mold
+   better citizens.^[6] Pehr Henrik Ling was a pioneer in the teaching of
+   physical education in Sweden, and he sought to reform and improve the
+   gymnastics of the ancient Greeks. In 1850, the Supreme Medical Board of
+   Russia reported to their emperor on Ling's system, that by improving
+   one's overall fitness, an athlete became superior to those who merely
+   focused on a subset of muscles or actions.^[5] In the mid-19th century,
+   the world saw the rise of physical culture, a movement that emphasized
+   the importance of physical exercise for men, women, and children alike.
+   Diocletian Lewis, a physician, even advocated for males and females
+   exercising together in the gym.^[7] In 1896 Men's gymnastics was on the
+   schedule of the first modern Olympics. The Olympic gymnastic
+   competition for women began in 1928.^[4]
+
+World War II
+
+   [edit]
+
+   Leading up to and during World War II, totalitarian regimes used
+   gymnastics as a way to promote their ideologies.^[6] Physical fitness
+   was at the core of Nazi philosophy, and the German government financed
+   the construction of sports and wellness facilities. In 1922, the Nazi
+   Party established the Hitler Youth, where children and adolescents
+   participated in physical activities to develop both their physical and
+   mental fitness.^[8] Nazi sports imagery served the purpose of promoting
+   the idea of "Aryan" racial superiority, and in 1933, an "Aryans only"
+   policy was instituted in all German athletic organizations.^[9]
+
+   In the Soviet Union, the Leninist Young Communist League created the
+   Ready for Labour and Defence of the USSR in 1931, which was a fitness
+   program that was designed to improve public health and prepare the
+   population for highly productive work and the defense of "the
+   motherland".^[10]
+
+The Cold War
+
+   [edit]
+
+   During the Cold War, a focus on physical fitness emerged in both the
+   United States and the Soviet Union. Senator Hubert Humphrey gravely
+   warned that communist dominance came from superior sports and fitness
+   programs. His remarks reflected the growing American paranoia of
+   communism. In response, leaders of the military, civilian government,
+   and private sector began crafting a "cult and ritual of
+   toughness".^[11] President John F. Kennedy issued a call to the nation
+   urging Americans to prioritize their physical fitness across the
+   country. Fitness was clearly described as a "matter of achieving an
+   optimum state of well-being" that required exercise from both young and
+   old.^[12] This focus on fitness also opened the doors for female
+   athletes in both the U.S. and the USSR to become more prominent as
+   contenders in the Olympics.^[13]
+
+Mass participation, commercialization
+
+   [edit]
+
+   After World War II, a new form of non-organized, individualistic,
+   health-oriented physical and recreational activities such as jogging
+   began to prevail.^[6] The Royal Canadian Air Force Exercise Plans,
+   developed by Dr Bill Orban in 1961, sold 23 million copies to the
+   public. United States Air Force Colonel Kenneth Cooper's book Aerobics
+   was released in 1968 and the mass-market version The New Aerobics in
+   1979. These publications by Orban and Cooper helped to launch modern
+   fitness culture.^[14]^[15]^[16]^[17] The Olympics inspired a running
+   boom in the 1970s.^[18] After the release of Jane Fonda's Workout
+   exercise videos in 1982, aerobics became a popular form of group
+   gymnastic activity.
+
+   Fitness began to be commercialised. Gyms were set up with the goals not
+   to improve public health but to stimulate and exploit the desire of
+   people to keep fit, have fun and improve themselves. It can also be
+   observed in today's gyms where bodybuilders are trying to reach their
+   aesthetic ideas, through muscle development, using weights and other
+   equipment. Growth in bodybuilding as a fitness phenomenon followed the
+   movie and book Pumping Iron in 1977 and the movie Pumping Iron II in
+   1985.^[6]^[19]^[20]
+
+   The term gym is often associated with the term fitness, and going to
+   gyms means doing exercises in fitness institutions such as fitness
+   centres, health clubs or gym clubs where people have to pay for
+   membership in order to use fitness equipment and participate in group
+   fitness activities with instructors, such as aerobics and yoga
+   classes.^[6]^[19]^[20]
+
+Technology, specialization, branding
+
+   [edit]
+
+   Advances in technology in the twenty-first century have changed the way
+   of doing fitness activities. The Quantified Self has become a new
+   phenomenon, where people use the help of technological devices to
+   support their workouts. It is characterized by the use of gadgets such
+   as pedometer, GPS, heart rate monitor and smartphone apps to quantify
+   or monitor the exerciser's efforts.^[21]
+
+   There was a decrease in popularity of "pure aerobics" exercise and an
+   increase in "socially based exercise".^[22]^[23] Participation moved
+   from aerobics, bodybuilding, and traditional technique of exercises to
+   activities such as yoga, zumba, pilates, spinning and aquacycling, tai
+   chi, kickboxing, and outdoor fitness.^[24]^[25]^[26]
+
+   Exercises have been commercialized as branded exercises by fitness
+   institutions. Branded exercises are group workouts developed by fitness
+   institutions for people with different goals of fitness.^[citation
+   needed]
+
+Influences
+
+   [edit]
+   Further information: Social influences on fitness behavior
+
+Mass media
+
+   [edit]
+
+   Mass media shapes fitness culture by conveying an ideal body image,
+   often promoting slimness or even thinness for females and slenderness
+   or muscularity for males.^[27] Commercial advertisements have also
+   created an influential and powerful force in promoting a stereotype of
+   ideal body image which is not limited to fashion advertisements.^[28]
+
+   Exercising and dieting are often seen as the best way to achieve such
+   an ideal body image.^[22] Fashion magazines promote slimness and
+   thinness as the ideal female image. High-fashion models are usually
+   slim and thin. In addition, the shape of models has changed
+   dramatically^[when?] towards a “more tubular female form” in high
+   fashion culture,^[28] often sparking controversies.^[29]
+
+   Fitness-related content on social media, such as Facebook or Instagram,
+   can be called fitspiration. When women view fitness content, they tend
+   to develop a more negative body image and are quicker to compare their
+   bodies to the ones they are seeing on social media.^[30] Men are
+   subject to this as well; however, this phenomenon is less common among
+   men.^[citation needed]
+
+   The rise of fitness influencers on social media sets unrealistic
+   expectations that people feel pressured to keep up with. This has
+   caused people to focus on achieving someone else's body type rather
+   than their own overall health and
+   well-being.^[31]^[better source needed] Social media has made the
+   fitness community grow, however, it is important to remember that not
+   everything seen online is real.
+
+Peer influence
+
+   [edit]
+
+   People who regularly attend fitness institutions tend to make friends
+   at these locations. They want to feel part of a group, which can be
+   referred to as community feeling, as the behavior of group membership
+   is transmitted from member to member within a group. However, this kind
+   of friendship usually remains restricted within the fitness
+   institution.^[32] Besides, the atmosphere in fitness institutions
+   created by people with the same goal becomes a force of motivation.
+   When people go to fitness institutions or start a new activity, they
+   can be encouraged by others and give support to each other.^[22]
+
+   In addition, fitness institutions can function as dating agencies,
+   creating chances to meet people apart from workplaces. Music, body
+   movement, and costumes of people exercising can easily draw attention
+   and become an occasion to engage with each other.^[33]
+
+   Another important aspect of fitness culture is the gender
+   differentiation in exercises performed. One study showed that women
+   prefer to do cardiovascular exercise over weight training because it
+   allows them to gain strength without transgressing norms for feminine
+   physical appearance, whereas men prefer other exercises like
+   bodybuilding or boxing in order to be more muscular.^[33]
+
+Personal trainers
+
+   [edit]
+   Main article: Personal trainer
+
+   Fitness institutions have been developed as a commercial environment
+   since the 1980s.^[6]^[33] Personal trainers act as intermediaries
+   between customers and the fitness institution, playing a crucial role
+   in the commercialization of fitness culture.^[34]
+
+   The popularity of personal trainers can be explained by the human
+   tendency toward rule-governed behavior.^[35] The role of personal
+   trainers has also revealed a phenomenon which can be explained from the
+   sociological perspective of "outsourced-self".^[36] This means
+   "transferring our own responsibility to other".^[34] Keeping healthy
+   and well are people's own responsibility; however, people are hiring
+   personal trainers to be responsible for it. It is also relevant to the
+   perspective of "body work" in the sociology of body: people are
+   outsourcing their own bodies to paid workers in order to keep healthy
+   and prevent illness.^[37]
+
+Fitness fashion
+
+   [edit]
+   Further information: Sportswear and Athleisure
+
+   Fitness fashion is a product created by the commercialization of
+   fitness culture. As mentioned above, personal trainers also act as
+   agents to sell different goods and services. An example is the case of
+   Body Training System (BTS). BTS instructors are suggested to change
+   their costumes according to the programs in order to show the
+   differences in character. The aim is to inspire the trainees to
+   purchase the same costumes offered by the programs.^[38]
+
+   Fitness fashion and athletic footwear have become the fastest-growing
+   segments in the apparel market. The athleisure trend frames it not only
+   for sports activities but also as daywear or weekend wear. While
+   classic sports brands continue to expand their market share in the
+   industry, high fashion brands have also joined the competition.^[39]
+
+See also
+
+   [edit]
+     * 20th century women's fitness culture
+     * Aerobic exercise § History
+     * Exercise § History
+     * Exercise trends
+     * Health club
+     * History of physical training and fitness
+     * Physical fitness
+     * Social influences on fitness behavior
+     * Sociology of sport
+     * Sociology of the body
+
+References
+
+   [edit]
+    1. ^ Sassatelli, Roberta (2018). "Fitness Culture". The Blackwell
+       Encyclopedia of Sociology. John Wiley & Sons. pp. 1–3.
+       doi:10.1002/9781405165518.wbeosf083.pub2. ISBN 9781405165518.
+    2. ^ Zabonick-Chonko, Rachel (2014-03-18). "Les Mills Study Finds that
+       Fitness is World's Biggest Sport". Club Solutions Magazine.
+       Retrieved 2022-12-12.
+    3. ^ Robertson, Lacey. "The rise of the fitness culture". The
+       Seraphim. Archived from the original on 2022-09-28. Retrieved
+       2021-12-04.
+    4. ^ ^a ^b ^c Solly, Meilan (July 26, 2021). "A History of Gymnastics,
+       From Ancient Greece to Tokyo 2020". Smithsonian Magazine. Retrieved
+       2022-12-13.
+    5. ^ ^a ^b Cheever, David W. (1 May 1859). "The Gymnasium". The
+       Atlantic. The Atlantic Monthly Group. Retrieved 19 March 2015.
+    6. ^ ^a ^b ^c ^d ^e ^f Sassatelli, Roberta (2006). "Fit Bodies.
+       Fitness Culture and the Gym". Retrieved 2022-12-12.
+    7. ^ Lewis, Diocletian (1 August 1862). "The New Gymnastics". The
+       Atlantic. The Atlantic Monthly Group. Retrieved 19 March 2015.
+    8. ^ "How did the Nazis control leisure?". The Holocaust Explained.
+       London Jewish Cultural Centre. 2011. Retrieved 19 March 2015.
+    9. ^ "The Nazi Olympics Berlin 1936". United States Holocaust Memorial
+       Museum. 20 June 2014. Retrieved 19 March 2015.
+   10. ^ The Great Soviet Encyclopedia (3rd ed.). The Gale Group, Inc.
+       2010.
+   11. ^ Kurt Edward Kemper (2009). College Football and American Culture
+       in the Cold War Era. University of Illinois Press. pp. 19–20.
+       ISBN 978-0-252-03466-4.
+   12. ^ Neu, Frank R. (1 November 1961). "We May Be Sitting Ourselves to
+       Death". The Atlantic. The Atlantic Monthly Group. Retrieved 19
+       March 2015.
+   13. ^ David G. McComb (1998). Sports: An Illustrated History. Oxford
+       University Press. p. 123. ISBN 978-0-19-510097-6.
+   14. ^ Krucoff, Carol (1998-06-22). "Going Back to the Basics with
+       Calisthenics". Los Angeles Times. ISSN 0458-3035. Retrieved
+       2018-10-08. "In fact, the popularity of the Royal Canadian Air
+       Force's calisthenics program in the late 1950s helped launch the
+       modern fitness movement."
+   15. ^ "Five basic exercises for fitness in 1961". CBC Archives.
+       Retrieved 2018-10-08. "The program became famous worldwide."
+   16. ^ "'Father of Aerobics' Kenneth Cooper, MD, MPH to receive Healthy
+       Cup Award from Harvard School of Public Health". Harvard School of
+       Public Health. 2008-04-16. Retrieved 2018-10-08.
+   17. ^ "Dr. Kenneth Cooper and How He Became Known as the Father of
+       Aerobics". Club Industry. 2008-09-01. Archived from the original on
+       2018-10-09. Retrieved 2018-10-08.
+   18. ^ Stracher, Cameron (3 November 2012). "Running on Empty: An
+       American Sports Tradition Fades". The New York Times. Retrieved
+       2018-10-11.
+   19. ^ ^a ^b "The Fitness Revolution. Historical Transformations in a
+       Global Gym and Fitness Culture". ResearchGate. Retrieved
+       2018-10-07.
+   20. ^ ^a ^b Stern, Marc (2008). "The Fitness Movement and the Fitness
+       Center Industry, 1960-2000" (PDF). Business and Economic History
+       On-line. Retrieved 2018-10-07.
+   21. ^ Dyer, James (March 2016). "Quantified Bodies". Digital Culture &
+       Society. 2 (1): 161. doi:10.14361/dcs-2016-0112. S2CID 148943667.
+   22. ^ ^a ^b ^c Sassatelli, Roberta (2000). "The Commercialization of
+       Discipline: Keep-Fit Culture and Its Values". Journal of Modern
+       Italian Studies. 5 (3): 396–411. doi:10.1080/1354571X.2000.9728261.
+       ISSN 1354-571X. S2CID 143808579.
+   23. ^ "TOP HEALTH CLUB TRENDS FOR 2012". INTERNATIONAL HEALTH, RACQUET
+       & SPORTSCLUB ASSOCIATION. January 11, 2012. Archived from the
+       original on January 17, 2012. Retrieved August 22, 2025.
+   24. ^ "The rise of the adult playground". BBC News. 7 May 2012.
+       Retrieved 6 October 2018.
+   25. ^ Finn, Adharanand; Ramaswamy, Chitra; Jonze, Tim; Benedictus, Leo;
+       Khaleeli, Homa (30 August 2016). "'We still come if the rain's
+       sideways' – how Britain fell in love with outdoor fitness". The
+       Guardian. Retrieved 4 October 2018.
+   26. ^ Dean, Sam (15 January 2017). "Rise in outdoor gyms signals a
+       muscling-up of the outdoor fitness industry". The Telegraph.
+       ISSN 0307-1235. Retrieved 4 October 2018.
+   27. ^ Cruz, Jamie Santa (2014-03-10). "Body-Image Pressure Increasingly
+       Affects Boys". The Atlantic. Retrieved 2022-12-13.
+   28. ^ ^a ^b Brown, Kirsty (1997). From Fashion to Fitness? A
+       Sociocultural Analysis of the Representation of Thinness within the
+       Mass Media (Thesis). University of Toronto. ISBN 0-612-29146-4.
+       OCLC 222591511.
+   29. ^ Clements, Kirstie (2013-07-05). "Former Vogue editor: The truth
+       about size zero". The Guardian. Retrieved 2022-12-13.
+   30. ^ Tiggemann, Marika; Zaccardo, Mia (2015-09-01). "'Exercise to be
+       Fit, Not Skinny': The Effect of Fitspiration Imagery on Women's
+       Body Image". Body Image. 15: 61–67.
+       doi:10.1016/j.bodyim.2015.06.003. ISSN 1740-1445. PMID 26176993.
+       S2CID 22081797.
+   31. ^ "The Impact of Social Media on Fitness Trends and Body Image". 21
+       March 2023.
+   32. ^ Crossley, Nick (September 2006). "In the Gym: Motives, Meaning
+       and Moral Careers". Body & Society. 12 (3): 23–50.
+       doi:10.1177/1357034X06067154. ISSN 1357-034X. S2CID 143850069.
+   33. ^ ^a ^b ^c Sassatelli, Roberta (2010). Fitness Culture: Gyms and
+       the Commercialisation of Discipline and Fun. Houndmills,
+       Basingstoke, Hampshire: Palgrave Macmillan. ISBN 978-0-230-29208-6.
+       OCLC 696332358.
+   34. ^ ^a ^b Maguire, Jennifer Smith (December 1, 2001). "Fit and
+       Flexible: The Fitness Industry, Personal Trainers and Emotional
+       Service Labor". Sociology of Sport Journal. 18 (4): 379–402.
+       doi:10.1123/ssj.18.4.379. hdl:2381/1437. ISSN 0741-1235.
+   35. ^ Baum, William M. (April 1995). "Rules, Culture, and Fitness". The
+       Behavior Analyst. 18 (1): 1–21. doi:10.1007/BF03392688.
+       ISSN 0738-6729. PMC 2733667. PMID 22478201.
+   36. ^ Hochschild, Arlie Russell (2012). The Outsourced Self: Intimate
+       Life in Market Times (1st U.S. ed.). New York: Metropolitan Books.
+       ISBN 978-0-8050-8889-2. OCLC 1083036482.
+   37. ^ Gimlin, Debra (August 22, 2007). "What Is 'Body Work'? A Review
+       of the Literature: What Is 'Body Work'? A Review of the
+       Literature". Sociology Compass. 1 (1): 353–370.
+       doi:10.1111/j.1751-9020.2007.00015.x.
+   38. ^ Felstead, Alan; Fuller, Alison; Jewson, Nick; Kakavelakis,
+       Konstantinos; Unwin, Lorna (June 2007). "Grooving to the same
+       tunes?: Learning, training and productive systems in the aerobics
+       studio". Work, Employment and Society. 21 (2): 189–208.
+       doi:10.1177/0950017007076626. ISSN 0950-0170. S2CID 154830921.
+   39. ^ "Why Fitness Is Having a Moment in Fashion". RBHK. January 9,
+       2025. Retrieved January 9, 2025.
+
+Further reading
+
+   [edit]
+     *
+
+   Friedman, Danielle (2022). Let's Get Physical: How Women Discovered
+   Exercise and Reshaped the World. New York: G. P. Putnam's Sons.
+   ISBN 9780593188422. Archived from the original on 8 April 2022.
+
+     Friedman, Danielle (14 January 2025). "1972–1982: The Decade That
+   Changed Fitness Forever". The New York Times. Archived from the
+   original on 15 January 2025. Retrieved 26 January 2025.
+   References/lists the influential books and other works of the period.
+
+     * v
+     * t
+     * e
+
+   Exercise
+
+   Types
+
+   Aerobic exercise
+     * Aerobics
+     * Cycling
+     * Dancing
+     * Distance running
+     * Endurance training
+     * Hiking
+     * Jogging
+     * Running
+     * Swimming
+     * Walking
+          + Nordic walking
+     * Yoga
+          + Yoga as exercise
+
+   Anaerobic exercise
+     * High-intensity interval training
+     * Sprinting
+     * Strength training
+          + Bodybuilding
+          + Bodyweight exercise
+          + Flywheel training
+          + Suspension training
+          + Weight training
+          + Weightlifting
+
+   Other
+     * Athletic training
+     * Calisthenics
+     * Circuit training
+     * Climbing
+     * Cross-training
+     * Interval training
+     * Muscle hypertrophy
+     * Outdoor fitness
+     * Physical therapy
+     * Sport
+          + List of sports
+     * Stretching
+     * Yoga
+
+   Related
+
+     * Abdominal exercise
+     * Brain training
+     * Burpee (exercise)
+     * Epigenetics
+     * Exercise and music
+     * Exercise ball
+     * Exercise dress
+     * Exercise equipment
+     * Exercise intolerance
+     * Exercise mimetic
+     * Exercise physiology
+          + Neurobiological effects
+     * Exercise prescription
+     * Exercise trends
+     * Exercise-induced anaphylaxis
+     * Exercise-induced nausea
+     * Fitness app
+     * Fitness culture
+     * History
+     * Incremental exercise
+     * Isometric exercise
+     * Kegel exercise
+     * Lunge (exercise)
+     * Non-exercise activity thermogenesis
+     * Outline of exercise
+     * Physical culture
+     * Physical fitness
+     * Plank (exercise)
+     * Push-down (exercise)
+     * Rebound exercise
+     * Squat (exercise)
+     * Vacuum exercise
+
+   Category
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Fitness_culture&oldid=13110
+   80363"
+
+   Categories:
+     * Lifestyles
+     * Physical exercise
+     * Subcultures
+
+   Hidden categories:
+     * Articles with short description
+     * Short description matches Wikidata
+     * Wikipedia articles with style issues from July 2024
+     * All articles with style issues
+     * Pages using multiple image with auto scaled images
+     * All articles with unsourced statements
+     * Articles with unsourced statements from October 2023
+     * All articles with vague or ambiguous time
+     * Vague or ambiguous time from October 2023
+     * Articles with unsourced statements from April 2025
+     * All articles lacking reliable references
+     * Articles lacking reliable references from April 2025
+
+     * This page was last edited on 13 September 2025, at 07:53 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Fitness culture
+   (BUTTON) 4 languages Add topic

@@ -1,17 +1,2009 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 151585267
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:41 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 History and responsibilities
+       (BUTTON) Toggle History and responsibilities subsection
+          + 1.1 2012 Olympics
+          + 1.2 2010–2022
+               o 1.2.1 Policy areas
+                    # 1.2.1.1 Other responsibilities
+     * 2 Ministers and senior officials
+       (BUTTON) Toggle Ministers and senior officials subsection
+          + 2.1 Chief Scientific Advisers
+     * 3 Bodies sponsored by DCMS
+       (BUTTON) Toggle Bodies sponsored by DCMS subsection
+          + 3.1 Non-ministerial departments
+          + 3.2 Public corporations
+          + 3.3 Non-departmental public bodies
+     * 4 Devolution
+       (BUTTON) Toggle Devolution subsection
+          + 4.1 Scotland
+          + 4.2 Wales
+          + 4.3 Northern Ireland
+     * 5 See also
+     * 6 References
+     * 7 External links
+       (BUTTON) Toggle External links subsection
+          + 7.1 Video clips
+
+   [ ] Toggle the table of contents
+
+Department for Culture, Media and Sport
+
+   [ ] 14 languages
+     * العربية
+     * Cymraeg
+     * Deutsch
+     * Español
+     * فارسی
+     * Français
+     * 한국어
+     * Bahasa Indonesia
+     * Italiano
+     * עברית
+     * Kernowek
+     * 日本語
+     * Norsk bokmål
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikisource
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Ministerial department of the UK Government
+
+   CAPTION: Department for Culture, Media and Sport
+
+   Welsh: Adran Diwylliant, Cyfryngau a Chwaraeon
+   [250px-Department_for_Culture%2C_Media_and_Sport_logo.svg.png]
+   [250px-Government_Offices_Great_George_Street.jpg]
+   100 Parliament Street – occupied by DCMS on the first floor
+   Department overview
+   Formed 1997; 29 years ago (1997)
+   Preceding Department
+     * Department for National Heritage
+
+   Jurisdiction Government of the United Kingdom
+   Headquarters Parliament Street, London
+   Employees 2,075^[1]
+   Annual budget £1.6 billion (current) and £1.1 billion (capital) for
+   2023–24 (planned) ^[2]
+   Secretary of State responsible
+     * Lisa Nandy MP, Secretary of State for Culture, Media and Sport
+
+   Department executives
+     * Susannah Storey, Permanent Secretary
+     * Polly Payne, Director General (jobshare)
+     * Ruth Hannant, Director General (jobshare)
+     * Emma Ward, Director General
+     * Andrew Pattison, Chief Financial Officer
+     * Professor Tom Crick, Chief Scientific Adviser
+
+   Website gov.uk/dcms
+
+   The Department for Culture, Media and Sport (DCMS) is a ministerial
+   department of the Government of the United Kingdom. It holds the
+   responsibility for culture and sport, and some aspects of the media
+   throughout the UK, such as broadcasting. Its main offices are at 100
+   Parliament Street, occupying part of the building known as Government
+   Offices Great George Street.
+
+   It also has responsibility for the tourism, leisure and creative
+   industries (some jointly with the Department for Business and Trade).
+   The department was also responsible for the delivery of the 2012
+   Olympic Games and Paralympic Games.
+
+   From 2017 to 2023, the department had responsibility for the building
+   of a digital economy and was known as the Department for Digital,
+   Culture, Media and Sport.^[3] The responsibilities for digital policy
+   were transferred to the newly created Department for Science,
+   Innovation and Technology in the February 2023 cabinet reshuffle.
+
+History and responsibilities
+
+   [edit]
+
+   This article is part of a series on
+     Politics of the United Kingdom
+   Lesser arms of the United Kingdom
+   Constitution
+     * Magna Carta
+     * Bill of Rights
+     * Treaty of Union (Acts of Union)
+     * Parliamentary sovereignty
+     * Rule of law
+     * Separation of powers
+     * Other constitutional principles
+
+   The Crown
+   Royal coat of arms of the United Kingdom
+     * The Monarch (list)
+
+   King Charles III
+
+   Prince of Wales's feathers
+     * Heir apparent
+
+   William, Prince of Wales
+     __________________________________________________________________
+
+     * Royal family
+     * Succession
+     * Prerogative
+     * Counsellors of State
+     * Republicanism in the United Kingdom
+
+   Executive
+     * Privy Council
+
+   Royal coat of arms of the United Kingdom
+
+   Charles III
+   (King-in-Council)
+     __________________________________________________________________
+
+     * HM Government
+
+   Royal coat of arms of the United Kingdom
+     * Cabinet (list)
+
+   Starmer ministry (L)
+     * Prime Minister (list)
+
+   Keir Starmer (L)
+     * Deputy Prime Minister
+
+   David Lammy (L)
+     __________________________________________________________________
+
+     * Departments
+     * Ministers
+     * Agencies
+
+   Legislature
+     * UK Parliament
+
+   (King-in-Parliament)
+   Crowned portcullis
+     __________________________________________________________________
+
+     * King
+
+   Charles III
+     __________________________________________________________________
+
+     * House of Lords
+
+   Composition diagram of the House of Lords
+     * Lord Speaker
+       The Lord McFall of Alcluith
+     __________________________________________________________________
+
+     * House of Commons
+
+   Composition diagram of the House of Commons
+     * Speaker
+       Sir Lindsay Hoyle
+
+     * Leader of the Opposition
+       Kemi Badenoch (C)
+     __________________________________________________________________
+
+     * 59th Parliament
+     * Opposition
+     * MPs
+          + List of MPs
+
+   Judiciary
+   Charles III
+   (King-on-the-Bench)
+     __________________________________________________________________
+
+     * Supreme Court
+
+     * President
+
+   The Lord Reed
+     * Deputy President
+
+   The Lord Hodge
+     * Justices of the Supreme Court
+     __________________________________________________________________
+
+     * United Kingdom
+     * England and Wales
+     * Scotland
+     * Northern Ireland
+
+   Bank of England
+     * Governor
+
+   Andrew Bailey
+     * Deputy governors
+
+   Monetary Policy Committee
+     __________________________________________________________________
+
+     * Currencies
+     * Banknotes
+     * Coins
+
+   Elections and referendums
+     * Censorship
+     * UK Parliament constituencies (2023 Periodic Review of Westminster
+       constituencies)
+     * Political parties
+     * Political Parties, Elections and Referendums Act 2000
+     * Dissolution and Calling of Parliament Act 2022
+     * Scottish Parliament constituencies and electoral regions
+     * Senedd constituencies and electoral regions
+
+   UK general elections
+     __________________________________________________________________
+
+     * 1801 co-option
+     * 1802
+     * 1806
+     * 1807
+     * 1812
+     * 1818
+     * 1820
+     * 1826
+     * 1830
+     * 1831
+     * 1832–33
+     * 1835
+     * 1837
+     * 1841
+     * 1847
+     * 1852
+     * 1857
+     * 1859
+     * 1865
+     * 1868
+     * 1874
+     * 1880
+     * 1885
+     * 1886
+     * 1892
+     * 1895
+     * 1900
+     * 1906
+     * 1910 (Jan–Feb)
+     * 1910 (Dec)
+     * 1918
+     * 1922
+     * 1923
+     * 1924
+     * 1929
+     * 1931
+     * 1935
+     * 1945
+     * 1950
+     * 1951
+     * 1955
+     * 1959
+     * 1964
+     * 1966
+     * 1970
+     * 1974 (Feb)
+     * 1974 (Oct)
+     * 1979
+     * 1983
+     * 1987
+     * 1992
+     * 1997
+     * 2001
+     * 2005
+     * 2010
+     * 2015
+     * 2017
+     * 2019
+     * 2024
+
+   Endorsements
+     * 2010
+     * 2015
+     * 2017
+     * 2019
+     * 2024
+
+   European Parliament elections (1979–2019)
+     __________________________________________________________________
+
+     * 1979
+     * 1984
+     * 1989
+     * 1994
+     * 1999
+     * 2004
+     * 2009
+     * 2014
+     * 2019
+
+   Scottish Parliament elections
+     __________________________________________________________________
+
+     * 1999
+     * 2003
+     * 2007
+     * 2011
+     * 2016
+     * 2021
+     * Next
+
+   Northern Ireland Assembly elections
+     __________________________________________________________________
+
+     * 1998
+     * 2003
+     * 2007
+     * 2011
+     * 2016
+     * 2017
+     * 2022
+     * Next
+
+   Senedd elections
+     __________________________________________________________________
+
+     * 1999
+     * 2003
+     * 2007
+     * 2011
+     * 2016
+     * 2021
+     * Next
+
+   UK referendums
+     __________________________________________________________________
+
+     * 1975
+     * 2011
+     * 2016
+
+   Devolution
+     * Intergovernmental relations in the United Kingdom
+     * Legislative consent motions
+     * Prime Minister and Heads of Devolved Governments Council
+     * Council of the Nations and Regions
+     __________________________________________________________________
+
+   England
+     * Governance of England
+     * English votes for English laws
+     * Greater London Authority
+          + 1998 referendum
+          + Greater London Authority Act 1999
+            (2007 Act)
+     * Mayor of London
+          + Sadiq Khan
+     * Mayoral cabinet
+     * London Assembly
+     * London Plan
+     * Combined authorities
+          + Metro mayors
+     __________________________________________________________________
+
+   Northern Ireland
+     * Northern Ireland Act 1998
+       (2006 Act)
+     * First Minister
+          + Michelle O'Neill
+     * Deputy First Minister
+          + Emma Little-Pengelly
+     * Executive
+     * Assembly
+     * Act of the Northern Ireland Assembly
+     * Law of Northern Ireland
+     __________________________________________________________________
+
+   Scotland
+     * Scottish devolution
+     * 1997 referendum
+     * Scotland Act 1998
+       (2012 Act, 2016 Act)
+     * First Minister
+          + John Swinney
+     * Government
+     * Scottish Parliament
+     * Act of the Scottish Parliament
+     * Scottish statutory instrument
+     * Scots law
+     __________________________________________________________________
+
+   Wales
+     * Welsh devolution
+     * 1997 referendum
+       (2011 referendum on law-making powers)
+     * Government of Wales Act 1998
+       (2006 Act, Wales Act 2014, Wales Act 2017)
+     * First Minister
+          + Eluned Morgan
+     * Government
+     * Senedd
+     * Measure of the National Assembly for Wales (1999–2011)
+     * Act of Senedd Cymru
+     * Welsh law
+
+   Administration
+   England
+     * History
+     * Subdivisions: Regions
+     * Ceremonial counties (list)
+     * Metropolitan and non-metropolitan counties
+          + Metropolitan county
+          + Non-metropolitan county
+          + Greater London
+     * Unitary authorities (list)
+     * Districts (list)
+          + Metropolitan Borough
+          + Non-metropolitan District
+          + London Borough
+     * Civil parishes (list)
+     * Historic counties
+     __________________________________________________________________
+
+   Northern Ireland
+     * History
+     * Subdivisions: Counties
+     * Districts
+     __________________________________________________________________
+
+   Scotland
+     * History
+     * Subdivisions: Sheriffdoms
+     * Council areas
+     * Community council areas
+     * Civil parishes
+     * Shires of Scotland
+     __________________________________________________________________
+
+   Wales
+     * History
+     * Preserved counties
+     * Principal areas
+     * Communities (list)
+     * Historic counties
+
+   Crown Dependencies
+     * Bailiwick of Guernsey
+          + Guernsey
+          + Alderney
+          + Sark
+     __________________________________________________________________
+
+     * Bailiwick of Jersey
+     __________________________________________________________________
+
+     * Isle of Man
+     __________________________________________________________________
+
+     * British Islands
+     * Common Travel Area
+     * UK-CD Customs Union
+
+   Overseas Territories
+     * Akrotiri and Dhekelia
+     * Anguilla
+     * Bermuda
+     * British Antarctic Territory
+     * British Indian Ocean Territory
+     * British Virgin Islands
+     * Cayman Islands
+     * Falkland Islands
+     * Gibraltar
+     * Montserrat
+     * Pitcairn Islands
+     * Saint Helena, Ascension and Tristan da Cunha
+          + Saint Helena
+          + Ascension Island
+          + Tristan da Cunha
+     * South Georgia and the South Sandwich Islands
+     * Turks and Caicos Islands
+     __________________________________________________________________
+
+     * British Overseas Territories citizen
+     * Visa requirements
+     * Visa policies
+     __________________________________________________________________
+
+     * British Overseas Territories Act 2002
+     * UK-OT JMC
+     * Chagos Archipelago sovereignty dispute
+     * Gibraltar sovereignty dispute
+     * Falkland Islands sovereignty dispute
+
+   Foreign relations
+     * Foreign, Commonwealth and Development Office
+     * Foreign policy (history)
+     __________________________________________________________________
+
+     * Diplomatic missions of / in the United Kingdom
+     __________________________________________________________________
+
+     * UK passport
+          + British National (Overseas) passport
+     * Visa requirements
+     * UK–CD Customs Union
+     * Visa policy
+     * Free trade agreements
+     __________________________________________________________________
+
+     * Australia
+     * Barbados
+     * Belgium
+     * Belize
+     * Brunei
+     * Canada
+     * China
+          + Hong Kong
+     * Cyprus
+     * Denmark
+     * France
+     * Germany
+     * India
+     * Israel
+     * Italy
+     * Japan
+     * Kenya
+     * Malaysia
+     * Malta
+     * Netherlands
+     * New Zealand
+     * Norway
+     * Russia
+     * Saudi Arabia
+     * Singapore
+     * Spain
+     * South Africa
+     * Palestine
+     * Pakistan
+     * Poland
+     * Portugal
+     * United States
+     * Zimbabwe
+     __________________________________________________________________
+
+     * Ireland
+          + politics of Northern Ireland
+          + Good Friday Agreement
+          + UK–Ireland border
+          + Northern Ireland Protocol
+          + British–Irish Council
+     * Devolved administrations
+          + of Scotland
+          + of Wales
+          + Mayor of London
+     __________________________________________________________________
+
+     * European Union (history)
+          + Brexit
+          + Post-Brexit United Kingdom relations with the European Union
+          + UK–EU withdrawal agreement
+     __________________________________________________________________
+
+     * The Commonwealth
+          + member states
+     __________________________________________________________________
+
+     * United Kingdom and the United Nations
+          + United Nations Security Council
+               o P5
+     __________________________________________________________________
+
+     * NATO
+     * G20
+     * G7
+
+   flag United Kingdom portal
+     * England England
+     * Northern Ireland
+     * Scotland Scotland
+     * Wales Wales
+
+     * Other countries
+
+     * v
+     * t
+     * e
+
+   DCMS originates from the Department of National Heritage (DNH), which
+   itself was created on 11 April 1992 out of various other departments,
+   soon after the Conservative election victory. The former ministers for
+   the Arts and for Sport (both created in 1964) had previously been
+   located in other departments.
+
+   DNH was renamed as the Department for Culture, Media and Sport (DCMS)
+   on 14 July 1997, under the premiership of Tony Blair. It was renamed to
+   Department for Digital, Culture, Media and Sport on 3 July 2017,
+   staying DCMS under the premiership of Theresa May to reflect the
+   department's increased activity in the digital sector.^[4] The
+   department was renamed back to the Department for Culture, Media and
+   Sport (DCMS) in February 2023, with responsibility for digital moving
+   to the new Department for Science, Innovation and Technology.
+
+2012 Olympics
+
+   [edit]
+
+   DCMS was the co-ordinating department for the successful bid by London
+   to host the 2012 Olympics and appointed and oversees the agencies
+   delivering the Games' infrastructure and programme, principally the
+   Olympic Delivery Authority (ODA) and LOCOG.
+
+   The June 2007 Cabinet reshuffle led to Tessa Jowell MP taking on the
+   role of Paymaster General and then Minister for the Cabinet Office
+   while remaining Minister for the Olympics. Ministerial responsibility
+   for the Olympics was shared with Ms Jowell in the Cabinet Office, but
+   the staff of the Government Olympic Executive (GOE) remained based in
+   DCMS.
+
+2010–2022
+
+   [edit]
+
+   Following the 2010 general election, ministerial responsibility for the
+   Olympics returned to the Secretary of State. Although Jeremy Hunt's
+   full title was Secretary of State for Culture, Olympics, Media and
+   Sport, the department's name remained unchanged. On 4 September 2012,
+   Hunt was appointed Health Secretary in a cabinet reshuffle and replaced
+   by Maria Miller. Maria Miller later resigned due to controversy over
+   her expenses. Her replacement was announced later that day as Sajid
+   Javid.
+
+   After the 2015 general election, John Whittingdale was appointed as
+   Secretary of State, tasked with initiating the BBC Charter review
+   process. DCMS received full responsibility for the digital economy
+   policy, formerly jointly held with BIS, and sponsorship of the
+   Information Commissioner's Office from the Ministry of Justice.
+
+   Whittingdale was replaced by Karen Bradley after the referendum on the
+   UK's membership of the EU in July 2016. The Office for Civil Society
+   moved from the Cabinet Office to DCMS as part of the same reshuffle.
+
+   In January 2018, Matt Hancock, previous Minister of State for Digital,
+   was appointed Secretary of State as part of a Cabinet reshuffle. In the
+   9 July 2018 reshuffle, Jeremy Wright became the Secretary of State.
+   Nicky Morgan became Secretary of State in July 2019; she stood down as
+   an MP at the 2019 United Kingdom general election but was ennobled as
+   Baroness Morgan of Cotes and retained her position from within the
+   House of Lords. As part of the 13 February 2020 reshuffle, Oliver
+   Dowden MP was appointed Secretary of State for Digital, Culture, Media
+   and Sport. Nadine Dorries succeeded on 15 September 2021. In July 2022,
+   Dorries personally granted Grade II-listed status to a plaque of Cecil
+   Rhodes which she believed is of "special historic interest".^[5] This
+   decision attracted controversy. On 5 September 2022, in anticipation of
+   the appointment of Liz Truss as Prime Minister, Dorries tendered her
+   resignation as culture secretary.
+
+Policy areas
+
+   [edit]
+
+   It is responsible for government policy in the following areas:
+     * The arts
+     * Broadcasting, including the BBC and Channel 4
+     * Civil society
+     * Charities
+     * Creative industries
+          + Advertising
+          + Design
+          + Fashion
+          + Film
+          + Music industry
+          + Publishing
+     * Historic environment
+     * Architecture and design
+     * Arts market
+     * Cultural property and heritage
+     * Entertainment licensing
+     * Gambling and horse racing
+     * Press freedom and regulation
+     * Libraries
+     * Museums and galleries
+     * The National Lottery
+     * Tourism
+     * Sport
+     * Olympic legacy
+
+Other responsibilities
+
+   [edit]
+
+   Other responsibilities of DCMS include listing of historic buildings,
+   scheduling of ancient monuments, export licensing of cultural goods,
+   and management of the Government Art Collection (GAC).
+
+   The Secretary of State has responsibility for the maintenance of the
+   land and buildings making up the historic Royal Estate under the Crown
+   Lands Act 1851. These inherited functions, which were once centralised
+   in the Office of Works, are now delivered as follows:
+     * The Royal Parks are maintained by an executive agency within DCMS,
+       the Royal Parks Agency;
+     * The unoccupied royal palaces in England are managed by a contract
+       with Historic Royal Palaces;
+     * Maintenance of the occupied royal palaces in England was funded by
+       an annual grant-in-aid to the Royal Household until 31 March 2012.
+       The Secretary of State for Culture retains legal responsibility for
+       these palaces, but from 1 April 2012 this funding was amalgamated
+       with the Civil List into a single Sovereign Grant administered by
+       HM Treasury. DCMS continues to make a separate small grant to the
+       Royal Household for the maintenance of Marlborough House
+
+   The department also has responsibility for state ceremonial occasions
+   and royal funerals. However, responsibility for the Civil List element
+   of head-of-state expenditure and income from the separate Crown Estate
+   remains with the Chancellor of the Exchequer.
+
+   DCMS works jointly with the Department for Business, Innovation and
+   Skills (BIS) on design issues, including sponsorship of the Design
+   Council, and on relations with the computer games and publishing
+   industries.
+
+   DCMS works with local community system providers in broadcasting
+   service via TV and Internet channels. In September 2022, it managed to
+   hold a home office visit activity for media and data security knowledge
+   sharing across different government departments.
+
+   DCMS organises the annual Remembrance Day Ceremony at the Cenotaph and
+   has responsibility for providing humanitarian assistance in the event
+   of a disaster. In the government's response to the 7 July 2005 London
+   bombings the department coordinated humanitarian support to the
+   relatives of victims and arranged the memorial events.
+
+   DCMS has also supported cyber initiatives^[6] such as Cyber Discovery
+   and the UK Cyber Security Forum^[7] to support innovation in the cyber
+   industry.
+
+Ministers and senior officials
+
+   [edit]
+
+   The DCMS ministers are as follows, with cabinet ministers in bold:^[8]
+
+   Minister Portrait Office Portfolio
+   Lisa Nandy MP [120px-Official_portrait_of_Lisa_Nandy_MP_crop_2.jpg]
+   Secretary of State for Culture, Media and Sport The Secretary of State
+   has overall responsibility for strategy and policy across the
+   department and management of the UK transition for the department.
+   Ian Murray MP
+   [120px-Portrait_of_Minister_Ian_Murray_%2854838775756%29_%28cropped%29.
+   jpg] Minister of State for Creative Industries, Media and Arts Arts;
+   Creative Industries; Media; Cultural Diplomacy and Soft Power;
+   Gambling, Heritage, Libraries and Museums (in the Commons)
+   Stephanie Peacock MP
+   [120px-Official_portrait_of_Stephanie_Peacock_MP_crop_2%2C_2024.jpg]
+   Parliamentary Under-Secretary of State for Sport, Tourism, Civil
+   Society and Youth Sport; Tourism; Civil society; Youth; Loneliness and
+   social connection; Impact Economy; Ceremonials
+   Fiona Twycross, Baroness Twycross
+   [120px-Official_portrait_of_Baroness_Twycross%2C_2023.jpg]
+   Parliamentary Under-Secretary of State for Museums, Heritage and
+   Gambling Museums and cultural property; Heritage; Gambling ; Libraries;
+   The National Archives; Corporate Minister and Legislation; DCMS
+   business in the House of Lords
+
+Chief Scientific Advisers
+
+   [edit]
+
+   DCMS has had the following academics as Chief Scientific Adviser:
+     * Professor Tom Rodden (2019-2023);
+     * Professor Tom Crick (2023-present).
+
+Bodies sponsored by DCMS
+
+   [edit]
+
+   icon
+   This section needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources in this
+   section. Unsourced material may be challenged and removed.
+   Find sources: "Department for Culture, Media and Sport" – news ·
+   newspapers · books · scholar · JSTOR (November 2025) (Learn how and
+   when to remove this message)
+
+   The DCMS sponsors a wide range of organisations. It has policy
+   responsibility for three statutory corporations and two public
+   broadcasting authorities. These bodies and their operation are largely
+   independent of government policy influence.
+
+Non-ministerial departments
+
+   [edit]
+
+   DCMS works with two non-ministerial departments:
+     * Charity Commission
+     * The National Archives
+
+Public corporations
+
+   [edit]
+
+   The public corporations are:
+     * British Broadcasting Corporation
+     * Channel Four Television Corporation
+     * Historic Royal Palaces
+     * Sianel Pedwar Cymru
+     * The Royal Parks
+
+Non-departmental public bodies
+
+   [edit]
+
+   The DCMS sponsors the following executive non-departmental public
+   bodies including a number of museums and galleries:
+     * Arts Council England
+     * British Film Institute
+     * British Library
+     * British Museum
+     * Gambling Commission
+     * Museum of the Home (formerly the Geffrye Museum)
+     * Historic England (separated from English Heritage in 2015, formally
+       the Historic Buildings & Monuments Commission for England)
+     * Horniman Museum
+     * Horserace Betting Levy Board
+     * Imperial War Museum
+     * National Gallery
+     * National Heritage Memorial Fund (the Trustees of the NHMF also
+       administer the Heritage Lottery Fund)
+     * National Maritime Museum
+     * National Museums Liverpool
+     * National Portrait Gallery
+     * Natural History Museum
+     * Royal Armouries
+     * Science Museum Group
+     * Sir John Soane's Museum
+     * Sport England (formally the English Sports Council)
+     * Sports Grounds Safety Authority
+     * Tate
+     * UK Anti-Doping
+     * UK Sport (formally the UK Sports Council)
+     * Victoria and Albert Museum
+     * VisitBritain (formally the British Tourist Authority)
+     * VisitEngland
+     * Wallace Collection
+
+   The DCMS sponsors the following advisory non-departmental public
+   bodies:
+     * Advisory Council on National Records and Archives
+     * Reviewing Committee on the Export of Works of Art and Objects of
+       Cultural Interest
+     * Theatres Trust
+     * Treasure Valuation Committee
+
+   DCMS also has responsibility for one other body classified by the
+   Office for National Statistics as being within the central government
+   sector:^[9]
+     * Churches Conservation Trust
+
+   DCMS is also the major financial sponsor of the following bodies, which
+   are not classed as part of the UK central government:
+     * Chatham Historic Dockyard Trust
+     * Greenwich Foundation for the Old Royal Naval College for the Old
+       Royal Naval College
+     * Tyne and Wear Museums
+
+   A National Audit Office report published in 2005 estimated that the
+   department and its wide range of sponsored organisations collectively
+   spent about £575 million each year purchasing goods and services. The
+   report recommended better co-ordination and aggregation in planning how
+   this public money was spent so as to promote its more efficient
+   use.^[10]
+
+   Sponsorship of the National Endowment for Science, Technology and the
+   Arts (NESTA) transferred to the Department for Innovation, Universities
+   and Skills in June 2007. The Museum of London transferred to the
+   Greater London Authority on 1 April 2008.
+
+   DCMS formerly sponsored eight Regional Cultural Consortiums with NDPB
+   status. In July 2008, DCMS announced that the consortiums would be
+   phased out over a twelve-month period and replaced by a new alliance of
+   the regional teams of Arts Council England, Sport England, English
+   Heritage and the Museums, Libraries and Archives Council (MLA).
+
+Devolution
+
+   [edit]
+
+   Culture, sport and tourism are devolved matters, with responsibility
+   resting with corresponding departments in the Scottish Government in
+   Scotland, the Welsh Government in Wales and the Northern Ireland
+   Executive in Northern Ireland.
+
+   Media-related policy is generally reserved to Westminster i.e. not
+   devolved. These areas include:
+
+Scotland
+
+   [edit]
+
+   Reserved matters:^[11]
+     * Film classification
+     * Broadcasting
+     * Public lending right
+     * Entertainment licensing
+     * National Lottery
+     * Digital economy
+     * Telecommunications and broadband
+     * Internet
+     * press freedom and regulation
+
+   Scotland's comparability factor (the proportion of spending in this
+   area devolved to the Scottish Government) was 68% for 2021/22.^[12]
+
+Wales
+
+   [edit]
+
+   Reserved matters:^[13]
+     * Film classification
+     * Broadcasting, BBC
+     * Public lending right
+     * Digital economy
+     * Entertainment licensing
+     * Betting, Gambling and Lotteries
+     * Telecommunications and broadband
+     * Internet
+     * press freedom and regulation
+
+   Wales' comparability factor (the proportion of spending in this area
+   devolved to the Welsh Government) was 67.7% for 2021/22.^[12]
+
+Northern Ireland
+
+   [edit]
+
+   Reserved matters:^[14]
+     * Broadcasting
+     * National Lottery
+     * Digital economy
+     * Telecommunications and broadband
+     * Internet
+
+   The department's main counterparts in Northern Ireland are as
+   follows:^[15]
+     * Department for Communities (architecture, arts, culture, galleries,
+       gambling, historic built environment, libraries, liquor licensing,
+       museums, sport)
+     * Department for the Economy (tourism)
+
+   Northern Ireland's comparability factor (the proportion of spending in
+   this area devolved to the Northern Ireland Executive) was 69.9% for
+   2021/22.^[12]
+
+See also
+
+   [edit]
+
+     * United Kingdom budget
+     * Digital Economy Act 2010
+     * Culture, Media and Sport Committee
+
+References
+
+   [edit]
+
+    1. ^ "Civil service staff numbers". instituteforgovernment.org.uk. 10
+       June 2025. Retrieved 3 September 2025.
+    2. ^ Autumn Budget and Spending Review 2021. London: HM Treasury.
+       2021. Archived from the original on 30 September 2022. Retrieved 4
+       June 2024.
+    3. ^ Paine, Andre (7 February 2023). "Lucy Frazer appointed Secretary
+       of State at 're-focused' Culture, Media & Sport department". Music
+       Week. Retrieved 7 February 2023.
+    4. ^ Bradley, Karen (3 July 2017). "Change of name for DCMS". GOV.UK.
+       Archived from the original on 1 February 2024.
+    5. ^ Hall, Rachel (31 January 2018). "Nadine Dorries grants listed
+       status to Cecil Rhodes plaque at Oxford college". The Guardian.
+       London. ISSN 0261-3077. Retrieved 1 August 2022.
+    6. ^ "The UK Cyber Security Strategy - Report on progress and forward
+       plans" (PDF). Cabinet Office. December 2014. Archived (PDF) from
+       the original on 22 December 2023.
+    7. ^ "UK Cyber Security Forum". ukcybersecurityforum.com. Archived
+       from the original on 20 February 2024.
+    8. ^ This article contains OGL licensed text  This article
+       incorporates text published under the British
+       Open Government Licence: "Our ministers". GOV.UK. Department for
+       Culture, Media and Sport. Retrieved 27 September 2022.
+    9. ^ "ONS Sector Classification Guide". Archived from the original on
+       19 July 2007. Retrieved 13 August 2008.
+   10. ^ National Audit Office, Procurement in the Culture, Media and
+       Sport sector, HC 596, Session 2005-2006, published on 30 November
+       2005, archived by The National Archives on 7 February 2017,
+       accessed on 24 November 2025
+   11. ^ "Scotland Act 1998". legislation.gov.uk. Archived from the
+       original on 21 September 2023.
+   12. ^ ^a ^b ^c Keep, Matthew (8 September 2023). "The Barnett formula
+       and fiscal devolution" (PDF). Commons Library Research Briefing.
+       Archived (PDF) from the original on 12 December 2023.
+   13. ^ "Government of Wales Act 2006, Schedule 7A, Part 2".
+       legislation.gov.uk. Archived from the original on 23 November 2023.
+   14. ^ "Northern Ireland Act 1998, Schedule 3". legislation.gov.uk.
+       Archived from the original on 30 November 2023.
+   15. ^ "Departments (Transfer and Assignment of Functions) Order
+       (Northern Ireland) 1999". legislation.gov.uk. Archived from the
+       original on 23 November 2023.
+
+External links
+
+   [edit]
+
+   Wikimedia Commons has media related to Department for Culture, Media
+   and Sport.
+
+     * Official website
+
+Video clips
+
+   [edit]
+
+     * DCMS YouTube channel
+
+     * v
+     * t
+     * e
+
+   Department for Culture, Media and Sport
+
+   Headquarters: 100 Parliament Street
+
+   Ministers
+
+     * Secretary of State: Lisa Nandy MP
+
+     * Minister of State for Creative Industries, Media and Arts: Ian
+       Murray MP
+
+     * Parliamentary Under-Secretary of State for Sport, Tourism, Civil
+       Society and Youth: Stephanie Peacock MP
+     * Parliamentary Under-Secretary of State for Museums, Heritage and
+       Gambling: Baroness Twycross
+
+   Non-ministerial
+   departments
+
+     * Charity Commission
+     * The National Archives
+
+   Non-departmental
+   public bodies
+
+   Advisory
+     * Advisory Council on National Records and Archives
+     * Reviewing Committee on the Export of Works of Art and Objects of
+       Cultural Interest
+     * Theatres Trust
+     * Treasure Valuation Committee
+
+   Executive
+     * Arts Council England
+     * British Film Institute
+     * Gambling Commission
+     * Historic England
+     * Horserace Betting Levy Board
+     * National Heritage Memorial Fund
+     * National Lottery Community Fund
+     * Sport England
+     * Sports Grounds Safety Authority
+     * UK Anti-Doping
+     * UK Sport
+     * VisitBritain
+     * VisitEngland
+
+   Museums
+     * British Library
+     * British Museum
+     * Horniman Museum
+     * Museum of the Home
+     * Imperial War Museums
+     * National Gallery
+     * National Museums Liverpool
+     * National Portrait Gallery
+     * Natural History Museum
+     * Royal Armouries
+     * Royal Museums Greenwich
+     * Science Museum Group
+     * Sir John Soane's Museum
+     * Tate
+     * Victoria and Albert Museum
+     * Wallace Collection
+
+   Tribunal
+   Horserace Betting Levy Appeal Tribunal
+
+   Other bodies
+
+     * BBC
+     * Channel Four Television Corporation
+     * Churches Conservation Trust
+     * Historic Royal Palaces
+     * S4C
+     * The Royal Parks
+
+   Category
+
+     * v
+     * t
+     * e
+
+   Departments of the Government of the United Kingdom
+
+   Ministerial
+
+     * Advocate General for Scotland
+     * Attorney General's Office
+     * Business and Trade
+     * Cabinet Office
+     * Culture, Media and Sport
+     * Defence
+     * Education
+     * Energy Security and Net Zero
+     * Environment, Food and Rural Affairs
+     * Foreign, Commonwealth and Development
+     * Health and Social Care
+     * Home
+     * Housing, Communities and Local Government
+     * Justice
+     * Leader of the House of Commons
+     * Leader of the House of Lords
+     * Northern Ireland
+     * Science, Innovation and Technology
+     * Scotland
+     * Transport
+     * Treasury
+     * UK Export Finance
+     * Wales
+     * Work and Pensions
+
+   Non-ministerial
+
+     * Charity Commission for England and Wales
+     * Competition and Markets Authority
+     * Crown Prosecution Service
+     * Food Standards Agency
+     * Forestry Commission
+     * Government Actuary's Department
+     * Government Legal Department
+     * HM Land Registry
+     * HM Revenue and Customs
+     * National Crime Agency
+     * National Savings and Investments
+     * Office of Rail and Road
+     * Ofgem
+     * Ofqual
+     * Ofsted
+     * Ofwat
+     * Serious Fraud Office
+     * Supreme Court
+     * The National Archives
+     * UK Statistics Authority
+
+     * v
+     * t
+     * e
+
+   Media in the United Kingdom
+
+   UK national newspapers, magazines, and other periodicals
+   Newspapers
+   (history, circulation)
+   Broadsheet
+     * Financial Times
+     * The Daily Telegraph
+     * The Sunday Telegraph
+     * The Sunday Times
+
+   Compact
+     * The i Paper
+     * The Times
+     * The Guardian
+     * The Observer
+
+   Middle-market
+     * Daily Express
+     * Daily Mail
+     * The Mail on Sunday
+
+   Tabloid
+     * Daily Mirror
+     * Sunday Mirror
+     * Morning Star
+     * The Sunday People
+     * Daily Star
+     * Daily Star Sunday
+     * The Sun
+     * Sunday Sport
+     * Weekend Sport
+     * Midweek Sport
+
+      Online
+     * 5Pillars
+     * The Independent
+
+   Magazines and
+   other periodicals
+     * List of magazines in the United Kingdom
+     * List of magazines by circulation
+
+   Radio in the UK
+   National
+   stations
+   BBC
+
+          BBC Radio 1
+          BBC Radio 1Xtra
+          BBC Radio 2
+          BBC Radio 3
+          BBC Radio 4
+          BBC Radio 4 Extra
+          BBC Radio 5 Live
+          BBC Radio 5 Sports Extra
+          BBC Radio 6 Music
+          BBC Asian Network
+          BBC World Service
+          BBC National DAB (multiplex)
+
+   Independent
+   / commercial
+
+          Absolute Radio Network
+          BFBS Radio
+          Capital
+          Capital Xtra
+          Classic FM
+          Digital One (multiplex)
+          Gold
+          Greatest Hits Radio
+          Heart
+          Hits Radio
+          Jazz FM
+          Kiss Network
+          LBC
+          LBC News
+          Magic
+          Magic Classical
+          Premier Christian Radio
+          RNIB Connect Radio
+          Sound Digital (multiplex)
+          Smooth Radio
+          talkSPORT
+          TalkRadio
+          Times Radio
+          UCB UK
+          Virgin Radio UK
+          Radio X
+
+   Regional
+   and local
+   stations
+   BBC
+
+          List of BBC Local Radio stations
+          BBC Radio Scotland
+          BBC Radio nan Gàidheal
+          BBC Radio Ulster
+          BBC Radio Foyle
+          BBC Radio Wales
+          BBC Radio Cymru
+
+                Cymru 2
+
+   Independent
+   / commercial
+     * List of community radio stations
+     * List of local commercial radio stations
+     * List of semi-national / regional analogue and digital radio
+       stations
+
+   Other
+   stations
+     * List of hospital radio stations
+     * Pirate radio
+     * Restricted Service Licence (RSL)
+          + List of RSL stations
+     * List of student radio stations
+
+   Other
+     * Broadcasting House
+     * FM broadcasting
+     * Radio Academy
+          + Radio Academy Awards
+     * Radio Independents Group
+     * RAJAR
+     * Most listened to programmes
+
+   Television in the UK
+   Principal
+   channels
+   (list)
+   BBC/UKTV
+
+          BBC One
+          BBC Two
+          BBC Three
+          BBC Four
+          BBC News
+          BBC Parliament
+          BBC Alba
+          BBC Scotland
+          CBBC
+          CBeebies
+          U&Alibi
+          U&Dave
+          U&Drama
+          U&Eden
+          U&Gold
+          U&W
+          U&Yesterday
+
+   ITV
+
+          ITV1/STV/UTV
+          ITV2
+          ITV3
+          ITV4
+          ITV Quiz
+
+   Channel 4/S4C
+
+          Channel 4
+          S4C
+          E4
+          E4 Extra
+          Film4
+          More4
+          4seven
+
+   Paramount
+
+          5
+          5Star
+          5USA
+          5Select
+          5Action
+          Comedy Central
+          Comedy Central Extra
+          MTV
+          Nickelodeon
+          Nicktoons
+          Nick Jr.
+
+   Sky UK
+
+          Challenge
+          Sky Arts
+          Sky Atlantic
+          Sky Cinema
+          Sky Comedy
+          Sky Crime
+          Sky Documentaries
+          Sky History
+          Sky History 2
+          Sky Kids
+          Sky Max
+          Sky Mix
+          Sky Nature
+          Sky News
+          Sky Replay
+          Sky Sci-Fi
+          Sky Showcase
+          Sky Sports Box Office
+          Sky Sports F1
+          Sky Sports News
+          Sky Sports Racing
+          Sky Sports
+          Sky Witness
+
+   Warner Bros. Discovery
+
+          Animal Planet
+          Boomerang
+          Cartoon Network
+          Cartoonito
+          CNN International
+          Discovery Channel
+          Discovery History
+          Discovery Science
+          Discovery Turbo
+          DMAX
+          Food Network
+          HGTV
+          Investigation Discovery
+          Quest
+          Quest Red
+          Really
+          TLC
+          TNT Sports
+
+   Narrative Entertainment UK Limited
+
+          Great! Action
+          Great! Movies
+          Great! Romance
+          Great! Real
+          Great! TV
+          Pop
+          Tiny Pop
+
+   Services
+   and
+   platforms
+   Current
+     * Amazon Prime Video
+     * BBC iPlayer
+     * cable
+     * Channel 4
+     * digital
+          + digital terrestrial
+          + List of channels
+     * Disney+
+     * EE TV
+     * 5
+     * Freely
+     * Freesat
+          + Freesat+
+     * Freeview
+     * high-definition
+          + List of channels
+     * ITV
+          + ITVX
+          + STV Player
+     * local television
+     * Now
+     * Netflix
+     * Paramount+
+     * Pop Player
+     * Restricted Service Licence
+     * satellite
+          + List of channels
+     * Sky Group
+          + Sky Q
+          + Sky Glass
+          + Sky Stream
+     * TalkTalk TV
+     * TVPlayer
+     * U
+     * Virgin Media
+          + FilmFlex
+          + TiVo
+     * YouView
+
+   Defunct
+     * analogue
+          + analogue terrestrial
+     * BBC Store
+     * Film4oD
+     * Real Digital
+     * Sky Group
+          + Freesat from Sky
+          + On Demand
+          + Sky+
+          + Sky+ HD
+     * TalkTalk TV Store
+     * Top Up TV
+     * Virgin Media
+          + V+
+
+   Studios
+   Current
+     * 3 Mills Studios
+     * BBC Cymru Wales New Broadcasting House
+     * BBC Elstree Centre
+     * BBC Pacific Quay
+     * The Bottle Yard Studios
+     * Broadcasting House
+     * Broadcasting House, Belfast
+     * Broadcasting House, Bristol
+     * Dock10
+     * Elstree Studios (Shenley Road)
+     * Gas Street Studios
+     * The Leeds Studios
+     * The Maidstone Studios
+     * Mailbox Birmingham
+     * MediaCityUK
+     * Old Granada Studios
+     * Riverside Studios
+     * Roath Lock
+     * The Sharp Project
+     * Sky Campus
+     * Space Studios Manchester
+     * Television Centre, London
+
+   Defunct
+     * Broadcasting House, Cardiff
+     * Dickenson Road Studios
+     * Fountain Studios
+     * The Hospital Club
+     * Lime Grove Studios
+     * Limehouse Studios
+     * The London Studios
+     * MGM-British Studios
+     * New Broadcasting House, Manchester
+     * Pebble Mill Studios
+     * Teddington Studios
+     * Television Centre, Newcastle upon Tyne
+     * Television Centre, Southampton
+     * Upper Boat Studios
+
+   Other
+     * Television in Northern Ireland
+     * in Scotland
+     * in Wales
+     * Defunct channels
+     * Edinburgh International Television Festival
+     * History
+          + List of years
+     * Viewing statistics
+          + Most-watched broadcasts
+
+   Companies and organisations
+   Major
+   companies
+     * Banijay UK Productions
+     * Bauer Media Audio UK
+     * BBC
+     * Bloomsbury Publishing
+     * BT Group
+     * Channel Four Television Corporation
+     * Daily Mail and General Trust
+     * Dentsu International
+     * Economist Group
+     * EMI Music Publishing
+     * Future plc
+     * Global Media & Entertainment
+     * Guardian Media Group
+     * Haymarket Media Group
+     * Informa
+     * ITN
+     * ITV plc
+     * National World
+     * News Broadcasting
+     * News UK
+     * Newsquest
+     * Pearson plc
+     * Press Holdings
+     * Reach plc
+     * RELX
+     * Reuters
+     * Sky
+     * STV Group
+     * Syco
+     * TalkTalk Group
+     * Paramount Networks UK & Australia
+     * Virgin Media O2
+     * The Walt Disney Company (UK) Ltd.
+     * Warner Bros. Discovery EMEA
+
+                       Resources
+     * Arqiva
+     * List of largest UK book publishers
+
+   Government and
+   regulatory bodies
+     * Advertising Standards Authority
+     * BBC Board (formerly: BBC Trust
+     * Board of Governors of the BBC)
+     * British Board of Film Classification
+     * British Film Institute
+     * Culture, Media, and Sport Select Committee
+     * Department for Culture, Media and Sport
+     * Independent Press Standards Organisation
+     * Ofcom
+     * Press Recognition Panel
+     * S4C Authority
+
+   Industry and
+   trades bodies
+     * British Academy of Film and Television Arts
+     * British Phonographic Industry
+     * Broadcasting, Entertainment, Cinematograph and Theatre Union
+     * Clearcast
+     * Digital TV Group
+     * Equity
+     * Everyone TV
+     * Federation Against Copyright Theft
+     * Independent Publishers Guild
+     * National Union of Journalists
+     * The Publishers Association
+     * Royal Television Society
+     * United Kingdom Independent Broadcasting
+
+   Other
+     * BBC Academy
+     * National Film and Television School
+     * National Science and Media Museum
+
+   Regional, student and community media
+   Regional media
+     * Media in England
+          + Birmingham
+          + London
+          + Manchester
+     * Media in Scotland
+          + Aberdeen
+          + Dundee
+          + Glasgow
+     * Media in Wales
+          + Cardiff
+
+    Student media
+     * Student television
+     * Student press
+
+   Community media
+     * Islam21c
+
+     * Category
+
+     * v
+     * t
+     * e
+
+   Sports governing bodies in the United Kingdom
+
+   Summer Olympic sports
+
+     * Aquatics
+          + Diving
+          + Swimming
+          + Synchronized swimming
+          + Water polo
+     * Archery
+     * Athletics
+     * Badminton
+          + ENG
+          + WAL
+          + SCO
+     * Baseball
+     * Basketball
+          + GBR
+          + ENG
+          + SCO
+          + WAL
+     * Boxing
+          + Professional
+          + Amateur
+               o GBR
+               o ENG
+               o SCO
+               o WAL
+     * Canoeing
+     * Cycling
+          + BC
+          + CTT
+     * Dance sport
+     * Equestrian
+     * Fencing
+     * Football
+          + GBR^M^W
+          + ENG
+          + NI
+          + SCO
+          + WAL
+     * Golf
+          + GBR
+          + ENG
+          + WAL
+          + SCO
+     * Gymnastics
+     * Handball
+          + GBR
+          + ENG
+          + SCO
+          + WAL
+          + NI
+     * Hockey
+          + GBR
+          + ENG
+          + SCO
+          + WAL
+     * Judo
+     * Modern Pentathlon
+     * Rugby 7's
+          + ENG
+          + NI
+          + SCO
+          + WAL
+     * Rowing
+     * Sailing
+     * Shooting
+          + GBR
+          + ENG
+          + SCO
+          + WAL
+     * Softball
+     * Surfing
+          + GBR
+          + ENG
+          + SCO
+          + WAL
+     * Table Tennis
+          + ENG
+          + SCO
+          + WAL
+     * Taekwondo
+     * Tennis
+          + SCO
+          + WAL
+     * Triathlon
+     * Volleyball
+          + GBR
+          + ENG
+          + SCO
+          + WAL
+          + NI
+     * Beach Volleyball
+     * Weightlifting
+     * Wrestling
+
+   Winter Olympic sports
+
+     * Biathlon
+     * Bobsleigh
+     * Curling
+          + ENG
+          + SCO
+          + WAL
+     * Ice skating
+     * Ice Hockey
+          + GBR
+          + ENG
+          + NI
+          + SCO
+     * Luge
+     * Skeleton
+     * Skiing
+     * Snowboarding
+
+   Other IOC recognised sports
+
+     * Air sports
+     * Bandy
+     * Billiard sports
+          + ENG
+          + NI
+          + SCO
+          + WAL
+     * Boules
+     * Bowling
+     * Bridge
+     * Chess
+          + ENG
+          + SCO
+          + WAL
+     * Cricket
+          + ENG & WAL
+          + SCO
+     * Floorball
+     * Karate
+     * Korfball
+          + ENG
+          + SCO
+          + WAL
+     * Lacrosse
+          + ENG
+          + SCO
+          + WAL
+     * Lifesaving
+     * Motorcycle racing
+     * Motorsport
+     * Mountaineering and climbing
+          + ENG & WAL
+          + SCO
+     * Netball
+          + GBR
+          + ENG
+          + SCO
+          + WAL
+          + NI
+     * Orienteering
+     * Pelota vasca
+     * Polo
+     * Powerboating
+     * Racquetball
+     * Roller Sports
+     * Rugby Union
+          + ENG
+          + WAL
+          + SCO
+     * Squash
+          + ENG
+          + SCO
+          + WAL
+     * Sumo
+     * Tug-of-war
+     * Underwater sports
+          + ENG
+          + NI
+          + WAL
+     * Water ski
+     * Wushu
+
+   Disability and Paralympic sports
+
+     * Wheelchair rugby
+     * Wheelchair basketball
+
+   Other sports
+
+     * American football
+     * Australian rules football
+     * Backgammon
+     * British baseball
+          + ENG
+          + WAL
+     * Bog snorkelling
+     * Bowls
+          + ENG
+          + SCO
+          + WAL
+     * Caving
+     * Croquet
+     * Darts
+     * Fullbore Target Rifle
+     * Horse racing
+     * Kho-kho
+     * Kiteboarding
+     * Quadball
+     * Radio-controlled racing
+     * Sailing in schools
+     * Real Tennis
+     * Rugby league
+     * Smallbore Target Rifle
+
+     * British Olympic Association
+     * British Paralympic Association
+     * Team GB
+     * Department for Culture, Media and Sport
+     * UK Sport
+     * Sport England
+     * Sport Northern Ireland
+     * Sportscotland
+     * Sport Wales
+     * Commonwealth Games England
+     * Northern Ireland Commonwealth Games Council
+     * Commonwealth Games Scotland
+     * Commonwealth Games Wales
+     * For some sports, Northern Ireland belongs to all-Irish governing
+       bodies; for these, see Category:All-island sports governing bodies
+       in Ireland.
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Department_for_Culture,_Med
+   ia_and_Sport&oldid=1326930418"
+
+   Categories:
+     * Department for Culture, Media and Sport
+     * Ministerial departments of the Government of the United Kingdom
+     * Arts in England
+     * English art
+     * Culture of England
+     * Mass media in the United Kingdom
+     * Performing arts in England
+     * Sports organisations of the United Kingdom
+     * Sport in England
+     * Sports ministries
+     * Government ministries established in 1992
+     * Mass media in England
+     * 1992 establishments in the United Kingdom
+     * Culture ministries
+     * Tourism ministries
+
+   Hidden categories:
+     * Open Government Licence attribution
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Use dmy dates from July 2025
+     * Articles containing Welsh-language text
+     * Pages using infobox mapframe with missing coordinates
+     * Articles needing additional references from November 2025
+     * All articles needing additional references
+     * Commons category link from Wikidata
+
+     * This page was last edited on 11 December 2025, at 18:36 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Department for Culture, Media and Sport
+   (BUTTON) 14 languages Add topic

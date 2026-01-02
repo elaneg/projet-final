@@ -1,17 +1,443 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 148577741
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:37 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Terminology
+     * 2 History
+     * 3 Modern day
+     * 4 See also
+     * 5 References
+     * 6 External links
+
+   [ ] Toggle the table of contents
+
+Underground culture
+
+   [ ] 37 languages
+     * العربية
+     * Asturianu
+     * Azərbaycanca
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Български
+     * Català
+     * Čeština
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * Español
+     * Esperanto
+     * Euskara
+     * Français
+     * Galego
+     * 한국어
+     * Հայերեն
+     * Bahasa Indonesia
+     * Italiano
+     * Қазақша
+     * Magyar
+     * Македонски
+     * Nederlands
+     * 日本語
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Русский
+     * Slovenčina
+     * Српски / srpski
+     * Suomi
+     * Svenska
+     * Türkçe
+     * Українська
+     * Tiếng Việt
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Alternative cultures that differ from the mainstream
+   For other uses, see Underground culture (disambiguation).
+   [330px-Streetfotografie_punks_philipp_von_ostau.jpg] Girls dressed in
+   punk fashion (2011)
+
+   Underground culture, or simply underground, is a term to describe
+   various alternative cultures which either consider themselves different
+   from the mainstream of society and culture, or are considered so by
+   others. The word "underground" is used because there is a history of
+   resistance movements under harsh regimes where the term underground was
+   employed to refer to the necessary secrecy of the resisters.
+
+   For example, the Underground Railroad was a network of clandestine
+   routes by which African slaves in the 19th-century United States
+   attempted to escape to freedom. The phrase "underground railroad" was
+   resurrected and applied in the 1960s to the extensive network of draft
+   counseling groups and houses used to help Vietnam War-era draft dodgers
+   escape to Canada,^[1] and was also applied in the 1970s to the
+   clandestine movement of people and goods by the American Indian
+   Movement in and out of occupied Native American reservation lands. (See
+   also: Wounded Knee Occupation).^[2]
+
+   The filmmaker Rosa von Praunheim documented the legendary New York
+   underground scene in the 1970s around Andy Warhol in some of his films,
+   for example in Underground and Emigrants (1976) and Tally Brown, New
+   York (1979). Since then, the term has come to designate various
+   subcultures such as mod culture, hippie culture, punk culture, techno
+   music/rave culture, underground hip hop and also neo-nazi.
+
+Terminology
+
+   [edit]
+
+   The unmodified term "The underground" was a common name for World War
+   II resistance movements. It was later applied to counter-cultural
+   movements, many of which sprang up in the United States during the
+   1960s.
+
+History
+
+   [edit]
+
+   The 1960s and 1970s underground cultural movements had some connections
+   to the Beat Generation, which had, in turn, been inspired by the French
+   author philosophers, artists, and poets as Louis-Ferdinand Céline or
+   the Existentialist movement, which gathered around Jean-Paul Sartre and
+   Albert Camus in Paris during the years that followed the aftermath of
+   World War II. Sartre and Camus were members of Combat, a French
+   resistance group formed in 1942 by Henri Frenay. Frenay, Sartre, and
+   Camus were all involved in publishing underground newspapers for the
+   resistance. The French intellectuals which inspired underground
+   american author as Jack Kerouac, Allen Ginsberg and William Burroughs
+   in North America in the 1940s was steeped in socialist thinking before
+   the Cold War began.
+
+   In the Esquire magazine (1958),^[3] Jack Kerouac stated:
+
+     The same thing was almost going on in the postwar France of Sartre
+     and Genet and what's more we knew about it—But as to the actual
+     existence of a Beat Generation, chances are it was really just an
+     idea in our minds—We'd stay up 24 hours drinking cup after cup of
+     black coffee, playing record after record of Wardell Gray, Lester
+     Young, Dexter Gordon, Willie Jackson, Lennie Tristano and all the
+     rest, talking madly about that holy new feeling out there in the
+     streets—We'd write stories about some strange beatific Negro hepcat
+     saint with goatee hitchhiking across Iowa with taped up horn
+     bringing the secret message of blowing to other coasts, other
+     cities, like a veritable Walter the Penniless leading an invisible
+     First Crusade—We had our mystic heroes and wrote, nay sung novels
+     about them, erected long poems celebrating the new 'angels' of the
+     American underground—In actuality there was only a handful of real
+     hip swinging cats and what there was vanished mightily swiftly
+     during the Korean War when (and after) a sinister new kind of
+     efficiency appeared in America, maybe it was the result of the
+     universalization of Television and nothing else (the Polite Total
+     Police Control of Dragnet's 'peace' officers) but the beat
+     characters after 1950 vanished into jails and madhouses, or were
+     shamed into silent conformity, the generation itself was shortlived
+     and small in number.
+
+Modern day
+
+   [edit]
+
+   Today, many aspects of underground culture have become more accessible
+   and commercialized, often losing their original spirit. Niche music
+   genres, fashion styles, and art forms are now widely marketed to
+   mainstream audiences, which can dilute their authenticity.
+
+   Moreover, the ease of access to cultural products online has blurred
+   the lines between underground and mainstream. Consequently, what was
+   once considered "underground" is now often integrated into popular
+   culture, resulting in a loss of the exclusivity and community that
+   originally defined these movements.
+
+See also
+
+   [edit]
+     * Alternative culture
+     * Church of the SubGenius
+     * Counterculture
+     * Cult following
+     * Cyberpunk
+     * English underground
+     * History of subcultures in the 20th century
+     * Notes from Underground
+     * Neopaganism
+     * Prague Underground
+     * Soviet Nonconformist Art
+     * Ukrainian underground
+     * UK Underground
+     * Underground comix
+     * Underground film
+     * Underground Literary Alliance
+     * Underground music
+     * Underground press
+
+References
+
+   [edit]
+    1. ^ "1960s Draft Dodger Group -- Toronto Anti-Draft Programme".
+       www.radicalmiddle.com. Archived from the original on 2020-02-25.
+       Retrieved 2005-12-15.
+    2. ^ "AIM - American Indian Movement Store". www.aimovement.org.
+       Archived from the original on 2019-12-06. Retrieved 2005-08-22.
+    3. ^ "Jack Kerouac (1922-1969) Poems, Terebess Asia Online (TAO)".
+       Archived from the original on 2009-07-22. Retrieved 2005-08-22.
+
+External links
+
+   [edit]
+     * Media related to Underground culture at Wikimedia Commons
+
+     * v
+     * t
+     * e
+
+   British underground
+   People
+     * Stephen Abrams
+     * Nicholas Albery
+     * Tariq Ali
+     * Jim Anderson
+     * Kevin Ayers
+     * Edward Barker
+     * Syd Barrett
+     * Mark Boyle
+     * Joe Boyd
+     * Arthur Brown
+     * Barney Bubbles
+     * Bob Cobbing
+     * Caroline Coon
+     * Felix Dennis
+     * Robin Farquharson
+     * Mick Farren
+     * Duggie Fields
+     * Germaine Greer
+     * Hapshash and the Coloured Coat
+     * Lee Harris
+     * Jim Haynes
+     * Wally Hope
+     * John 'Hoppy' Hopkins
+     * Michael Horovitz
+     * Peter Jenner & Andrew King
+     * Mike Lesser
+     * Tom McGrath
+     * John Michell
+     * Barry Miles
+     * Sue Miles
+     * Richard Neville
+     * Jeff Nuttall
+     * Neil Oram
+     * John Peel
+     * Aubrey Powell
+     * Sid Rawle
+     * Craig Sams
+     * Gregory Sams
+     * Martin Sharp
+     * Nicholas Saunders
+     * Storm Thorgerson
+     * Steve Peregrin Took
+     * Alexander Trocchi
+     * Heathcote Williams
+     * Ubi Dwyer
+
+   Publications
+     * Alternative London
+     * Brighton Voice
+     * Children of Albion: Poetry of the Underground in Britain
+     * The Black Dwarf
+     * Gandalf's Garden
+     * Gay News
+     * Ink
+     * International Times
+     * Muther Grumble
+     * The Mersey Sound
+     * Oz
+     * Schoolkids Oz
+     * Peace News
+     * Seed - The Journal of Organic Living
+     * Spare Rib
+     * Undercurrents
+
+   Bands
+     * AMM
+     * Bonzo Dog Doo-Dah Band
+     * The Crazy World of Arthur Brown
+     * The Creation
+     * Edgar Broughton Band
+     * Delivery
+     * The Deviants
+     * Fairport Convention
+     * Family
+     * Gong
+     * Hawkwind
+     * The Incredible String Band
+     * Pink Fairies
+     * Pink Floyd
+     * Pretty Things
+     * The Purple Gang
+     * Quintessence
+     * Sam Gopal's Dream
+     * Shagrat
+     * Soft Machine
+     * Third Ear Band
+     * Tomorrow
+     * Tyrannosaurus Rex
+
+   Events
+     * Games for May
+     * International Poetry Incarnation
+     * The 14 Hour Technicolor Dream
+     * Phun City
+     * Windsor Free Festival
+
+   Other
+
+     * Arts Lab
+     * Better Books
+     * BIT
+     * Compendium Books
+     * Games for May
+     * Granny Takes a Trip
+     * Indica Gallery
+     * "It's So Far Out, It's Straight Down"
+     * London Free School
+     * London Film-Makers' Co-op
+     * Mr Freedom (fashion)
+     * Release
+     * Seed Macrobiotic Restaurant
+     * UFO Club
+
+   See also
+
+     * British Poetry Revival
+     * Counterculture
+     * English underground
+     * Freak scene
+     * Hippies
+     * Youth subculture
+
+   Authority control databases Edit this at Wikidata
+   International
+     * GND
+
+     National
+     * Czech Republic
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Underground_culture&oldid=1
+   285707022"
+
+   Categories:
+     * Underground culture
+     * 1950s neologisms
+     * Subcultures
+
+   Hidden categories:
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Commons category link from Wikidata
+
+     * This page was last edited on 15 April 2025, at 08:18 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Underground culture
+   (BUTTON) 37 languages Add topic

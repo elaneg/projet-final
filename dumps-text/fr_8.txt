@@ -1,800 +1,380 @@
-   #Modifier Wikipédia (fr) Flux Atom de Wikipédia
+   #Vegenov Atom Feed Vegenov » Flux Vegenov » Flux des commentaires
+   Vegenov » Culture in vitro, retour aux bases Flux des commentaires
+   oEmbed (JSON) oEmbed (XML) JSON
 
-   Aller au contenu
-
-   [ ] Menu principal
-   Menu principal
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Navigation
-     * Page d’accueil
-     * Portails thématiques
-     * Article au hasard
+   Vegenov - Activateur d'idées végétales
+     * Accueil
+     * Création variétale
+     * Santé des plantes
+     * Qualité des végétaux
+     * Objectif innovation
      * Contact
-
-   Contribuer
-     * Débuter sur Wikipédia
-     * Aide
-     * Communauté
-     * Pages spéciales
-     * Modifications récentes
-
-   Wikipédia l'encyclopédie libre
-   Rechercher
-   ____________________
-   (BUTTON) Rechercher
-
-   [ ] Apparence
-
-     * Faire un don
-     * Créer un compte
-     * Se connecter
-
-   [ ] Outils personnels
-     * Faire un don
-     * Créer un compte
-     * Se connecter
-
-Sommaire
-
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-     * Début
-     * 1 Historique de la sélection végétale
-     * 2 Domestication
-     * 3 Sélection
-       (BUTTON) Afficher / masquer la sous-section Sélection
-          + 3.1 Objectifs
-          + 3.2 Schéma de sélection
-          + 3.3 La biodiversité, une notion primordiale pour la sélection
-            végétale
-          + 3.4 Protection légale des obtentions
-     * 4 Méthodes
-       (BUTTON) Afficher / masquer la sous-section Méthodes
-          + 4.1 La sélection massale
-          + 4.2 La sélection récurrente
-          + 4.3 La sélection généalogique
-          + 4.4 La méthode Bulk
-          + 4.5 La sélection par filiation monograine ou « Single Seed
-            Descent (SSD) »
-          + 4.6 Amélioration des lignées existantes
-               o 4.6.1 Rétrocroisement
-                    # 4.6.1.1 La génétique du rétrocroisement
-               o 4.6.2 Manipulations génétiques
-          + 4.7 Hybridation de première génération
-     * 5 Notes et références
-     * 6 Voir aussi
-       (BUTTON) Afficher / masquer la sous-section Voir aussi
-          + 6.1 Articles connexes
-          + 6.2 Bibliographie
-          + 6.3 Liens externes
-
-   [ ] Basculer la table des matières
-
-Culture sélective des plantes
-
-   [ ] 45 langues
-     * Afrikaans
-     * العربية
-     * Asturianu
-     * Azərbaycanca
-     * Català
-     * کوردی
-     * Čeština
-     * Dansk
-     * Deutsch
-     * English
-     * Esperanto
-     * Español
-     * Eesti
-     * Euskara
-     * فارسی
-     * Frysk
-     * Gaeilge
-     * Galego
-     * Hausa
-     * हिन्दी
-     * Hrvatski
-     * Հայերեն
-     * Bahasa Indonesia
-     * 日本語
-     * Қазақша
-     * 한국어
-     * Latviešu
-     * മലയാളം
-     * Nederlands
-     * Norsk bokmål
-     * ਪੰਜਾਬੀ
-     * Polski
-     * Português
-     * Русский
-     * සිංහල
-     * Simple English
-     * Српски / srpski
-     * Svenska
-     * தமிழ்
-     * Türkçe
-     * Українська
-     * Oʻzbekcha / ўзбекча
-     * Tiếng Việt
-     * 中文
-     * 粵語
-
-   Modifier les liens
-
-     * Article
-     * Discussion
-
-   [ ] français
-
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
-
-   [ ] Outils
-   Outils
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Actions
-     * Lire
-     * Modifier
-     * Modifier le code
-     * Voir l’historique
-
-   Général
-     * Pages liées
-     * Suivi des pages liées
-     * Téléverser un fichier
-     * Lien permanent
-     * Informations sur la page
-     * Citer cette page
-     * Obtenir l'URL raccourcie
-     * Télécharger le code QR
-
-   Imprimer / exporter
-     * Créer un livre
-     * Télécharger comme PDF
-     * Version imprimable
-
-   Dans d’autres projets
-     * Wikimedia Commons
-     * Élément Wikidata
-
-   Apparence
-   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
-   Un article de Wikipédia, l'encyclopédie libre.
-
-   La culture sélective des plantes, ou sélection végétale ou amélioration
-   des plantes, est le processus par lequel l'être humain modifie une
-   espèce végétale^[1]. Cette sélection peut avoir différents buts, dont
-   l'adaptation à un usage agricole ou l'élaboration de variétés
-   décoratives pour l'horticulture. Les critères visés sont divers et
-   dépendent de l'utilisation finale de l'espèce ciblée; du point de vue
-   agronomique il s'agit généralement d'améliorer la productivité, de
-   modifier le goût, les qualités nutritionnelles, l'apparence ou encore
-   la résistance aux maladies et aux insectes ravageurs…
-
-   La sélection des végétaux est une pratique apparue il y a environ
-   10 000 ans, simultanément à la domestication des espèces végétales, les
-   premiers agriculteurs cueillant les graines des plantes semblant les
-   plus intéressantes pour eux, et semant d'une année sur l'autre les
-   semences issues des plus « belles » plantes.
-
-Historique de la sélection végétale
-
-   [modifier | modifier le code]
-   Cette section ne cite pas suffisamment ses sources (novembre 2019).
-   Pour l'améliorer, ajoutez des références de qualité et vérifiables
-   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
-   passages nécessitant une source.
-
-   La première sélection remonte à 10 000 ans avec la domestication.
-   L'homme a toujours utilisé, sans même s'en rendre compte, la sélection
-   massale. Par la suite, divers travaux ont fait considérablement avancer
-   les choses :
-     * 1676 : découverte du rôle des organes reproducteurs ;
-     * 1845 : premier travaux sur l’hybridation du maïs par Henri Lecoq ;
-     * 1863 : premières hybridations entre espèces par Charles Naudin ;
-     * 1865 : début de la sélection généalogique grâce à Louis l’Evêque
-       (Louis de Vilmorin) en démontrant l’intérêt de la sélection sur la
-       descendance de la betterave ;
-     * 1866 : lois de Mendel ;
-     * 1902 : découverte de la totipotence des cellules par Gottlieb
-       Haberlandt ;
-     * 1908 : base de la sélection des hybrides sur maïs par Shull ;
-     * 1912 : première sélection de blé par la méthode Bulk par Nilsson ;
-     * 1933 : premières variétés de maïs hybride sont cultivées aux
-       États-Unis ;
-     * 1935 : première carte génétique de certains gènes du maïs par
-       Emerson ;
-     * 1939 : nouvelle méthode, SSD (single seed descent), appliquée sur
-       le blé par Golden ;
-     * 1950 : technique de la culture in vitro (multiplication végétative
-       sur la pomme de terre par Morel et Martin) ;
-     * 1953 : Watson et Crick arrivent à décrire la structure de l’ADN ;
-     * 1970 : Prix Nobel de la paix pour Norman Borlaug, père de la
-       Révolution verte pour ses travaux sur les variétés semi-naines de
-       blé
-     * 1975 : premier hybride de tournesol obtenu par stérilité mâle
-       génétique ;
-     * 1977 : découverte du transfert de gène sur bactérie par Joseph
-       Schell ;
-     * 1983 : développement de la PCR par Kary Mullis, première plante
-       transgénique obtenue à partir du tabac grâce à des équipes belge et
-       américaine ;
-     * 1985 : première variété de blé issue de la technique
-       d’haplodiploïdation ;
-     * 2000 : séquençage du génome sur une brassicacée (arabidopsis
-       thaliana) ;
-     * 2002 : séquençage du génome du riz.
-
-Domestication
-
-   [modifier | modifier le code]
-   Article détaillé : Domestication des plantes.
-
-   La domestication des plantes est un processus de sélection artificielle
-   menée par l'homme afin d'accentuer certains caractères intéressants et
-   d'en amoindrir d'autres, non-désirés et présents chez les plantes
-   sauvages. Il a été estimé que cette pratique date d'entre 9 000 à
-   11 000 ans. Beaucoup de plantes cultivées aujourd'hui sont le résultat
-   de la domestication effectuée il y a 5 000 ans dans l'Ancien Monde et
-   il y a 3 000 ans dans le Nouveau Monde. Aujourd'hui, la plupart de
-   notre alimentation provient de variétés domestiquées^[2]. .
-
-   Une variété cultivée de plante qui a évolué par rapport aux populations
-   sauvages à cause des pressions sélectives des cultivateurs
-   traditionnels est appelée cultivar. Les cultivars, qui peuvent être le
-   résultat des conditions naturelles (écotypes) ou de la domestication,
-   sont des plantes qui conviennent particulièrement à une région ou à un
-   environnement donné : par exemple parmi les différents cultivars du
-   riz, la sous-espèce Oryza sativa indica, qui a été développée en Asie
-   méridionale, alors que la sous-espèce Oryza sativa japonica a été
-   développée en Chine.
-   Les espèces cultivées dont il n'existe pas d'homologues sauvages sont
-   appelées cultigènes.
-
-   Les notions proches de celle de cultivar sont pour les animaux les
-   sous-espèces, variétés et races.
-
-Sélection
-
-   [modifier | modifier le code]
-   [250px-Wheat_selection_k10183-1.jpg] Sélections de plants de blé
-
-   L'amélioration des plantes se fait généralement par sélection ainsi que
-   par le croisement éventuel de différentes variétés, suivie de
-   sélections. Le patrimoine génétique des espèces sélectionnées se
-   retrouve donc dans la variété créée, qui peut combiner des avantages de
-   ses différents « ancêtres ». Ce processus de sélection est long (il
-   faut plusieurs années pour élaborer une nouvelle variété). Il nécessite
-   aussi de disposer d'une importante « bibliothèque » de variétés ; en
-   particulier les variétés sauvages peuvent apporter des solutions à
-   l'apparition de nouvelles maladies, c'est pourquoi il est primordial de
-   conserver cette biodiversité^[3].
-
-   La sélection des plantes peut se faire de façon très structurée, mais a
-   existé ou existe toujours aussi de façon informelle.
-
-Objectifs
-
-   [modifier | modifier le code]
-
-   Un programme de sélection méthodique et raisonné vise en général à
-   améliorer une variété pour des objectifs donnés. Il permet de
-   caractériser la variété idéale, l'idéotype, que les sélectionneurs
-   souhaitent créer. La définition des objectifs est donc un point crucial
-   dans les programmes de sélection. Une fois les objectifs définis, le
-   programme se déroule sur plusieurs années, de 7 à 25 ans, période
-   durant laquelle l'équipe qui réalise ce programme devra poursuivre les
-   mêmes objectifs^[3].
-
-Schéma de sélection
-
-   [modifier | modifier le code]
-
-   Le sélectionneur part des variétés existantes et de sa connaissance de
-   leurs caractéristiques. Il existe deux grands types de végétaux, les
-   plantes autogames, qui sont autofécondes et les plantes allogames, à
-   fécondation croisée. De nombreuses espèces (comme le colza) ont des
-   régimes de reproduction intermédiaires, ou dits mixtes (taux
-   d'allofécondation compris entre 10 et 90 %) et les espèces dites
-   autogames ont en général un taux d'allofécondation non nul (0,5 % < t <
-   10 %). Ces modes de reproduction conduisent à des schémas de sélection
-   différents qui produiront l'un de ces types variétaux : lignée pure,
-   hybride F1 ou variété population^[3].
-
-La biodiversité, une notion primordiale pour la sélection végétale
-
-   [modifier | modifier le code]
-   Cette section ne cite pas suffisamment ses sources (novembre 2019).
-   Pour l'améliorer, ajoutez des références de qualité et vérifiables
-   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
-   passages nécessitant une source.
-
-   La biodiversité est essentielle pour le sélectionneur et la baisse de
-   la diversité au niveau des espèces cultivées est un problème
-   d'actualité. Garder d'anciennes espèces permet par exemple d'utiliser
-   un caractère que l'on avait jugé inintéressant jadis, mais qui devient
-   désirable à la suite des évolutions de l'agriculture. De plus, croiser
-   une lignée pure (appauvrie génétiquement) avec une ancienne variété
-   permet de redonner de la vigueur à la plante (c'est l'effet hétérosis).
-   Pour limiter le phénomène d'appauvrissement lié à la sélection
-   végétale, il faut conserver un maximum de variétés. Deux solutions sont
-   possibles :
-     * la conservation in situ (au champ, dans des réserves, afin de
-       conserver les plantes dans le milieu naturel). Mais avec cette
-       méthode les populations de plantes peuvent évoluer rapidement,
-       surtout s'il s'agit d'espèces à fécondation croisée ;
-     * la conservation ex situ (banques de gènes avec des collections de
-       graines, des cultures de tissus…). Les variétés conservées doivent
-       être renouvelées régulièrement pour que les plantes restent
-       viables. Cette méthode permet d'obtenir une meilleure stabilité des
-       populations conservées par rapport au type initial.
-
-   Article détaillé : Sélection conservatrice.
-
-Protection légale des obtentions
-
-   [modifier | modifier le code]
-   Cette section ne cite pas suffisamment ses sources (novembre 2019).
-   Pour l'améliorer, ajoutez des références de qualité et vérifiables
-   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
-   passages nécessitant une source.
-
-   Afin de protéger les droits de l'obtenteur et lui permettre de financer
-   de nouvelles recherches, l'obtention d'une nouvelle variété peut être
-   protégée de la copie sans versement de droits par un certificat
-   d'obtention végétale.
-
-Méthodes
-
-   [modifier | modifier le code]
-
-   Selon les objectifs recherchés, il y a différents types de sélection.
-   Ceux-ci se complètent bien souvent.
-
-La sélection massale
-
-   [modifier | modifier le code]
-
-   C'est la plus ancienne. C'est une méthode simple et peu coûteuse : on
-   choisit les plantes qui semblent les plus intéressantes dans une
-   population (meilleurs épis, meilleurs fruits, etc.), puis on utilise
-   leurs graines comme semence pour la culture suivante. Ceci est fait de
-   génération en génération ce qui permet d'augmenter la valeur moyenne de
-   la population. La sélection massale ne peut s'appliquer dans toutes les
-   situations (exemple : expérience de Johannsen en 1903). D'autres
-   limites sont plus évidentes : si le caractère souhaité ne s'extériorise
-   pas chez la plante ou que le caractère est peu héritable, cette
-   sélection ne fonctionne pas. Entre deux étapes de sélection, les
-   recombinaisons génétiques se font naturellement, sans aucun contrôle
-   humain. Les plantes sélectionnées présentent par conséquent une
-   certaine hétérogénéité: elles ne sont ni strictement identiques à
-   celles de la génération précédente, ni strictement identiques entre
-   elles. Elles ne constituent donc pas une variété^[4] au sens de la
-   définition de l'UPOV.
-
-La sélection récurrente
-
-   [modifier | modifier le code]
-
-   Avant Louis de Vilmorin, la sélection était essentiellement entre
-   populations^[5], l'unité de sélection était la population ; ce sont les
-   meilleures populations qui étaient commercialisées ou échangées entre
-   agriculteurs ; il y avait bien une sélection à l'intérieur des
-   populations (cas du maïs, avec les foires aux plus beaux épis aux USA),
-   mais elle ne pouvait pas être très efficace^[3].
-
-   En 1859, Louis de Vilmorin a introduit la sélection au niveau
-   individuel (intrapopulation), avec la notion de test de descendance qui
-   chez les céréales autogames a conduit très vite à une purification des
-   populations par la création de variétés lignées pures (démonstration
-   claire faite plus tard par Johanssen, 1903, chez le haricot). Il
-   fallait donc croiser entre elles les meilleures lignées pour régénérer
-   de la variabilité génétique et réunir dans un même génotype des
-   caractères présents dans des génotypes différents, d'où la sélection
-   généalogique à partir de croisements (introduite en fait par Henry de
-   Vilmorin, fils de Louis). Des lignées complémentaires sont croisées
-   entre elles, et par sélection au cours des générations
-   d’autofécondation, on espère isoler de nouvelles lignées
-   transgressives, c’est-à-dire ayant réuni plus de gènes favorables que
-   le meilleur des deux parents. Le grand nombre de gènes favorables à
-   réunir fait que cela ne peut se faire que progressivement, d’où la
-   continuité observée du progrès génétique pour les caractères complexes
-   (polygéniques).
-
-   L'amélioration récurrente d'une population est la répétition (d'où
-   l'adjectif récurrente) de cycles de sélection suivie d'une
-   recombinaison génétique de la descendance des meilleures plantes ou
-   meilleures lignées (donc le terme de « sélection récurrente » est
-   presque impropre puisqu'il oublie la moitié du processus). La
-   « sélection récurrente » n'est pas une sorte de sélection massale ou de
-   sélection généalogique ou autre, car l'étape de sélection peut utiliser
-   la sélection massale ou la sélection généalogique éventuellement
-   précédée par une fixation par descendances successives
-   mono-graines^[6]. Souvent la sélection récurrente est présentée comme
-   une autre possibilité que la sélection généalogique, mais cette
-   opposition est erronée comme expliqué précédemment). Le plus simple est
-   de dire qu'une population (qui sera améliorée par des cycles récurrents
-   de sélection-recombinaison génétique) remplace une ou, de fait,
-   plusieurs populations F2 (issues du croisement de deux parents
-   homozygotes). La différence fondamentale qui distingue une population
-   dite « récurrente » (facilité de langage pour indiquer qu'elle sera
-   améliorée par processus récurrent) et une population F2 est que la
-   seconde ne sera pas améliorée et disparaîtra du schéma d'amélioration
-   génétique suivi dès l'extraction de lignées F3. Cette différence est
-   fondamentale car elle conduit à des modes de sélection (pression de
-   sélection et effectif retenu) très différents.
-
-   L'amélioration populationnelle récurrente est la méthode de choix pour
-   travailler sur des caractères dont le déterminisme génétique est
-   polygénique et/ou sur une série de caractères (même monogéniques) dont
-   l'ensemble est polygénique. Autrement dit, l'amélioration
-   populationnelle récurrente est la toujours la meilleure méthode^[7]
-
-   La sélection récurrente consiste d’abord à remplacer la population F2
-   (issue du croisement de deux parents et d’une autofécondation de la F1,
-   cas d’une espèce autogame) ou S1 (issue du croisement de deux parents
-   et d’une allofécondation de la S0, cas d’une espèce allogame) par une
-   population récurrente. Cette population est issue du croisement de plus
-   de deux parents (depuis 4, pour une population récurrente à base
-   génétique étroite, à plusieurs dizaines pour une population récurrente
-   à base génétique large). Un gène de stérilité male est en général
-   utilisé pour que les fécondations croisées se fassent spontanément au
-   champ (donc non contrôlées) et non manuellement. Une sélection massale
-   ou généalogique (souvent sur lignées de demi-frères descendant de la
-   récolte de plantes mâle-stériles) est effectuée dans cette population
-   et les descendances des plantes ou lignées sélectionnées sont semées et
-   recombinées par récolte des plantes male-stériles, ceci pour
-   l’amélioration récurrente de la population (cycles successifs de
-   sélection et de recombinaison). Par ailleurs, quelques descendances
-   entrent dans le processus de sélection-fixation pour l’obtention,
-   finalement, de variétés. Cette sélection-fixation peut se faire par
-   l’utilisation initiale de la sélection massale, ou la fixation par
-   haplo-diploïdisation ou par descendances unipares, puis, ou
-   directement, par sélection généalogique. Le terme de « sélection
-   récurrente » ne s’oppose donc pas à ceux de « sélection massale» ou
-   « généalogique », puisque la sélection récurrente peut être soit
-   généalogique, soit massale^[8].
-
-La sélection généalogique
-
-   [modifier | modifier le code]
-
-   La sélection généalogique aussi appelée autofécondation en filiation,
-   se caractérise par le fait que la sélection des lignées a lieu pendant
-   leur fixation à l'état homozygote. Ce type de sélection débute par le
-   croisement de deux plantes (parents) dont les caractères sont jugés
-   intéressants et complémentaires. Les plantes issues de ce croisement
-   sont hétérozygotes pour un grand nombre de gènes et présentent une
-   forte variabilité de phénotype. Elles sont autofécondées afin de
-   produire des plantes dont le niveau d'hétérozygotie est moins grand, au
-   sein desquelles le sélectionneur choisit les meilleurs individus. Le
-   cycle autofécondation-sélection est répété pendant 4 à 5 générations.
-   Les plantes issues de ce processus sont ensuite autofécondées et
-   testées pendant 4 générations afin de produire des lignées fixées^[3].
-
-   Une fois le croisement des deux parents de lignée pures et l’obtention
-   de l’hybride F1. La sélection généalogique revient à sélectionner,
-   stabiliser au fur et à mesure des années la variété par
-   autofécondation. La sélection est dite généalogique car les graines de
-   chaque plante choisie à une génération sont récoltées séparément pour
-   être ressemées l’année suivante en descendances individualisées. Lors
-   de cet étapes, et pour chaque nouvelle génération les graines ou
-   plantes ne présentant pas les caractères groupés des variétés parents
-   sont éliminées. Cette technique d’épuration à chaque génération
-   d’autofécondation permet de réunir plus de gènes favorables que le
-   meilleur des deux parents.
-
-   Cette méthode est imprécise du fait que la sélection est réalisée sur
-   des plantes qui présentent un taux d'hétérozygotie important, et elle
-   entraîne une perte rapide de variabilité génétique. C'est pourquoi elle
-   est très efficace pour des caractères très héritables, c'est-à-dire peu
-   influencés par le milieu, mais peu efficace pour les caractères peu
-   héritables.
-
-La méthode Bulk
-
-   [modifier | modifier le code]
-   Cette section ne cite pas suffisamment ses sources (novembre 2019).
-   Pour l'améliorer, ajoutez des références de qualité et vérifiables
-   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
-   passages nécessitant une source.
-
-   La méthode bulk (de l'anglais pour « volume » ou « en vrac ») est
-   également appelée sélection généalogique différée car dans cette
-   méthode, la sélection a lieu après fixation des lignées.
-
-   De même que pour la sélection généalogique, on croise deux parents
-   complémentaires ensuite autofécondées mais aucune sélection n'est
-   effectuée à ce niveau. Les autofécondations sans sélection sont
-   répétées sur 4 à 5 générations au total, ce qui permet d'obtenir des
-   lignées fixées. La sélection n'intervient qu'ensuite, selon un
-   processus analogue à celui utilisé en sélection généalogique si ce
-   n'est qu'il est appliqué à des lignées fixées^[9].
-
-   Cette méthode est peu coûteuse, permet d'étudier un grand nombre de
-   croisements, plus efficace que la sélection généalogique pour des
-   caractères peu héritables car la variabilité génétique diminue moins
-   vite mais il n'est pas exclu que des plantes potentiellement
-   intéressantes disparaissent naturellement pendant les étapes
-   d'autofécondation sans sélection, ce qui peut introduire un biais dans
-   le processus de sélection. Il est possible de combiner la méthode bulk
-   et la méthode généalogique.
-
-La sélection par filiation monograine ou « Single Seed Descent (SSD) »
-
-   [modifier | modifier le code]
-   Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
-   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
-   ici pour en savoir plus.
-
-   L'article doit être débarrassé d'une partie de son jargon (juin 2023).
-
-   Sa qualité peut être largement améliorée en utilisant un vocabulaire
-   plus directement compréhensible.
-   Discutez des points à améliorer en page de discussion.
-
-   Cette méthode ressemble à la méthode bulk dans la mesure où la
-   sélection des lignées intervient après leur fixation. La différence
-   avec la méthode bulk réside dans le fait que l'on étudie ici la
-   descendance de graines prises individuellement à chaque étape
-   d'autofécondation.
-
-   De même que la méthode bulk, la sélection par filiation monograine
-   permet de limiter la perte de variabilité génétique, ce qui la rend
-   efficace pour des caractères peu héritables. L'avantage de la filiation
-   monograine par rapport à la méthode bulk est que le risque de biais par
-   sélection naturelle pendant les premières étapes de fixation des
-   lignées est limité. Cette méthode permet aussi de gagner du temps : il
-   n'est pas nécessaire d'attendre la maturité de toutes les graines d'une
-   plante puisqu'une seule graine suffit. La fixation génétique par
-   descendances successives mono-graines est moins coûteuse que la
-   fixation par obtention d’haploïdes doublés (en équipement, notamment).
-   Sa gestion est très simple et elle est aussi conduite en contre-saison.
-   Il n'y a aucun risque de perdre des descendances, cette la croyance
-   venant du nom de la méthode. Pratiquement, il est prélevé une panicule
-   ou un épis par du matériel à fixer. Ensuite, il est semé, par exemple,
-   5 graines (par sécurité sui perte due quelque plantes durant le cycle
-   de culture), le reste étant gardé comme sécurité (si perte totale lors
-   du cycle de culture). Donc pas de risque de perte de matériel avec
-   cette double sécurité « ceinture et bretelles ». Ensuite, une seule
-   panicule ou un seul épis est récolté sur chaque mini-ligne ou poquet de
-   5 graines et utilisé pour le cycle suivant. Toutes les panicules ou
-   tous les épis sont récoltés sur chaque mini-ligne ou poquet de 5
-   graines pour l'utilisation de la lignée en création variétale (Vales,
-   2021) [Vales M. 2021 Fijación genética de líneas (FGL).
-   Fitomejoramiento eficiente, Parte 1, Módulo 6, Versión 1.
-   https://tubedu.org/videos/watch/e44e78e6-caa6-4b5f-bfb9-6c8274f2a82a]
-   Documento pdf relacionado con este video: Parte 1 - Modulo 5 - v1 - FGL
-   https://cloud.degoo.com/share/1CJJJZlF8hQwCM-Vh0ZP_Q
-
-Amélioration des lignées existantes
-
-   [modifier | modifier le code]
-
-Rétrocroisement
-
-   [modifier | modifier le code]
-   Article détaillé : Rétrocroisement.
-
-   Un caractère intéressant, tel que la résistance aux maladies, la
-   tolérance au stress, la stérilité, l'amélioration de critères de
-   qualité, peut être présent dans une plante mais pas dans les lignées
-   élites à la base des variétés commerciales. Le sélectionneur va
-   chercher à créer une lignée identique à la lignée élite, mais possédant
-   en plus ce caractère. Pour obtenir ce résultat, le sélectionneur
-   procède par rétrocroisement, (en anglais back-cross).
-
-   Pour cela, il réalise une série d'hybridations entre la lignée
-   receveuse ou élite, et la lignée donneuse du caractère. Les descendants
-   sont ensuite croisés pendant plusieurs générations par la lignée
-   receveuse ou récurrente. Ceci permet d'augmenter la part de la lignée
-   élite dans le fonds génétique des descendants, tout en veillant à
-   conserver le caractère intéressant par élimination des individus
-   n'ayant pas le caractère désiré. Le résultat du rétrocroisement est
-   l'obtention d'une lignée convertie, c'est-à-dire quasiment identique à
-   la lignée élite receveuse, mais contenant en plus le caractère désiré.
-
-La génétique du rétrocroisement
-
-   [modifier | modifier le code]
-   Article détaillé : Rétrocroisement.
-
-   Les descendants issus du premier croisement possèdent 50 % du
-   patrimoine génétique de la lignée élite et 50 % du patrimoine du
-   donneur. Lors des back-cross suivants, la proportion du génotype élite
-   augmente, les individus obtenus au deuxième back-cross sont 75 % élite
-   et 25 % donneur. Au bout du 6^e back-cross, la part de la lignée élite
-   est de 98,44 %, on estime alors que la lignée obtenue est suffisamment
-   proche de la lignée élite. On tend vers l'obtention d'une lignée
-   isogénique, en ne différant de la lignée élite que par un seul gène.
-
-Manipulations génétiques
-
-   [modifier | modifier le code]
-   Articles détaillés : Transgénèse et Organisme génétiquement modifié.
-
-   Depuis quelques années, industriels et laboratoires réussissent à
-   contourner la sélection et le croisement en introduisant directement
-   des gènes jugés « intéressants » dans le patrimoine génétique de la
-   plante grâce à des techniques biomoléculaire de transgenèse et plus
-   récemment à des techniques dites d'édition génomique (Gene editing).
-   Ces techniques permettent d'élaborer des plantes présentant des
-   caractères « inédits », respectivement grâce à la possibilité
-   d'incorporer des gènes d'espèces totalement étrangères et à la
-   possibilité de modifier in situ le génome de l'organisme (en effectuant
-   des couper-collés de fragments d'ADN via des techniques de manipulation
-   du génome plus récemment développées pour arriver au même résultat mais
-   sans insérer de gènes étrangers. C'est ainsi que récemment des
-   entreprises ont pu créer des plantes tolérantes à des herbicides rien
-   qu'en manipulant leur génome^[10]^,^[11]. Des plantes dites
-   « transgéniques » peuvent être destinées à l'alimentation ou à produire
-   des molécules (à usage industriel, médical…). Les plantes génétiquement
-   modifiées sont controversées, notamment dans un contexte où le public
-   manque d'information objective.
-
-Hybridation de première génération
-
-   [modifier | modifier le code]
-   Cette section ne cite pas suffisamment ses sources (novembre 2019).
-   Pour l'améliorer, ajoutez des références de qualité et vérifiables
-   (comment faire ?) ou le modèle {{Référence nécessaire}} sur les
-   passages nécessitant une source.
-
-   L'hybridation en première génération ou hybride F1 est une technique
-   très répandue pour obtenir des semences et plants ayant des hautes
-   performances. On bénéficie ainsi de la vigueur hybride ou hétérosis,
-   ainsi que d'autres caractères éventuellement comme la stérilité des
-   produits^[réf. nécessaire]. Les plants obtenus ne sont pas dans ce cas
-   destiné à être employés à nouveau pour produire la génération suivante.
-   Il ne s'agit donc pas à proprement parler de culture sélective.
-
-Notes et références
-
-   [modifier | modifier le code]
-    1. ↑ Evolution des techniques de la génétique J.Marchadier 2010
-    2. ↑ Michel Pitrat, Claude Foury et Institut national de la recherche
-       agronomique (France), Histoires de légumes : des origines à l'orée
-       du XXIe siècle, Institut national de la recherche agronomique,
-       2003, 410 p. (ISBN 2-7380-1066-0 et 978-2-7380-1066-7,
-       OCLC 300968980, lire en ligne), p. 39-45.
-    3. ↑ ^a b c d et e Claire Doré et Fabrice Varoquaux, Histoire et
-       amélioration de cinquante plantes cultivées, Paris, Éditions Quae,
-       2006 (ISBN 978-2-7380-1215-9, BNF 40116495, présentation en ligne),
-       p. 21-51
-    4. ↑ Corn Breeding: Mass Selection - USDA
-    5. ↑ Colloque "Amélioration des plantes" - INRA - 2002
-    6. ↑ (en) Michel Vales, Joanna Dossmann, Diana Delgado, Myriam
-       Cristina Duque, « Parallel and interlaced recurrent selection
-       (PAIRS): Demonstration of the feasibility of implementing PAIRS to
-       improve complete and partial resistance to blast (Magnaporthe
-       grisea) and some other main traits in rice », Field Crops
-       Research,‎ volume 111, issues 1–2, 15 mars 2009, p. 173-178 (lire
-       en ligne)
-    7. ↑ (en) M. Vales, T. Anzoátegui, B. Huallpa & M. I. Cazon, « Review
-       on resistance to wheat blast disease (Magnaporthe oryzae Triticum)
-       from the breeder point-of-view: use of the experience on resistance
-       to rice blast disease », Euphytica,‎ 7 décembre 2017, p. 214, 1 p19
-       (lire en ligne Accès payant [PDF])
-    8. ↑ (en) Vales, M. J. 2009. Some innovations in rice recurrent
-       selection: The back recurrent selection (bcrs), the simplified and
-       efficient rice breeding method (serb), and the plant-parasite
-       reciprocal recurrent selection (2p2rs). Crop Protection.
-       (ISSN 0261-2194) DOI 10.1016/j.cropro.2009.10.019
-    9. ↑ « Pour en savoir plus sur la sélection Bulk », sur Université de
-       TOURS - GÉNET, 20 mai, 2010 (consulté le 22 juin 2023)
-   10. ↑ Seeds of change ; The European Union faces a fresh battle over
-       next-generation plant-breeding techniques, éditorial de la Revue
-       Nature, publié le 08 avril 2015, 520, 131–132 (en ligne 09 April
-       2015) ; Doi:10.1038/520131b
-   11. ↑ Expertise collective INRAE, « Les variétés végétales tolérantes
-       aux herbicides », sur INRAE, 2011 (consulté le 6 mai 2025)
-
-Voir aussi
-
-   [modifier | modifier le code]
-
-Articles connexes
-
-   [modifier | modifier le code]
-     * Élevage sélectif des animaux
-     * Sélection artificielle
-     * Sélection conservatrice
-     * Sélection naturelle
-     * Agent chimique d'hybridation
-     * Nouvelles techniques de sélection des plantes
-     * Histoire de la sélection végétale
-     * Sélection des fraisiers
-
-Bibliographie
-
-   [modifier | modifier le code]
-     * Comprendre l'amélioration des plantes. Enjeux, méthodes, objectifs
-       et critères de sélection, André Gallais, Quae, 2015,
-       (ISBN 978-2-7592-2346-6)
-     * (en) Agnès Ricroch, Surinder Chopra, Shelby J. Fleischer, Plant
-       Biotechnology. Experience and Future Prospects, Springer, 2014,
-       291 p. (lire en ligne)
-     * Claire Doré et Fabrice Varoquaux, Histoire et amélioration de
-       cinquante plantes cultivées, Paris, Éditions Quae, 2006
-       (ISBN 978-2-7380-1215-9, BNF 40116495, présentation en ligne),
-       p. 71-83
-     * Michel Pitrat, Claude Foury et Institut national de la recherche
-       agronomique (France), Histoires de légumes : des origines à l'orée
-       du XXIe siècle, Institut national de la recherche agronomique,
-       2003, 410 p. (ISBN 2-7380-1066-0 et 978-2-7380-1066-7,
-       OCLC 300968980, lire en ligne), p. 118
-     * André Gallais, Hubert et Bannerot, Amélioration des espèces
-       végétales cultivées Objectifs et critères de sélection, Paris,
-       Editions INRA, 1992 (ISBN 2-7380-0383-4, ISSN 1144-7605, lire en
-       ligne).
-
-Liens externes
-
-   [modifier | modifier le code]
-     * Amélioration des plantes pour l'adaptation aux milieux arides,
-       auteur(s) : Chalbi N., Demarly Y.
-     * Amélioration et Protection des plantes vivrières tropicales,
-       auteur(s) : Saint-Pierre C.-A., Demarly Y.
-     * Site pédagogique consacré à l'amélioration des plantes et aux
-       biotechs réalisé par Semae
-
-     * icône décorative Portail des plantes utiles
-     * icône décorative Portail de l'agriculture et de l'agronomie
-
-   Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=Culture_sélective_des_plan
-   tes&oldid=226500799 ».
-   Catégories :
-     * Agronomie
-     * Agriculture
-     * Génétique
-     * Hybride végétal
-     * Génétique des végétaux
-     * Domestication des plantes
-
-   Catégories cachées :
-     * Article manquant de références depuis novembre 2019
-     * Article manquant de références/Liste complète
-     * Article à déjargoniser
-     * Article à référence nécessaire
-     * Portail:Plantes utiles/Articles liés
-     * Portail:Botanique/Articles liés
-     * Portail:Biologie/Articles liés
-     * Portail:Agriculture et agronomie/Articles liés
-     * Projet:Biologie/Pages liées
-     * Portail:Sciences/Articles liés
-
-     * La dernière modification de cette page a été faite le 14 juin 2025
-       à 14:42.
-     * Droit d'auteur : les textes sont disponibles sous licence Creative
-       Commons attribution, partage dans les mêmes conditions ; d’autres
-       conditions peuvent s’appliquer. Voyez les conditions d’utilisation
-       pour plus de détails, ainsi que les crédits graphiques. En cas de
-       réutilisation des textes de cette page, voyez comment citer les
-       auteurs et mentionner la licence.
-       Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc.,
-       organisation de bienfaisance régie par le paragraphe 501(c)(3) du
-       code fiscal des États-Unis.
-
-     * Politique de confidentialité
-     * À propos de Wikipédia
-     * Avertissements
+     * A propos
+
+   Vegenov - Activateur d'idées végétales
+
+   Accueil
+   Création variétale
+   Santé des plantes
+   Qualité des végétaux
+   Objectif innovation
+   Contact
+   A propos
+     * Accueil
+     * Création variétale
+     * Santé des plantes
+     * Qualité des végétaux
+     * Objectif innovation
      * Contact
-     * Contacts juridiques & sécurité
-     * Code de conduite
-     * Développeurs
-     * Statistiques
-     * Déclaration sur les témoins (cookies)
-     * Version mobile
+     * A propos
 
-     * Wikimedia Foundation
-     * Powered by MediaWiki
+   Création variétale, Qualité des végétaux
 
-   (BUTTON) Rechercher
+Culture in vitro, retour aux bases
+
+La culture in vitro est une technique importante en production végétale,
+notamment pour les espèces à multiplication végétative. Elle permet la
+production en quantité de jeunes plants et garantit la circulation de
+matériel végétal sain. Quel est son principe ? Comment faire ? Revenons sur
+les bases de cette technique !
+     __________________________________________________________________
+
+Qu’est-ce que la culture in vitro ?
+
+   Son principe repose sur la totipotence cellulaire végétale, une
+   caractéristique propre aux végétaux. Certaines cellules végétales
+   différenciées peuvent revenir à un stade indifférencié. Elles ont alors
+   les mêmes qualités que les cellules embryonnaires et peuvent régénérer
+   dans les conditions adéquates, une nouvelle plante identique à la
+   plante mère.
+
+   La technique de culture in vitro consiste donc à placer en conditions
+   artificielles et contrôlées des organes de plantes, parfois très
+   petits, afin de reproduire plus vite ou en plus grande quantité des
+   plantes entières.
+
+   L’utilisation de la culture in vitro de végétaux, aussi appelée
+   micropropagation ou microbouturage, s’est généralisée à la fin des
+   années 1960.
+     __________________________________________________________________
+
+Les trois phases de la culture in vitro
+
+   On considère classiquement que pour du microbouturage, la culture se
+   déroule en trois phases.
+
+Introduction in vitro de matériel sain
+
+   La première phase est l’introduction in vitro de matériel sain,
+   c’est-à-dire indemne de bactérie ou champignon de surface. La quantité
+   de sucre apportée à la plante dans le milieu de culture in vitro pour
+   se développer est suffisante pour permettre également aux champignons
+   et bactéries de se multiplier, et ce, encore plus rapidement que le
+   végétal ! Il est donc nécessaire de désinfecter tout le matériel
+   utilisé pour ne pas les introduire dans la culture, y compris les
+   fragments de plantes, et de travailler en conditions stériles.
+   Prélèvement de matériel végétal sous hottes stériles
+
+   Ce matériel de départ peut provenir de parties très variées de la
+   plante et subit une désinfection avec une solution de chlore actif (eau
+   de javel ou hypochlorite de calcium) et un rinçage soigneux à l’eau
+   stérile.
+
+   Pour du microbouturage, on part en général d’un apex ou d’un nœud
+   prélevé sur la tige, voire d’un méristème. Parfois il est possible
+   d’induire des pousses feuillées à partir de pièces florales (alliums,
+   choux, chrysanthèmes…) ou de fragments de feuilles (saintpaulia,
+   bégonia, tabac …). La vitesse de redémarrage de l’explant dépend
+   souvent de sa taille au départ, et de l’espèce végétale.
+
+   Ensuite, les explants sont placés en salle de culture contrôlée, avec
+   une température et une durée du jour stables (par exemple : 20-22°C,
+   16h de jour).
+   Pousses feuillées de tabac régénérées à partir de disques foliaires
+
+Micropropagation
+
+   La deuxième phase est celle de multiplication, ou micropropagation, par
+   ramification le long de la tige ou bourgeonnement à la base du plant.
+   Cette étape est en général stimulée par un apport de cytokinines
+   (hormone de croissance produite naturellement par les végétaux) dans le
+   milieu de culture.
+
+   Le nombre de cycles de multiplication dépend du taux de multiplication
+   à chaque subculture et de l’objectif de production.
+
+   Une subculture in vitro dure de 2 à 6 semaines, ce qui permet de
+   réaliser des cycles de multiplication rapides.
+
+Préparation à l’acclimatation
+
+   La troisième étape est celle de préparation à l’acclimatation. En
+   général, on cherche à produire des pousses feuillées portant un apex et
+   des racines, stimulées par les auxines du milieu. Ces racines ne sont
+   pas fonctionnelles une fois la plante placée dans du terreau
+   d’acclimatation, mais elles contribuent à une bonne reprise et à la
+   néoformation de racines sur le jeune plant une fois celui-ci en terre.
+     __________________________________________________________________
+
+La sortie de culture in vitro ou acclimatation
+
+   Une fois enracinés, les plants peuvent être acclimatés en serre. Cela
+   consiste à les sortir d’in vitro, les placer dans du terreau horticole
+   et les adapter progressivement aux conditions de culture normales, plus
+   sèches et avec une intensité lumineuse plus importante qu’en
+   laboratoire.
+
+   La phase d’acclimatation des jeunes plants prend quelques jours à
+   quelques semaines.
+   Plantules de lavande in vitro à différents stades
+     __________________________________________________________________
+
+Le milieu de culture in vitro
+
+   Un des éléments majeurs des conditions contrôlées de culture in vitro
+   est l’apport des éléments nutritifs sous forme d’un substrat
+   synthétique de composition précise. Ce substrat s’appelle « milieu de
+   culture ». Il comporte, outre de l’eau et des éléments minéraux
+   nécessaires à toute plante, un gélifiant (permettant de donner une
+   texture ferme au milieu), du sucre, des vitamines et des hormones
+   végétales.
+
+   Ces composants permettent la croissance du tissu isolé en organe, même
+   s’il n’est pas relié à la plante mère habituellement source d’éléments
+   nutritifs.
+
+   Le sucre apporte aux fragments de plante, parfois réduits à juste
+   quelques cellules isolées, l’énergie nécessaire pour se multiplier et
+   donner une nouvelle plante en conditions d’hétérotrophie.
+   L’hétérotrophie est la nécessité pour un organisme vivant de se nourrir
+   de constituants organiques préexistants.
+
+   Les hormones végétales permettent, elles, d’orienter le développement
+   des tissus vers la prolifération de pousses feuillées ou la croissance
+   de racines. En cours de culture, il faut donc faire varier les hormones
+   végétales en fonction du type de croissance recherché : des cytokinines
+   pour favoriser la multiplication des microboutures, puis des auxines
+   pour favoriser l’enracinement préparatoire à l’acclimatation.
+
+   Le milieu de culture in vitro a une composition complexe et adaptée à
+   chaque espèce végétale et à chaque stade de développement de la plante
+   in vitro. D’une espèce à l’autre, les éléments minéraux changent afin
+   de s’adapter aux besoins physiologiques de l’espèce.
+     __________________________________________________________________
+
+Des applications variées
+
+   L’environnement de culture des plants in vitro et les compétences des
+   opérateurs impliquent des coûts de production assez élevés. En effet,
+   très peu d’opérations sont automatisées. Mais le jeu en vaut bien la
+   chandelle ! Les outils de culture in vitro de végétaux reposent sur la
+   même technique de base, mais en fonction du matériel végétal de départ,
+   diverses d’applications (décrites dans La culture in vitro au service
+   de la qualité des semences et plants) sont possibles :
+     * produire des végétaux de meilleure qualité,
+     * faciliter l’exploitation des ressources génétiques,
+     * accélérer la création variétale.
+
+   Le recours à la culture in vitro permet de produire rapidement un grand
+   nombre de plants, ce qui est intéressant dans le cas d’une innovation
+   que l’on veut rapidement proposer sur le marché. Mais ce sont surtout
+   les avantages offerts en termes de qualité des jeunes plants qui
+   justifient le recours à cette technique coûteuse. La question de
+   l’assainissement sera d’ailleurs le thème de notre prochain billet.
+     __________________________________________________________________
+
+   Pour conclure sur la culture in vitro, gardez en tête que si une
+   application peut être très utilisée chez une espèce végétale donnée,
+   d’autres espèces peuvent y être récalcitrantes. Toute la difficulté de
+   la technique consiste à mettre au point la composition optimale du
+   milieu de culture en fonction de l’objectif fixé au départ !
+     __________________________________________________________________
+
+
+
+Crédits photos : Monsieur Media - Vegenov
+
+   Download PDF
+
+Partager :
+
+     * Cliquez pour partager sur Facebook(ouvre dans une nouvelle fenêtre)
+       Facebook
+     * Cliquer pour partager sur X(ouvre dans une nouvelle fenêtre) X
+     * Cliquez pour partager sur LinkedIn(ouvre dans une nouvelle fenêtre)
+       LinkedIn
+     *
+
+   23 mars 2020
+   [MB_avatar.jpg]
+   Ce billet a été rédigé par Manuelle Bodin
+   C’est avec plus de 15 ans d’expérience dans le développement d’outils
+   de biologie cellulaire pour les sélectionneurs que Manuelle, grâce à
+   son équipe, met en place des solutions techniques adaptées à chaque
+   espèce végétale.
+
+Sur le même thème
+
+Haploïdes doublés : les méthodes d’induction in vivo
+
+   22 octobre 2025
+   Tubes de culture in vitro
+
+La culture in vitro au service de la qualité des semences et plants
+
+   1 juillet 2013
+   Haplométhodes
+
+Haploïdes doublés : les méthodes d’induction in vitro
+
+   17 octobre 2024
+
+17 commentaires
+    1. Leulier 24 juillet 2021 at 4 h 09 min
+       Bonjour,
+       Je suis le propriétaire d’echinacées qui présentent une mutation au
+       niveau des rangs de pétales rendant les fleurs avec 3 à 10 rangs de
+       pétales surnuméraires. Je recherche un multiplicateur qui pourrait
+       multiplier mes plantes. Auriez-vous des noms de professionnels à me
+       conseiller.
+       Je vous remercie par avance pour votre réponse.
+       Cordialement
+          + [JC_avatar-1.jpg]
+            Juliette Clément 26 juillet 2021 at 16 h 44 min
+            Bonjour,
+            Vegenov maîtrise la micropropagation de nombreuses espèces. Ma
+            collègue Cécile Madre va prendre contact avec vous par mail
+            pour échanger au sujet de votre demande. Cordialement.
+               o Julien 31 mars 2022 at 15 h 25 min
+                 oui.
+    2. Grace 11 février 2022 at 11 h 49 min
+       Bonjour,
+       Je suis actuellement en terminale STL et pour mon grand oral j’ai
+       choisi la mise en culture en vitro d’une cellule végétale. Dans mon
+       lycée il n’y a pas les matériaux nécessaires pour que je puisse
+       faire ma mise en culture un vitro cependant je vais me débrouiller
+       avec les matériaux que j’ai dans mon lycée. Je voulais donc savoir
+       si ça serait possible que je puisse visiter votre laboratoire afin
+       de pouvoir voir comment on réalise une culture un vitro d’une
+       cellule végétale avec des matériaux spécifiques à la mise en
+       culture d’une cellule végétale en un vitro.
+          + [JC_avatar-1.jpg]
+            Juliette Clément 14 février 2022 at 7 h 51 min
+            Bonjour,
+            Une de mes collègues va vous recontacter à ce sujet. Bien
+            cordialement,
+               o Grace 7 mars 2022 at 6 h 52 min
+                 Bonjour, je n’ai toujours pas reçu de mail par rapport au
+                 commentaire que j’avais écrit.
+                    # [JC_avatar-1.jpg]
+                      Juliette Clément 19 avril 2022 at 12 h 20 min
+                      Bonjour, Je vais relancer mes collègues.
+                      Cordialement,
+                         @ [JC_avatar-1.jpg]
+                           Juliette Clément 19 avril 2022 at 14 h 15 min
+                           Bonjour, Je viens de relancer ma collègue. Elle
+                           m’a indiqué qu’elle vous avait envoyé un email
+                           le 11 février dernier en vous proposant de la
+                           recontacter par téléphone afin d’étudier avec
+                           vous la possibilité d’une visite. Son email est
+                           peut être arrivé dans vos spams. Je vous le
+                           retransfère. Cordialement,
+    3. janati 4 mars 2022 at 2 h 05 min
+       Bonjour
+       je suis actuellement en master et je vais travail sur la culture in
+       vitro de anacyclus pyrethrum mais pendant la recherche j’ai pas
+       trouvée les articles suffisante sur cette plante pour initiée ce
+       travail. vous peut m’aider s’il vous plait avec des documentation.
+       merci d’avance
+       cordialement
+          + [JC_avatar-1.jpg]
+            Juliette Clément 7 mars 2022 at 6 h 38 min
+            Bonjour, J’ai réalisé une recherche rapide sur la culture in
+            vitro d’Anacyclus pyrethrum. Je n’ai pas trouvé beaucoup de
+            publications sur le sujet. La publication principale qui
+            ressort est la suivante :
+            https://link.springer.com/article/10.1007/s11240-015-0755-x.
+            J’espère que cela pourra vous aider. Si vous souhaitez plus de
+            précision ou une aide dans la mise au point d’un protocole,
+            vous pouvez également contacter ma collègue Cécile Madre via
+            le formulaire de contact de notre site web. Bien cordialement,
+               o khider meriem 10 juin 2022 at 20 h 02 min
+                 bonjour madame
+                 je suis une étudiante en première année doctorat, je veux
+                 me renseigner sur la culture in vitro, sur l’enceinte
+                 climatique et son utilisation si vous pourriez m’aider
+                 j’en ai vraiment besoin !
+                 laissez moi une adresse ou je peux vous contacté.
+                 salutation.
+                    # [JC_avatar-1.jpg]
+                      Juliette Clément 13 juin 2022 at 9 h 30 min
+                      Bonjour, Je vous invite à prendre contact avec ma
+                      collègue Cécile Madre par mail à l’adresse suivante
+                      : madre@vegenov.com. Bien cordialement,
+    4. Lahlou Nabil 27 mai 2023 at 17 h 16 min
+       Bonjour.
+       Je souhaite démarrer un labo de biotechnologie in vitro et suis à
+       la recherche d’un partenaire scientifique ayant une expérience dans
+       la production de plant de palmier dattier.
+       Me contacter via mon e-mail : n.lahlou@champima.com
+          + [JC_avatar-1.jpg]
+            Juliette Clément 31 mai 2023 at 16 h 30 min
+            Bonjour, Ma collègue Cécile Madre va vous contacter par mail.
+            Bien cordialement,
+    5. Ramdane 9 octobre 2023 at 13 h 31 min
+       Bonjour
+       Je souhaite me lancer dans la production de plants maraichers tels
+       que le melon ,le poivron etc via la technique in vitro ,je vous
+       pries de me renseigner sur les etapes à suivre et le materiel
+       necessaire pour ca
+       avec mes remerciements anticipées
+          + [JC_avatar-1.jpg]
+            Juliette Clément 10 octobre 2023 at 8 h 13 min
+            Bonjour, Pour plus d’information sur le sujet, je vous invite
+            à prendre contact avec ma collègue Cécile Madre
+            (madre@vegenov.com). Bien cordialement,
+               o Ramdane 11 octobre 2023 at 11 h 40 min
+                 Bonjour Madame
+                 Je vous remercie beaucoup
+                 Cordialement
+
+   « Article précédent
+   Assainissement de plants, sus aux virus et phytoplasmes !
+   Article suivant »
+   Créer de nouvelles variétés pour l’agriculture biologique – quels sont
+   les opportunités et défis à relever ?
+
+Rendez-vous sur le site de Vegenov
+
+                     [LOGO-VEGENOV-COULEUR-SMALL-1.png]
+
+Nous Suivre
+
+     * LinkedIn
+     * X
+
    ____________________
-   (BUTTON) Rechercher
 
-   [ ] Basculer la table des matières
-   Culture sélective des plantes
-   (BUTTON) 45 langues Ajouter un sujet
+   IFRAME: https://news.vegenov.com/wgt/xww3i/ziv/form?c=b2dba19f
+
+Thématiques
+
+   agriculture agriculture biologique analyse sensorielle biocontrôle
+   biologie moléculaire Biostimulant biotechnologie création variétale
+   culture in vitro Ecophyto Elicitra entreprise financement Fruits
+   innovation Légumes management marché marqueur moléculaire
+   micro-organisme microbiote Moyens de lutte mécanismes de défense
+   organismes de quarantaine plante PME produits de biocontrôle projet
+   Protection des cultures Protection intégrée des cultures qualité
+   organoleptique R&D recherche appliquée recherche et développement
+   Réduction des produits phytopharmaceutiques réglementation santé Santé
+   des plantes sol stimulateur des défenses stratégie sélection séquençage
+   éliciteur évaluation sensorielle
+
+
+    © Vegenov — 2018
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site web. Si vous continuez à utiliser ce site, nous
+   supposerons que vous en êtes satisfait. (BUTTON) Ok (BUTTON) Mentions
+   légales (BUTTON)

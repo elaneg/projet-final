@@ -1,540 +1,85 @@
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-K76WZJV2
-
-   (BUTTON) Menu Mutualia - Page d'accueil Mutualia - Page d'accueil
-     * Trouver une agence
-     * Nous contacter
-     * (BUTTON) Mon espace
-          + Adhérent
-          + Employeur
-     * Obtenir un devisDevis
-
-   (BUTTON) Nos solutions Santé et Prévoyance
-     * (BUTTON) Nos solutions Santé et Prévoyance
-     * (BUTTON) Particulier
-     * (BUTTON) Agriculteur
-     * (BUTTON) Entreprise
-     * Indépendant
-     * (BUTTON) Collectivité territoriale
-
-   (BUTTON) Fermer
-
-   Choisissez un profil ou renseignez vos informations
-   Catégories [Sélectionner_____________.]
-   Pour qui ? [Sélectionnerr]
-   Code postal
-   ____________________________________________________________
-   (Trouver mon offre) Trouver mon offre
-   Catégorie Particulier
-
-   Particulier
-     * Jeunes & Couples
-     * Familles
-     * Seniors 50ans+
-     * Agents territoriaux
-     * Voir toutes nos offres Particulier
-
-   Catégorie Agriculteur
-
-   Agriculteur
-     * Exploitants agricoles
-     * Retraités
-     * Voir toutes nos offres Agriculteur
-
-   Catégorie Entreprise
-
-   Entreprise
-     * Offre standard
-     * Offre conventionnelle
-     * Voir toutes nos offres Entreprise
-
-   Catégorie Collectivité
-
-   Collectivité territoriale
-     * Agents territoriaux
-     * Mairies
-     * Habitants
-     * Voir toutes nos offres Collectivité territoriale
-
-   (BUTTON) Proche de vous en région
-     * (BUTTON) Proche de vous en région
-     * (BUTTON) Mutualia Alliance Santé
-     * (BUTTON) map2 Mutualia Grand Ouest
-     * (BUTTON) Carte_Mutualia_Territoires_Solidaires Mutualia Territoires
-       Solidaires
-
-   (BUTTON) Fermer
-
-   on vous accompagne, où que vous soyez
-
-   Selon votre géolocalisation, cliquez sur l’entité Mutualia qui vous
-   correspond dans le menu. Nous nous découpons en trois entités pour vous
-   assurer un suivi adapté !
-
-   Mutualia Alliance Santé
-     * Nos offres
-     * Le parrainage
-     * Notre actualité
-     * Nos magazines
-     * Le Partenariat et Mécénat
-     * Voir tout Mutualia Alliance Santé
-
-   map2
-
-   Mutualia Grand Ouest
-     * Nos offres
-     * Le parrainage
-     * Notre actualité
-     * Nos magazines
-     * La Fondation
-     * Voir tout Mutualia Grand Ouest
-
-   Carte_Mutualia_Territoires_Solidaires
-
-   Mutualia Territoires Solidaires
-     * Nos offres
-     * Le parrainage
-     * Notre actualité
-     * Nos magazines
-     * Le Mécénat
-     * Voir tout Mutualia Territoires Solidaires
-
-   Nos conseils de prévention
-   (BUTTON) Un groupe engagé
-
-   (BUTTON) Fermer
-   Un groupe engagé
-
-   Nous connaître
-     * Nos valeurs
-     * Notre histoire
-     * Notre organisation
-     * Nos engagements
-     * Nos actualités
-     * Nos publications
-     * Espace presse
-     * De la terre à l’assiette
-     * Les Moments Santé
-     * Vachement proches
-
-   Nous rejoindre
-     * Travailler chez Mutualia
-     * Nos offres d'emploi
-     * Candidature spontanée
-
-     * (BUTTON) Nos solutions Santé et Prévoyance
-       (BUTTON) Retour
-       Choisissez un profil ou renseignez vos informations
-       Catégories [Sélectionner_____________.]
-       Pour qui ? [Sélectionnerr]
-       Code postal
-       ____________________________________________________________
-       (Trouver mon offre) Trouver mon offre
-          + (BUTTON) Particulier
-            (BUTTON) Retour
-            Particulier
-               o Jeunes & Couples
-               o Familles
-               o Seniors 50ans+
-               o Agents territoriaux
-               o Voir toutes nos offres Particulier
-            Catégorie Particulier
-          + (BUTTON) Agriculteur
-            (BUTTON) Retour
-            Agriculteur
-               o Exploitants agricoles
-               o Retraités
-               o Voir toutes nos offres Agriculteur
-            Catégorie Agriculteur
-          + (BUTTON) Entreprise
-            (BUTTON) Retour
-            Entreprise
-               o Offre standard
-               o Offre conventionnelle
-               o Voir toutes nos offres Entreprise
-            Catégorie Entreprise
-          + Indépendant
-          + (BUTTON) Collectivité territoriale
-            (BUTTON) Retour
-            Collectivité territoriale
-               o Agents territoriaux
-               o Mairies
-               o Habitants
-               o Voir toutes nos offres Collectivité territoriale
-            Catégorie Collectivité
-     * (BUTTON) Proche de vous en région
-       (BUTTON) Retour
-       on vous accompagne, où que vous soyez
-       Selon votre géolocalisation, cliquez sur l’entité Mutualia qui vous
-       correspond dans le menu. Nous nous découpons en trois entités pour
-       vous assurer un suivi adapté !
-          + (BUTTON) Mutualia Alliance Santé
-            (BUTTON) Retour
-            Mutualia Alliance Santé
-               o Nos offres
-               o Le parrainage
-               o Notre actualité
-               o Nos magazines
-               o Le Partenariat et Mécénat
-               o Voir tout Mutualia Alliance Santé
-          + (BUTTON) map2 Mutualia Grand Ouest
-            (BUTTON) Retour
-            Mutualia Grand Ouest
-               o Nos offres
-               o Le parrainage
-               o Notre actualité
-               o Nos magazines
-               o La Fondation
-               o Voir tout Mutualia Grand Ouest
-            map2
-          + (BUTTON) Carte_Mutualia_Territoires_Solidaires Mutualia
-            Territoires Solidaires
-            (BUTTON) Retour
-            Mutualia Territoires Solidaires
-               o Nos offres
-               o Le parrainage
-               o Notre actualité
-               o Nos magazines
-               o Le Mécénat
-               o Voir tout Mutualia Territoires Solidaires
-            Carte_Mutualia_Territoires_Solidaires
-     * Nos conseils de prévention
-     * (BUTTON) Un groupe engagé
-       (BUTTON) Retour
-       Nous connaître
-          + Nos valeurs
-          + Notre histoire
-          + Notre organisation
-          + Nos engagements
-          + Nos actualités
-          + Nos publications
-          + Espace presse
-          + De la terre à l’assiette
-          + Les Moments Santé
-          + Vachement proches
-       Nous rejoindre
-          + Travailler chez Mutualia
-          + Nos offres d'emploi
-          + Candidature spontanée
-       Un groupe engagé
-
-     * Trouver une agence
-     * Nous contacter
-     * Mon espace Adhérent
-     * Mon espace Employeur
-
-    1. Accueil
-    2. Nos conseils santé et prévention
-    3. Agriculture et santé
-    4. Avantages et inconvénients de la rotation des cultures
-
-   Image
-   rotation des cultures : champs
-
-   Agriculture et santé
-
-Avantages et inconvénients de la rotation des cultures
-
-La rotation des cultures est une pratique agricole millénaire. À l’origine,
-les agriculteurs la mettaient en œuvre sans aucune idée des raisons
-scientifiques derrière son succès, ni terme spécifique pour la qualifier. Ils
-ne connaissaient donc pas son impact sur l’environnement. Ils la pratiquaient
-simplement selon un calendrier saisonnier qui était traditionnellement défini
-comme un modèle de plantation. Aujourd’hui, la rotation des cultures
-constitue un élément important de l’agriculture durable. Focus avec les
-experts Mutualia sur ce type de pratique.
-
-Les principes de la rotation des cultures
-
-   La rotation des cultures est basée sur la culture d’une série de
-   différents types de plantations dans la même zone au cours de saisons
-   séquentielles. La rotation prévue peut varier d’une saison de
-   croissance à quelques années ou même des périodes plus longues.
-
-   Les agriculteurs ne suivent généralement pas un plan de rotation
-   spécifique. Ils choisissent d’alterner les cultures en fonction de
-   leurs besoins individuels, de leurs possibilités, des conditions
-   environnementales et de leur budget.
-
-   Par exemple, un agriculteur pourrait suivre un plan de rotation de sept
-   ans comme suit :
-     * Première année : maïs
-     * Deuxième année : avoine
-     * Troisième année : luzerne ou trèfle
-     * Sixième et septième année : jachère ou utilisation comme pâturage
-       pour le bétail
-
-   Un autre agriculteur pourrait choisir un schéma plus simple :
-     * Première année : carottes
-     * Deuxième année : blé
-     * Troisième à septième année : jachère ou pâturage
-
-   Même si ces deux plans diffèrent, ils s’en tiennent tous deux à la
-   règle générale de la rotation des cultures. Le principe de base est de
-   planter des légumineuses (haricots, lentilles, pois, luzerne…) après
-   des cultures céréalières (blé, avoine, maïs, riz…), puis de laisser la
-   terre au repos pendant au moins une saison.
-
-   Le fait de suivre cette séquence de rotation permet d’éviter trois
-   problèmes majeurs rencontrés en monoculture année après année :
-     * Perte de fertilité du sol : si la même culture est exploitée en
-       continu, la plante draine toujours les mêmes nutriments de sol.
-       Cela conduit à l’épuisement des nutriments et à l’infertilité du
-       sol.
-     * Infestations de parasites : de nombreux parasites se spécialisent
-       dans un certain type de cultures. En plantant en permanence la même
-       culture, cela leur offre des conditions favorables pour s’épanouir.
-     * Érosion des sols : la plantation répétée de la même culture rend
-       les sols plus sensibles à l’érosion. Chaque espèce cultivée possède
-       une forme racinaire spécifique et a des besoins en eau et en
-       espacement entre elle et la canopée. Lors de la croissance d’un
-       seul type de culture sur des périodes prolongées, le sol commence à
-       s’éroder aux endroits où les plantes le laissent à découvert et
-       affaibli.
-
-La rotation des cultures est-elle obligatoire en France?
-
-La rotation des cultures est-elle obligatoire en France?
-
-   La rotation des cultures est devenue obligatoire en France dans le
-   cadre de la PAC 2023-2027, sauf exceptions. Cette mesure, connue sous
-   le nom de BCAE 7, s'applique à la majorité des agriculteurs
-   métropolitains possédant des terres arables.
-
-   Elle impose une rotation sur au moins 35% des terres arables
-   annuellement et sur chaque parcelle sur une période de 4 ans.
-   Cependant, des exemptions existent pour les petites exploitations,
-   l'agriculture biologique, et certains types d'utilisation des terres.
-
-La rotation des cultures est-elle obligatoire en France?
-
-   Face aux défis climatiques, comme les intempéries de l'hiver 2023-2024,
-   des dérogations temporaires peuvent être accordées, offrant une
-   flexibilité dans l'application de cette obligation. Malgré ces
-   ajustements, la rotation des cultures reste un pilier de la politique
-   agricole française, visant à améliorer la biodiversité et la santé des
-   sols.
-
-     >> A lire aussi : La polyculture pour renforcer la résilience et la
-   rentabilité de votre exploitation.
-
-Les principaux avantages de la rotation des cultures
-
-   La rotation des cultures peut également jouer un rôle dans l'adaptation
-   aux effets du réchauffement climatique, qui impacte déjà la production
-   de plusieurs aliments populaires. Découvrez 6 aliments populaires
-   impactés par le réchauffement climatique pour comprendre les enjeux
-   actuels et futurs pour les agriculteurs.
-
-   La rotation des cultures est une stratégie de contrôle agricole très
-   efficace. Elle présente de nombreux avantages importants. En voici
-   quelques-uns.
-
-1/ Amélioration de la fertilité du sol
-
-   La rotation des cultures augmente la fertilité du sol en contrôlant les
-   nutriments insuffisants ou en excès : elle reconstitue les nutriments
-   qui ne sont pas disponibles ou absorbe ceux qui sont en abondance.
-
-   Elle augmente et améliore également la matière organique du sol causée
-   par les micro-organismes laissés par chaque type de culture plantée.
-   Par ailleurs, les animaux qui paissent sur des terres en jachère
-   contribuent à ajouter du fumier au sol, ce qui le fertilise. La
-   biomasse laissée lors de la récolte améliore également la fertilité du
-   sol car il s’agit d’un engrais vert.
-
-2/ Augmentation du rendement des cultures
-
-   La rotation des cultures augmente la récolte obtenue à partir d’une
-   seule récolte saisonnière. Non seulement l’incorporation de différents
-   types de cultures permet une plus grande variété de cultures
-   saisonnières sur une même parcelle, mais les récoltes sont également
-   plus généreuses. La recherche montre une augmentation de 10 à 25% du
-   rendement des cultures en rotation par rapport à la monoculture.
-
-3/ Augmentation des nutriments dans le sol
-
-   Comme indiqué précédemment, la rotation des cultures permet à la terre
-   de se régénérer et de reconstituer ses réserves de nutriments sans
-   avoir à utiliser d’engrais. Laisser la terre nue pendant une saison
-   permet à la terre de restaurer ses nutriments perdus par absorption par
-   les plantes récoltées la saison précédente.
-
-   Par exemple, en plantant des légumineuses, on peut augmenter l’azote
-   dans le sol grâce aux bactéries fixatrices d’azote qu’elles
-   contiennent. Toutefois, il est important de connaître le type de
-   plantes à cultiver après une récolte pour éviter une accumulation ou
-   une absorption excessives de nutriments.
-
-4/ Réduction de l’érosion des sols
-
-   L’érosion des sols est le déplacement des matériaux de la couche arable
-   sous l’action du vent ou de l’eau. Lorsque le sol est constamment
-   recouvert de plantes, les éléments ne peuvent emporter ces matériaux.
-   Une couche de plantes rampantes ou de cultures de couverture comme les
-   haricots et les pois fonctionne très bien pour empêcher l’érosion des
-   sols.
-   rotation des cutures : champs
-
-5/ Limitation des ravageurs et des maladies
-
-5/ Limitation des ravageurs et des maladies
-
-   Des plantes similaires ont tendance à avoir les mêmes agents
-   pathogènes. Par conséquent, la rotation des cultures interfère avec le
-   cycle de vie des ravageurs et leur habitat. Cela permet de réduire
-   drastiquement les infestations de parasites et l’incidence des maladies
-   au cours d’une saison.
-
-6/ Réduction des mauvaises herbes
-
-   La rotation des cultures est une technique traditionnelle de lutte
-   contre les mauvaises herbes. Elle permet de maintenir des conditions de
-   terrain telles que les adventices sont moins susceptibles de pousser
-   et/ou de proliférer. En d’autres termes, la rotation des cultures
-   permet aux plantations d’évincer très facilement les mauvaises herbes
-   pendant la compétition pour les nutriments et d’autres ressources.
-
-7/ Amélioration de la structure du sol
-
-7/ Amélioration de la structure du sol
-
-   La rotation des cultures permet d’éviter le compactage du sol,
-   améliorant ainsi l’état physique du sol dans sa structure et sa
-   texture. Elle offre de bonnes conditions pour la germination des
-   graines et la prolifération des racines. Elle contribue également à
-   d’autre processus tels que l’infiltration et l’aération de l’eau
-   nécessaires à la composition du sol.
-
-8/ Réduction de la pollution
-
-   La rotation des cultures augmente les nutriments dans le sol et empêche
-   l'accumulation de produits chimiques toxiques ou de substances
-   sécrétées par certaines plantes cultivées. Ainsi, elle permet à
-   l'agriculteur de planter des cultures avec succès sans avoir besoin
-   d'appliquer des engrais. La rotation des cultures réduit également
-   l'infestation constante des cultures par des ravageurs et des maladies,
-   ce qui élimine le besoin de pulvériser les cultures avec des
-   pesticides. Bien que les pesticides fonctionnent très bien sur les
-   cultures, ils contiennent des produits chimiques dangereux qui peuvent
-   s'accumuler dans le sol à des niveaux nocifs et augmenter la toxicité
-   de l’eau des nappes phréatiques.
-
-9/ Diversification et réduction des coûts de production
-
-   Certaines cultures nécessitent moins de main d’œuvre et de machines que
-   d’autres. La rotation des cultures permet de répartir la charge de
-   travail et les ressources utilisées tout au long de l’année et donc de
-   réduire le coût de production des cultures. Par ailleurs, les
-   agriculteurs ont davantage d’options pour vendre leurs produits et ne
-   dépendent pas uniquement d’une seule culture et du prix du marché.
-
-Les inconvénients de la rotation des cultures
-
-1/ Des risques
-
-   Avec cette pratique, investir dans des cultures saisonnières implique
-   un important apport financier pour acheter les semis des différents
-   types de plantation. De plus, certaines ont besoin d’équipements
-   spécifiques, de sorte que les agriculteurs peuvent devoir investir dans
-   différents types de machines. Cela signifie que les coûts initiaux
-   peuvent être plus élevés. Par ailleurs, le succès d’une récolte n’est
-   jamais garanti et subir une perte de récolte n’est pas exclu. Enfin,
-   les ravageurs et les maladies venant d’autres exploitations peuvent
-   toujours se propager et infester les parcelles en rotation.
-
-2/ Une mise en œuvre incorrecte peut être catastrophique
-
-   Si l’on manque de savoir-faire technique, corriger l’accumulation des
-   nutriments peut prendre beaucoup de temps. Il est indispensable de
-   posséder les compétences nécessaires pour savoir quelles cultures
-   peuvent être plantées les unes après les autres et à quelle saison afin
-   que le processus réussisse. Une mauvaise mise en œuvre fait donc
-   encourir de potentielles lourdes pertes à l’agriculteur.
-
-3/ Nécessite plus de connaissances et de compétences
-
-   La rotation des cultures implique une variété de cultures. Par
-   conséquent, elle nécessite un ensemble plus approfondi de connaissances
-   et de compétences concernant chaque type de culture. Elle implique
-   également différents types de machines, et leur fonctionnement
-   nécessite également des connaissances. Cela signifie que les
-   agriculteurs doivent investir plus de temps et de ressources dans
-   l’apprentissage et la maîtrise de cette pratique agricole.
-
-4/ Diversification obligatoire des cultures
-
-4/ Diversification obligatoire des cultures
-
-   Pour que la rotation des cultures fonctionne, il faut planter une
-   culture différente à chaque saison. Elle ne permet donc pas à
-   l’agriculteur de se spécialiser dans un seul type. Il ne peut donc pas
-   produire une seule culture à grande échelle sur le long terme en raison
-   des dommages qu’elle causera au sol.
-
-   La pratique de la rotation des cultures est nécessaire pour améliorer
-   les rendements. La diversification nécessite également un
-   investissement dans différentes techniques de plantation pour chaque
-   culture, ce qui coûte du temps et de l’argent, car chaque type de
-   culture nécessite un type d’attention différent.
-
-5/ Différences dans les conditions de croissance
-
-5/ Différences dans les conditions de croissance
-
-   Certaines régions et leurs climats sont plus favorables à la
-   monoculture. Hormis ces types particuliers, d’autres cultures peuvent
-   ne pas bien pousser et s’épanouir à certaines températures et
-   conditions de sol.
-
-A découvrir également
-
-   Nos conseils pour prendre soin de vous !
-   Tous nos conseils
-   Agriculture et santé
-
-Le don alimentaire agricole : un levier contre le gaspillage
-
-   Lire l'article
-   Agriculture et santé
-
-Attirer et fidéliser les talents dans le monde agricole : défis et solutions
-
-   Lire l'article
-   Agriculture et santé
-
-Premiers secours en milieu agricole : que savoir ?
-
-   Lire l'article
-   Logo Mutualia
-
-   Réseau de mutuelles, experts santé et prévoyance depuis 35 ans.
-     * Vous êtes
-          + Particulier
-          + Agriculteur
-          + Indépendant
-          + Entreprise
-          + Collectivité territoriale
-     * Découvrez
-          + Notre histoire
-          + Nos valeurs
-          + Nos engagements
-          + Nous rejoindre
-          + Espace presse
-     * Besoin d'aide ?
-          + Nos conseils
-          + FAQ
-          + Nous contacter
-
-   Suivez-nous !
-     * Facebook
-     * Linkedin
-     * Instagram
-     * Youtube
-
-     * CGV
-     * Réclamation
-     * Plan du site
-     * Accessibilité
-     * Cookies
-     * Données personnelles
-     * Mentions légales
+   #Les Colocaterre » Flux Les Colocaterre » Flux des commentaires
+   alternate alternate alternate
+
+   Skip to content
+
+   Les Colocaterre
+
+   (BUTTON) Menu
+     * Accueil
+          + Agenda
+     * L’Echolocaterre hebdo
+     * Adhésion
+     * Nos actions
+          + L’AUTOSTOP CITOYEN
+          + Bouchons de liège
+          + Chantiers solidaires
+          + Défense de l’environnement
+          + Repair Café
+          + Les Coloc’àtable
+          + Apprendre à cultiver la terre
+          + Oui aux éoliennes – Biogaz oui mais…
+          + Fonds documentaire
+     * Nos amis
+
+   banner curve
+
+Apprendre à cultiver la terre
+
+   C’est bien joli de parler d’agriculture biologique, mais… quand est-ce
+   qu’on s’y met ?
+
+   Eh bien ça y est, nous avons terminé notre cycle de formation à la
+   culture des céréales anciennes et des plantes associées ! Ceci grâce à
+   la rencontre avec André GOUDIN, ancien agriculteur à Muel, maintenant
+   retraité. Il cultivait en bio, avec de très bons rendements, grâce à
+   ses savoir-faire issus de l’observation, de la compréhension des sols
+   et des interactions entre plantes, bref de l’agronomie. André avait
+   envie de partager son savoir, nous avons donc monté cette formation qui
+   s’est étalée sur 10 mois, à raison d’une demi-journée par mois… le
+   week-end, forcément !  puisque plusieurs membres du groupe
+   travaillaient en semaine.
+
+   Un grand merci à la commune de Montauban de Bretagne, qui met
+   gratuitement à notre disposition un terrain de 4500 m². Nous avons donc
+   pu démarrer en février. Nous avons cultivé du lupin (plante géniale
+   pour améliorer le sol, entre autres… et en plus c’est joli !), du blé,
+   de l’avoine, du triticale et du pois, du millet (semé trop tôt, il n’a
+   pas levé), du sarrasin. Nous avons appris plein de secrets… Et, malgré
+   des conditions peu favorables au départ, les résultats ont dépassé nos
+   espérances. En fin de cycle, chacun de nous est reparti avec des
+   graines pour les semer dans son jardin (100 à 200 m² peuvent suffire),
+   contribuant ainsi à conserver et propager des semences anciennes de
+   grande valeur !
+
+   Ci-dessous un article paru dans Ouest-France le 24 juillet 2019 :
+
+   C’est le dimanche 1er juillet que nous avons procédé au battage de nos
+   céréales lors de la Fête des Vieux Métiers, à La Chapelle du Lou du
+   Lac.
+
+
+
+Évènements à venir
+
+   Il n’y a aucun évènement à venir.
+   Voir le calendrier
+   Ajouter
+     * Ajouter au calendrier Timely
+     * Ajouter à Google
+     * Ajouter à Outlook
+     * Ajouter au calendrier Apple
+     * Ajouter à un autre calendrier
+     * Exporter vers XML
+
+Retrouvez-nous
+
+   Adresse
+   Avenue des Champs-Élysées
+   75008, Paris
+
+   Heures d’ouverture
+   Du lundi au vendredi : 9h00–17h00
+   Les samedi et dimanche : 11h00–15h00
+
+   Copyright © 2026 Les Colocaterre. All rights reserved.

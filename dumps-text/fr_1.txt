@@ -1,85 +1,513 @@
-   #Les Colocaterre » Flux Les Colocaterre » Flux des commentaires
-   alternate alternate alternate
+   Aller au contenu principal
 
-   Skip to content
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-PQ4RKV9
 
-   Les Colocaterre
+   (BUTTON)
+   Rechercher dans le guide
+   ______________________________
+   Chercher
+   (BUTTON) fr
+     * Français
+     * Nederlands
 
-   (BUTTON) Menu
-     * Accueil
-          + Agenda
-     * L’Echolocaterre hebdo
-     * Adhésion
-     * Nos actions
-          + L’AUTOSTOP CITOYEN
-          + Bouchons de liège
-          + Chantiers solidaires
-          + Défense de l’environnement
-          + Repair Café
-          + Les Coloc’àtable
-          + Apprendre à cultiver la terre
-          + Oui aux éoliennes – Biogaz oui mais…
-          + Fonds documentaire
-     * Nos amis
+   Thème:
+   Développement de la nature
 
-   banner curve
+Cultures en pleine terre
 
-Apprendre à cultiver la terre
+   Solution
+   Agriculture urbaine
+   Infiltration eau pluviales
+   Flore
+   Sol
+   © X Claes
+   La culture en pleine terre, c'est-à-dire sur un substrat faisant partie
+   intégrante du sol non artificialisé, est une solution simple à mettre
+   en œuvre, à condition que l'état du sol le permette (pollution
+   inexistante et bonne qualité chimique, physique et biologique). Tout
+   espace de pleine terre libre de construction ou de voirie est
+   susceptible d'être valorisé au moyen de végétation comestible, et ce
+   sur des terrains de taille très variable, allant des pieds d'immeubles
+   à des parcelles plus importantes. Quelques bonnes règles de conception
+   et de gestion sont néanmoins nécessaires pour permettre une production
+   abondante, tout en intégrant la culture dans son environnement urbain.
 
-   C’est bien joli de parler d’agriculture biologique, mais… quand est-ce
-   qu’on s’y met ?
+Table des matières
 
-   Eh bien ça y est, nous avons terminé notre cycle de formation à la
-   culture des céréales anciennes et des plantes associées ! Ceci grâce à
-   la rencontre avec André GOUDIN, ancien agriculteur à Muel, maintenant
-   retraité. Il cultivait en bio, avec de très bons rendements, grâce à
-   ses savoir-faire issus de l’observation, de la compréhension des sols
-   et des interactions entre plantes, bref de l’agronomie. André avait
-   envie de partager son savoir, nous avons donc monté cette formation qui
-   s’est étalée sur 10 mois, à raison d’une demi-journée par mois… le
-   week-end, forcément !  puisque plusieurs membres du groupe
-   travaillaient en semaine.
+     * Où peut-on retrouver des espaces de production en pleine terre dans
+       un projet immobilier ?
+     * Quels sont les avantages et les désavantages de la culture en
+       pleine terre ?
+     * Quels points d'attention relatifs au choix du terrain ?
+     * Quels aménagements choisir pour la culture en pleine terre ?
+     * Quelle pratique agricole choisir pour une culture en pleine terre ?
+     * Quels sont les points d'attention pour un projet collectif ?
+     * Aller plus loin
 
-   Un grand merci à la commune de Montauban de Bretagne, qui met
-   gratuitement à notre disposition un terrain de 4500 m². Nous avons donc
-   pu démarrer en février. Nous avons cultivé du lupin (plante géniale
-   pour améliorer le sol, entre autres… et en plus c’est joli !), du blé,
-   de l’avoine, du triticale et du pois, du millet (semé trop tôt, il n’a
-   pas levé), du sarrasin. Nous avons appris plein de secrets… Et, malgré
-   des conditions peu favorables au départ, les résultats ont dépassé nos
-   espérances. En fin de cycle, chacun de nous est reparti avec des
-   graines pour les semer dans son jardin (100 à 200 m² peuvent suffire),
-   contribuant ainsi à conserver et propager des semences anciennes de
-   grande valeur !
+Où peut-on retrouver des espaces de production en pleine terre dans un projet
+immobilier ?
 
-   Ci-dessous un article paru dans Ouest-France le 24 juillet 2019 :
+   La production en pleine terre ne se limite pas aux terrains de grande
+   superficie et déconnectés des zones d'habitations. Toute zone non
+   minéralisée, en milieu urbain, peut potentiellement accueillir des
+   cultures en pleine terre :
+     * intérieurs d'îlots  ;
+     * pieds d'immeubles ;
+     * terrains contigus aux bâtiments :
+          + friches ;
+          + jardins privés ou partagés ;
+          + anciens champs ;
+     * terrains de l'espace public ;
 
-   C’est le dimanche 1er juillet que nous avons procédé au battage de nos
-   céréales lors de la Fête des Vieux Métiers, à La Chapelle du Lou du
-   Lac.
+   Ce qui définit en outre le potentiel d'un espace de culture est qu'il
+   est exempt de toute trace de pollution et de bonne qualité agronomique
+   (voir section « Propriétés du sol » ci-dessous). Si l'état du sol ne
+   répond pas à ces critères, des solutions alternatives existent, soit
+   pour remédier à ces pollutions ou carences, soit pour malgré tout
+   valoriser ces surfaces en cultures surélevées.
+
+   Pour plus d’information :
+     * Dossier | Utilisation raisonnée du sol ;
+     * Dossier | Traitement des sols dégradés (dont pollution).
+
+Quels sont les avantages et les désavantages de la culture en pleine terre ?
+
+   Avantages liés aux cultures en pleine terre :
+     * investissements faibles dans les infrastructures ;
+     * nutriments naturellement présents dans le sol ;
+     * travail à l'air libre ;
+     * mécanisation plus aisée ;
+     * plus grande palette végétale cultivable (fruitiers) ;
+     * plus grande inertie de la terre (moins vite asséchée) que les
+       systèmes hors sol ;
+     * plantation plus exposée aux auxiliaires si l’écosystème fonctionne
+       bien.
+
+   Désavantages liés aux cultures en pleine terre :
+     * peu accessible pour les personnes à mobilité réduite ;
+     * cultures non déplaçables ;
+     * exposition des cultures et des travailleurs aux intempéries (vent,
+       gel, etc.) ;
+     * plantation plus exposée aux animaux ravageurs.
+
+Quels points d'attention relatifs au choix du terrain ?
+
+Points généraux
+
+   Le dossier | Agriculture urbaine traite des points suivants :
+     * Cocréation du projet
+     * Ensoleillement et orientation du terrain
+     * Etat des sols
+     * Choix des plantes
+     * Réglementations
+     * Normes
+
+Points spécifiques aux cultures en pleine terre
+
+Echelle de temps d'occupation
+
+   Dans le cas d'un terrain dont l'occupation est temporaire, le choix du
+   type de cultures (en pleine terre ou surélevée) est important.
+   L'aménagement d'un potager en pleine terre nécessite un certain
+   investissement (temps, énergie, etc.), qui ne peut être récupéré dans
+   le cas d'une réaffectation de l'espace cultivé. Pour pallier à cela, la
+   mise en place de cultures surélevées mobiles est préférable lorsque les
+   échelles de temps d'occupation sont courtes.
+
+Accessibilité
+
+   Plus spécifiquement pour les cultures en pleine terre, il peut être
+   utile d'avoir recours, pour les chemins d'accès, à des revêtements de
+   sol perméables.
+   Des points d'attention généraux concernant l'accessibilité sont
+   développés dans le dossier à la page | Accessibilité.
+
+Propriétés du sol
+
+   Différentes informations gratuites permettent d’évaluer la qualité
+   agronomique du sol sans analyse couteuse et sans prérequis d’expertise.
+   Toutes ces informations gratuites sont précieuses et permettent
+   d’adapter ses plantations en conséquence pour réussir sa culture en
+   pleine terre.
+
+   Les différents éléments d’évaluation sont détaillés dans le Dossier |
+   Utilisation raisonnée du sol > Connaître son sol > Évaluation visuelle
+   du sol.
+
+   Pour en savoir plus sur les points d’attention pour éviter les risques
+   de pollution, consulter le Dossier | Limiter les dégradations du sol
+   (dont les pollutions).
+
+Espèces végétales et animales existantes
+
+   Un relevé des espèces végétales et animales présentes sur le site
+   contribue à s'inscrire dans une démarche durable. Il s'agit de
+   préserver la faune et la flore existante présentant un intérêt
+   écologique. En fonction du statut de la parcelle ou de sa superficie,
+   cette analyse peut être obligatoire et à réaliser par un expert agréé.
+   Pour plus d'informations, consulter le Dossier | Favoriser la
+   biodiversité > Page | Etude préalable du site.
+
+Contraintes règlementaires
+
+   Avant d'acquérir ou transformer un terrain (changement de destination
+   des lieux, modification sensible du relief du sol, déboisement, etc.)
+   ou bâtiment, le futur maître d'ouvrage veille auprès des autorités
+   compétentes, à :
+     * connaitre l'affectation du bien. Cette dernière étant définie par
+       les différents plans régionaux (PRAS, PAD) et le cas échéant par
+       des plans communaux (PPAS) ;
+     * savoir si un permis d'urbanisme ou un permis d'environnement est
+       nécessaire ;
+
+   Plus d'informations sur les aspects réglementaires dans :
+     * « Guide des principales règlementations territoriales et
+       urbanistiques applicables à l'agriculture urbaine en RBC »
+     * Dossier | Agriculture Urbaine > Réglementations
+
+Quels aménagements choisir pour la culture en pleine terre ?
+
+   Les aménagements à prévoir pour une culture en pleine terre dépendent
+   du type de gestion qui y est développé ainsi que des pratiques
+   agricoles souhaitées. Néanmoins, la majeure partie des aménagements
+   suivants peut être prévue en base dans le projet de cultures en pleine
+   terre :
+     * récupération d'eau de pluie ;
+       Voir le dossier à la page traitant de l'alimentation en eau du
+       projet.
+     * compost ;
+       Voir aussi le Dispositif | Compost.
+     * espaces de stockage du matériel, des produits d'entretien,
+       semences, etc. : généralement sous la forme d'un cabanon ;
+     * poulailler : valorisation des fientes en engrais, production
+       d'œufs, élimination des déchets, etc. ;
+     * hôtel à insectes : favorable aux pollinisateurs, aux ennemis
+       naturels de ravageurs, biodiversité, etc. ;
+     * ruchers : pollinisation des cultures ;
+     * aménagements écologiques : maintien des éléments de biodiversité
+       utiles, création de lieux propices à l'accueil de la biodiversité ;
+       Voir aussi le dossier | Favoriser la biodiversité et dossier |
+       Offrir des habitats pour la faune.
+     * Délimitation physique des parcelles : La délimitation physique des
+       parcelles cultivées n'est pas obligatoire mais dans le cas où
+       celle-ci est souhaitée, le projet peut s'appuyer sur de la
+       végétation qui offre l'avantage d'une barrière naturelle au vent et
+       à la faune, plutôt que des grillages ou clôtures.
+
+   Voir aussi le dispositif | Parcelle perméable à la faune
+
+Quelle pratique agricole choisir pour une culture en pleine terre ?
+
+Types de pratique agricole
+
+   Un certain nombre de pratiques agricoles peuvent être adaptées au
+   contexte urbain. Elles sont fonction du site, des objectifs recherchés
+   et des moyens disponibles :
+     * Agroécologie ;
+     * Agroforesterie ;
+     * Fruiticulture ;
+     * Permaculture ;
+     * Spin farming.
+
+   Pour des exemples inspirants des différentes techniques agricoles, se
+   référer au Portail GoodFood.
+
+   Pour les pratiques agricoles se reposant sur l'utilisation d'arbres,
+   voir le listing des espèces végétales indigènes conseillées par
+   Bruxelles Environnement.
+
+Finalité de la production agricole
+
+   L'autoconsommation ou la vente d'une production agricole, dépend
+   généralement de la superficie de la parcelle. Ainsi, les parcelles de
+   petites dimensions servent principalement à l'autoproduction et aux
+   espaces pédagogiques, tandis que les parcelles plus importantes peuvent
+   accueillir des activités professionnelles ou des potagers
+   communautaires. Toutefois, le modèle de spin farming permet de cultiver
+   de manière professionnelle des petites surfaces de cultures en pleine
+   terre et est pour cela bien adapté au milieu urbain.
+
+Quels sont les points d'attention pour un projet collectif ?
+
+   Dans le cas de potagers collectifs, on veille aux éléments suivants :
+     * accès :
+          + les chemins d'accès sont conçus entre autre en fonction du
+            profil des personnes destinés à y avoir accès (personnes
+            extérieures au projet ? à mobilité réduite ? équipements pour
+            l'entretien des cultures ? etc.) ;
+          + attention particulière si un accès est nécessaire par
+            l'intérieur des bâtiments ;
+     * appropriation du projet :
+          + afin d'offrir une garantie de fonctionnement dans la durée, il
+            est essentiel de permettre au collectif de s'approprier le
+            projet le plus en amont, si possible dès la phase de
+            conception du bâtiment.
+          + Plus d'informations dans le dossier à la page | Cocréation de
+            projets collectifs
+
+   Voir aussi la vidéo traitant de la gestion collective dans une maison
+   de repos du CPAS à Saint Josse.
 
 
+   31459-be-cite-modele.jpg
+   © Bruxelles Environnement
 
-Évènements à venir
 
-   Il n’y a aucun évènement à venir.
-   Voir le calendrier
-   Ajouter
-     * Ajouter au calendrier Timely
-     * Ajouter à Google
-     * Ajouter à Outlook
-     * Ajouter au calendrier Apple
-     * Ajouter à un autre calendrier
-     * Exporter vers XML
+   31455-x-claes-cite-modele.jpg
+   © X.Claes
 
-Retrouvez-nous
 
-   Adresse
-   Avenue des Champs-Élysées
-   75008, Paris
+   31454-x-claes-poussequipousse.jpg
+   © X.Claes
 
-   Heures d’ouverture
-   Du lundi au vendredi : 9h00–17h00
-   Les samedi et dimanche : 11h00–15h00
 
-   Copyright © 2025 Les Colocaterre. All rights reserved.
+   31456-ddh-jardin-collectif.jpg
+   © Début des HAricots
+
+
+   31457-grooteiland.jpg
+   © Groot Eiland
+
+Aller plus loin
+
+Dans le Guide Bâtiment Durable
+
+   Pour plus d'information en lien avec le sujet consultez les contenus
+   liés listés en bas de page.
+
+Autres publications et outils de Bruxelles Environnement
+
+     * Infofiches pour cultiver en ville : +/-60 documents sur des sujets
+       liés à la culture en ville dont :
+          + Aménager son premier potager en pleine terre
+          + L'organisation du potager en pleine terre
+          + Produire des fruits et petits fruits dans un jardin de ville
+     * Guide pratique d'analyse de sols pour cultiver en ville, (2018)
+       Bruxelles Environnement
+     * Guide Méthodologique pour la Création et la Gestion des Jardins
+       Collectifs, (2017) Bruxelles Environnement
+     * Guide des principales réglementations territoriales et
+       urbanistiques applicables à l'agriculture urbaine en RBC, (2019)
+       Bruxelles Environnement
+     * Guide Réglementaire – La législation environnementale en vigueur en
+       Région de Bruxelles-Capitale, (2015) Bruxelles Environnement
+     * Guide pour économiser l'eau dans les projets d'agriculture urbaine,
+       (2020), Bruxelles Environnement
+     * Indice de qualité des sols (IQSB) et Teste ton sol : outils à
+       destination des professionnels et des citoyens pour évaluer la
+       qualité de leur sol
+
+Sites Internet
+
+     * Facilitateur Agriculture urbaine en Région de Bruxelles Capitale
+     * Goodfood.brussels : portail de l'alimentation durable à Bruxelles
+     * Inspirons le Quartier: plateforme régionale pour la mise en place
+       de projets durables par les collectifs de citoyens bruxellois
+     * AFSCA : site de l'Agence Fédérale pour la Sécurité de la Chaîne
+       Alimentaire
+     * Aquaponiris : projet bruxellois produisant des légumes et du
+       poisson
+     * Quartier du Vieux Sainte-Anne : quartier Bruxellois ayant mis en
+       œuvre des dispositifs d'agriculture urbaine
+
+   Mis à jour le 20/02/2025
+
+   Cette date indique que le contenu a été créé, substantiellement
+   modifié, complété ou réécrit. À cette date, le contenu a également été
+   relu et validé par Bruxelles Environnement.
+   (BUTTON)
+   (BUTTON) Réaction
+   (BUTTON)
+
+Aidez-nous à améliorer le Guide
+
+   Message
+
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   ____________________________________________________________
+   [ ] Recevoir un commentaire
+   Nom ____________________________________________________________
+   Prénom ____________________________________________________________
+   E-mail ____________________________________________________________
+
+   Les données que vous nous transmettez servent uniquement à traiter
+   votre demande. Pour plus d’informations, voyez notre politique de
+   protection des données.
+   Expédier
+   Laisser ce champ vide ____________________
+
+Contenus liés
+
+   Cultures surélevées
+   Solution
+
+   Cultures sur sols reconstitués en toiture
+   Solution
+
+   Serres
+   Solution
+
+   Réaliser des façades vertes
+   Dossier
+
+   Récupérer l'eau de pluie
+   Dossier
+
+   Gestion intégrée des eaux pluviales
+   Dossier
+
+   Favoriser la biodiversité
+   Dossier
+   Page
+
+Etude préalable du site
+
+   Page
+
+Principes de choix des végétaux
+
+   Compost collectif
+   Solution
+
+   Cultures en caves
+   Solution
+
+   Compost collectif
+   Solution
+
+   Intégrer l'agriculture urbaine
+   Dossier
+   (BUTTON) Voir 10 plus
+
+Abonnez-vous à notre newsletter
+
+   Restez informé des nouveaux contenus en ligne et des évènements sur la
+   construction et la conception à Bruxelles.
+   Inscrivez-vous
+
+Thèmes
+
+     * Acoustique
+     * Développement de la nature
+     * Eau
+     * Economie circulaire
+     * Energie
+     * Environnement physique
+     * Gestion, chantier et participation
+     * Humain
+     * Matériaux
+     * Mobilité et accessibilité
+
+Suivez-nous
+
+   facebookbluesky youtubelinkedininstagram
+
+Autres liens
+
+     * Glossaire
+     * Contact
+
+Bottom Footer Menu
+
+     * © Guide Bâtiment Durable
+     * Mentions légales et cookies
+     * Declaration d'accessibilité
+     * (BUTTON) Cookie-Paramètres
+
+Permis d'environnement
+
+   (BUTTON)
+
+   Autorisation liée à l'exploitation d'une installation classée («
+   incommode, insalubre et dangereuse ») et qui contient des obligations
+   ayant pour objectif d'assurer la protection contre les dangers,
+   nuisances ou inconvénients, qu'une installation ou activité est
+   susceptible de causer, directement ou indirectement, à l'environnement,
+   la santé ou la sécurité de la population.
+
+Maître d'ouvrage
+
+   (BUTTON)
+
+   Personne, morale ou physique, publique ou privée, propriétaire ou
+   bénéficiaire d'un patrimoine immobilier, commanditaire d'un projet de
+   rénovation ou de construction. Il effectue la programmation des
+   opérations en raisonnant sur base du coût global sur la durée de vie du
+   patrimoine. Il peut confier la conduite d'opération à un prestataire.
+
+Autoconsommation
+
+   (BUTTON)
+
+   L'autoconsommation est la consommation d'une ressource par son
+   producteur : aliments issus de l'agriculture urbaine, électricité issu
+   de panneaux photovoltaïque ou d'une cogénération, eau de pluie
+   récupérée, etc
+
+   Au plus l'installation est petite, au plus l'autoconsommation est
+   grande.
+
+   Pour l’autoconsommation électrique, il s’agit de la production
+   d'électricité qui est simultanément consommée au niveau du compteur
+   auquel l'installation est raccordée.
+   Voir Thématique | Electricité verte
+
+Agroforesterie
+
+   (BUTTON)
+
+   Pratique associant arbres et cultures vivrières et/ou élevage sur une
+   même parcelle.
+
+Fruiticulture
+
+   (BUTTON)
+
+   Culture d'arbres fruitiers (basse, moyenne ou haute tige), sous forme
+   palissée ou non.
+
+Biodiversité
+
+   (BUTTON)
+
+   Variabilité des organismes vivants de toute origine y compris, entre
+   autres, les écosystèmes terrestres, marins et autres écosystèmes
+   aquatiques et les complexes écologiques dont ils font partie ; cela
+   comprend la diversité au sein des espèces et entre espèces ainsi que
+   celle des écosystèmes.
+
+   Source de la définition: Convention sur la diversité biologique, 1992
+
+Permaculture
+
+   (BUTTON)
+
+   Mode de production basé sur la reproduction des écosystèmes naturels et
+   les interactions des espèces entre elles.
+
+Spin farming
+
+   (BUTTON)
+
+   Modèle agricole basé sur la production de légumes spécifiques à haute
+   valeur ajoutée, haut rendement, longue saisonnalité, cycles de
+   croissance rapide, etc. et caractérisé par un faible investissement de
+   départ (infrastructures).
+
+Agroécologie
+
+   (BUTTON)
+
+   Système de production agricole visant la réduction des pressions sur
+   l'environnement et la préservation des ressources naturelles.
+
+PRAS
+
+   (BUTTON)
+
+   Plan régional adopté en 2001 qui détermine l'affectation générale des
+   différentes zones du territoire de la Région et les mesures
+   d'aménagement des principales voies de communication.

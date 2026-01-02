@@ -1,17 +1,418 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 149364790
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:36 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Current progress
+     * 2 Methodology
+       (BUTTON) Toggle Methodology subsection
+          + 2.1 In vitro culture
+               o 2.1.1 Plasma clot method
+               o 2.1.2 Agar gel method
+               o 2.1.3 Raft Methods
+               o 2.1.4 Grid Method
+     * 3 Uses
+     * 4 Limitations
+     * 5 See also
+     * 6 References
+     * 7 External links
+
+   [ ] Toggle the table of contents
+
+Organ culture
+
+   [ ] 6 languages
+     * العربية
+     * Dansk
+     * 한국어
+     * हिन्दी
+     * 日本語
+     * Suomi
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Cultivation of organ tissue in vitro
+   icon
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed.
+   Find sources: "Organ culture" – news · newspapers · books · scholar ·
+   JSTOR (February 2009) (Learn how and when to remove this message)
+
+   Organ culture is the cultivation of either whole organs or parts of
+   organs in vitro.^[1] It is a development from tissue culture methods of
+   research, as the use of the actual in vitro organ itself allows for
+   more accurate modelling of the functions of an organ in various states
+   and conditions.^[2]
+
+   A key objective of organ culture is to maintain the architecture of the
+   tissue and direct it towards normal development. In this technique, it
+   is essential that the tissue is never disrupted or damaged. It thus
+   requires careful handling. The media used for a growing organ culture
+   are generally the same as those used for tissue culture. The techniques
+   for organ culture can be classified into (i) those employing a solid
+   medium and (ii) those employing liquid medium.
+
+   Organ culture technology has contributed to advances in embryology,^[3]
+   inflammation, cancer, and stem cell biology research.^[2]
+
+Current progress
+
+   [edit]
+
+   In April 2006, scientists reported a successful trial of seven bladders
+   grown in-vitro and given to humans.^[4]^[5] A bladder has been cultured
+   by Anthony Atala of the Wake Forest Institute for Regenerative Medicine
+   in Winston-Salem, North Carolina. A jawbone has been cultured at
+   Columbia University, a lung has been cultured at Yale. A beating rat
+   heart has been cultured by Doris Taylor at the University of Minnesota.
+   An artificial kidney has been cultured by H. David Humes at the
+   University of Michigan.^[6]
+
+   Silk cut from silkworm cocoons has been successfully used as growth
+   scaffolding for heart tissue production. Heart tissue does not
+   regenerate if damaged, so producing replacement patches is of great
+   interest. The experiment used rat heart cells and produced functional
+   heart tissue. In order to further test applications to humans as a
+   cure, a way to transform human stem cells into heart tissue would have
+   to be found.^[7]
+
+   In 2015, Harald Ott was able to grow a rat forelimb.^[8] He now works
+   at Ott Lab which focuses on the creation of bioartificial hearts,
+   lungs, tracheas and kidneys.^[9]
+
+   In 2016, another test was done in which human cells were used to
+   assemble intricately structured hearts. The hearts ultimately proved
+   immature but proved we were yet one step further to making a heart from
+   stem cells.^[10]^[11]
+
+   In January 2017, scientists from Salk Institute for Biological Studies
+   managed to create a pig embryo that had part of its DNA, critical for
+   the growth of organs, edited out. They then introduced human stem cells
+   inside the pig embryo to have the human DNA fill in the gaps.^[12]^[13]
+
+   In March 2022, research was published that demonstrated the tentative
+   success of a corneal implant called BPCDX that was shown to have
+   significant tissue attachment and host cell migration once implanted.
+   ^[14]
+
+Methodology
+
+   [edit]
+
+In vitro culture
+
+   [edit]
+
+   Embryonic organ culture is an easier alternative to normal organ
+   culture derived from adult animals. The following are four techniques
+   employed for embryonic organ culture.
+
+Plasma clot method
+
+   [edit]
+
+   The following are general steps in organ culture on plasma clots.
+    1. Prepare a plasma clot by mixing 15 drops of plasma with five drops
+       of embryo extract in a watch glass.
+    2. Place a watch glass on a pad of cotton wool in a petri dish; cotton
+       wool is kept moist to prevent excessive evaporation from the dish.
+    3. Place a small, carefully dissected piece of tissue on top of the
+       plasma clots in watch glass.
+
+   The technique has now been modified, and a raft of lens paper or rayon
+   net is used on which the tissue is placed. Transfer of the tissue can
+   then be achieved by raft easily. Excessive fluid is removed and the net
+   with the tissue placed again on the fresh pool of medium.
+
+Agar gel method
+
+   [edit]
+
+   Media solidified with agar are also used for organ culture and these
+   media consist of 7 parts 1% agar in BSS, 3 parts chick embryo extract
+   and 3 parts of horse serum. Defined media with or without serum are
+   also used with agar. The medium with agar provides the mechanical
+   support for organ culture. It does not liquefy. Embryonic organs
+   generally grow well on agar, but adult organ culture will not survive
+   on this medium.
+
+   The culture of adult organs or parts from adult animals is more
+   difficult due to their greater requirement of oxygen. A variety of
+   adult organs (e.g. the liver) have been cultured using special media
+   with special apparatus (Towell's II culture chamber). Since serum was
+   found to be toxic, serum-free media were used, and the special
+   apparatus permitted the use of 95% oxygen.
+
+Raft Methods
+
+   [edit]
+
+   In this approach the explant is placed onto a raft of lens paper or
+   rayon acetate, which is floated on serum in a watch glass. Rayon
+   acetate rafts are made to float on the serum by treating their 4
+   corners with silicone.
+
+   Similarly, floatability of lens paper is enhanced by treating it with
+   silicone. On each raft, 4 or more explants are usually placed.
+
+   In a combination of raft and clot techniques, the explants are first
+   placed on a suitable raft, which is then kept on a plasma clot. This
+   modification makes media changes easy, and prevents the sinking of
+   explants into liquefied plasma.
+
+Grid Method
+
+   [edit]
+
+   Initially devised by Trowell in 1954, the grid method utilizes 25 mm x
+   25 mm pieces of a suitable wire mesh or perforated stainless steel
+   sheet whose edges are bent to form 4 legs of about 4 mm height.
+
+   Skeletal tissues are generally placed directly on the grid but softer
+   tissues like glands or skin are first placed on rafts, which are then
+   kept on the grids.
+
+   The grids themselves are placed in a culture chamber filled with fluid
+   medium up to the grid; the chamber is supplied with a mixture of O[2]
+   and CO[2] to meet the high O[2] requirements of adult mammalian organs.
+   A modification of the original grid method is widely used to study the
+   growth and differentiation of adult and embryonic tissues.
+
+Uses
+
+   [edit]
+
+   Cultured organs can be an alternative for organs from other (living or
+   deceased) people. This is useful as the availability of transplantable
+   organs (derived from other people) is declining in developed countries.
+   Another advantage is that cultured organs, created using the patients
+   own stem cell, allows for organ transplants where the patient would no
+   longer require immunosuppressive drugs.^[15]
+
+Limitations
+
+   [edit]
+     * Results from in vitro organ cultures are often not comparable to
+       those from in vivo studies (e.g. studies on drug action) since the
+       drugs are metabolized in vivo but not in vitro.
+
+See also
+
+   [edit]
+     * Cell culture
+     * Tissue culture
+     * 3D bioprinting
+
+References
+
+   [edit]
+    1. ^ Hoshino, Takao (1981-01-01), Fedoroff, Sergey; Hertz, Leif
+       (eds.), Cellular Aspects of Human Brain Tumors (Gliomas), Advances
+       in Cellular Neurobiology, vol. 2, Elsevier, pp. 167–204,
+       doi:10.1016/B978-0-12-008302-2.50010-9, ISBN 9780120083022,
+       retrieved 2023-03-06
+    2. ^ ^a ^b Al-Lamki, Rafia S.; Bradley, John R.; Pober, Jordan S.
+       (2017). "Human Organ Culture: Updating the Approach to Bridge the
+       Gap from In Vitro to In Vivo in Inflammation, Cancer, and Stem Cell
+       Biology". Frontiers in Medicine. 4: 148.
+       doi:10.3389/fmed.2017.00148. ISSN 2296-858X. PMC 5601956.
+       PMID 28955710.
+    3. ^ McClelland, Kathryn S.; Bowles, Josephine (2016-04-01).
+       "Culturing murine embryonic organs: Pros, cons, tips and tricks".
+       Differentiation. New and Old Techniques in Cell and Developmental
+       Biology. 91 (4): 50–56. doi:10.1016/j.diff.2016.01.008.
+       ISSN 0301-4681. PMID 26988290.
+    4. ^ "Lab-grown bladder shows big promise", New Scientist, 2006, issue
+       2546,
+       https://www.newscientist.com/channel/health/mg19025464.200-labgrown
+       -bladder-shows-big-promise.html
+    5. ^ Atala, Anthony; Bauer, Stuart B; Soker, Shay; Yoo, James J;
+       Retik, Alan B (April 2006). "Tissue-engineered autologous bladders
+       for patients needing cystoplasty". The Lancet. 367 (9518):
+       1241–1246. doi:10.1016/S0140-6736(06)68438-9. PMID 16631879.
+       S2CID 17892321.
+    6. ^ "Already cultured organs to date (2011)". Archived from the
+       original on 2018-03-12. Retrieved 2011-07-03.
+    7. ^ Max-Planck-Gesellschaft (2012, January 27). Heart of silk:
+       Scientists use silk from the tasar silkworm as a scaffold for heart
+       tissue. ScienceDaily. Retrieved January 29, 2012, from
+       https://www.sciencedaily.com/releases/2012/01/120127135943.htm
+    8. ^ World’s first biolimb: Rat forelimb grown in the lab
+    9. ^ Ott Lab: projects
+   10. ^ Lab grown heart
+   11. ^ Lab grown heart ref 2
+   12. ^ Human-pig embryos created by scientists in breakthrough for organ
+       transplants
+   13. ^ Human-Pig Hybrid Created in the Lab
+   14. ^ Nair, D. S.; Seiler, M. J.; Patel, K. H.; Thomas, V.; Camarillo,
+       J. C.; Humayun, M. S.; Thomas, B. B. (2021). "Tissue Engineering
+       Strategies for Retina Regeneration". Applied Sciences. 11 (5):
+       2154. doi:10.3390/app11052154. PMC 8896578. PMID 35251703.
+   15. ^ Growing organs in the lab
+
+External links
+
+   [edit]
+     * Fetal Thymus Organ Culture
+
+     * v
+     * t
+     * e
+
+   Emerging technologies
+   Fields
+   Biomedical
+     * 3D bioprinting
+          + Microgravity bioprinting
+     * Aldehyde-stabilized cryopreservation
+     * Ampakine
+     * Artificial organs
+          + Organ printing
+          + Womb
+     * Biofabrication
+     * Brain transplant
+     * De-extinction
+     * Generative biology
+     * Genetic engineering
+          + Gene therapy
+     * Head transplant
+     * Isolated brain
+     * Life extension
+          + Strategies for engineered negligible senescence
+     * Nanomedicine
+     * Nanosensors
+     * Organ culture
+          + engineered uterus
+     * Personalized medicine
+     * Regenerative medicine
+          + Stem-cell therapy
+          + Tissue engineering
+     * Robot-assisted surgery
+     * Relational biology
+     * Synthetic biology
+          + Synthetic genomics
+     * Tricorder
+     * Virotherapy
+          + Oncolytic virus
+     * Whole genome sequencing
+
+     * List
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Organ_culture&oldid=1291896
+   023"
+
+   Categories:
+     * Histology
+     * Laboratory techniques
+
+   Hidden categories:
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Articles needing additional references from February 2009
+     * All articles needing additional references
+
+     * This page was last edited on 24 May 2025, at 01:39 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Organ culture
+   (BUTTON) 6 languages Add topic

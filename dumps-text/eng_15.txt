@@ -1,17 +1,311 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 150865919
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:37 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Purpose
+     * 2 Technique
+     * 3 See also
+     * 4 References
+
+   [ ] Toggle the table of contents
+
+Throat culture
+
+   [ ] 5 languages
+     * العربية
+     * Español
+     * فارسی
+     * 한국어
+     * Simple English
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   icon
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed.
+   Find sources: "Throat culture" – news · newspapers · books · scholar ·
+   JSTOR (September 2014) (Learn how and when to remove this message)
+   Medical diagnostic method
+                       Throat culture
+   [250px-Throat_Culture.png]
+   Purpose Diagnose bacteria or fungal infection in throat
+
+   A throat culture is a laboratory diagnostic test that evaluates for the
+   presence of a bacterial or fungal infection in the throat. A sample
+   from the throat is collected by swabbing the throat and placing the
+   sample into a special cup (culture) that allows infections to grow. If
+   an organism grows, the culture is positive and the presence of an
+   infection is confirmed. The type of infection is found using a
+   microscope, chemical tests, or both. If no infection grows, the culture
+   is negative. Common infectious organisms tested for by a throat culture
+   include Candida albicans, known for causing thrush, and Group A
+   streptococcus, known for causing strep throat,^[1] scarlet fever, and
+   rheumatic fever.^[1] Throat cultures are more sensitive (81% sensitive)
+   than the rapid strep test (70%) for diagnosing strep throat, but are
+   nearly equal in terms of specificity.^[1]
+
+Purpose
+
+   [edit]
+
+   A throat culture may be done to investigate the cause of a sore throat.
+   Most sore throats are caused by viral infections. However, in some
+   cases the cause of a sore throat may be unclear and a throat culture
+   can be used to determine if the infection is bacterial. Identifying the
+   responsible organism can guide treatment.
+
+Technique
+
+   [edit]
+
+   The person receiving the throat culture is asked to tilt his or her
+   head back and open his or her mouth. The health professional will press
+   the tongue down with a tongue depressor and examine the mouth and
+   throat. A clean swab will be rubbed over the back of the throat, around
+   the tonsils, and over any red areas or sores to collect a sample.
+
+   The sample may also be collected using a throat washout. For this test,
+   the patient will gargle a small amount of salt water and then spit the
+   fluid into a clean cup. This method gives a larger sample than a throat
+   swab and may make the culture more reliable.
+
+   A culture for Streptococcus pyogenes can take 18–24 hours when grown at
+   37 degrees Celsius (body temperature).^[1]
+
+See also
+
+   [edit]
+     * icon Medicine portal
+     * icon Biology portal
+
+     * Antibiogram
+     * Bacterial culture
+     * Laboratory specimen
+     * Rapid strep test
+
+References
+
+   [edit]
+    1. ^ ^a ^b ^c ^d Regoli M, Chiappini E, Bonsignori F, Galli L, de
+       Martino M (January 2011). "Update on the management of acute
+       pharyngitis in children". Ital J Pediatr. 37: 10.
+       doi:10.1186/1824-7288-37-10. PMC 3042010. PMID 21281502.
+
+     * v
+     * t
+     * e
+
+   Techniques in clinical microbiology
+   Isolation
+   and culture
+   Isolation techniques
+     * Asepsis
+     * Streak plate
+     * Selective media
+
+   Cultures by body site
+     * Blood culture
+     * Genital culture
+     * Sputum culture
+     * Throat culture
+     * Urine culture
+     * Wound culture
+
+   Cultures by organism
+     * Bacterial culture
+     * Fungal culture
+     * Viral culture
+
+   Identification
+   and testing
+   Manual testing: basic techniques
+     * Colonial morphology
+          + Hemolysis
+     * Staining
+          + Gram stain
+          + Acid-fast stain
+          + Giemsa stain
+          + India ink stain
+          + Ziehl–Neelsen stain
+     * Wet prep
+     * Rapid tests
+          + Oxidase
+          + Catalase
+          + Indole
+          + PYR
+
+   Manual testing:
+   biochemical and immunologic tests
+     * ALA test
+     * Amino acid decarboxylase test
+     * Bile solubility test
+     * CAMP test
+     * Citrate test
+     * Coagulase test
+     * DNAse test
+     * IMViC
+     * KOH test
+     * Methyl red test
+     * Nitrite test
+     * ONPG test
+     * Oxidative/fermentation glucose test
+     * Phenylalanine deaminase test
+     * Reverse CAMP test
+     * Salt tolerance test
+     * Sulfide indole motility test
+     * Triple sugar iron test
+     * Urease test
+          + rapid
+     * Voges–Proskauer test
+     * X and V factor test
+     * Bacitracin susceptibility test
+     * Optochin susceptibility test
+     * Novobiocin susceptibility test
+     * Lancefield grouping
+     * RPR test
+
+   Automated and point-of-care testing
+     * Analytical profile index
+     * MALDI-TOF
+     * Polymerase chain reaction
+     * VITEK
+     * Rapid strep test
+     * Monospot test
+
+   Antibiotic susceptibility testing
+     * Beta-lactamase test
+     * Disk diffusion test
+     * Etest
+     * McFarland standards
+     * Minimum inhibitory concentration
+
+   Equipment
+     * Agar plate
+          + Growth medium
+     * Anaerobic jar
+          + Gas-pak
+     * Durham tube
+     * Biosafety cabinet
+     * Incubator
+     * Inoculation loop
+     * Inoculation needle
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Throat_culture&oldid=131806
+   3059"
+
+   Categories:
+     * Medical tests
+     * Microbiology techniques
+
+   Hidden categories:
+     * Articles needing additional references from September 2014
+     * All articles needing additional references
+     * Articles with short description
+     * Short description matches Wikidata
+
+     * This page was last edited on 21 October 2025, at 18:19 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Throat culture
+   (BUTTON) 5 languages Add topic

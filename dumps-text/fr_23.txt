@@ -38,55 +38,46 @@ Sommaire
 
    (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
      * Début
-     * 1 Caractéristiques
-     * 2 Histoire
-     * 3 Diversité culturelle au sein de la francophonie
-     * 4 Notes et références
-     * 5 Voir aussi
-       (BUTTON) Afficher / masquer la sous-section Voir aussi
-          + 5.1 Bibliographie
-          + 5.2 Articles connexes
-               o 5.2.1 Culture et patrimoine
-               o 5.2.2 Déclarations sur la diversité culturelle
-               o 5.2.3 Autres notions associées à la diversité culturelle
-               o 5.2.4 Autres
-          + 5.3 Liens externes
+     * 1 Notes et références
+     * 2 Liens externes
 
    [ ] Basculer la table des matières
 
-Diversité culturelle
+Identité culturelle
 
-   [ ] 30 langues
-     * Afrikaans
-     * Alemannisch
+   [ ] 32 langues
      * العربية
-     * Azərbaycanca
-     * Català
+     * Čeština
      * Cymraeg
      * Deutsch
+     * Ελληνικά
      * English
-     * Esperanto
      * Español
-     * Eesti
+     * Euskara
      * فارسی
-     * עברית
-     * हिन्दी
+     * Suomi
+     * Galego
      * Hrvatski
      * Հայերեն
-     * Italiano
+     * Bahasa Indonesia
      * 日本語
      * 한국어
-     * Latina
-     * नेपाली
-     * Nederlands
+     * Latviešu
+     * Polski
      * Português
      * Русский
-     * سنڌي
      * Simple English
+     * Shqip
      * Српски / srpski
+     * தமிழ்
      * ไทย
+     * Türkçe
      * Татарча / tatarça
+     * Українська
+     * Tiếng Việt
+     * Walon
      * 中文
+     * IsiZulu
 
    Modifier les liens
 
@@ -125,7 +116,7 @@ Diversité culturelle
      * Version imprimable
 
    Dans d’autres projets
-     * Wikimedia Commons
+     * Wikiquote
      * Élément Wikidata
 
    Apparence
@@ -133,283 +124,63 @@ Diversité culturelle
    Un article de Wikipédia, l'encyclopédie libre.
    Page d’aide sur l’homonymie
 
-   Ne doit pas être confondu avec Diversité ethnique.
+   Pour les articles homonymes, voir Identité.
 
-   La diversité culturelle est l'existence de différentes cultures au sein
-   d'une organisation ou une société. Elle désigne le fait d’inclure
-   différentes perspectives culturelles dans une organisation ou une
-   société.
-
-Caractéristiques
-
-   [modifier | modifier le code]
-   [500px-37_Asamblea_General_de_la_UNESCO_%2810730195765%29.jpg] 37e
-   Assemblée générale de l’UNESCO en 2013, Paris.
-
-   Selon certains anthropologues et sociologues, c'est un concept servant
-   à décrire l'existence de différentes cultures au sein d'une société, en
-   fait à l'intérieur d'un État-nation^[1].
-
-   La « défense de la diversité culturelle » peut prendre plusieurs
-   acceptions^[2] :
-     * un rééquilibrage à obtenir : ainsi, l'idée de défense de la
-       diversité culturelle passe par la promotion d'actions en faveur de
-       « minorités culturelles » défavorisées ;
-     * la préservation de « minorités culturelles » menacées de
-       disparition ;
-     * dans d'autres cas, on parle de « protection culturelle », ce qui
-       renvoie au concept d'« exception culturelle ». Cela fait le lien
-       entre la vision sociale de la culture et la vision commerciale de
-       sa diffusion. L'exception culturelle met en avant une spécificité
-       des productions et services culturels, spécificité reconnue entre
-       autres par l'Union européenne dans sa Déclaration sur la diversité
-       culturelle. Dans cette optique, l'objectif est de défendre, contre
-       ce qui est vu comme une « marchandisation » jugée néfaste, ce qui
-       incarne une culture, en soutenant son développement (par des
-       subventions, par des opérations de promotion) ; on parle aussi,
-       dans le cas français notamment, de protectionnisme culturel.
-     * cette défense peut aussi renvoyer à une « défense des droits
-       culturels », menée, sans succès, au début des années 1990 en
-       Europe, en calque des droits de l'homme.
-
-   Devant l'apparition d'un "baromètre de la diversité" par l'Autorité de
-   régulation de la communication audiovisuelle et numérique, l'écrivain
-   Michele Gautard s'inquiète de l'apparition d'une technocratie des
-   identités : « Ça me dérange toujours quand on met les uns ou les autres
-   dans des cases, parce que qu’on le veuille ou non, on exclura toujours
-   quelqu’un. En nommant les choses par catégories, on en exclue d’autres
-   et moi je pense qu’il vaut mieux trouver une formule plus générique,
-   sans préciser les genres, le sexe, la couleur, etc. (…) on est dans une
-   sorte de formatage catégoriel^[3] ».
-
-Histoire
-
-   [modifier | modifier le code]
-   [500px-List_of_countries_ranked_by_ethnic_and_cultural_diversity_level%
-   2C_List_based_on_Fearon%27s_analysis.png] Pays classés par niveau de
-   diversité ethnique et culturelle (James Fearon, 2003).
-
-   Au niveau international, la notion de diversité culturelle a été
-   défendue par l’Organisation des Nations unies pour l'éducation, la
-   science et la culture dès sa fondation en 1945 par divers pays^[4].
-
-   La journée mondiale pour la diversité culturelle, le dialogue et le
-   développement a été établie en novembre 2001 par l'Assemblée générale
-   des Nations unies à la suite de la Déclaration universelle sur la
-   diversité culturelle de l'Unesco^[5]. Elle a pour objectif de faire la
-   promotion de la diversité culturelle, du dialogue et du développement.
-   Elle se tient les 21 mai.
-
-   En septembre 2002 la ville de Porto Alegre au Brésil a organisé une
-   réunion mondiale pour la culture, rassemblant des maires et directeurs
-   techniques de culture de différentes villes du monde, avec la
-   participation d'observateurs de la société civile^[6]. Les villes de
-   Porto Alegre et de Barcelone ont proposé la rédaction d’un document de
-   référence pour l’élaboration des politiques culturelles locales,
-   s’inspirant d’Agenda 21, créé en 1992 pour le domaine de
-   l’environnement. L’Agenda 21 de la culture a ainsi été conçu dans le
-   but d’inclure la diversité Culturelle à l’échelle locale. Le document a
-   été approuvé le 8 mai 2004 lors de la première édition du Forum
-   universel des cultures à Barcelone (Espagne).
-
-   En 2003, James Fearon, professeur américain de l’université Stanford, a
-   publié la "Ethnic and Cultural Diversity by Country" dans le Journal of
-   Economic Growth, une liste des pays en fonction de la diversité des
-   ethnies, langues et religions^[7].
-
-   En 2005, la Convention sur la protection et la promotion de la
-   diversité des expressions culturelles a été adoptée en octobre 2005 par
-   l’UNESCO afin de protéger la diversité culturelle face à
-   l’homogénéisation de la culture par la mondialisation, le libre-échange
-   et le commerce international^[8].
-
-Diversité culturelle au sein de la francophonie
-
-   [modifier | modifier le code]
-
-   La diversité culturelle est partie intégrante de la francophonie,
-   puisque la quasi-totalité des pays qui composent l'espace francophone
-   sont multilingues. Dans les pays d'Afrique francophone notamment, le
-   français, perçu comme langue de culture^[9], cohabite avec les langues
-   régionales. D'autre part, la langue française est, avec l'anglais,
-   l'une des deux seules langues parlées sur les cinq continents.
-
-   Ces raisons ont poussé les responsables de la Francophonie à inclure la
-   diversité culturelle dans les missions de l'Organisation internationale
-   de la francophonie en 2004. La déclaration de Ouagadougou (27 novembre
-   2004), définissant la Francophonie comme un « espace solidaire pour un
-   développement durable », s'attache à ce que le développement soit
-   « attentif à la diversité culturelle et linguistique »^[10].
+   L’identité culturelle est un type d’identité qui implique des liens
+   avec la culture, les coutumes, les traditions et les styles de vie
+   d'une certaine population^[1]. Les groupes sociaux et les peuples
+   peuvent y trouver une appartenance. L’identité culturelle regroupe
+   plusieurs aspects représentatifs d’un peuple mis ensemble, créant un
+   tout, une culture. En d’autres mots, c’est « un sentiment de relations
+   partagées avec d’autres dans le cadre d’un attachement psychologique,
+   sociologique et politique »^[2].
 
 Notes et références
 
    [modifier | modifier le code]
-    1. ↑ Janet M. Bennett, The SAGE Encyclopedia of Intercultural
-       Competence, SAGE Publications, USA, 2015, p. 586
-    2. ↑ Stephen Tierney, Accommodating Cultural Diversity, Ashgate
-       Publishing, USA, 2013, p. 126
-    3. ↑ « Metaclassique #252 – Diversifier – METACLASSIQUE », 29 novembre
-       2023 (consulté le 21 janvier 2024)
-    4. ↑ Richard T. Schaefer, Encyclopedia of Race, Ethnicity, and
-       Society, volume 1, SAGE Publications, USA, 2008, p. 558
-    5. ↑ Roberto Blancarte Pimentel, Robert Charles Elliot, Robert Holton,
-       Religion, culture and sustainable development -volume II, EOLSS
-       Publications, USA, 2010, p. 340
-    6. ↑ Helmut K Anheier, Yudhishthir Raj Isar, Cultures and
-       Globalization: Cities, Cultural Policy and Governance, SAGE
-       Publications, USA, 2012, p. 80
-    7. ↑ (en) James Fearon, « Ethnic and Cultural Diversity by Country »,
-       Journal of Economic Growth, vol. 8,‎ 2003, p. 195–222
-       (DOI 10.1023/A:1024419522867)
-    8. ↑ Charlotte Waelde, Catherine Cummings, Mathilde Pavis, Research
-       Handbook on Contemporary Intangible Cultural Heritage: Law and
-       Heritage, Edward Elgar Publishing, UK, 2018, p. 109
-    9. ↑ Léopold Sédar Senghor, Le français langue de culture, revue
-       Esprit, n° 311, novembre 1962, p. 844
-   10. ↑ Déclaration de Ouagadougou
-
-Voir aussi
-
-   [modifier | modifier le code]
-
-Bibliographie
-
-   [modifier | modifier le code]
-     * Mario d'Angelo, Diversité culturelle et dialogue des
-       civilisations : l'évolution des concepts de 1990 à 2001, coll.
-       Innovations & Développement, n^o 7, Idée Europe, Paris, 2002
-       (ISBN 2-909941-06-X)
-     * Mario d'Angelo, Les Groupes médiatico-culturels face à la diversité
-       culturelle, coll. Innovations & Développement, n^o 6, Idée Europe,
-       Paris, rééd. 2002 (ISBN 2-909941-05-1)
-     * Jean-Christophe Barbato, « La diversité culturelle en droit
-       communautaire. Contribution à l'analyse de la spécificité de la
-       construction européenne », Aix-en-Provence, PUAM, 2008 et thèse de
-       doctorat, Université Nancy 2, 2005.
-     * Françoise Benhamou, Les Dérèglements de l'exception culturelle,
-       Paris, seuil, 2006
-     * Mohamed Othman Benjelloun, La question de la diversité culturelle à
-       l’aune de l’accord de libre-échange entre le Maroc et les
-       États-Unis, colloque international « Développement durable : leçons
-       et perspectives », Organisation internationale de la francophonie,
-       1-4 juin 2004, Ouagadougou, Burkina Faso, [1].
-     * Ludovic Bottallo, La Diversité culturelle dans un cadre économique
-       et technologique en mutation, thèse de doctorat, Université
-       Paris-II Panthéon-Assas, 2006.
-     * John Baird Callicott, article « Diversité culturelle », in
-       Dominique Bourg et Alain Papaux, Dictionnaire de la pensée
-       écologique, Presses universitaires de France, 2015
-       (ISBN 978-2-13-058696-8).
-     * Frédéric Martel, De la Culture en Amérique, Gallimard, 2006
-       (chapitre 11 : « La diversité culturelle », p. 454-513).
-     * Marie-Cécile Naves, « La lutte des classes est-elle sexiste ? »,
-       sur bibliobs.nouvelobs.com, 25 novembre 2009
-     * Marie-Cécile Naves et Olivier Pégard, « Diversité culturelle,
-       diversité urbaine ? », revue Urbanisme, n^o 366, mai-juin 2009,
-       p. 79-81.
-     * Danic Parenteau, « Diversité culturelle et mondialisation »,
-       Politique et Sociétés, vol. 26, n^o 1,‎ 2007, p. 133-145 (lire en
-       ligne)
-     * Philippe Poirrier, L'État et la culture en France au XX^e siècle,
-       Paris, Le Livre de Poche, 2006.
-     * Philippe Poirrier, Les Politiques culturelles en France, Paris, La
-       Documentation française, 2002.
-     * Serge Regourd, L'Exception culturelle, Paris, Puf, 2002.
-     * La diversité, une idée à la mode, Politique, revue de débats,
-       Bruxelles, n°56, octobre 2008. Un dossier de 30 pages sur le
-       concept de diversité tel qu'il est décliné dans le monde des
-       entreprises en Belgique.
-     * Walter Benn Michaels (trad. de l'anglais), La Diversité contre
-       l'égalité [« The Trouble with Diversity: How We Learned to Love
-       Identity and Ignore Inequality »], Paris, Liber-Raisons d'agir,
-       2009, 155 p. (ISBN 978-2-912107-45-9)
-
-Articles connexes
-
-   [modifier | modifier le code]
-
-Culture et patrimoine
-
-   [modifier | modifier le code]
-     * Anthropologie
-     * Culture
-     * Développement durable
-     * Droits culturels
-     * Patrimoine culturel
-     * Patrimoine culturel immatériel
-     * Rayonnement culturel
-     * Civilisation universelle
-     * Coolitude
-
-Déclarations sur la diversité culturelle
-
-   [modifier | modifier le code]
-     * Déclaration universelle de l'Unesco sur la diversité culturelle
-     * Déclaration de Montréal (2007)
-
-Autres notions associées à la diversité culturelle
-
-   [modifier | modifier le code]
-     * Diversité linguistique
-     * Empreinte culturelle
-     * Multilinguisme
-     * Intégration culturelle
-     * Discrimination positive
-     * Exception culturelle
-     * Médiation culturelle
-
-Autres
-
-   [modifier | modifier le code]
-     * Diversité sexuelle et du genre
-     * Ethnocide génocide culturel
-     * Interculturel
-     * Marchandisation
-     * Accord Blum-Byrnes
-     * Interculturalisme
-     * Sensitivity reader
+    1. ↑ Étienne Balibar, « Identité culturelle, identité nationale »,
+       Quaderni, vol. 22, n^o 1,‎ 1994, p. 53–65
+       (DOI 10.3406/quad.1994.1062, lire en ligne, consulté le 20 décembre
+       2023).
+    2. ↑ Gilbert Gagné, « L’identité québécoise et l’intégration
+       continentale », Politique et Sociétés, vol. 23, n^os 2-3,‎ 2004,
+       p. 48 (ISSN 1203-9438 et 1703-8480, DOI 10.7202/010884ar, lire en
+       ligne, consulté le 20 décembre 2023).
 
 Liens externes
 
    [modifier | modifier le code]
 
      *
-     * Ressource relative à la santé Voir et modifier les données sur
-       Wikidata  :
-          + Medical Subject Headings
+     *
      *
      * Notices d'autorité Voir et modifier les données sur Wikidata  :
           + Tchéquie
-     * Convention sur la protection et la promotion de la diversité des
-       expressions culturelles, UNESCO, 2005
-     * Déclaration universelle sur la diversité culturelle, UNESCO, 2001
-     * Coalition pour la diversité culturelle
-     * Le portail de la diversité culturelle
+          + Lettonie
 
      * icône décorative Portail de la culture
-     * icône décorative Portail de la politique
-     * icône décorative Portail de la société
+     * icône décorative Portail de l’anthropologie
+     * icône décorative Portail de la sociologie
 
    Ce document provient de
-   « https://fr.wikipedia.org/w/index.php?title=Diversité_culturelle&oldid
-   =221200840 ».
+   « https://fr.wikipedia.org/w/index.php?title=Identité_culturelle&oldid=
+   226209297 ».
    Catégories :
-     * Multiculturalisme
-     * Politique culturelle
-     * Sociologie de la culture
+     * Identité en sociologie
+     * Culture nationale
 
    Catégories cachées :
-     * Page utilisant P486
-     * Page pointant vers des bases externes
-     * Page pointant vers des bases relatives à la santé
+     * Page utilisant un modèle Bases inactif
      * Article utilisant le modèle Dictionnaires inactif
      * Article de Wikipédia avec notice d'autorité
      * Portail:Culture/Articles liés
-     * Portail:Politique/Articles liés
+     * Portail:Anthropologie/Articles liés
+     * Portail:Sciences humaines et sociales/Articles liés
      * Portail:Société/Articles liés
+     * Portail:Sociologie/Articles liés
 
-     * La dernière modification de cette page a été faite le 16 décembre
-       2024 à 19:23.
+     * La dernière modification de cette page a été faite le 3 juin 2025 à
+       09:27.
      * Droit d'auteur : les textes sont disponibles sous licence Creative
        Commons attribution, partage dans les mêmes conditions ; d’autres
        conditions peuvent s’appliquer. Voyez les conditions d’utilisation
@@ -439,5 +210,5 @@ Liens externes
    (BUTTON) Rechercher
 
    [ ] Basculer la table des matières
-   Diversité culturelle
-   (BUTTON) 30 langues Ajouter un sujet
+   Identité culturelle
+   (BUTTON) 32 langues Ajouter un sujet

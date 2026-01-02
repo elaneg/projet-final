@@ -1,0 +1,411 @@
+
+   #alternate alternate alternate alternate alternate
+
+     * About
+          + About us
+          + The team
+          + Our governance
+          + Funding & membership
+          + How we stay independent
+          + Work at EUFIC
+          + Annual reports
+          + 25 years of EUFIC
+          + Diversity and Inclusion
+          + How we create our evidence-based content
+     * Articles
+          + Healthy living
+               o Healthy eating
+               o Weight management
+               o Health conditions
+               o Gut health & digestion
+               o Food labelling
+          + What's in food
+               o Proteins
+               o Dietary fats
+               o Carbohydrates
+               o Vitamins and Minerals
+               o Phytochemicals
+               o Salt
+               o Food additives
+          + Food production
+               o Food processing
+               o Agriculture
+               o Sustainable food systems
+               o Innovation in food
+               o Food traceability
+          + Food safety
+               o Food contamination
+               o Food risk communication
+               o Safe food handling
+               o Food waste
+               o EU food law
+          + Understanding science
+               o Scientific terms
+               o Study designs
+               o Science in the media
+     * Media
+          + Newsroom
+          + News
+          + EUFIC in the media
+          + Press releases
+     * Projects
+     * Resources
+     * Research
+     * Misinformation
+          + Misinformation
+          + Myth-busting
+          + Media reactions
+          + Deep-dives
+          + Fact-checking
+
+   [en]
+
+   ____________________
+   (BUTTON) Search
+     * Home
+     * food production
+     * Cell-based meat and other cell-based foods: how it is made and what
+       are the pros and cons
+
+Cell-based meat and other cell-based foods: how it is made and what are the
+pros and cons
+
+   Last Updated : 03 December 2025
+   Table of contents
+
+Key takeaways:
+
+     * Cell-based foods (also called cultivated or lab-grown foods) are
+       made by growing animal, plant or microbial cells in controlled
+       conditions, rather than raising animals or crops in the traditional
+       way.
+     * Cultivated meat is produced from animal cells. Its production
+       involves taking a small sample of cells, growing them in
+       nutrient-rich media, and organising them into muscle, fat or other
+       tissues.
+     * Potential benefits of cell-based meat include reduced need for
+       animal farming, improved animal welfare, and possibly fewer
+       food-borne pathogens. But safety assessments are essential, as
+       contamination risks still exist.
+     * The environmental impact of cell-based meat remains uncertain.
+       While cultivated meat could use less land and water, it currently
+       requires high energy inputs, and long-term climate effects depend
+       heavily on renewable energy use.
+     * No cell-based foods are yet approved in the EU, but several
+       products have been authorised elsewhere (e.g., Singapore, USA,
+       Israel, Australia/New Zealand), and regulatory assessments are
+       underway globally.
+     * Consumer acceptance of cell-based meat remains low, and important
+       questions about taste, nutrition, cost and labelling still need to
+       be answered before these products reach supermarkets.
+
+   There has been a lot of talk about lab-grown meat (also called
+   cultivated or cell-based meat) in the news recently. This article
+   explains what it is, how it’s made, and the barriers that will need to
+   be overcome if we’re ever going to find it in supermarkets in Europe.
+
+What are cell-based foods?
+
+   Cell-based food is produced from cells isolated from animals, plants or
+   microorganisms to produce food products. There is a growing trend to
+   use the term “cellular agriculture” to describe the production of foods
+   from animal or plant cells rather than from traditional agriculture.
+   Foods produced by this form of technology are comparable to the
+   existing animal products, such as meat, aquatic, dairy and plant
+   products.
+
+   Cell-based foods are produced by a well-established technology of
+   cell-culture. Specialised cells (stem cells) are isolated from animals
+   or plants and are placed in a nutrient rich growth medium where they
+   are grown under controlled conditions. Here they develop into animal
+   muscle or fat cells or plant products such as chocolate. The type of
+   cell-based food will depend on the original stem-cell. For instance,
+   stem-cells from eggs are used in the production of chicken nuggets and
+   stem-cells from the cocoa plant are used in the production of
+   chocolate.
+
+What is cell-based meat and how is it made?
+
+   An example of cell-based food is cell-based meat that refers to meat
+   developed from animal cell culture, and not via traditional raising and
+   slaughter of living animals.^1 It is not an imitation of meat made with
+   other ingredients, like plant-based burgers that are made from
+   plant-based proteins.
+
+   The production process can be broken down into four steps:^1
+    1. A sample of stem cells is taken from a live animal. Stems cells are
+       cells that can develop into other specialised types of cells found
+       in the body, for example, blood, liver or muscle cells.
+    2. The stem cells are put in large tanks called bioreactors,
+       containing culture media that recreate a similar environment to
+       that which the cells would find in the animal’s body and provides
+       them with the nutrients they need to multiply.
+    3. The culture media is changed so that stem cells can differentiate
+       into the three main components of meat: muscle, fat, and connective
+       tissue.
+    4. These cells are separated and arranged to “build” the type of meat
+       that is being produced. This is called scaffolding. A scaffold is
+       an edible material that supports the organisation of meat cells
+       into the desired shape, for example, a steak, or mincemeat. The
+       scaffold does more than just hold cells together. It also carries
+       nutrients and helps them differentiate even further. In general,
+       complex structures like steaks are more challenging to reproduce
+       than burgers.
+
+   This general production process is also used to produce products like
+   chicken nuggets^2, foie gras^3,^4, and chocolate.^5 In recent years in
+   Europe, we are seeing a rapid investment and growth in the cell-based
+   food sector that will likely lead to the increased availability of
+   these products on the market.^6
+   cell-based-meat_article-image.png
+
+   Fig. 1 – How is cell-based meat made?
+
+What are some pros and cons of cell-based meat?
+
+   Animal welfare is one reason for producing lab-grown meat. This
+   production method can produce meat without the need for raising and
+   slaughtering a large number of animals and therefore, has the potential
+   to increase animal welfare within the food system.^7 However, the
+   process currently still relies on stem cells obtained from a live
+   animal, and the most widely used culture medium contains fetal bovine
+   serum (FBS), which is collected from foetal blood at animal
+   slaughterhouses, so it is not yet entirely slaughter-free.^8
+
+   Some advocates of lab-based meat also consider improved food safety as
+   an advantage of lab-grown meat. This is because, in the controlled lab
+   environment, meat products will not face the traditional risk of
+   contamination with illness-causing bacteria like E.coli or
+   Campylobacter, which usually come from the gut of livestock. However,
+   as with any industrial food production, microbiological or chemical
+   contamination can still occur at different stages. Thorough safety
+   assessments will be needed before they can be sold in Europe.^9
+
+   More sustainable production of protein will be crucial in the next 30
+   years, considering that the world population is expected to grow to 9
+   billion by 2050 and sustainability is an important motivation to
+   produce lab-grown meat. However, it is not clear yet whether mass-scale
+   production of meat in the lab will be more environmentally sustainable
+   than traditional animal husbandry. While less of some resources such as
+   water, land and fertilizers, are needed compared to what is needed to
+   grow feed crops and livestock,^10^,11^ other aspects are more
+   complicated. For example:
+     * While a reduction of cattle farming would decrease methane
+       emissions that contribute to climate change, recent modelling
+       studies have suggested that lab-based meat production could
+       generate problematic levels of CO2 emissions over the long
+       term.^12
+     * Producing cultivated meat requires significant energy input, which
+       could pose a problem if fossil fuels are used to power the
+       production process. The use of renewable energy will be key to
+       addressing sustainability issues.^12
+
+Is cell-based meat suitable for vegetarians or vegans?
+
+   Cell-based meat is an old food produced in a new way, which raises a
+   few questions. In the early days, vegans and vegetarians would have
+   rejected cell-based meat completely, because it used foetal bovine
+   serum (FBS) as the growth medium. However since then, companies have
+   been working to replace FBS with a growth medium that doesn’t come from
+   animals, and this was achieved for the first time in 2022.^13 While
+   cell-based meat is still considered meat, those who refuse to eat meat
+   for animal welfare reasons may choose to eat it when produced in this
+   way.
+
+Is it likely that human breast milk can be produced using cell-based
+technology?
+
+   The production of cell-based breast milk is an area of active research
+   with a focus of replacing or improving the nutritional quality of
+   powdered infant formula.^14 While breast feeding is the best possible
+   option for infants, cultivating mammary cells may offer a product with
+   nutritional characteristics closer to the unique composition of human
+   breast milk. However, current scientific opinion is that cell-based
+   human milk products are unlikely to truly replicate the composition and
+   health benefits of human milk.^15
+
+Is cell-based meat halal/kosher?
+
+   Singapore was the first country to approve the marketing of a
+   cell-based chicken product. In February 2024, the Fatwa Committee of
+   Singapore issued religious guidance that addressed the issues of
+   consumption and production of cell-based meat. The Fatwa Committee
+   stated that, assuming the right conditions are fulfilled, cultivated
+   meat is generally halal or permissible to be consumed by Muslims.^16
+   Similarly, the Fatwa Council of the United Arab Emirates approved the
+   manufacture and consumption of proteins derived from cell-based meat
+   provided that the animals from which the cells are derived have been
+   lawfully slaughtered according to Islamic regulations.^17However, there
+   is still an active debate regarding the conditions for approving
+   cell-based food as suitable for Muslims.^18
+
+   In January 2024, Israel became the first country in the world to
+   authorise the marketing of a cell-based beef product. The religious
+   authorities in Israel ruled that this cell-based meat product was
+   kosher and pareve (neither meat nor dairy) because the meat was grown
+   from stem cells taken from a fertilised egg rather than cells extracted
+   from muscle tissue.^19
+
+Is cell-based meat approved in the EU?
+
+   As cell-based foods are classified as novel foods under EU food
+   regulations, the European Food Safety Authority (EFSA) is required to
+   carry out a scientific risk assessment for these products by evaluating
+   their safety before they can be authorised for sale in the EU. In
+   Europe, before a novel food can be placed on the market, it must be
+   approved by the European Commission. To date, no cell-based foods have
+   been approved in the European Union.
+
+   There are, however, a number of cell-based foods on the market outside
+   the EU. The UK has approved a cell-based chicken product as an
+   ingredient in pet food.^20 Cell-based chicken products (chicken
+   nuggets) have been approved in Singapore and the USA. The USA has also
+   approved a cell-based salmon product for sale.^21 Israeli has approved
+   a cell-based beef product and in Australia/New Zealand a cell-based
+   quail foie gras has been approved.^22
+
+   It is too soon to know whether cell-based meat will be labelled as
+   ‘meat.’ In the EU, the legal definition of meat (which was created when
+   animals were its only possible source) is ‘skeletal muscle deriving
+   from specified animal species.’ In the case of cultivated meat,
+   however, there is no animal and no skeleton, so it’s not clear if the
+   existing definition will be sufficient to cover cell-based meat or not.
+   At the moment, labelling of cell-based meat is under review in the
+   United States where a public consultation is underway.^23
+
+Will cell-cultured meat replace traditional meat?
+
+   If cell-based meat is going to replace a significant percentage of the
+   meat that we eat, consumer acceptance will be key. Current studies
+   indicate that people are still quite reluctant to accept cultured meat,
+   although acceptance can be increased by the way information about the
+   product is presented.^24 For now, people seem more likely to prefer
+   plant-based options when considering alternative proteins.^24 However,
+   most available consumer research on cell-based meat is based upon
+   hypothetical situations and very few consumers have had the opportunity
+   to taste cultivated meat so far. There are not many studies on the
+   sensorial properties, so we don’t have much information about how the
+   taste and texture compares to traditional meat.^25
+   It is also difficult to say whether the nutritional value of these
+   novel products will be the same. The reason for the uncertainty is that
+   producing cell-based meat is complex and expensive and most of the
+   knowledge is owned by the companies who have invested in developing the
+   technology. There are not many samples available for independent
+   researchers, so much of the available data is so far either theoretical
+   or based on information provided by start-ups themselves.^26
+
+   While there are many questions still to be answered about cell-based,
+   EFSA has announced an increased focus on cell-culture derived foods,
+   which may be a step towards paving the way to finding these products on
+   European supermarket shelves.
+
+References
+
+    1. Post MJ, Levenberg S, Kaplan DL et al., (2020) Scientific,
+       sustainability and regulatory challenges of cultured meat. Nature
+       Food 1:403-415
+    2. Good Food Institute Asia Pacific. (2020). World’s first approval of
+       cultivated meat sales. Accessed 12 November 2025.
+    3. ABC News. (2025). Lab-grown meat approved for sale in Australia.
+       Accessed 12 November 2025.
+    4. Food Standards Australia New Zealand. (2025). A1269 Approval
+       report. Accessed 12 November 2025.
+    5. FoodNavigator-USA. (2025). Mondelez-backed Celleste Bio debuts
+       cell-cultured chocolate-grade cocoa butter. Accessed 12 November
+       2025.
+    6. Good Food Institute Europe. (2023). State of the European
+       alternative protein research ecosystem: Publications 2020–2024.
+       Accessed 12 November 2025.
+    7. Bhat ZF, Kumar S, Fayaz H. (2015). In vitro meat production:
+       Challenges and benefits over conventional meat production. Journal
+       of Integrative Agriculture 14(2):241–248.
+    8. Chriki S, Hocquette JF. (2020). The myth of cultured meat: A
+       review. Frontiers in Nutrition 7:7. doi: 10.3389/fnut.2020.00007
+    9. Ong KJ, Johnston J, Datar I, et al. (2021). Food safety
+       considerations and research priorities for the cultured meat and
+       seafood industry. Comprehensive Reviews in Food Science and Food
+       Safety 20(6):5421–5448.
+   10. Mattick CS, Landis AE, Allenby BR, et al. (2015). Anticipatory life
+       cycle analysis of in vitro biomass cultivation for cultured meat
+       production in the United States. Environmental Science & Technology
+       49(19):11941–11949.
+   11. Tuomisto HL, Teixeira de Mattos MJ. (2011). Environmental impacts
+       of cultured meat production. Environmental Science & Technology
+       45(14):6117–6123.
+   12. Lynch J, Pierrehumbert R. (2019). Climate impacts of cultured meat
+       and beef cattle. Frontiers in Sustainable Food Systems 3:5. doi:
+       10.3389/fsufs.2019.00005
+   13. Messmer T, Klevernic I, Furquim C, et al. (2022). A serum-free
+       media formulation for cultured meat production supports bovine
+       satellite cell differentiation in the absence of serum starvation.
+       Nature Food 3:74–85.
+   14. Turrell C. (2024). Lab-grown breast milk. Nature Biotechnology
+       42:1759–1761.
+   15. Food Regulation Australia and New Zealand. (2024). Issues paper:
+       Food regulatory framework considerations for cell-based human milk
+       products. Accessed 12 November 2025.
+   16. Majlis Ugama Islam Singapura (MUIS). (2024). Fatwa on cultivated
+       meat. Accessed 12 November 2025.
+   17. Green Queen. (2025). Lab-grown cultivated meat & Islam: Can Muslims
+       eat it? Halal ruling explained. Accessed 12 November 2025.
+   18. Shuhaidi BNMK, Rosidi MH. (2025). From lab to table: Islamic
+       jurisprudential analysis of cultured meat production.
+   19. United States Department of Agriculture (USDA). (2024). Israeli
+       Government finds cultivated beef to be safe for human consumption.
+       Accessed 12 November 2025.
+   20. FoodNavigator. (2024). Meatly gets UK approval for use of
+       cultivated meat in pet food. Accessed 12 November 2025.
+   21. Just Food. (2025). FDA clears Wildtype salmon. Accessed 12 November
+       2025.
+   22. Good Food Institute Asia Pacific. (2025). Regulators approve
+       cultivated meat sales in Australia. Accessed 12 November 2025.
+   23. United States Department of Agriculture (USDA). (2021). Labeling of
+       meat or poultry products comprised of or containing cultured animal
+       cells. Accessed 12 November 2025.
+   24. Pakseresht A, Kaliji SA & Canavari M. (2022). Review of factors
+       affecting consumer acceptance of cultured meat. Appetite
+       170:105829.
+   25. To KV, Comer CC, O’Keefe SF & Lahne J. (2024). A taste of
+       cell-cultured meat: A scoping review. Frontiers in Nutrition
+       11:1332765.
+   26. Fraeye I, et al. (2020). Sensorial and nutritional aspects of
+       cultured meat in comparison to traditional meat: Much to be
+       inferred. Frontiers in Nutrition 7:35.
+
+Don't miss any news from us!
+       Leave this field blank ____________________
+       tkNFcYUrNEeHu_______
+       text________________ text________________
+       Type your email ____________________ [EN]
+       (BUTTON) subscribe
+
+You may also like…
+          + 5 trending alternative protein sources to meat in Europe
+            5 trending alternative protein sources to meat in Europe
+          + Food technologies: securing our future food supply
+            Food technologies: securing our future food supply
+       Rue Belliard 2A (3rd floor),
+       1040 Brussels, Belgium
+       VAT: BE0456866931
+       eufic@eufic.org
+
+Categories
+          + Healthy living
+          + What’s in food?
+          + Food production
+          + Food safety
+          + Understanding science
+
+About EUFIC
+          + About us
+          + The team
+          + Our governance
+          + Work at EUFIC
+          + Contact
+
+Using this website
+          + Help
+          + Privacy policy
+          + Terms of use
+          + Disclaimer
+       © eufic 2026 - design: FWD - illustration: Pouce-pied

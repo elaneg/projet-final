@@ -1,17 +1,1098 @@
-   Wikimedia
+   #Edit this page Wikipedia (en) Wikipedia Atom feed
 
-Error
+   Jump to content
 
-   Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
 
-   If you report this error to the Wikimedia System Administrators, please
-   include the details below.
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+     * Special pages
 
-   Request served via cp6015 cp6015, Varnish XID 144322806
-   Upstream caches: cp6015 int
-   Error: 429, Please set a proper user-agent and respect our robot policy
-   https://w.wiki/4wJS. See also https://phabricator.wikimedia.org/T400119
-   at Sun, 28 Dec 2025 23:47:38 GMT
-   Sensitive client informationIP address:
-   2a01:e34:ec17:8b0:b74:7465:9ed9:dbfb
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Concept
+     * 2 Development
+     * 3 Criticism
+     * 4 See also
+     * 5 References
+     * 6 Sources
+     * 7 External links
+
+   [ ] Toggle the table of contents
+
+Archaeological culture
+
+   [ ] 61 languages
+     * Afrikaans
+     * العربية
+     * Asturianu
+     * Azərbaycanca
+     * বাংলা
+     * Башҡортса
+     * Беларуская
+     * Беларуская (тарашкевіца)
+     * Български
+     * Català
+     * Чӑвашла
+     * Čeština
+     * Dansk
+     * Deutsch
+     * Eesti
+     * Ελληνικά
+     * Español
+     * Esperanto
+     * Euskara
+     * فارسی
+     * Français
+     * Frysk
+     * Galego
+     * 한국어
+     * Հայերեն
+     * Hrvatski
+     * Bahasa Indonesia
+     * Italiano
+     * עברית
+     * Қазақша
+     * Latina
+     * Lietuvių
+     * Македонски
+     * Монгол
+     * Nederlands
+     * 日本語
+     * Norsk nynorsk
+     * Occitan
+     * Oʻzbekcha / ўзбекча
+     * پښتو
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Саха тыла
+     * Simple English
+     * Slovenčina
+     * کوردی
+     * Српски / srpski
+     * Srpskohrvatski / српскохрватски
+     * Suomi
+     * Svenska
+     * தமிழ்
+     * Татарча / tatarça
+     * Тоҷикӣ
+     * Türkçe
+     * Українська
+     * Tiếng Việt
+     * 吴语
+     * 粵語
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikiquote
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Group of artifact types and structure layouts that often occur together
+
+   An archaeological culture is a recurring assemblage of types of
+   artifacts, buildings and monuments from a specific period and region
+   that may constitute the material culture remains of a particular past
+   human society. The connection between these types is an empirical
+   observation. Their interpretation in terms of ethnic or political
+   groups is based on archaeologists' understanding. However, this is
+   often subject to long-unresolved debates. The concept of the
+   archaeological culture is fundamental to culture-historical
+   archaeology.
+
+Concept
+
+   [edit]
+
+   Different cultural groups have material culture items that differ both
+   functionally and aesthetically due to varying cultural and social
+   practices. This notion is observably true on the broadest scales. For
+   example, the equipment associated with the brewing of tea varies
+   greatly across the world. Social relations to material culture often
+   include notions of identity and status.^[citation needed]
+
+   Advocates of culture-historical archaeology use the notion to argue
+   that sets of material culture can be used to trace ancient groups of
+   people that were either self-identifying societies or ethnic groups.
+   Archaeological culture is a classifying device to order archaeological
+   data, focused on artifacts as an expression of culture rather than
+   people.^[1] The classic definition of this idea comes from Gordon
+   Childe:^[2]
+
+     We find certain types of remains – pots, implements, ornaments,
+     burial rites and house forms – constantly recurring together. Such a
+     complex of associated traits we shall call a "cultural group" or
+     just a "culture". We assume that such a complex is the material
+     expression of what today we would call "a people".
+
+   — Childe 1929, pp. v–vi
+
+   The concept of an archaeological culture was crucial to linking the
+   typological analysis of archaeological evidence to mechanisms that
+   attempted to explain why they change through time. The key explanations
+   favoured by culture-historians were the diffusion of forms from one
+   group to another or the migration of the peoples themselves. A
+   simplistic example of the process might be that if one pottery-type had
+   handles similar to those of a neighbouring type but decoration similar
+   to a different neighbour, the idea for the two features might have
+   diffused from the neighbours. Conversely, if one pottery-type suddenly
+   replaces a great diversity of pottery types in an entire region, that
+   might be interpreted as a new group migrating in with this new
+   style.^[citation needed]
+
+   This idea of culture is known as normative culture. It relies on the
+   assumption found in the view of archaeological culture that artifacts
+   found are "an expression of cultural norms," and that these norms
+   define culture.^[2] This view is also required to be polythetic,
+   multiple artifacts must be found for a site to be classified under a
+   specific archaeological culture. One trait alone does not result in a
+   culture, rather a combination of traits are required.^[2]
+
+   This view culture gives life to the artifacts themselves. "Once
+   'cultures' are regarded as things, it is possible to attribute behavior
+   to them, and to talk about them as if they were living organisms."^[3]
+
+   Archaeological cultures were equated separate 'peoples' (ethnic groups
+   or races) leading in some cases to distinct nationalist
+   archaeologies.^[citation needed]
+
+   Most archaeological cultures are named after either the type artifact
+   or type site that defines the culture. For example, cultures may be
+   named after pottery types such as Linear Pottery culture or
+   Funnelbeaker culture. More frequently, they are named after the site at
+   which the culture was first defined such as the Hallstatt culture or
+   Clovis culture.^[citation needed]
+
+   Since the term "culture" has multiple different meanings, scholars have
+   also coined a more specific term paleoculture, as a specific
+   designation for prehistoric cultures.^[4] Critics argue that cultural
+   taxonomies lack a strong consensus on the epistemological aims of
+   cultural taxonomy,^[5]^[6]^[7]^[8]
+
+Development
+
+   [edit]
+
+   The use of the term "culture" entered archaeology through 19th-century
+   German ethnography, where the Kultur of tribal groups and rural
+   peasants was distinguished from the Zivilisation of urbanised peoples.
+   In contrast to the broader use of the word that was introduced to
+   English-language anthropology by Edward Burnett Tylor, Kultur was used
+   by German ethnologists to describe the distinctive ways of life of a
+   particular people or Volk, in this sense equivalent to the French
+   civilisation. Works of Kulturgeschichte (culture history) were produced
+   by a number of German scholars, particularly Gustav Klemm, from 1780
+   onwards, reflecting a growing interest in ethnicity in 19th-century
+   Europe.^[9]
+
+   The first use of "culture" in an archaeological context was in
+   Christian Thomsen's 1836 work Ledetraad til Nordisk Oldkyndighed
+   (Norwegian: Guide to Northern Antiquity). In the later half of the 19th
+   century archaeologists in Scandinavia and central Europe increasingly
+   made use of the German concept of culture to describe the different
+   groups they distinguished in the archaeological record of particular
+   sites and regions, often alongside and as a synonym of
+   "civilisation".^[9] It was not until the 20th century and the works of
+   German prehistorian and fervent nationalist Gustaf Kossinna that the
+   idea of archaeological cultures became central to the discipline.
+   Kossinna saw the archaeological record as a mosaic of clearly defined
+   cultures (or Kultur-Gruppen, culture groups) that were strongly
+   associated with race. He was particularly interested in reconstructing
+   the movements of what he saw as the direct prehistoric ancestors of
+   Germans, Slavs, Celts and other major Indo-European ethnic groups in
+   order to trace the Aryan race to its homeland or Urheimat.^[10]
+
+   The strongly racist character of Kossinna's work meant it had little
+   direct influence outside of Germany at the time (the Nazi Party
+   enthusiastically embraced his theories), or at all after World War II.
+   However, the more general "culture history" approach to archaeology
+   that he began did replace social evolutionism as the dominant paradigm
+   for much of the 20th century. Kossinna's basic concept of the
+   archaeological culture, stripped of its racial aspects, was adopted by
+   Vere Gordon Childe and Franz Boas, at the time the most influential
+   archaeologists in Britain and America respectively. Childe, in
+   particular, was responsible for formulating the definition of
+   archaeological culture that is still largely applies today. He defined
+   archaeological culture as artifacts and remains that consistently occur
+   together. This introduced a "new and discrete usage of the term which
+   was significantly different from current anthropological usage." His
+   definition in particular was purely a classifying device to order the
+   archaeological data.^[1]
+
+   Though he was sceptical about identifying particular ethnicities in the
+   archaeological record and inclined much more to diffusionism than
+   migrationism to explain culture change, Childe and later
+   culture-historical archaeologists, like Kossinna, still equated
+   separate archaeological cultures with separate "peoples".^[11] Later
+   archaeologists^[who?] have questioned the straightforward relationship
+   between material culture and human societies. The definition of
+   archaeological cultures and their relationship to past people has
+   become less clear; in some cases, what was believed to be a monolithic
+   culture is shown by further study to be discrete societies. For
+   example, the Windmill Hill culture now serves as a general label for
+   several different groups that occupied southern Great Britain during
+   the Neolithic.^[citation needed] Conversely, some archaeologists have
+   argued that some supposedly distinctive cultures are manifestations of
+   a wider culture, but they show local differences based on environmental
+   factors such as those related to Clactonian man.^[citation needed]
+   Conversely, archaeologists may make a distinction between material
+   cultures that actually belonged to a single cultural group. It has been
+   highlighted,^[who?] for example, that village-dwelling and nomadic
+   Bedouin Arabs have radically different material cultures even if in
+   other respects, they are similar. In the past, such synchronous
+   findings were often interpreted as representing intrusion by other
+   groups.^[citation needed]
+
+Criticism
+
+   [edit]
+
+   The concept of archaeological cultures is itself a divisive subject
+   within the archaeological field. When first developed, archaeologic
+   culture was viewed as a reflection of actual human culture.^[1]
+
+     ...in the traditional view we translate present into past by
+     collecting artifacts into groups, and naming those groups as
+     archaeological cultures. We then make the equation between an
+     archaeological and a human culture by making the assumption that
+     artifacts are the expressions of cultural ideas or norms. (...) This
+     approach (...) was termed "culture history" by many (...).
+
+   — Matthew Johnson, Archaeological Theory: An Introduction, p. 19–20
+
+   This view of culture would be "entirely satisfactory if the aim of
+   archaeology was solely the definition and description of these
+   entities."^[12] However, as the 1960s rolled around and archaeology
+   sought to be more scientific, archaeologists wanted to do more than
+   just describe artifacts, and the archaeological culture found.^[2]
+
+   Accusations came that archaeological culture was "idealist" as it
+   assumes that norms and ideas are seen as being "important in the
+   definition of cultural identity." It stresses the particularity of
+   cultures: "Why and how they are different from the adjacent group."
+   Processualists, and other subsequently critics of cultural-historical
+   archaeology argued that archaeological culture treated culture as "just
+   a rag-tag assemblage of ideas."^[13]
+
+   Archaeological culture is presently useful for sorting and assembling
+   artifacts, especially in European archaeology that often falls towards
+   culture-historical archaeology.^[14]
+
+See also
+
+   [edit]
+     * Archaeological association
+     * Law of superposition – Law stating that newer strata stack above
+       older ones
+     * Relative dating (archaeology) – Determination of the relative order
+       of archaeological layers and artifacts
+     * Sequence (archaeology) – Stratigraphy of the archaeological record,
+       used as part of the 'seriation' method of relative dating
+     * Seriation (archaeology) – Archaeological method of relative dating
+     * Sequence dating – Archaeological relative dating method based on
+       linking pottery styles to time periods
+     * Stratigraphy (archaeology) – Study of archaeological sedimentation
+       for dating purposes
+
+References
+
+   [edit]
+    1. ^ ^a ^b ^c McNairn (1980). p. 48.
+    2. ^ ^a ^b ^c ^d Johnson 2019, p. 19.
+    3. ^ Shennan (2021). p. 114.
+    4. ^ Polomé 1982, pp. 287.
+    5. ^ Reynolds & Riede (2019).
+    6. ^ Marwick (2019).
+    7. ^ Shea (2019).
+    8. ^ Scerri (2019).
+    9. ^ ^a ^b Trigger 2006, pp. 232–235.
+   10. ^ Trigger 2006, pp. 235–241.
+   11. ^ Trigger 2006, pp. 241–248.
+   12. ^ Shennan (2021). p. 113.
+   13. ^ Johnson 2019, p. 75–76.
+   14. ^ Johnson 2019, p. 226.
+
+Sources
+
+   [edit]
+     * Childe, V. Gordon (1929). The Danube in Prehistory. Oxford: Oxford
+       University Press.
+     *
+
+   Johnson, Matthew (2019). Archaeological Theory: An Introduction. Third
+   Edition. Wiley-Blackwell. p. 400. ISBN 9781118475027.
+
+     Marwick, Ben (15 October 2019). "Galisonian logic devices and data
+   availability: revitalising Upper Palaeolithic cultural taxonomies".
+   Antiquity. 93 (371): 1365–1367. doi:10.15184/aqy.2019.131.
+   S2CID 211672039.
+
+
+
+   McNairn, Barbara (1980). The Method and Theory of V. Gordon Childe.
+   Edinburgh University Press. p. 48. ISBN 0852243898.
+
+     Polomé, Edgar Charles (1982). Language, Society and Paleoculture.
+   Stanford University Press. ISBN 9780804711494.
+
+     Reynolds, Natasha; Riede, Felix (15 October 2019). "House of cards:
+   cultural taxonomy and the study of the European Upper Palaeolithic".
+   Antiquity. 93 (371): 1350–1358. doi:10.15184/aqy.2019.49.
+
+     Scerri, Eleanor M.L. (15 October 2019). "Cultural taxonomy for the
+   European Upper Palaeolithic: a wide-ranging problem". Antiquity. 93
+   (371): 1362–1364. doi:10.15184/aqy.2019.135. S2CID 211661048.
+
+     Shea, John J. (15 October 2019). "European Upper Palaeolithic
+   cultural taxa: better off without them?". Antiquity. 93 (371):
+   1359–1361. doi:10.15184/aqy.2019.117. S2CID 211663912.
+
+     Shennan, S. J. (1978). Hodder, I. (ed.). Archaeological 'cultures: an
+   empirical investigation. London: Duckworth. Retrieved 30 May 2021.
+
+     Trigger, Bruce G. (2006). A history of archaeological thought
+   (2nd ed.). Cambridge: Cambridge University Press.
+   ISBN 978-0-521-60049-1.
+
+External links
+
+   [edit]
+
+   Wikimedia Commons has media related to Archaeological cultures.
+
+     * What is an archeological culture? – Academia.edu
+
+     * v
+     * t
+     * e
+
+   Prehistoric technology
+
+     * Prehistory
+          + Timeline
+          + Outline
+          + Stone Age
+          + Subdivisions
+          + New Stone Age
+     * Technology
+          + history
+     * Glossary
+
+   Tools
+   Farming
+     * Neolithic Revolution
+          + Founder crops
+          + New World crops
+     * Ard / plough
+     * Celt
+     * Digging stick
+     * Domestication
+     * Goad
+     * Irrigation
+     * Secondary products
+     * Sickle
+     * Terracing
+
+   Food processing
+   (Paleolithic diet)
+     * Fire
+     * Basket
+     * Cooking
+          + Earth oven
+     * Granaries
+     * Grinding slab
+     * Ground stone
+     * Hearth
+          + Aşıklı Höyük
+          + Qesem Cave
+     * Manos
+     * Metate
+     * Mortar and pestle
+     * Pottery
+     * Quern-stone
+     * Storage pits
+
+   Hunting
+     * Arrow
+     * Boomerang
+          + throwing stick
+     * Bow and arrow
+          + history
+     * Nets
+     * Spear
+          + spear-thrower
+          + baton
+          + harpoon
+          + Schöningen
+          + woomera
+
+   Projectile points
+     * Arrowhead
+          + Transverse
+     * Bare Island
+     * Cascade
+     * Clovis
+     * Cresswell
+     * Cumberland
+     * Eden
+     * Folsom
+     * Lamoka
+     * Manis Mastodon
+     * Plano
+
+        Systems
+     * Game drive system
+          + Buffalo jump
+
+   Toolmaking
+     * Earliest toolmaking
+          + Oldowan
+          + Acheulean
+          + Mousterian
+     * Aurignacian
+     * Clovis culture
+     * Cupstone
+     * Fire hardening
+     * Gravettian culture
+     * Hafting
+     * Hand axe
+          + Grooves
+     * Langdale axe industry
+     * Levallois technique
+     * Lithic core
+     * Lithic reduction
+          + analysis
+          + debitage
+          + flake
+     * Lithic technology
+     * Magdalenian culture
+     * Metallurgy
+     * Microblade technology
+     * Mining
+     * Prepared-core technique
+     * Solutrean industry
+     * Striking platform
+     * Tool stone
+     * Uniface
+     * Yubetsu technique
+
+   Other tools
+     * Adze
+     * Awl
+          + bone
+     * Axe
+     * Bannerstone
+     * Blade
+          + prismatic
+     * Bone tool
+     * Bow drill
+     * Burin
+     * Canoe
+          + Oar
+          + Pesse canoe
+     * Chopper
+          + tool
+     * Cleaver
+     * Denticulate tool
+     * Fire plough
+     * Fire-saw
+     * Hammerstone
+     * Knife
+     * Microlith
+     * Quern-stone
+     * Racloir
+     * Rope
+     * Scraper
+          + side
+     * Stone tool
+     * Tally stick
+     * Weapons
+     * Wheel
+          + illustration
+
+   Architecture
+   Ceremonial
+     * Kiva
+     * Pyramid
+     * Standing stones
+          + megalith
+          + row
+          + Stonehenge
+
+   Dwellings
+     * Neolithic architecture
+          + long house
+     * British megalith architecture
+     * Nordic megalith architecture
+     * Burdei
+     * Cave
+     * Cliff dwelling
+     * Dugout
+     * Hut
+          + Quiggly hole
+     * Jacal
+     * Longhouse
+     * Mudbrick
+          + Mehrgarh
+     * Pit-house
+     * Pueblitos
+     * Pueblo
+     * Rock shelter
+          + Blombos Cave
+          + Abri de la Madeleine
+          + Sibudu Cave
+     * Roundhouse
+     * Stilt house
+          + Alp pile dwellings
+     * Stone roof
+     * Wattle and daub
+
+   Water management
+     * Check dam
+     * Cistern
+     * Flush toilet
+     * Reservoir
+     * Well
+
+   Other architecture
+     * Archaeological features
+     * Broch
+     * Burnt mound
+          + fulacht fiadh
+     * Causewayed enclosure
+          + Tor enclosure
+     * Circular enclosure
+          + Goseck
+     * Cursus
+     * Henge
+          + Thornborough
+     * Megalithic architectural elements
+     * Midden
+     * Oldest extant buildings
+     * Timber circle
+     * Timber trackway
+          + Sweet Track
+
+   Arts and culture
+   Material goods
+     * Baskets
+     * Beadwork
+     * Beds
+     * Chalcolithic
+     * Clothing/textiles
+          + timeline
+     * Cosmetics
+     * Glue
+     * Hides
+          + shoes
+          + Ötzi
+     * Jewelry
+          + amber use
+     * Mirrors
+     * Pottery
+          + Cardium
+          + Cord-marked
+          + Grooved ware
+          + Jōmon
+          + Linear
+          + Unstan ware
+     * Sewing needle
+     * Weaving
+     * Wine
+          + winery
+          + wine press
+
+   Prehistoric art
+     * Art of the Upper Paleolithic
+     * Art of the Middle Paleolithic
+          + Blombos Cave
+     * List of Stone Age art
+     * Bird stone
+     * Cairn
+     * Carved stone balls
+     * Cave paintings
+     * Cup and ring mark
+     * Geoglyph
+          + Hill figure
+     * Golden hats
+     * Guardian stones
+     * Gwion Gwion rock paintings
+          + painting
+          + pigment
+     * Megalithic art
+     * Petroform
+     * Petroglyph
+     * Petrosomatoglyph
+     * Pictogram
+     * Rock art
+          + Rock cupule
+          + Stone carving
+     * Sculpture
+     * Statue menhir
+     * Stone circle
+          + list
+          + British Isles and Brittany
+     * Venus figurine
+
+   Prehistoric music
+     * Evolutionary musicology
+          + music archaeology
+     * Alligator drum
+     * Paleolithic flute
+          + Divje Babe flute
+          + Gudi
+
+   Prehistoric religion
+     * Evolutionary origin of religion
+     * Paleolithic religion
+     * Spiritual drug use
+
+   Burial
+     * Burial mounds
+          + Bowl barrow
+          + Round barrow
+     * Mound Builders culture
+          + U.S. sites
+     * Chamber tomb
+          + Cotswold-Severn
+     * Cist
+          + Dartmoor kistvaens
+     * Clava cairn
+     * Court cairn
+     * Cremation
+     * Dolmen
+          + Great dolmen
+     * Funeral pyre
+     * Gallery grave
+          + transepted
+          + wedge-shaped
+     * Grave goods
+     * Jar burial
+     * Kuyavian long barrows
+     * Long barrow
+          + unchambered
+          + Grønsalen
+     * Megalithic tomb
+     * Mummy
+     * Passage grave
+     * Rectangular dolmen
+     * Ring cairn
+     * Simple dolmen
+     * Stone box grave
+     * Tor cairn
+     * Unchambered long cairn
+
+   Other cultural
+     * Archaeoastronomy
+          + sites
+          + lunar calendar
+     * Behavioral modernity
+     * Origin of language
+     * Prehistoric counting
+     * Prehistoric medicine
+          + trepanning
+     * Prehistoric warfare
+     * Symbols
+          + symbolism
+
+     * v
+     * t
+     * e
+
+   Culture
+
+   Outline
+
+   Sciences
+
+     * Cultural anthropology
+     * Cultural astronomy
+     * Cultural ecology
+     * Cultural geography
+     * Cultural neuroscience
+     * Cultural studies
+     * Culturology
+     * Culture theory
+
+   Subfields
+
+     * Bioculture
+     * Cross-cultural studies
+          + Cross-cultural communication
+          + Cross-cultural leadership
+          + Cross-cultural psychiatry
+          + Cross-cultural psychology
+     * Cultural analytics
+     * Cultural economics
+     * Cultural entomology
+     * Cultural history
+     * Cultural mapping
+     * Cultural mediation
+     * Cultural psychology
+     * Cultural values
+     * Culturomics
+     * Intercultural learning
+     * Intercultural relations
+     * Philosophy of culture
+     * Popular culture studies
+     * Postcritique
+     * Semiotics of culture
+     * Sociology of culture
+     * Sound culture
+     * Theology of culture
+     * Transcultural nursing
+
+   Types
+
+     * Constructed culture
+     * Dominant culture
+     * Folk culture
+     * High culture
+     * Individualistic culture
+     * Legal culture
+     * Microculture
+     * Official culture
+     * Political culture
+          + Civic
+     * Popular culture
+          + Low culture
+          + Media culture
+          + Recombinant culture
+          + Remix culture
+          + Trash culture
+          + Urban
+     * Primitive culture
+     * Resistance through culture
+     * Subculture
+          + Alternative culture
+          + Counterculture
+          + Fandom
+          + Far-right subcultures
+          + Underground culture
+          + Youth subculture
+          + list
+     * Super culture
+     * Supporter Culture
+     * Vernacular culture
+     * Culture by location
+
+   Aspects
+
+     * Acculturation
+     * Cultural appreciation
+     * Cultural appropriation
+     * Cultural area
+     * Cultural artifact
+     * Cultural baggage
+     * Cultural bias
+     * Cultural capital
+          + Cross-cultural
+     * Cultural communication
+     * Cultural conflict
+     * Cultural cringe
+     * Cultural dissonance
+     * Cultural emphasis
+     * Cultural framework
+     * Cultural heritage
+          + Destroyed
+     * Cultural icon
+     * Cultural identity
+     * Cultural industry
+     * Cultural invention
+     * Cultural landscape
+     * Cultural learning
+     * Cultural leveling
+     * Cultural memory
+     * Cultural pluralism
+     * Cultural practice
+     * Cultural property
+     * Cultural reproduction
+     * Cultural system
+     * Cultural technology
+     * Cultural universal
+     * Cultureme
+     * Enculturation
+     * High- and low-context cultures
+     * High-trust and low-trust societies
+     * Interculturality
+     * Internet culture
+     * Manuscript culture
+     * Material culture
+     * Non-material culture
+     * Organizational culture
+          + Assessment culture
+          + Design culture
+          + Journalism culture
+     * Print culture
+     * Protoculture
+     * Relational mobility
+     * Safety culture
+     * Symbolic culture
+     * Technoculture
+     * Trans-cultural diffusion
+     * Transculturation
+     * Visual culture
+
+   Politics
+
+     * Colonial mentality
+     * Consumer capitalism
+     * Cross cultural sensitivity
+     * Cultural assimilation
+     * Cultural attaché
+     * Cultural backwardness
+     * Cultural Bolshevism
+     * Cultural conservatism
+     * Cultural contracts
+     * Cultural deprivation
+     * Cultural diplomacy
+     * Cultural environmentalism
+     * Cultural exception
+     * Cultural feminism
+     * Cultural genocide
+     * Cultural globalization
+     * Cultural hegemony
+     * Cultural imperialism
+     * Cultural intelligence
+     * Cultural liberalism
+     * Cultural nationalism
+     * Cultural pessimism
+     * Cultural policy
+     * Cultural racism
+     * Cultural radicalism
+     * Cultural retention
+     * Cultural Revolution
+     * Cultural rights
+     * Cultural safety
+     * Cultural silence
+     * Cultural subsidy
+     * Cultural Zionism
+     * Culture change
+     * Culture minister
+     * Culture of fear
+     * Culture war
+     * Deculturalization
+     * Dominator culture
+     * Interculturalism
+     * Monoculturalism
+     * Multiculturalism
+          + Biculturalism
+     * Multiracial democracy
+     * Pluriculturalism
+     * Polyculturalism
+     * Transculturism
+
+   Religions
+
+     * Buddhism
+     * Christianity
+          + Catholicism
+          + Cultural Christians
+          + Protestantism
+          + Role of Christianity in civilization
+          + Eastern Orthodoxy
+          + Mormonism
+     * Cultural Hindus
+     * Islam
+          + Cultural Muslims
+     * Judaism
+     * Sikhism
+
+   Related
+
+     * Algorithmic culture
+     * Animal culture
+     * Archaeological culture
+     * Bennett scale
+     * Cannabis culture
+     * Circuit of culture
+     * Civilization
+     * Coffee culture
+     * Cringe culture
+     * Cross-cultural
+     * Cultural center
+     * Cultural competence
+     * Cultural critic
+     * Cultural determinism
+     * Cultural diversity
+     * Cultural evolutionism
+     * Cultural homogenization
+     * Cultural institution
+     * Cultural jet lag
+     * Cultural lag
+     * Cultural literacy
+     * Cultural mosaic
+     * Cultural movement
+     * Cultural mulatto
+     * Cultural probe
+     * Cultural relativism
+     * Cultural tourism
+          + Pop-culture
+     * Cultural translation
+     * Cultural turn
+     * Cultural sensibility
+     * Culture and menstruation
+     * Culture and positive psychology
+     * Culture and social cognition
+     * Culture gap
+     * Culture hero
+     * Culture industry
+     * Culture shock
+     * Culturgen
+     * Children's culture
+     * Culturalism
+     * Cyberculture
+     * Death and culture
+     * Disability culture
+          + Deaf culture
+     * Drinking culture
+     * Drug culture
+     * Eastern culture
+     * Emotions and culture
+     * Free-culture movement
+     * Historical culture
+     * Intercultural communication
+     * Intercultural competence
+     * Languaculture
+     * Living things in culture
+     * Media culture
+     * Oppositional culture
+     * Participatory culture
+     * Permission culture
+     * Rape culture
+     * Tea culture
+     * Transformation of culture
+     * Urban culture
+     * Welfare culture
+     * Western culture
+     * Youth culture
+
+     * Category
+
+   Authority control databases Edit this at Wikidata
+   National
+     * Czech Republic
+
+    Other
+     * Encyclopedia of Modern Ukraine
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Archaeological_culture&oldi
+   d=1296418741"
+
+   Categories:
+     * Archaeology
+     * Methods in archaeology
+     * Archaeological cultures
+
+   Hidden categories:
+     * Articles with short description
+     * Short description is different from Wikidata
+     * All articles with unsourced statements
+     * Articles with unsourced statements from August 2022
+     * Articles containing Norwegian-language text
+     * All articles with specifically marked weasel-worded phrases
+     * Articles with specifically marked weasel-worded phrases from
+       September 2010
+     * Articles with unsourced statements from October 2010
+     * Articles with specifically marked weasel-worded phrases from
+       October 2010
+     * Commons category link is on Wikidata
+
+     * This page was last edited on 19 June 2025, at 22:14 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Legal & safety contacts
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
+
+   (BUTTON) Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Toggle the table of contents
+   Archaeological culture
+   (BUTTON) 61 languages Add topic

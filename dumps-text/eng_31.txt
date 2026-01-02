@@ -41,20 +41,23 @@ Contents
 
    (BUTTON) move to sidebar (BUTTON) hide
      * (Top)
-     * 1 Subsidiaries
-     * 2 Broadcasting
+     * 1 Social theory
+       (BUTTON) Toggle Social theory subsection
+          + 1.1 Action theory
+          + 1.2 System and social integration
+          + 1.3 Cultural and socio-cultural integration
+     * 2 Research
      * 3 References
-     * 4 External links
 
    [ ] Toggle the table of contents
 
-Secretariat of Culture
+Cultural system
 
    [ ] 4 languages
-     * Català
-     * Deutsch
-     * Español
-     * Français
+     * العربية
+     * Български
+     * 한국어
+     * Simple English
 
    Edit links
 
@@ -90,187 +93,572 @@ Secretariat of Culture
      * Printable version
 
    In other projects
-     * Wikimedia Commons
      * Wikidata item
 
    Appearance
    (BUTTON) move to sidebar (BUTTON) hide
    From Wikipedia, the free encyclopedia
-   Mexican government agency
-   For the Argentine secretariat, see Secretariat of Culture (Argentina).
+   Interaction of different elements in culture
+   Part of a series on
+   Sociology
+   [250px-Social_Network_Diagram_%28segment%29.svg.png]
+     * History
+     * Outline
+     * Index
 
-   CAPTION: Secretariat of Culture
+   Key themes
+     * Society
+     * Globalization
+     * Human behavior
+     * Human environmental impact
+     * Identity
+     * Industrial revolutions 3 / 4 / 5
+     * Popularity
+     * Social complexity
+     * Social environment
+     * Social equality
+     * Social equity
+     * Social group
+          + Peer
+     * Social power
+     * Social stratification
+     * Social structure
+     * Social cycle theory
 
-   Secretaría de Cultura
-   [250px-CULTURA_Logo_%282024%29.png]
-   Agency overview
-   Formed 18 December 2015
-   Preceding agency
-     * National Council for Culture and Arts (CONACULTA)
+   Perspectives
+     * Conflict theory
+     * Critical theory
+     * Structural functionalism
+     * Positivism
+     * Social constructionism
+     * Social darwinism
+     * Symbolic interactionism
 
-   Jurisdiction Government of Mexico
-   Headquarters Secretaría de Cultura offices, Paseo de la Reforma, Mexico
-   City
-   Ministers responsible
-     * Claudia Curiel de Icaza, Secretary
-     * Rafael Tovar y de Teresa, Inaugural holder
+   Branches
+     * Aging
+     * Architecture
+     * Art
+     * Astrosociology
+     * Body
+     * Criminology
+     * Consciousness
+     * Culture
+     * Death
+     * Demography
+     * Deviance
+     * Disaster
+     * Economic
+     * Education
+     * Emotion (Jealousy)
+     * Environmental
+     * Family
+     * Feminist
+     * Fiscal
+     * Food
+     * Gender
+     * Generations
+     * Health
+     * Historical
+     * Immigration
+     * Industrial
+     * Internet
+     * Jewry
+     * Knowledge
+     * Language
+     * Law
+     * Leisure
+     * Literature
+     * Marxist
+     * Mathematic
+     * Medical
+     * Military
+     * Music
+     * Peace, war, and social conflict
+     * Philosophy
+     * Political
+     * Public
+     * Punishment
+     * Race and ethnicity
+     * Religion
+     * Rural
+     * Science (History of science)
+     * Social movements
+     * Social psychology
+     * Sociocybernetics
+     * Sociology
+     * Space
+     * Sport
+     * Technology
+     * Terrorism
+     * Urban
+     * Utopian
+     * Victimology
+     * Visual
 
-   Website www.gob.mx/cultura Edit this at Wikidata
+   Methods
+     * Quantitative
+     * Qualitative
+     * Comparative
+     * Computational
+     * Ethnographic
+     * Conversation analysis
+     * Historical
+     * Interview
+     * Mathematical
+     * Network analysis
+     * Social experiment
+     * Survey
 
-   The Secretariat of Culture (Spanish: Secretaría de Cultura) — formerly
-   known as the National Council for Culture and Arts (Spanish: Consejo
-   Nacional para la Cultura y las Artes or CONACULTA) before being
-   elevated to ministerial level in 2015^[1] — is a Mexican government
-   agency in charge of the nation's museums and monuments, promoting and
-   protecting the arts (visual, plastic, theatrical, musical, dance,
-   architectural, literary, televisual and cinematographic), and managing
-   the national archives.
+   Major theorists
+     * 1700s: Comte · Sieyès
 
-   CONACULTA was created in 1988 as a decentralized body of the
-   Secretariat of Public Education (Spanish: Secretaría de Educación
-   Pública). On 18 December 2015, it was established as a separate
-   secretariat following the passage of a law originally promoted three
-   months earlier by President Enrique Peña Nieto.
+   1800s: Martineau · Tocqueville · Marx · Spencer · Le Bon · Ward ·
+   Pareto · Tönnies · Veblen · Simmel · Durkheim · Addams · Mead · Weber
+   · Du Bois · Mannheim · Elias
+   1900s: Fromm · Adorno · Gehlen · Aron · Merton · Nisbet · Mills · Bell
+   · Schoeck · Goffman · Bauman · Foucault · Luhmann · Habermas ·
+   Baudrillard · Bourdieu · Giddens
+   Lists
+     * Bibliography
+     * Terminology
+     * Journals
+     * Organizations
+     * People
+     * Timeline
+     * By country
 
-   Diplomat, historian and lawyer Rafael Tovar y de Teresa was the first
-   culture secretary; he served for one year after CONACULTA's elevation
-   to a Cabinet-level position in December 2015 until 10 December 2016,
-   when he died in Mexico City at the age of 62.^[2]^[3] The current
-   culture secretary, since 2024, is Claudia Curiel de Icaza.^[4]
+     * icon Society portal
 
-Subsidiaries
+     * v
+     * t
+     * e
+
+   icon
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed.
+   Find sources: "Cultural system" – news · newspapers · books · scholar ·
+   JSTOR (May 2010) (Learn how and when to remove this message)
+
+   A cultural system is the interaction of different elements in culture.
+   While a cultural system is very different from a social system,
+   sometimes both systems together are referred to as the sociocultural
+   system.
+
+Social theory
 
    [edit]
-   [250px-LuisSpotaArtEdCenterDF.JPG] The Luis Spota Saavedra Art
-   Education Center located on Londres Street in Colonia Juárez in Mexico
-   City.
 
-   Subsidiaries of the Secretariat of Culture include the Vasconcelos
-   Library, the National Fund for Culture and the Arts (FONCA), the
-   Mexican Film Institute (IMCINE), the National Institute of Anthropology
-   and History (INAH) and the National Institute of Fine Arts and
-   Literature (INBA).
+   A major concern in the social sciences is the problem of order. One way
+   that social order has been theorized is according to the degree of
+   integration of cultural and social factors.
 
-Broadcasting
+Action theory
 
    [edit]
 
-   Upon its creation, the Secretariat of Culture took control of
-   CONACULTA's television station Canal 22, seen on air in Mexico City and
-   relayed by 25 SPR transmitters, as well as Radio Educación, which had
-   previously been part of the SEP. Both stations transmit cultural and
-   educational content.
+   Talcott Parsons, a major figure in sociology and the main originator of
+   action theory in the early 20th century, based his sociological theory
+   of action system is built up around a general theory of society, which
+   is codified within a cybernetic model featuring four functional
+   imperatives: adaptation, goal-attainment, integration, and pattern
+   maintenance. The hierarchy of systems is, from least to most
+   encompassing system, respectively, behavioral organism, personality
+   system, social system, and cultural system as well. Ritzer and Goodman
+   (2004) summarize Parsons' view, "Parsons saw these action systems
+   acting at different levels of analysis, starting with the behavioral
+   organism and building to the cultural system. He saw these levels
+   hierarchically, with each of the lower levels providing the impetus for
+   the higher levels, with the higher levels controlling the lower
+   levels." In an article, late in life, Parsons maintained that the term
+   "functionalism" was an inappropriate characterization of his theory.
+
+System and social integration
+
+   [edit]
+
+   The British Sociologist David Lockwood argued for a contrast between
+   social content and social transmission in his work on social structure
+   and agency. Noting that social systems were distinct in structure and
+   transmission. Lockwood's conceptual distinction influenced Jürgen
+   Habermas' discussion in the classic Legitimation Crises, who made the
+   now famous distinction between system integration and social
+   integration of the lifeworld.
+
+Cultural and socio-cultural integration
+
+   [edit]
+
+   Margaret Archer (2004) in a revised edition of her classic work Culture
+   and Agency, argues that the grand idea of a unified, integrated culture
+   system, as advocated by early Anthropologists such as Bronisław
+   Malinowski and later by Mary Douglas, is a myth. Archer reads this same
+   myth through Pitirim Sorokin's influence and then Talcott Parsons'
+   approach to cultural systems (2004:3). The myth of a unified,
+   integrated cultural system was also advanced by Western Marxists such
+   as by Antonio Gramsci through the theory of cultural hegemony through a
+   dominant culture. Basic to these mistaken conceptions was the idea of
+   culture as a community of meanings, which function independently in
+   motivating social behavior. This combined two independent factors,
+   community and meanings which can be investigated quasi-independently
+   (2004:4)
+
+   Archer, a proponent of critical realism, suggests that cultural factors
+   can be objectively studied for the degree of compatibility (and that
+   various aspects of cultural systems may be found to contradict each
+   other in meaning and use). And, social or community factors in
+   socialization may be studied in the context of the transmission of
+   cultural factors by studying the social uniformity (or lack thereof) in
+   the transmitted culture. Cultural systems are used (and inform society)
+   both through idea systems and the structuring of social systems. To
+   quote Archer in this regard:
+
+          "logical consistency is a property of the world of ideas; causal
+          consistency is a property of people. The main proposition here
+          is the two are logically and empirically distinct and, hence can
+          vary independently of one another. Thus it is perfectly
+          conceivable that any social unit, from a community to a
+          civilization, could be found the principle ideational elements
+          (knowledge, belief, norms, language, mythology, etc.) of which
+          do display considerable logical consistency – that is, the
+          components are consistent, not contradictory – yet the same
+          social unit may be low on causal consensus. " (2004:4)
+
+   Archer notes that the opposite may be the case: low cultural logical
+   consistency and high social consistency. Complex societies can include
+   complex sociocultural systems that mix of cultural and social factors
+   with various levels of contradiction and consistency.
+
+Research
+
+   [edit]
+
+   According to Burrowes (1996), in two recent approaches to the study of
+   culture, in the 1980-1990s, the "cultural studies" and "cultural
+   indicators" approaches, investigators explored the traditionally
+   functionalist concern of "cultural systems integration." These two
+   approaches could be synthesized in the investigating cultural systems.
+   Burrowes (1996) writes, "If functionalism offers to this
+   cross-fertilization a focus on the normative orders of society, the
+   cultural indicators approach provides a rigorous methodology, and
+   cultural studies caution a greater sensitivity to social hierarchies."
+   Constrained by Merton's middle range theory [note: to be discussed
+   here], the specification of cultural elements and social structures
+   makes possible the investigation of specific cultural and social
+   systems and their interaction.
 
 References
 
    [edit]
-    1. ^ "Adiós Conaculta, hola Secretaría de Cultura". Academia Mexicana
-       de la Lengua. 20 December 2015. Retrieved 20 March 2025.
-    2. ^ Ampudia, Mariana (2016-12-10). "El secretario de Cultura Rafael
-       Tovar y de Teresa murió la madrugada de este sábado, a los 62 años
-       de edad". El Economista (Mexico) (in Spanish). Retrieved
-       2016-12-10.
-    3. ^ "Perfil: Rafael Tovar y de Teresa, primer secretario de cultura".
-       El Universal (Mexico City) (in Spanish). 2016-12-10. Retrieved
-       2016-12-10.
-    4. ^ "¿Quién es Claudia Curiel de Icaza, próxima secretaria de
-       Cultura?". El Economista (in Spanish). 18 July 2024.
-
-External links
-
-   [edit]
-     * Official website Edit this at Wikidata (in Spanish)
+     * Archer, Margaret S. 2004. Culture and Agency: The Place of Culture
+       in Social Theory, Revised Edition. New York and Cambridge:
+       Cambridge University Press.
+     * Burrowes, Carl Patrick. 1996. From Functionalism to Cultural
+       Studies: Manifest Ruptures and Latent Continuities, Communication
+       Theory, 6(1):88–103.
+     * Geertz, Clifford. 1966. "Religion as a Cultural System," in M.
+       Banton (ed.), Anthropological Approaches to the Study of Religion.
+       New York: Praeger, pp. 1–46.
+     * David Lockwood. 1964. “Social Integration and System Integration,”
+       in G. Zollschan and W. Hirsch (eds.), Explorations in Social
+       Change. Boston: Houghton Mifflin.
+     * Ritzer, George, and Douglas J. Goodman. 2004. "Structural
+       Functionalism, Neofunctionalism, and Conflict Theory," in
+       Sociological Theory, sixth edition. McGraw-Hill.
 
      * v
      * t
      * e
 
-   Departments of the Government of Mexico
+   Culture
 
-     * Agriculture and Rural Development
-     * Agrarian, Land, and Urban Development
-     * Anticorruption and Good Governance
-     * Communications and Transportation
-     * Culture
-     * Economy
-     * Energy
-     * Environment and Natural Resources
-     * Finance and Public Credit
-     * Foreign Affairs
-     * Health
-     * Interior
-     * National Defense
-     * Navy
-     * Labor and Social Welfare
-     * Public Education
-     * Security and Civilian Protection
-     * Tourism
-     * Welfare
-     * Attorney General
+   Outline
 
-   Authority control databases Edit this at Wikidata
-   International
-     * ISNI
-          + 2
-     * VIAF
-          + 2
-     * GND
-          + 2
-     * FAST
+   Sciences
 
-   National
-     * United States
-     * France
-          + 2
-     * BnF data
-          + 2
+     * Cultural anthropology
+     * Cultural astronomy
+     * Cultural ecology
+     * Cultural geography
+     * Cultural neuroscience
+     * Cultural studies
+     * Culturology
+     * Culture theory
+
+   Subfields
+
+     * Bioculture
+     * Cross-cultural studies
+          + Cross-cultural communication
+          + Cross-cultural leadership
+          + Cross-cultural psychiatry
+          + Cross-cultural psychology
+     * Cultural analytics
+     * Cultural economics
+     * Cultural entomology
+     * Cultural history
+     * Cultural mapping
+     * Cultural mediation
+     * Cultural psychology
+     * Cultural values
+     * Culturomics
+     * Intercultural learning
+     * Intercultural relations
+     * Philosophy of culture
+     * Popular culture studies
+     * Postcritique
+     * Semiotics of culture
+     * Sociology of culture
+     * Sound culture
+     * Theology of culture
+     * Transcultural nursing
+
+   Types
+
+     * Constructed culture
+     * Dominant culture
+     * Folk culture
+     * High culture
+     * Individualistic culture
+     * Legal culture
+     * Microculture
+     * Official culture
+     * Political culture
+          + Civic
+     * Popular culture
+          + Low culture
+          + Media culture
+          + Recombinant culture
+          + Remix culture
+          + Trash culture
+          + Urban
+     * Primitive culture
+     * Resistance through culture
+     * Subculture
+          + Alternative culture
+          + Counterculture
+          + Fandom
+          + Far-right subcultures
+          + Underground culture
+          + Youth subculture
+          + list
+     * Super culture
+     * Supporter Culture
+     * Vernacular culture
+     * Culture by location
+
+   Aspects
+
+     * Acculturation
+     * Cultural appreciation
+     * Cultural appropriation
+     * Cultural area
+     * Cultural artifact
+     * Cultural baggage
+     * Cultural bias
+     * Cultural capital
+          + Cross-cultural
+     * Cultural communication
+     * Cultural conflict
+     * Cultural cringe
+     * Cultural dissonance
+     * Cultural emphasis
+     * Cultural framework
+     * Cultural heritage
+          + Destroyed
+     * Cultural icon
+     * Cultural identity
+     * Cultural industry
+     * Cultural invention
+     * Cultural landscape
+     * Cultural learning
+     * Cultural leveling
+     * Cultural memory
+     * Cultural pluralism
+     * Cultural practice
+     * Cultural property
+     * Cultural reproduction
+     * Cultural system
+     * Cultural technology
+     * Cultural universal
+     * Cultureme
+     * Enculturation
+     * High- and low-context cultures
+     * High-trust and low-trust societies
+     * Interculturality
+     * Internet culture
+     * Manuscript culture
+     * Material culture
+     * Non-material culture
+     * Organizational culture
+          + Assessment culture
+          + Design culture
+          + Journalism culture
+     * Print culture
+     * Protoculture
+     * Relational mobility
+     * Safety culture
+     * Symbolic culture
+     * Technoculture
+     * Trans-cultural diffusion
+     * Transculturation
+     * Visual culture
+
+   Politics
+
+     * Colonial mentality
+     * Consumer capitalism
+     * Cross cultural sensitivity
+     * Cultural assimilation
+     * Cultural attaché
+     * Cultural backwardness
+     * Cultural Bolshevism
+     * Cultural conservatism
+     * Cultural contracts
+     * Cultural deprivation
+     * Cultural diplomacy
+     * Cultural environmentalism
+     * Cultural exception
+     * Cultural feminism
+     * Cultural genocide
+     * Cultural globalization
+     * Cultural hegemony
+     * Cultural imperialism
+     * Cultural intelligence
+     * Cultural liberalism
+     * Cultural nationalism
+     * Cultural pessimism
+     * Cultural policy
+     * Cultural racism
+     * Cultural radicalism
+     * Cultural retention
+     * Cultural Revolution
+     * Cultural rights
+     * Cultural safety
+     * Cultural silence
+     * Cultural subsidy
+     * Cultural Zionism
+     * Culture change
+     * Culture minister
+     * Culture of fear
+     * Culture war
+     * Deculturalization
+     * Dominator culture
+     * Interculturalism
+     * Monoculturalism
+     * Multiculturalism
+          + Biculturalism
+     * Multiracial democracy
+     * Pluriculturalism
+     * Polyculturalism
+     * Transculturism
+
+   Religions
+
+     * Buddhism
+     * Christianity
+          + Catholicism
+          + Cultural Christians
+          + Protestantism
+          + Role of Christianity in civilization
+          + Eastern Orthodoxy
+          + Mormonism
+     * Cultural Hindus
+     * Islam
+          + Cultural Muslims
+     * Judaism
+     * Sikhism
+
+   Related
+
+     * Algorithmic culture
+     * Animal culture
+     * Archaeological culture
+     * Bennett scale
+     * Cannabis culture
+     * Circuit of culture
+     * Civilization
+     * Coffee culture
+     * Cringe culture
+     * Cross-cultural
+     * Cultural center
+     * Cultural competence
+     * Cultural critic
+     * Cultural determinism
+     * Cultural diversity
+     * Cultural evolutionism
+     * Cultural homogenization
+     * Cultural institution
+     * Cultural jet lag
+     * Cultural lag
+     * Cultural literacy
+     * Cultural mosaic
+     * Cultural movement
+     * Cultural mulatto
+     * Cultural probe
+     * Cultural relativism
+     * Cultural tourism
+          + Pop-culture
+     * Cultural translation
+     * Cultural turn
+     * Cultural sensibility
+     * Culture and menstruation
+     * Culture and positive psychology
+     * Culture and social cognition
+     * Culture gap
+     * Culture hero
+     * Culture industry
+     * Culture shock
+     * Culturgen
+     * Children's culture
+     * Culturalism
+     * Cyberculture
+     * Death and culture
+     * Disability culture
+          + Deaf culture
+     * Drinking culture
+     * Drug culture
+     * Eastern culture
+     * Emotions and culture
+     * Free-culture movement
+     * Historical culture
+     * Intercultural communication
+     * Intercultural competence
+     * Languaculture
+     * Living things in culture
+     * Media culture
+     * Oppositional culture
+     * Participatory culture
+     * Permission culture
+     * Rape culture
+     * Tea culture
+     * Transformation of culture
+     * Urban culture
+     * Welfare culture
+     * Western culture
+     * Youth culture
+
+     * Category
+
+   Authority control databases: National Edit this at Wikidata
      * Czech Republic
-     * Spain
-     * Portugal
-     * Norway
-     * Poland
-     * Vatican
-     * Israel
-     * Catalonia
-
-       Other
-     * IdRef
-     * Yale LUX
-
-   Stub icon
-
-   This Mexico school, university, college or other education topic
-   article is a stub. You can help Wikipedia by expanding it.
-
-     * v
-     * t
-     * e
 
    Retrieved from
-   "https://en.wikipedia.org/w/index.php?title=Secretariat_of_Culture&oldi
-   d=1317629488"
+   "https://en.wikipedia.org/w/index.php?title=Cultural_system&oldid=12795
+   84187"
 
    Categories:
-     * 2015 establishments in Mexico
-     * Arts in Mexico
-     * Arts organizations established in 2015
-     * Culture ministries
-     * Culture of Mexico
-     * Executive branch of the government of Mexico
-     * Government agencies established in 2015
-     * Government ministries of Mexico
-     * Mexico education stubs
+     * Cultural studies
+     * Social systems
+     * Anthropology
 
    Hidden categories:
-     * CS1 Spanish-language sources (es)
      * Articles with short description
-     * Short description is different from Wikidata
-     * Pages using infobox mapframe with missing coordinates
-     * Articles containing Spanish-language text
-     * Articles with Spanish-language sources (es)
-     * All stub articles
+     * Short description matches Wikidata
+     * Articles needing additional references from May 2010
+     * All articles needing additional references
 
-     * This page was last edited on 19 October 2025, at 03:47 (UTC).
+     * This page was last edited on 9 March 2025, at 11:05 (UTC).
      * Text is available under the Creative Commons Attribution-ShareAlike
        4.0 License; additional terms may apply. By using this site, you
        agree to the Terms of Use and Privacy Policy. Wikipedia® is a
@@ -296,5 +684,5 @@ External links
    (BUTTON) Search
 
    [ ] Toggle the table of contents
-   Secretariat of Culture
+   Cultural system
    (BUTTON) 4 languages Add topic
