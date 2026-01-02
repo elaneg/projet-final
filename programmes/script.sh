@@ -60,6 +60,8 @@ cat > "$tableau" <<EOF
 
             <li><a href="../nuages/index.html">Nuages de mots</a></li>
             <li><a href="../apropos.html">À propos</a></li>
+            <li><a href="../script.html">Script</a></li>
+
 
 </ul>
 </nav>
