@@ -23,13 +23,77 @@
 
             <li><a href="nuages/index.html">Nuages de mots</a></li>
             <li><a href="apropos.html">À propos</a></li>
-            <li><a href="../script.html">Script</a></li>
+            <li><a href="script.html">Script</a></li>
         </ul>
     </nav>
 </header>
   <body>
     <header></header>
-    <main></main>
-    <footer></footer>
+    <main>
+
+          <h1>Le script utilisé</h1> 
+          <h2>Description</h2>
+           <p>
+            Ce script permet de générer les tableaux comportant les données de traitement des URLs pour chaque langue (français, anglais et espagnol).
+            Il ne prend qu'un seul argument : le fichier d'URLs à traiter.
+            </p>
+
+            <br/> 
+            <h2>Résultat attendu</h2>
+           <p>
+            On attend donc un tableau indiquant pour chaque ligne l'url, la réponse HTTP renvoyée, l'encodage, le nombre d'occurrences, le contenu html, 
+            le contenu textuel, un tableau de concordances (avec les mots à gauche de <em>culture</em> et les mots à droite), ainsi qu'un fichier texte comportant
+            le contexte autour de <em>culture</em>.
+            </p>
+
+            <br/>
+            <h2>Détails du script</h2>
+            <img src="images/screen_err-arg.jpg" alt="screenshot début du code">
+            <p>
+              On vérifie au début du code que les arguments sont présents et valides.
+            </p> 
+
+            <br/>
+            <img src="images/screen_langues.png" alt="gestion de la langue">
+            <p>
+              Ici on gère la langue du corpus à traiter en fonction du nom du fichier rentré en argument.
+            </p>
+
+            <br/>
+            <img src="images/screen_codehttp.jpg" alt="code hhtp">
+            <p>
+              On gère les cas où le site refuse la requête curl et on ne les traite pas.
+            </p>
+
+            <br/>
+            <img src="images/screen_encodage.jpg" alt="gestion de l'encodage">
+            <p>
+              On récupère l'encodage de la page, on la met dans une variable pour l'afficher après dans le tableau, puis on convertit en utf-8
+               s'il n'est pas déjà en utf-8.
+            </p>
+
+            <br/>
+            <img src="images/screen_occurrences.jpg" alt="nombre occurrences">
+            <p>
+              Code qui permet de compter le nombre d'occurrences du mot par page.
+            </p>
+
+            <br/>
+            <img src="images/screen_tableau.jpg" alt="génération du tableau">
+            <p>
+             Le code qui va permettre de remplir le tableau.
+            </p>
+
+            <br/>
+            <img src="images/screen_sleep.jpg" alt="gestion du nombre de requêtes">
+            <p>
+              Certains sites refusaient la connexion à cause du nombre de requêtes, on met donc une pause de 1 seconde entre chaque url pour régler ce souci.
+            </p>
+
+
+    </main>
+    <footer>
+  <p>Projet TAL © 2025 </p>
+</footer>
   </body>
 </html>
