@@ -58,7 +58,9 @@ cat > "$tableau" <<EOF
                 </ul>
             </li>
 
-            <li><a href="nuages/nuages.html">Nuages de mots</a></li>
+            <li><a href="../nuages/index.html">Nuages de mots</a></li>
+            <li><a href="../apropos.html">À propos</a></li>
+
 </ul>
 </nav>
 </header>
