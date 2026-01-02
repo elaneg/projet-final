@@ -75,6 +75,7 @@ cat > "$tableau" <<EOF
   <th>HTML</th>
   <th>Dump</th>
   <th>Concordance</th>
+  <th>Contexte</th>
 </tr>
 EOF
 
@@ -169,6 +170,7 @@ egrep -i ".{0,40}${mot}.{0,40}" "../dumps-text/${lang}_${count}.txt" \
   <td><a href="../aspirations/${lang}_${count}.html">html</a></td>
   <td><a href="../dumps-text/${lang}_${count}.txt">dump</a></td>
   <td><a href="../concordances/${lang}_${count}.html">concordance</a></td>
+  <td><a href="../contextes/${lang}_${count}.txt">contexte</a></td>
 </tr>
 EOF
 
