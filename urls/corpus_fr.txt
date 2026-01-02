@@ -1,15 +1,18 @@
-https://caldor.fr/type-culture/
-https://lescolocaterre.org/?page_id=532
-https://guidebatimentdurable.brussels/cultures-pleine-terre
 https://www.notre-environnement.gouv.fr/themes/biodiversite/les-milieux-littoraux-et-marins-ressources/article/typologie-des-cultures-des-exploitations-agricoles-en-2010
+https://guidebatimentdurable.brussels/cultures-pleine-terre
+https://fr.wikipedia.org/wiki/Histoire_culturelle
+https://fr.wikipedia.org/wiki/Culture_des_rosiers
 https://fr.wikipedia.org/wiki/Agriculture
+https://lescolocaterre.org/?page_id=532
 https://www.mutualia.fr/nos-conseils/agriculture-et-sante/avantages-et-inconvenients-de-la-rotation-des-cultures
 https://www-waikatoregion-govt-nz.translate.goog/environment/land-and-soil/managing-land-and-soil/cultivation/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=fr&_x_tr_pto=rq
 https://blog.vegenov.com/2020/03/culture-in-vitro-retour-aux-bases/
 https://fr.wikipedia.org/wiki/Culture_s%C3%A9lective_des_plantes
+https://herothemes.com/fr/blog/knowledge-culture/
 https://www.inrae.fr/actualites/augmenter-diversite-vegetale-espaces-agricoles-proteger-cultures
 https://www.ocapiat.fr/exploitation-agricole/
 https://www.agryco.com/blog/cultures/tournesol
+https://caldor.fr/type-culture/
 https://fr.wikipedia.org/wiki/Culture_(agriculture)
 https://rodaleinstitute.org/fr/why-organic/organic-farming-practices/crop-rotations/
 https://fr.wikipedia.org/wiki/Culture_des_rosiers
@@ -28,7 +31,6 @@ https://journals.openedition.org/questionsdecommunication/6521
 https://www.studysmarter.fr/resumes/economie-et-gestion/theorie-de-la-gestion/identite-et-culture/
 https://exploreur.univ-toulouse.fr/bouillon-de-cultures-lidentite-en-question
 https://clickandtrip.fr/comprendre-cultures-et-coutumes/
-https://herothemes.com/fr/blog/knowledge-culture/
 https://universites2024.fr/culture-generale-et-curiosite-intellectuelle-ne-pas-confondre/
 https://fr.wikipedia.org/wiki/Culture_g%C3%A9n%C3%A9rale
 https://dictionnaire.lerobert.com/definition/culture-cinematographique
@@ -39,7 +41,6 @@ https://univ-corse.hal.science/tel-03476884
 https://passionlitteraire.com/decouvertes-et-recommandations/litterature-et-culture-un-reflet-de-notre-societe/
 https://cultures.fr/post/articles/la-culture-generale-pdf-guide-complet-et-gratuit
 https://bbf.enssib.fr/consulter/bbf-2002-05-0114-004
-https://fr.wikipedia.org/wiki/Histoire_culturelle
 https://www.le-dictionnaire.com/articles/education/cullture-generale.html?utm_source=chatgpt.com
 https://www.revuepolitique.fr/la-culture-generale-un-enjeu-et-une-bataille/?utm_source=chatgpt.com
 https://www.radiofrance.fr/franceculture/podcasts/le-temps-du-debat/politique-de-quoi-la-culture-est-elle-l-enjeu-7830160
@@ -51,3 +52,4 @@ https://www.geeklife.fr/blog/pop-culture/pop-culture-definition-origine-et-influ
 https://www.toupie.org/Dictionnaire/Culture_masse.htm
 https://lesminis.fr/blog/culture-populaire-vs-culture-de-masse-differences/?srsltid=AfmBOopcwtq-AH88nmTx2uX63HgmSJPr_F3JS4_B5M3ciFKafV2MU9kQ
 https://fr.wikipedia.org/wiki/%C3%89conomie_de_la_culture
+https://shs.cairn.info/revue-etudes-2010-12-page-643
