@@ -40,10 +40,10 @@ if texte.strip() == "":
 stopwords = set(STOPWORDS)
 stopwords.update([
     # Français
-    "le","il", "entre", "leur","cette","ce","chaque","comment","ou","se","peut","elle","dans","aux","comme","culturelles","culturelle","ainsi","ls","ainsi","qu","par","sa","son","d","par","autre","culturels","qui","que","pour","plus","sur","l","culturel","culturelle", "la", "les", "de", "des", "en","définition","ne","sont","Paris","Frane","l'Agriculture", "du", "et", "est", "à","avec","lle","être", "un", "une",
-    "permet","chez","fait","donc","bien",
+    "le","il", "entre", "leur","cette","ce","chaque","comment","ou","se","peut","elle","dans","aux","comme","culturelles","culturelle","ainsi","ls","ainsi","qu","par","sa","son","d","pas","autre","culturels","qui","que","pour","plus","sur","l","culturel","culturelle", "la", "les", "de", "des", "en","définition","ne","sont","Paris","France", "du", "et", "est", "à","avec","lle","être", "un", "une",
+    "permet","chez","fait","donc","bien","biens","aujourd'hui","n","au","même","française","désigne","selon","nos","tous","sou","exemple","si",
     # Anglais
-    "or", "with", "use", "used", "men", "the", "a", "an", "in", "of","may","cultured","cultural","for"
+    "or", "with", "use", "used", "men", "the", "a", "an", "in", "of","may","cultured","cultural","for","cell",
     # Espagnol
     "del", "que", "o", "y", "el", "la", "de", "en","las","para","e","lo","como","una","uno","es","los","por","su","culturales"
 ])
