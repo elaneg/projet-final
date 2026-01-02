@@ -65,7 +65,6 @@ cat > "$tableau" <<EOF
 </nav>
 </header>
 <body>
-<main>
 <h1>Tableau d'analyse ($lang)</h1>
 <table>
 <tr>
@@ -95,15 +94,17 @@ while read -r line || [ -n "$line" ]; do
    #on récupère quelques variables utiles, encodage & code http (on reprend ce qu'on a fait dans le miniprojet)
    data=$(curl -s -i -L -w "%{http_code}\n%{content_type}" -o .data.tmp "$line")
    http_code=$(echo "$data" | head -1)
-   encoding=$(echo "$data" | tail -1 | grep -Po "charset=\S+" | cut -d= -f2)
    #-------------------------
 
    #on rècupère le contenu de l'article et le met dans un fichier temporaire
-   curl -Ls "$line" > temp.html  #Ls gère les redirections (http/https...)
+   curl -A -Ls "$line" > temp.html  #Ls gère les redirections (http/https...)
+   encoding=$(grep -oiP 'charset=["'\'']?\K[^\s"'\'';>]+' temp.html | head -1) #on cherche le 'charset=..' directement dans le fichier temporaire pour
+   #avoir les encodages autre que utf-8
 
          # gestion robuste de l'encodage
 if [[ -n "$encoding" && "$encoding" != "UTF-8" && "$encoding" != "utf-8" ]]; then
-      iconv -f "$encoding" -t utf-8 temp.html > temp_utf8.html 2>/dev/null || cp temp.html temp_utf8.html
+      $encod = $encoding
+      iconv -f "$encod" -t utf-8 temp.html > temp_utf8.html 2>/dev/null || cp temp.html temp_utf8.html
   else
       cp temp.html temp_utf8.html
   fi
@@ -165,14 +166,14 @@ egrep -i ".{0,40}${mot}.{0,40}" "../dumps-text/${lang}_${count}.txt" \
  cat >> "$tableau" <<EOF
 <tr>
   <td>$count</td>
-  <td>$line</td>
+  <td><a href="${line}" target="_blank">$line</a></td>
   <td>$http_code</td>
   <td>$encoding</td>
   <td>$nb_occurrences</td>
-  <td><a href="../aspirations/${lang}_${count}.html">html</a></td>
-  <td><a href="../dumps-text/${lang}_${count}.txt">dump</a></td>
-  <td><a href="../concordances/${lang}_${count}.html">concordance</a></td>
-  <td><a href="../contextes/${lang}_${count}.txt">contexte</a></td>
+  <td><a href="../aspirations/${lang}_${count}.html" target="_blank">html</a></td>
+  <td><a href="../dumps-text/${lang}_${count}.txt" target="_blank">dump</a></td>
+  <td><a href="../concordances/${lang}_${count}.html" target="_blank">concordance</a></td>
+  <td><a href="../contextes/${lang}_${count}.txt" target="_blank">contexte</a></td>
 </tr>
 EOF
 
@@ -190,7 +191,12 @@ done < "$fichier_urls"
 
 cat >> "$tableau" <<EOF
 </table>
-</main>
+
+<footer>
+  <p>Projet TAL © 2025 </p>
+</footer>
+
+
 </body>
 </html>
 EOF

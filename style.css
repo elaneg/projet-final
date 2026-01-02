@@ -107,7 +107,7 @@ h3 {
 }
 
 /*Ajout de la partie qui prend en compte les tableaux */
-main table {
+ table {
     width: calc(100% - 2cm);      /* largeur quasi totale en laissant 1cm de marge à gauche/droite */
     margin: 0 auto 40px auto;     
     border-collapse: collapse; 
@@ -115,20 +115,20 @@ main table {
     font-size: 0.95em;
 }
 
-main th, main td {
+ th, td {
     border: 2px solid #000000; 
     padding: 10px; 
     text-align: left;
     min-width: 120px;             
 }
 
-main th {
+ th {
     background-color: #6b4f3f;    
     font-weight: bold;
     color:#f5f5dc
 }
 
-main tr:nth-child(even) td {
+ tr:nth-child(even) td {
     background-color: #f5f5dc;    /* beige clair pour les lignes paires */
 }
 /* Ajout du style pour la page à propos*/
@@ -172,4 +172,11 @@ main tr:nth-child(even) td {
     background-color: #f5efe6;
     padding: 30px;
     border-radius: 6px;
+}
+
+footer {
+    text-align: center;
+    background-color: #6b4f3f; 
+    color: #ffffff;
+    bottom: 0;
 }
