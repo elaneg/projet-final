@@ -1,106 +1,655 @@
-     * Buscar en la web ____________________ (BUTTON)
-       (BUTTON)
-     * (BUTTON) Desplegar navegación
-          + Navegar identificado
-     *
+   #alternate
 
-   ucm
+   IFRAME:
+   https://www.googletagmanager.com/ns.html?id=GTM-T9NW&gtm_auth=_Lm02Fa-1
+   lLDW1vNzj8zTg&gtm_preview=env-2&gtm_cookies_win=x
 
-Fuentes orales en el aula
+   Pasar al contenido principal
 
-Proyectos de Innovación
+   Inicio Inicio
 
-   (BUTTON) Desplegar navegación
+   UNESCO
 
-     * Proyecto
-     * Equipo
-     * Colaboraciones
-     * Vídeos
-          + Prácticas del Grado de Historia
-          + Prácticas externas
-          + Vídeos destacados
-          + +
+Secondary menu
+
+     * Centro de Medios
+     * Eventos
+     * Alianzas
+     * Gobernanza
+
+   Enlaces rápidos
+   Enlaces rápidos
+   Inicio UNESCO
+   go to www.unesco.org Buscar en la UNESCO Cerrar
+
+     * News & Events
+          + Calendario de eventos
+               o Reuniones de Programa
+               o Órganos rectores
+               o Eventos culturales en la Sede
+               o Conmemoraciones de la UNESCO
+          + Sala de prensa
+               o Noticias y comunicados de prensa
+               o Testimonios
+               o Press Releases
+     * Quiénes somos
+          + Acerca de
+               o La UNESCO en breve
+               o Historia de la UNESCO
+               o Key data
+               o Laboratory of ideas
+               o Casa de la UNESCO - Visítenos
+          + Gobernanza
+               o Portal de los Estados Miembros
+               o Conferencia General
+               o Consejo Ejecutivo
+               o Directora General
+               o Consejo de Gestión Estratégica
+               o Oficina de Normas Internacionales y Asuntos Jurídicos
+               o Textos fundamentales
+          + Responsabilidad
+               o Portal de datos
+               o Estrategia y presupuesto
+               o Auditoría interna
+               o Reforma / Transformación estratégica
+               o Necesidades de financiación y datos
+               o Reglamento Financiero
+               o Acceso a la información
+          + Redes
+               o Oficinas fuera de la Sede
+               o ONGs y fundaciones
+               o Red de Escuelas Asociadas de la UNESCO
+               o Unitwin
+               o UNESCO Goodwill Ambassadors
+               o Institutos y Centros
+          + Participe
+               o Hacer una donación
+               o Hágase socio
+               o Vacantes en la UNESCO
+               o Suscribirse a nuestros boletines
+     * Nuestro trabajo
+          + Áreas de competencia
+               o Educación
+               o Ciencias Naturales
+               o Ciencias Oceánicas
+               o Ciencias Sociales y Humanas
+               o Cultura
+               o Comunicación e Información
+          + Prioridades globales
+               o Igualdad de género
+               o Prioridad África
+          + Nuestro impacto
+               o Normas y estándares
+               o Cooperation tools
+               o Lists and designations
+               o Laboratory of ideas
+          + Desafíos clave
+               o Los futuros de la educación
+               o El espíritu de Mosul
+               o Ética de la Inteligencia Artificial
+               o Biodiversidad
+               o Todos los desafíos clave
+     * Dónde trabajamos
+          + Listas y designaciones de la UNESCO
+               o Ciudades Creativas
+               o Reservas de Biosfera
+               o Registro Memoria del Mundo
+               o Patrimonio Cultural Inmaterial
+               o Geoparques Mundiales de la UNESCO
+               o Patrimonio Mundial
+               o Premios
+          + La UNESCO en el mundo
+               o Estados Miembros
+               o Oficinas fuera de la Sede
+               o Redes
+     * For Member States
+          + Governance
+               o Executive Board
+               o General Conference
+               o Headquarters Committee
+               o Country Profiles
+               o Member States Portal
+               o Strategic Management Board
+          + Calendar of events
+               o All Events
+               o Statutory Meetings
+               o Governing Bodies
+               o Delegates Meetings
+               o Cultural Events at Headquarters
+               o UNESCO commemorations
+          + Latest activities
+               o News
+               o Credentials
+               o Calls
+          + Resources
+               o Basic texts
+               o Geographical Distribution
+               o Extranet
+               o Convenciones de la UNESCO
+               o Azure Notes
+               o Headquarters Committee
+               o Core Data Portal
+          + Statutory Documents
+               o Headquarters Commitee
+               o General Conference documents
+               o Executive Board documents
+               o Programa y presupuesto aprobados 2022-2025: primer bienio
+                 2022-2023 (41 C/5 )
      * Recursos
-          + Bibliografía
-          + Proyectos UCM
-          + Recursos digitales
-          + +
+          + Documentos
+               o UNESDOC - Biblioteca digital
+               o Colección de arte
+               o Archivos multimedia
+               o Archivos
+               o Correo de la UNESCO
+               o Galería de fotos oficial
+               o Textos fundamentales
+          + Bases de datos y estadísticas
+               o Portal de datos esenciales
+               o Más datos
+               o Observatorio de periodistas asesinados
+               o Instituto de Estadísticas de la UNESCO
+               o Base de datos mundial de desigualdad en la Educación
+          + UNESCO Classroom
+               o UNESCO Campus
+          + UNESCO Shop
+          + Careers
+               o Job openings
 
-    1. Portada
-    2. Recursos de apoyo
-    3. Recursos digitales
-    4. Herencia Cultural
+   Todos los sitios web de la UNESCO
+   ____________________
+   Diversidad de las expresiones culturales (Convención 2005)
+   Instituto Internacional de la UNESCO para la Educación Superior en
+   América Latina y el Caribe (IESALC)
+   Instituto de la UNESCO para el Aprendizaje a lo Largo de Toda la Vida
+   Patrimonio Cultural Inmaterial
+   Repensar las políticas para la creatividad - Informe 2022
+   (BUTTON) Español
+     * Español
 
-                               Herencia Cultural
+   (BUTTON)
 
-THOA
+   UNESCO
 
-   Taller de Historia Oral Andina
+Main navigation
 
-   El Taller de Historia Oral Andina (THOA) se creó en 1983 vinculado a la
-   Carrera de Sociología de la Universidad Mayor de San Andrés (Bolivia).
-   Se ha convertido en una institución de referencia en la metodología de
-   investigación con fuentes orales en distintos ámbitos de análisis
-   encaminados al conocimiento de las culturas indígenas de los Andes.
+     * Acerca de
+       La UNESCO es la agencia de las Naciones Unidas encargada de
+       promover la educación, la ciencia, la cultura y la comunicación al
+       servicio de la paz y el desarrollo sostenible.
+       UNESCO en breve
+          + Nuestra acción en el terreno
+            Nuestra acción en el terreno
+          + Nuestros objetivos
+            Nuestros objetivos
+          + Visítenos
+            Visítenos
+          + Nuestros sitios
+            Nuestros sitios
+     * Competencia
+       La UNESCO moviliza su experiencia en educación, ciencia, cultura y
+       comunicación para promover la paz, el desarrollo sostenible y la
+       dignidad humana.
+       Áreas de competencia
+          + Educación
+            Educación
+          + Ciencias Naturales
+            Ciencias Naturales
+          + Ciencias Sociales y Humanas
+            Ciencias Sociales y Humanas
+          + Cultura
+            Cultura
+          + Comunicación e Información
+            Comunicación e Información
+          + Océano
+            Océano
+          + Igualdad de Género
+            Igualdad de Género
+     * Impacto
+       La UNESCO actúa a escala mundial apoyando las políticas públicas,
+       el fortalecimiento de las capacidades y las dinámicas de
+       transformación.
+       Nuestro impacto
+          + Estándares internacionales y textos jurídicos
+            Estándares internacionales y textos jurídicos
+          + Herramientas de cooperación
+            Herramientas de cooperación
+          + Listas y designaciones
+            Listas y designaciones
+          + Laboratorio de Ideas<br>Biblioteca de conocimientos
+            Laboratorio de Ideas
+            Biblioteca de conocimientos
+     * Perfiles de países
+     * Recursos
+       Explora el emblemático lugar donde se reunieron las mentes más
+       brillantes, los expertos de renombre y las ideas que marcaron la
+       historia.
+       Laboratorio de ideas
+       Portal de datos estratégicos
+          + Publicaciones e informes
+            Publicaciones e informes
+          + Revistas: <br>El Correo de la UNESCO <br> Revista del
+            Patrimonio Mundial
+            Revistas:
+            El Correo de la UNESCO
+            Revista del Patrimonio Mundial
+          + Colecciones de documentos <br>UNESDOC
+            Colecciones de documentos
+            UNESDOC
+          + Datos clave
+            Datos clave
+          + Cursos en línea
+            Cursos en línea
+          + Campus de la UNESCO: <br>diálogos juveniles
+            Campus de la UNESCO:
+            diálogos juveniles
 
-   THOA Taller de Historia Oral Andina - YouTube
+   Buscar
+   Shareforward
 
-According to Baba
+   Buscar ________________________________________________________________
+   (BUTTON) Buscar
+   Quicks links : Mondiacult Revivir el Espíritu de Mosul
 
-   A Collaborative Oral History of Sudbury's Ukrainian Community
+   Rumba en Cuba
+   © UNESCO
 
-   Recurso de Historia Oral colaborativa sobre la comunidad ucraniana de
-   Sudbury (Canadá), ideado por la investigadora Stacey Zembrycsky. El
-   objetivo del proyecto es ofrecer una historia social de esta comunidad
-   étnica, pero también una discusión epistemológica sobre los desafíos de
-   la práctica de la historia oral.
+   Historia
 
-   Según Baba (sudburyukrainians.ca)
+Patrimonio vivo en América Latina y el Caribe: el legado cultural de nuestros
+antepasados
 
-Museu de la Paraula
+   Este 2024 se conmemora por primera vez el Día Internacional del
+   Patrimonio Cultural Intangible
+   16 de Octubre de 2024
+   Última actualización:17 de Octubre de 2024
 
-   Archivo Memoria Oral de Valencia
+   El patrimonio cultural abarca mucho más que monumentos y colecciones de
+   objetos. También comprende tradiciones y expresiones vivas, tales como
+   la oralidad, las artes escénicas, las costumbres sociales, los
+   rituales, las festividades, los conocimientos y las prácticas
+   relacionadas con la naturaleza y el universo. Además, incluye
+   habilidades y técnicas asociadas a la artesanía tradicional. Es el
+   legado de nuestros antepasados que se transmite de generación en
+   generación.
 
-   Fondo documental compuesto por más de trescientas entrevistas
-   realizadas a personas nacidas antes de la Guerra Civil, que ofrecen su
-   testimonio sobre el cambio sociocultural producido en Valencia durante
-   el siglo XX. La iniciativa surgió en 1999 vinculada al Museo Valenciano
-   de Etnología, realizándose la primera entrevista en 2002.
+   Este 17 de octubre de 2024 se celebra por primera vez el Día
+   Internacional del Patrimonio Cultural Inmaterial, con el cual la UNESCO
+   destaca la importancia de estas tradiciones y expresiones vivas para la
+   humanidad. Es, igualmente, una celebración de la diversidad cultural
+   para propiciar el entendimiento mutuo, la cooperación entre
+   comunidades, la paz y tolerancia.
 
-   Museo de la Palabra - Archivo de la Memoria Oral Valenciana - Museo
-   Valenciano de Etnología : Información (museudelaparaula.es)
+   América Latina y el Caribe es una zona geográfica con disímiles
+   exponentes del patrimonio vivo. La influencia de las diferentes
+   culturas en la región a lo largo de su historia le han dejado a sus
+   actuales habitantes un legado inmensurable que es preciso preservar
+   para las próximas generaciones.
 
-AHOA
+   Compartimos algunas de estas tradiciones y expresiones, inscritas en la
+   Lista Representativa del Patrimonio Cultural Inmaterial de la
+   Humanidad.
 
-   Archivo de la Memoria
+1. La lengua, la danza y la música de los garífunas
 
-   El objetivo de AHOA es la recuperación y preservación de la herencia
-   cultural inmaterial del País Vasco a futuras generaciones, en forma de
-   realización y recopilación de entrevistas a personas de edad avanzada y
-   autobiografías, así como la promoción de iniciativas para la creación
-   de fuentes orales.
+   Belice - Guatemala - Honduras -  Nicaragua
+   La lengua, la danza y la música de los garífunas
+   © UNESCO
 
-   AHOA Archivo de la Memoria (ahoaweb.org)
+   Las comunidades garífunas, originarias de un mestizaje entre grupos
+   africanos y caribeños, se establecieron en la costa atlántica de
+   América Central en el siglo XVIII. Hoy en día, viven en Honduras,
+   Guatemala, Nicaragua y Belice. La lengua garífuna, de la familia
+   arawak, ha resistido siglos de persecución. Sus melodías combinan
+   elementos africanos y amerindios, y sus textos preservan conocimientos
+   tradicionales sobre agricultura, pesca y construcción. Las canciones,
+   acompañadas de tambores y bailes, tienen un componente satírico. Los
+   ancianos son los encargados de transmitir estas tradiciones, pero la
+   migración, la discriminación y la falta de enseñanza de la lengua en
+   las escuelas amenazan su continuidad.
 
-Bordering on Britishness
+2. La Fiesta Grande de Tarija
 
-   En el límite de lo británico: Una historia oral de Gibraltar en el
-   siglo XX
+   Bolivia
+   La Fiesta Grande de Tarija
+   © UNESCO
 
-   El profesor Andrew Canessa (University of Essex) explica este
-   interesante proyecto de historia oral sobre la identidad gibraltareña,
-   financiado por el UK Economic and Social Research Council.
+   La Fiesta Grande de Tarija, celebrada en agosto y septiembre en la
+   ciudad de Tarija, Bolivia, honra a San Roque con procesiones
+   religiosas, festivales de música, bailes, competiciones y fuegos
+   artificiales. Originada en la época colonial, esta fiesta es una
+   muestra de fe por la salud, preservada y transmitida por la comunidad
+   católica. Los participantes, vestidos con máscaras y trajes vistosos,
+   interpretan música y bailes, mientras los vecinos decoran templos y
+   calles y organizan actividades culturales y deportivas. La fiesta
+   incluye exposiciones de artesanías y comidas tradicionales, pero sin
+   bebidas alcohólicas. Además de su carácter religioso, marca el fin de
+   la estación seca y el inicio del periodo agrícola.
 
-   Bordering on Britishness (“Al límite de lo británico”). Introducción.
+3. El ‘bumba-meu-boi’, práctica cultural compleja de Maranhão
 
-     * youtube
+   Brasil
+   El ‘bumba-meu-boi’, práctica cultural compleja de Maranhão
+   © UNESCO
 
-   HR Excellence in Research
-   CAMPUS DE EXCELENCIA INTERNACIONAL
-   UNA - University Alliance Europe
+   El “bumba-meu-boi” es una práctica ritual del estado brasileño de
+   Maranhão que combina música, danza, teatro y juegos, con el buey como
+   figura central. Esta tradición refleja el ciclo de la vida, desde el
+   nacimiento hasta la muerte, y está impregnada de simbolismo. Aunque
+   existen prácticas similares en otros estados de Brasil, el
+   “bumba-meu-boi” de Maranhão se distingue por su diversidad de grupos y
+   estilos, y por la relación entre creencias, fiestas y artes. Cada año,
+   los grupos crean nuevas canciones, comedias y bordados para la
+   celebración, que culmina a finales de junio y dura entre cuatro y ocho
+   meses.
 
-   © Universidad Complutense Madrid
-   Localización y contacto
-   Aviso Legal
-   Protección de datos
-   RSS
+4. La alfarería de Quinchamalí y Santa Cruz de Cuca
+
+   Chile
+   La alfarería de Quinchamalí y Santa Cruz de Cuca
+   © UNESCO
+
+   La alfarería de Quinchamalí y Santa Cruz de Cuca, en el centro de
+   Chile, es una tradición cultural mestiza que produce objetos
+   funcionales y decorativos, caracterizados por su color negro con toques
+   blancos. Las alfareras, que son principalmente mujeres, crean y venden
+   sus piezas en mercados locales y ferias de artesanía. Esta práctica,
+   que otorga autonomía social y económica a las mujeres, está amenazada
+   por factores demográficos, medioambientales y la migración de los
+   jóvenes a zonas urbanas, lo que dificulta la transmisión de
+   conocimientos y el acceso a materias primas.
+
+5. El Carnaval de Barranquilla
+
+   Colombia
+   El Carnaval de Barranquilla
+   © UNESCO
+
+   El Carnaval de Barranquilla, celebrado durante los cuatro días previos
+   a la Cuaresma, es un evento que muestra la diversidad cultural de
+   Colombia a través de danzas, música y expresiones artísticas. La
+   ciudad, ubicada en la costa del Caribe, se ha convertido en un
+   importante centro de comercio y convergencia de culturas amerindias,
+   europeas y africanas desde la época colonial. El carnaval ganó
+   popularidad y se profesionalizó, obteniendo una amplia cobertura
+   mediática. Aunque esto ha generado beneficios económicos para muchas
+   familias de bajos ingresos, la comercialización creciente amenaza la
+   preservación de muchas expresiones tradicionales.
+
+6. Saberes de los maestros del ron ligero
+
+   Cuba
+   Saberes de los maestros del ron ligero
+   © UNESCO
+
+   El ron ligero cubano, originado en 1862 en Santiago de Cuba, se produce
+   gracias a la transmisión continua de conocimientos de los maestros
+   roneros. Estos expertos combinan técnicas tradicionales y científicas
+   para garantizar la calidad del ron, una importante fuente de ingresos
+   para Cuba. Siguen un código ético que respeta la cultura del ron y
+   promueve prácticas ecológicas. La fabricación del ron es un aprendizaje
+   continuo que se transmite de generación en generación, abarcando desde
+   el cuidado de las bodegas hasta la creación de mezclas específicas. Los
+   maestros roneros forman una comunidad selectiva que promueve el consumo
+   responsable y conecta culturalmente a la isla con el mundo.
+
+7. Tejido tradicional del sombrero ecuatoriano de paja toquilla
+
+   Ecuador
+   Tejido tradicional del sombrero ecuatoriano de paja toquilla
+   © UNESCO
+
+   El sombrero de paja toquilla, tejido con fibras de una palmera de las
+   costas de Ecuador, es una tradición artesanal distintiva. Los
+   agricultores cultivan y procesan las fibras, que luego los tejedores
+   transforman en sombreros, un proceso que puede durar de un día a ocho
+   meses según la calidad. En la comunidad costera Pile, se confeccionan
+   sombreros extrafinos bajo condiciones específicas. Las técnicas de
+   tejido se transmiten en las familias campesinas, preservando esta
+   práctica como parte de su identidad y patrimonio cultural.
+
+8. El reggae
+
+   Jamaica
+   El reggae de Jamaica
+   © UNESCO
+
+   El “reggae” es una mezcla de ritmos jamaicanos y de diversas
+   influencias caribeñas, latinoamericanas y norteamericanas, originado en
+   los grupos marginados de Kingston. Evolucionó del “ska” al “rock
+   steady” y finalmente al “reggae”, incorporando estilos neoafricanos,
+   soul y rhythm and blues. Inicialmente una expresión de comunidades
+   marginadas, el reggae ahora es apreciado por personas de todas las
+   clases sociales. Aborda temas de injusticia, resistencia, amor y la
+   condición humana, y se enseña en todos los niveles educativos en
+   Jamaica. Festivales como el “Reggae Sumfest” y el “Reggae Salute”
+   celebran y promueven este género musical.
+
+9. El Mariachi, música de cuerdas, canto y trompeta
+
+   México
+   El Mariachi, música de cuerdas, canto y trompeta
+   © UNESCO
+
+   El mariachi es una música tradicional esencial en la cultura mexicana,
+   interpretada por músicos vestidos con trajes de charro y acompañados de
+   instrumentos de cuerda. Las orquestas modernas incluyen trompetas,
+   violines, vihuelas y guitarrones. Su repertorio abarca canciones de
+   diversas regiones de México, como jarabes, polkas, valses y corridos, y
+   ha incorporado géneros como la ranchera y la cumbia. La música mariachi
+   se transmite de generación en generación, principalmente de oído, y se
+   presenta en festividades religiosas y civiles, promoviendo el respeto
+   por el patrimonio natural y la historia local.
+
+10. Prácticas y saberes tradicionales del tereré en la cultura del pohã ñana,
+bebida ancestral guaraní en Paraguay
+
+   Paraguay
+   Prácticas y saberes tradicionales del tereré en la cultura del pohã
+   ñana, bebida ancestral guaraní en Paraguay
+   © UNESCO
+
+   El tereré, una bebida ancestral guaraní, es muy popular en Paraguay. Se
+   prepara mezclando agua fría con pohã ñana, una hierba medicinal, y se
+   sirve en un recipiente con mate, bebiéndose con una bombilla. Este
+   ritual, transmitido de generación en generación desde el siglo XVI,
+   fomenta la cohesión social, la inclusión, la amistad y el respeto.
+   Además, realza el legado cultural y botánico guaraní, destacando los
+   beneficios para la salud del pohã ñana.
+
+11. La danza del wititi del valle del Colca
+
+   Perú
+   La danza del wititi del valle del Colca
+   © UNESCO
+
+   La danza del wititi del valle del Colca, Perú, es un baile popular
+   tradicional que guarda relación con el comienzo de la edad adulta.
+   Reviste la forma de un ritual de cortejo amoroso y suelen interpretarla
+   los jóvenes durante las festividades religiosas que se celebran a lo
+   largo de la estación lluviosa. La representación del wititi coincide
+   con el inicio del ciclo de producción agrícola y simboliza el renuevo
+   de la naturaleza y la sociedad. Esta danza consolida los vínculos
+   sociales y la identidad de los pueblos del valle del Colca. A nivel
+   nacional, existen grupos de bailes folclóricos que también interpretan
+   esta danza por haberla integrado en sus repertorios coreográficos.
+
+12. La música y el baile del merengue
+
+   República Dominicana
+   La música y el baile del merengue
+   © UNESCO
+
+   El merengue es una parte esencial de la identidad de República
+   Dominicana y está presente en la educación, reuniones sociales,
+   festividades y campañas políticas. El 26 de noviembre de 2005 se
+   proclamó el Día Nacional del Merengue. Se baila en pareja con
+   movimientos sensuales al ritmo de acordeones, tambores y saxofones. La
+   iniciación comienza en la infancia y atrae a personas de diversos
+   orígenes socioeconómicos, promoviendo el respeto y la convivencia.
+   Originario del norte de la República Dominicana, el merengue es popular
+   en el Caribe, Puerto Rico, Estados Unidos y otros países de
+   Centroamérica y América Latina.
+
+13. Procedimientos y técnicas artesanales de obtención de fibras vegetales
+para talcos, pintas y crinejas del sombrero pintao
+
+   Panamá
+   Procedimientos y técnicas artesanales de obtención de fibras vegetales
+   para talcos, pintas y crinejas del sombrero pintao
+   © UNESCO
+
+   Las fibras vegetales para el sombrero pintao se obtienen manualmente de
+   cinco tipos de plantas y barro. Los artesanos cultivan las plantas,
+   procesan las materias primas, trenzan las fibras y confeccionan los
+   sombreros, que son parte de la vestimenta en bailes folclóricos y
+   fiestas comunitarias en todo Panamá. Esta práctica fomenta la
+   solidaridad social mediante cooperativas de sombrereros y cultivadores.
+   El Museo del Sombrero Pintao en La Pintada y el Día Cívico del Sombrero
+   Pintao, celebrado el 19 de octubre, son esfuerzos para preservar esta
+   tradición. Las técnicas se transmiten de generación en generación, y se
+   organizan concursos para perfeccionar el arte. Más de 400 artesanos
+   viven de este oficio y se enorgullecen de sus creaciones.
+
+14. El tango
+
+   Argentina - Uruguay
+   El tango
+   © UNESCO
+
+   El tango, originado en la cuenca del Río de la Plata entre Buenos Aires
+   y Montevideo, es una mezcla de influencias europeas, africanas y
+   criollas. Esta tradición cultural incluye música, danza y poesía, y se
+   practica en las milongas de ambas ciudades. El tango ha evolucionado y
+   se ha adaptado globalmente, manteniendo su esencia. Hoy, músicos,
+   bailarines, coreógrafos y profesores continúan difundiendo y enseñando
+   este arte. El tango es un símbolo de la identidad cultural y se celebra
+   en eventos nacionales en Argentina y Uruguay, reflejando su amplio
+   impacto como música popular urbana.
+
+15. Diablos Danzantes de Venezuela
+
+   República Bolivariana de Venezuela
+   Diablos Danzantes de Venezuela © UNESCO
+
+   Las pequeñas comunidades de la costa central de Venezuela celebran de
+   manera especial el Corpus Christi, festividad de la Iglesia católica
+   romana que conmemora la presencia de Cristo en el sacramento de la
+   eucaristía. Grupos de hombres adultos, muchachos jóvenes y niños,
+   disfrazados de diablos enmascarados, ejecutan pasos de danza hacia
+   atrás, en actitud de penitencia, al mismo tiempo que una jerarquía de
+   la Iglesia católica avanza hacia ellos llevando el Santo Sacramento.
+   Los bailarines, llamados “promeseros’’, son miembros perpetuos de
+   hermandades que transmiten la memoria histórica y las tradiciones
+   ancestrales de las comunidades.  Las mujeres se encargan de la
+   preparación espiritual de los niños, organizan las diferentes etapas
+   del ritual, preparan comidas, prestan su concurso para las danzas y
+   levantan altares a lo largo del recorrido de la procesión.
+   Recientemente, algunas comunidades han empezado a admitirlas a que
+   participen como danzantes. Esta celebración tradicional fomenta un
+   fuerte sentimiento de identidad comunitaria y cultural.
+
+16. La tradición del boyeo y las carretas
+
+   Costa Rica
+   La tradición del boyeo y las carretas © UNESCO
+
+   La tradicional carreta de bueyes es el tipo de artesanía más famoso de
+   Costa Rica. Desde mediados del siglo XIX, las carretas de bueyes eran
+   utilizadas para transportar el grano de café desde el valle central de
+   Costa Rica a Puntarenas, en la costa del Pacífico. La tradición de
+   pintar y engalanar las carretas comenzó a principios del siglo XX. Se
+   organizaron concursos anuales para premiar a los artistas más
+   creativos, costumbre que aún perdura hoy día. Cada carreta de bueyes se
+   fabrica para producir su propio “canto”, un carillón único producido
+   por un anillo del metal que golpea el cubo de la rueda cuando la
+   carreta traquetea por los caminos. Al convertirse en un medio de
+   transporte obsoleto, se ha reducido la demanda de carretas, y por tanto
+   también el número de artesanos que dominan la técnica para fabricarlas
+   y decorarlas.
+
+17. Joumou soup
+
+   Haití
+   Joumou soup
+   © UNESCO
+
+   La sopa Joumou es una sopa de calabaza tradicional haitiana, hecha con
+   verduras, plátanos, carne, pasta y especias. Es un símbolo de la
+   libertad y resistencia haitiana, consumida el 1 de enero, Día de la
+   Independencia de Haití, y como desayuno dominical. Su preparación es un
+   esfuerzo comunitario que fomenta la cohesión social, con mujeres
+   dirigiendo, niños ayudando, artesanos fabricando utensilios y
+   agricultores cultivando ingredientes. Variantes de esta sopa se
+   encuentran en la cocina caribeña y latinoamericana.
+
+Share
+
+   Copied to clipboard
+
+Temas relacionados
+
+     * Educación
+     * Cultura
+     * UNESCO Office in Havana and Regional Bureau for Culture
+
+Other recent stories
+
+   La UNESCO acompaña la recuperación del patrimonio cultural en el
+   oriente de Cuba tras el huracán Melissa
+   Historia
+   La UNESCO acompaña la recuperación del patrimonio cultural en el
+   oriente de Cuba tras el huracán Melissa
+   23 de Diciembre de 2025
+
+   Cómo, Alka y Vividh, dos directores de escuela, transforman el entorno
+   educativo de sus escuelas en Nueva Delhi
+   Historia
+   Cómo, Alka y Vividh, dos directores de escuela, transforman el entorno
+   educativo de sus escuelas en Nueva Delhi
+   17 de Diciembre de 2025
+
+   Voces silenciadas: por qué la libertad de expresión está retrocediendo
+   en todo el mundo
+   Historia
+   Voces silenciadas: por qué la libertad de expresión está retrocediendo
+   en todo el mundo
+   16 de Diciembre de 2025
+
+   La cultura, cimiento para habitar y vivir la ciudad con dignidad
+   Historia
+   La cultura, cimiento para habitar y vivir la ciudad con dignidad
+   12 de Diciembre de 2025
+
+     * UNESCO
+          + Últimas noticias
+          + Calendario
+          + Organiza tu evento
+          + Visita la UNESCO
+          + In brief
+          + Nuestro impacto
+          + Áreas de competencia
+          + Query list
+          + Portal de Datos de la UNESCO
+          + Suscribirse a nuestros boletines
+          + UNESCO Shop
+     * Condiciones de uso
+          + Nombre y logotipo de la UNESCO
+          + Preguntas Frecuentes
+          + Denunciar el fraude, la corrupción u otras conductas indebidas
+          + Alerta de fraude
+     * Políticas
+          + Protección de los derechos humanos (Procedimiento 104)
+          + Aviso de Privacidad
+          + Acceso a la información
+          + Políticas medioambientales y sociales
+
+   Síganos
+   Threads
+
+   top
+
+   Usamos cookies en este sitio para mejorar su experiencia de usuario.
+   Para obtener más información sobre cómo usamos las cookies, lea nuestro
+   aviso de privacidad.
+   (BUTTON) close

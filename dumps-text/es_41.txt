@@ -1,721 +1,547 @@
-   #alternate alternate
+   #JSON oEmbed (JSON) oEmbed (XML)
 
-   Pasar al contenido principal
+   Skip to content
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-N6HVF93
+   Concepto
 
-   UVic UVic
-     * ca
-     * es
+   Concepto
 
+   © 2013-2023 Enciclopedia Concepto. Todos los derechos reservados.
 
-   ____________________
+     * Índice
+          + a
+          + b
+          + c
+          + d
+          + e
+          + f
+          + g
+          + h
+          + i
+          + j
+          + k
+          + l
+          + m
+          + n
+          + o
+          + p
+          + q
+          + r
+          + s
+          + t
+          + u
+          + v
+          + w
+          + x
+          + y
+          + z
+
+   (BUTTON) Índice
+   ____________________ (BUTTON) Buscar
    (BUTTON)
-   Oferta formativa
-   Microcredenciales
-   Conoce la escuela
-   Contacto
-   FAQS
-   (BUTTON)
-   Menú flotant
-   Parlem?
-   Inicia el procés d'admissió
-   Descarrega el catàleg
-   Simulador de pagament fraccionat
-   Arrow close
-     * Entrevista con la coordinación
-     *
-     * ¿Hablemos?
-     *
-     * Inicia el proceso de admisión
-     *
-     * WhatsApp
-     *
-     * Simulador de pagament fraccionat
-
-   CulturaReligiosa
-
-   Postgrado
-   en Cultura Religiosa
-
-   Conoce la incidencia social en la cultura relacionada con la educación
-   y el patrimonio religioso.
-   Las claves de la Cultura Religiosa
-   Postgrado interuniversitario
-   Enfoque pedagógico del hecho religioso
-   Antropologia humana
-
-   Keyfacts
-     __________________________________________________________________
-
-   ¿Qué aprenderás?
-     __________________________________________________________________
-
-   Equipo docente
-     __________________________________________________________________
-
-   Proceso de acceso
-     __________________________________________________________________
-
-   Bonificaciones
-     __________________________________________________________________
-
-   Cursos relacionados
-     __________________________________________________________________
-
-   (BUTTON) Descarga el catálogo
-
-Keyfacts
-     __________________________________________________________________
-
-   (BUTTON)
-   Postgrado
-   (BUTTON)
-   Preinscripción abierta
-
-Modalidad
-
-   Semipresencial
-     __________________________________________________________________
-
-Inicio
-
-   9 Enero 2026
-     __________________________________________________________________
-
-Idioma
-
-   Catalán
-     __________________________________________________________________
-
-Edición
-
-   3a
-     __________________________________________________________________
-
-Finalización
-
-   21 Diciembre 2026
-     __________________________________________________________________
-
-Créditos
-
-   30
-     __________________________________________________________________
-
-Horario
-
-   Martes y jueves, de 19.00h a 21.00h por videoconferencia (online).
-   Estas clases se complementaran con 6 salidas presenciales de un día
-   (sábado)
-     __________________________________________________________________
-
-   Imagen
-   UVIC
-   Imagen
-   Logos CulturaReligiosa
-   Imagen
-   Logos CulturaReligiosa
-   Imagen
-   Logo Cultura Religiosa
-   Imagen
-   logo departament de presidència
-   (BUTTON) Preinscripción
-   Nombre ____________________________________________________________
-   Apellidos ____________________________________________________________
-   Correu electrònic
-   ____________________________________________________________
-   Prefix telèfon
-   +34_________________________________________________________
-   Número telèfon
-   ____________________________________________________________
-   Pregunta
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-   ____________________________________________________________
-
-Informació bàsica sobre protecció de dades
-
-     * El responsable del tractament de les dades és la Fundació
-       Universitària Balmes, titular de la UVic-UCC.
-     * La finalitat del tractament és oferir el servei per a
-       l'organització i difusió de l'oferta docent i de serveis i per dur
-       a terme altres iniciatives de promoció i/o campanyes publicitàries
-       de la UVic-UCC.
-     * L'entitat responsable del tractament de dades podrà contactar amb
-       els usuaris interessats per mitjà dels seus canals de comunicació
-       habitual, entre d'altres Whatsapp.
-     * Les dades es tractaran sobre la base del consentiment de la persona
-       per a l'organització i informació de l'oferta docent, de serveis,
-       així com altres iniciatives de promoció i/o campanyes publicitàries
-       de la Universitat.
-     * Les dades es comunicaran únicament als centres amb els quals la
-       UVic-UCC hagi convingut l'organització dels estudis pels quals s'ha
-       mostrat interès.
-     * Qualsevol persona pot exercir en qualsevol moment el dret a accedir
-       a les dades, rectificar-les, suprimir-les, sol·licitar-ne la
-       limitació del tractament o bé oposar-s'hi.
-     * Podeu consultar informació addicional a Avís legal i protecció de
-       dades..
-
-   gdpr*
-
-   [ ] He leído y acepto la política de protección de datos.
-
-   SF: 1r Cognom
-   ____________________________________________________________ Camp
-   automàtic utilitzat pel vincle amb salesforce
-   SF: 2n Cognom
-   ____________________________________________________________ Camp
-   automàtic utilitzat pel vincle amb salesforce
-   SF: Telèfon
-   ____________________________________________________________ Camp
-   automàtic utilitzat pel vincle amb salesforce
-   SF: Tipologia
-   100_________________________________________________________ Camp
-   automàtic utilitzat pel vincle amb salesforce
-   SF: Registre
-   01258000000QhRYAA0__________________________________________ Camp
-   automàtic utilitzat pel vincle amb salesforce
-   SF: Idioma ES__________________________________________________________
-   Camp automàtic utilitzat pel vincle amb salesforce
-   SF: Origen del candidat
-   Formació contínua___________________________________________ Camp
-   automàtic utilitzat pel vincle amb salesforce
-   SF: Canal Web_________________________________________________________
-   Camp automàtic utilitzat pel vincle amb salesforce
-   SF: Subcanal
-   Contacte web________________________________________________ Camp
-   automàtic utilitzat pel vincle amb salesforce
-   SF: Programa
-   Cultura Religiosa___________________________________________ Camp
-   automàtic utilitzat pel vincle amb salesforce
-   SF: UTM Campaign
-   ____________________________________________________________
-   SF: UTM Content
-   ____________________________________________________________
-   SF: UTM Datetime
-   ____________________________________________________________
-   SF: UTM Medium
-   ____________________________________________________________
-   SF: UTM Source
-   ____________________________________________________________
-   SF: UTM Term
-   ____________________________________________________________
-   SF: UTM URL
-   ____________________________________________________________
-   Solicita información
-   Deje este campo en blanco ____________________
-
-¿Qué aprenderás?
-     __________________________________________________________________
-
-   A saber leer las claves que de la Cultura Religiosa e incidencia social
-   desde varias perspectivas relacionadas con el patrimonio religioso, la
-   diversidad religiosa y el hecho educativo. El Posgrado
-   interuniversitario en Cultura Religiosa te capacita para analizar como
-   el hecho religioso ha impregnado el mundo cultural a través del arte,
-   la música, las expresiones artísticas y el patrimonio durante más de
-   dos mil años.
-     * La Antropología humana y su relación con la espiritualidad y la
-       ética, profundizando en la realidad sociológica de Cataluña.
-     * La Biblia y la tradición judeocristiana, mostrando la influencia en
-       nuestra cultura.
-     * Las diversas expresiones del hecho religioso en las artes: pintura,
-       arquitectura, escultura, música, gastronomía, cine.
-     * La convivencia hoy de varias tradiciones religiosas y nuevas
-       religiosidades.
-     * El enfoque pedagógico del hecho religioso a casa nuestra. A través
-       de una metodología activa y participativa,
-     * Aprenderás a través de sesiones en línea sincrónicas con
-       exposiciones orales, debates, visitas, audiciones y rutas por
-       espacios emblemáticos y conversas con diferentes confesiones
-       religiosas.
-     * Tendrás un espacio de reflexión alrededor del enfoque pedagógico
-       del hecho religioso en la educación de nuestro país.
-
-Equipo docente
-     __________________________________________________________________
-
-Dirección
-
-   Fotos Direcció
-
-De la mano de:
-
-   Joan Callarisa (UVic)
-
-   Ramon Rial (Vedruna Catalunya)
-
-   Andreu Ibarz (Blanquerna - URL)
-
-Profesorado
-
-     *
-         ______________________________________________________________
-
-       Jaume Angelats.
-       Facultad de Teología de Cataluña
-
-     *
-         ______________________________________________________________
-
-       Carles Armengol.
-       Director de la Dirección General de Asuntos Religiosos
-
-     *
-         ______________________________________________________________
-
-       Eloi Aran i Sala.
-       Jefe de área pastoral, socioeducativa de la FECC
-
-     *
-         ______________________________________________________________
-
-       Ester Busquets.
-       UVIC- Universidad Central de Cataluña
-
-     *
-         ______________________________________________________________
-
-       Josep Lluís Carod Rovira.
-       Filólogo y escritor
-
-     *
-         ______________________________________________________________
-
-       Jordi Collet.
-       UVIC- Universidad Central de Cataluña
-
-     *
-         ______________________________________________________________
-
-       Mercè Cols.
-       Blanquerna. Universidad Ramon Llull
-
-     *
-         ______________________________________________________________
-
-       Míriam Díaz.
-       Directora Observatorio Blanquerna Comunicación, Religión y Cultura
-
-     *
-         ______________________________________________________________
-
-       Joan Ferrer.
-       Universidad de Girona
-
-     *
-         ______________________________________________________________
-
-       Dani Font.
-       Delegado del Patrimonio cultural del Obispado de Vic
-
-     *
-         ______________________________________________________________
-
-       Alicia Guidonet.
-       Directora Espacio Interreligioso de la Fundación Migra Studium
-
-     *
-         ______________________________________________________________
-
-       Joan Gómez.
-       Sociólogo. Investigador en sociología de la religión.
-
-     *
-         ______________________________________________________________
-
-       Agustí Iglésias.
-       Dirección General de Asuntos Religiosos
-
-     *
-         ______________________________________________________________
-
-       Andreu Ibarz.
-       Blanquerna, Universidad Ramon Llull
-
-     *
-         ______________________________________________________________
-
-       Anna Eva Jarabo.
-       Blanquerna, Universidad Ramon Llull
-
-     *
-         ______________________________________________________________
-
-       Irene Llop.
-       Universidad de Vic. Universidad Central de Cataluña
-
-     *
-         ______________________________________________________________
-
-       Joaquim Malé.
-       Facultad de Teología de Cataluña
-
-     *
-         ______________________________________________________________
-
-       Xavier Marín.
-       Blanquerna, Universidad Ramon Llull
-
-     *
-         ______________________________________________________________
-
-       Anna Massallé.
-       Dirección General de Asuntos Religiosos.
-
-     *
-         ______________________________________________________________
-
-       Xavier Melloni.
-       Facultad de Teología de Cataluña
-
-     *
-         ______________________________________________________________
-
-       Laura Mor.
-       Fundación Vedruna Cataluña Educación. Cataluña Religión.
-
-     *
-         ______________________________________________________________
-
-       Andreu Muñoz.
-       Director Museo Bíblico Tarraconense
-
-     *
-         ______________________________________________________________
-
-       Oriol Pérez.
-       Musicólogo
-
-     *
-         ______________________________________________________________
-
-       Ramon Rial i Carbonell.
-       Universidad de Vic. Universidad Central de Cataluña
-
-     *
-         ______________________________________________________________
-
-       Montserrat Rocafiguera.
-       Doctora en Historia. Especialista en Arqueología e Historia del
-       arte.
-
-     *
-         ______________________________________________________________
-
-       Joan-Andreu Rotxa Scarpetta.
-       Fundación Pere Tarrés. Universidad Ramon Llull
-
-     *
-         ______________________________________________________________
-
-       Quim Térmens.
-       Director Orquesta Terrassa 48
-
-     *
-         ______________________________________________________________
-
-       Francesc Torradeflot.
-       Asociación Unesco para el Diálogo Interreligioso
-
-     *
-         ______________________________________________________________
-
-       Joan Vives.
-       Profesor Historia de la Música. Periodista
-
-     *
-         ______________________________________________________________
-
-       Francesc Torralba.
-       Universidad Ramon Llull
-     __________________________________________________________________
-
-Proceso de acceso
-     __________________________________________________________________
-
-   El proceso de admisión de este programa se realiza una vez realizada la
-   preinscripción. Si no se supera el proceso de admisión, se abonará la
-   totalidad del importe de la preinscripción.
-
-Bonificaciones y ayudas
-     __________________________________________________________________
-
-Para colectivos
-
-   Empresas e instituciones que matriculen 3 o más alumnos: 10%
-   UVIC Alumni: 10%
-   Estudiantes UVic: 10%
-
-   Consulta las bonificaciones que puedes obtener durante el proceso de
-   admisión.
-     __________________________________________________________________
-
-Ayuda específica para empresas
-
-   Este programa se puede bonificar a través de la Fundación Estatal para
-   la Formación en el Empleo (FUNDAE). Una entidad que gestiona el crédito
-   que las empresas destinan a la formación de sus trabajadores.
-
-   Para más información sobre la bonificación a través de FUNDAE, ponte en
-   contacto con nosotros en el teléfono 93 881 55 22 o por correo
-   bonificacio.fundae@uvic.cat
-     __________________________________________________________________
-
-(BUTTON) Preguntas frecuentes
-     __________________________________________________________________
+   (BUTTON) Primary Menu
+
+     * Ciencias naturales
+          + Animales
+          + Astronomía
+          + Biología
+          + Ecología
+          + Física
+          + Matemática
+          + Química
+     * Cultura y sociedad
+          + Arte
+          + Conocimiento
+          + Cultura
+          + Economía y finanzas
+          + Empresas y negocios
+          + Sociedad
+          + Tecnología
+     * Castellano
+          + Lengua
+          + Literatura
+          + Textos
+     * Ser humano
+          + Anatomía
+          + Psicología
+          + Salud
+          + Valores
+     * Ciencias sociales
+          + Derecho
+          + Filosofía
+          + Geografía
+          + Historia
+     * Random
+
+   InicioHistoria
+
+Primeras civilizaciones agrícolas
+
+   Te explicamos cuáles fueron las primeras civilizaciones agrícolas y sus
+   características. Además, cómo se desarrollaron en los diferentes
+   lugares del mundo.
+   Primeras civilizaciones agrícolas Las poblaciones que desarrollaron la
+   agricultura se volvieron sedentarias.
+
+¿Cuáles fueron las primeras civilizaciones agrícolas?
+
+   Las primeras civilizaciones agrícolas fueron las sociedades que
+   desarrollaron de manera autónoma la agricultura y se convirtieron en
+   civilizaciones de organización compleja, con producción de excedentes,
+   jerarquización social y centralización del poder.
+
+   Las primeras civilizaciones agrícolas fueron las de Sumer (3300 a. C.),
+   Egipto (3200 a. C.), India (2400 a. C.), China (3000 a. C.),
+   Mesoamérica (1200 a. C.) y los Andes Centrales (1200 a. C.). Estas
+   civilizaciones se asentaron a orillas de los ríos y desarrollaron
+   técnicas cada vez más complejas en la agricultura, lo que les permitió
+   tener excedentes de producción. Es decir, obtenían más recursos de los
+   necesarios para su subsistencia.
+
+   La existencia de excedentes permitió el crecimiento de la población, la
+   especialización del trabajo, la aparición de jerarquías sociales y,
+   luego, la centralización del poder. Por lo tanto, las primeras
+   civilizaciones agrícolas fueron las primeras sociedades que
+   desarrollaron una organización estatal.
+
+   Ver además: Civilizaciones antiguas
+   [INS: :INS]
+
+Características de las primeras civilizaciones agrícolas
+
+   Las primeras sociedades agrícolas no se vincularon entre sí. La mayoría
+   de ellas pertenecieron a una región y un tiempo distinto. Por lo que se
+   trata de sociedades diferentes, cada una con su propia cultura y sus
+   características.
+
+   Sin embargo, el desarrollo de la agricultura generó en todas ellas los
+   mismos cambios generales a largo plazo: la sedentarización, el
+   desarrollo de centros urbanos, la jerarquización de la sociedad y, como
+   consecuencia, la aparición del Estado.
+
+   Entre las principales características comunes de las primeras
+   civilizaciones agrícolas, se encuentran:
+
+Sociedades hidráulicas
+
+   La práctica de la agricultura establecía la necesidad de riego y acceso
+   al agua. Por lo tanto, las primeras civilizaciones agrícolas son
+   sociedades que se fundaron a orillas de los ríos y, además,
+   desarrollaron técnicas para el almacenamiento y el control del agua
+   (como canales y diques).
+
+   Por ejemplo, las civilizaciones del Cercano Oriente se desarrollaron en
+   torno a los ríos Tigris y Éufrates, y la de Egipto, en torno al río
+   Nilo.
+
+Prácticas agrícolas
+
+   Las primeras sociedades desarrollaron una agricultura intensiva, para
+   la que utilizaban instrumentos de labranza y sistemas de riego.
+
+Producción de excedentes
+
+   Con la práctica agrícola y ganadera, las sociedades transformaron su
+   economía de subsistencia en una economía productiva. Con el tiempo, los
+   cultivos comenzaron a generar excedentes. Es decir, se producían más
+   alimentos de los que necesitaba la comunidad para su supervivencia.
+
+   Esta producción de excedentes tuvo como consecuencia el crecimiento de
+   la población, la aparición del trueque (primera forma de comercio) y la
+   jerarquización social.
+
+Crecimiento demográfico
+
+   Con la mayor disponibilidad de alimentos, las poblaciones agrícolas
+   crecieron en número y tamaño, y las aldeas se convirtieron en centros
+   urbanos.
+
+Jerarquización social
+
+   El crecimiento de la población y el desarrollo de la práctica agrícola
+   llevaron a una división del trabajo especializado que, a la larga,
+   generó diferenciaciones sociales.
+
+   Aparecieron clases dirigentes que gestionaban los recursos de la
+   sociedad (organizaban la distribución del agua y la construcción de
+   grandes obras, y administraban los tributos). Por su parte, los
+   campesinos y trabajadores urbanos (artesanos) se dedicaban a la
+   producción y debían entregar parte de sus excedentes productivos como
+   tributo.
+
+Desarrollo de nuevas técnicas e inventos
+
+   La especialización laboral generó un gran desarrollo de invenciones y
+   técnicas de trabajo en diferentes rubros. Por ejemplo, se desarrolló la
+   metalurgia y la escritura, o la rueda, las embarcaciones y el arado.
+   [INS: :INS]
+
+Origen de las primeras civilizaciones agrícolas
+
+   Las primeras civilizaciones agrícolas surgieron como consecuencia de
+   los cambios producidos por el desarrollo de la agricultura. Esto
+   sucedió en diferentes momentos en las distintas regiones:
+     * En el Creciente Fértil (los valles de los ríos Nilo, Tigris y
+       Éufrates), los primeros asentamientos agrícolas datan del 8000 a.
+       C. y dieron origen a las civilizaciones de la Mesopotamia asiática
+       y Egipto.
+     * En el valle del río Indo, la agricultura apareció hacia el 7000 a.
+       C. y sentó las bases para la civilización antigua de la India.
+     * En el valle del río Huang Ho, los primeros cultivos son del 6500 a.
+       C. y permitieron desarrollar la posterior civilización de la
+       Antigua China.
+     * En Mesoamérica, hacia el 8000 a. C., aparecieron los primeros
+       asentamientos agrícolas que, siglos más tarde, llevaron a la
+       aparición de las civilizaciones de los olmecas y Teotihuacán.
+     * En el altiplano de los Andes Centrales, los cultivos más antiguos
+       aparecieron en el 7000 a. C. y sentaron las bases para el posterior
+       desarrollo de las civilizaciones de Chavín, Nazca y Tiahuanaco.
+
+   En estas sociedades, la práctica de la agricultura generó una serie de
+   cambios que transformaron las relaciones sociales y las formas de
+   organización económica. Este conjunto de cambios es conocido como
+   “Revolución Neolítica” o “proceso de neolitización” y da inicio al
+   periodo de la prehistoria conocido como Neolítico (la tercera etapa de
+   la Edad de Piedra). Por lo tanto, las primeras civilizaciones agrícolas
+   son sociedades que atravesaron los cambios de la Revolución Neolítica.
+
+   La práctica agrícola se vincula con otros cambios fundamentales: la
+   sedentarización, la ganadería, la aparición de las aldeas, cambios en
+   las técnicas de pulido de piedras y nuevos inventos (como la cerámica o
+   la fundición de metales). Este nuevo modo de vida llevó también a
+   nuevas formas de dividir el trabajo dentro de la comunidad, lo que
+   modificó las relaciones sociales.
+
+   Con el tiempo, estas transformaciones llevaron a la creación de centros
+   urbanos con jerarquización social y centralización del poder, y a la
+   aparición de los primeros Estados.
+
+   Puede servirte: Edad del Bronce
+
+Mesopotamia
+
+   La Mesopotamia asiática es el territorio que abarca el espacio fértil
+   que rodea los ríos Tigris y Éufrates. Pertenece a la región conocida
+   como Cercano Oriente o Asia Occidental, que está comprendida entre los
+   montes de Armenia (al norte), el desierto sirio y el golfo de Pérsico
+   (al sur), los montes Zagros (al este) y el mar Mediterráneo (al oeste).
+
+   Esta región tiene un relieve en el que conviven mesetas y llanuras
+   fluviales formadas por los sedimentos de los ríos Tigris y Éufrates,
+   ricos en arcilla y limo (claves para la fertilidad del suelo).
+
+   Los primeros asentamientos agrícolas aparecieron hacia el año 8000 a.
+   C. y cultivaban trigo y cebada. Dado que en la región las lluvias son
+   escasas, el cultivo requirió del aprovechamiento de las aguas de los
+   ríos, para lo cual se construyeron grandes canales de riego.
+
+   Hacia el 3000 a. C., la población mesopotámica había crecido y creado
+   diferentes asentamientos urbanos que se abastecían a través de la
+   agricultura, la ganadería y los intercambios comerciales. Además, se
+   desarrollaron en ese momento las primeras organizaciones estatales como
+   ciudades-Estado.
+
+   Las ciudades-Estados eran entidades políticas autónomas, que contaban
+   con sus propias leyes e instituciones. Sin embargo, las diferentes
+   ciudades de Sumer (como llamaban a la región) compartían una identidad
+   cultural basada en la lengua, el sistema de creencias y valores, la
+   religión y la escritura.
+
+   Los sumerios desarrollaron una sociedad jerarquizada, que incluía la
+   existencia de un grupo privilegiado que accedía al poder (caracterizado
+   por las funciones guerreras y religiosas), un grupo de artesanos y
+   comerciantes que prestaba servicios a la ciudad, y un grupo de
+   campesinos que, con su trabajo, mantenía a toda la comunidad. Los
+   campesinos debían entregar parte de su producción como tributo. Además,
+   existían esclavos, que eran prisioneros de guerra.
+
+   Más en: Mesopotamia
+
+Egipto
+
+   Primeras civilizaciones agrícolas egipto Primeras civilizaciones
+   agrícolas egipto Las inundaciones regulares y predecibles del río Nilo
+   favorecieron la agricultura en Egipto.
+
+   La antigua civilización egipcia surgió a las orillas del río Nilo,
+   cuyas inundaciones regulares y predecibles dejaban un limo fértil y
+   sedimentos aprovechables para la siembra. Se estima que los primeros
+   asentamientos agrícolas en el río Nilo datan del 8000 a. C.
+
+   En el siglo IV a. C., los asentamientos urbanos de Egipto comenzaron a
+   tener las características de una sociedad compleja. Los egipcios se
+   organizaron primero en “nomos” (unidades territoriales bajo el gobierno
+   de algunas familias) y, luego, los nomos se unificaron en dos grandes
+   reinos: el del norte (en la zona del delta del río Nilo) y el del sur
+   (en la zona del valle).
+
+   Hacia el 3300 a. C., los dos reinos se unificaron bajo la figura del
+   rey Nemes, que se proclamó faraón y estableció la primera de las
+   dinastías del Antiguo Egipto.
+
+   En esta región, era fundamental distribuir el agua del río Nilo a
+   través de canales. El Estado tenía un rol fundamental en la economía
+   porque gestionaba el control del agua y organizaba la construcción de
+   diferentes obras hidráulicas.
+
+   El Estado egipcio desarrolló una organización que establecía que todas
+   las tierras del reino pertenecían al faraón, quien las delegaba en
+   sacerdotes y funcionarios de gobierno. A su vez, estos las asignaban a
+   soldados y campesinos para que las trabajaran a cambio del pago de un
+   tributo.
+   [INS: :INS]
+
+India
+
+   Primeras civilizaciones agrícolas india Primeras civilizaciones
+   agrícolas india Los bueyes domesticados colaboraron con la agricultura
+   de la India.
+
+   Los primeros agricultores de la región del subcontinente indio
+   surgieron alrededor del 7000 a. C., y formaban parte de un grupo de
+   culturas del valle del río Indo llamadas “pre-arias”.
+
+   Los asentamientos de agricultores de la región, que luego dieron paso a
+   las primeras ciudades fortificadas, se dedicaron a cultivar el trigo,
+   la cebada, el sésamo, las legumbres, los dátiles y los melones.
+
+   Hacia el 2400 a. C., se desarrolló una civilización conocida como la
+   cultura del Indo. Sus ciudades más importantes fueron Harappa y
+   Mohenjo-Daro. Estos centros urbanos tenían un sistema de canales y
+   alcantarillas que permitían llevar agua hacia las casas.
+
+   La cultura del Indo tenía una sociedad jerárquica, dividida entre las
+   familias que acaparaban los espacios de poder, y los campesinos, que
+   entregaban parte de su producción como tributo.
+
+   Hacia 1500 a. C., hubo una invasión de tribus arias de origen
+   indoeuropeo. Estas tribus destruyeron las ciudades y se asentaron en la
+   región del Indo.
+
+China
+
+   Primeras civilizaciones agrícolas Primeras civilizaciones agrícolas En
+   China, se crearon métodos de cultivo de montaña llamados “bancales” o
+   “terrazas”.
+
+   Las evidencias más antiguas de desarrollo agrícola en la región de
+   China datan del 6500 a C. Hacia el año 3000 a. C., se desarrolló en los
+   valles de los ríos Huang Ho y Yang Tse una cultura que dio origen a la
+   civilización china milenaria.
+
+   Se estima que hacia el 1700 a. C., toda la región quedó bajo el poder
+   de una sola dinastía por primera vez. Los especialistas sostienen que
+   la dinastía Shang gobernó sobre una cultura que descendía de las
+   poblaciones neolíticas del norte de China.
+
+   La cultura china se caracterizó por tener una organización social
+   compleja con una jerarquía social muy marcada. El poder se encontraba
+   centralizado en el rey, que contaba con un grupo de oficiales y
+   funcionarios a su servicio. Luego, había artesanos y campesinos que
+   pagaban tributo. Además, había esclavos que eran prisioneros de guerra
+   y se destinaban al trabajo agrícola.
+
+   Esta civilización desarrolló además un estilo arquitectónico y
+   artístico único y creó un sistema de escritura que se complejizó con el
+   paso del tiempo y los diferentes usos.
+
+   Más en: Antigua China
+
+Mesoamérica
+
+   La región mesoamericana abarcó los territorios de los actuales México,
+   Guatemala, El Salvador y Belice. Alrededor del año 5000 a. C.,
+   aparecieron los primeros cultivos de maíz en el Valle de Tehuacán
+   (ubicado en lo que hoy es Puebla, México).
+
+   Para la cosecha del maíz, se creó una herramienta llamada coa (era como
+   una pala con el borde filoso) y se desarrollaron técnicas de cultivo
+   muy diferentes, como la roza o el cultivo en terrazas. Otros alimentos
+   cultivados en la región fueron el cacao, el tomate, el aguacate, la
+   calabaza, el chayote, el camote, la mandioca, la vainilla, el algodón y
+   el tabaco.
+
+   Hacia el 1200 a. C., se desarrollaron las primeras culturas urbanas en
+   diferentes partes de Mesoamérica. Estas civilizaciones se
+   caracterizaron por la construcción de centros urbanos planificados y
+   gestionados por clases dirigentes que basaban su poder en las creencias
+   religiosas.
+
+   Los olmecas se establecieron en la región del golfo de México. Hacia el
+   800 a. C., dominaron gran parte de las aldeas agrícolas de la zona. Su
+   principal ciudad era La Venta. Desde allí, impusieron su religión y su
+   sistema de creencias a toda la población.
+
+   Los sacerdotes ocupaban las posiciones de poder y la población creía
+   que eran intermediarios entre las personas y los dioses. Sus tareas se
+   consideraban sagradas y esenciales para la continuidad de la
+   civilización.
+
+   Más en: Mesoamérica
+   [INS: :INS]
+
+Las culturas andinas sudamericanas
+
+   Primeras civilizaciones agrícolas inca andes sudamerica Primeras
+   civilizaciones agrícolas inca andes sudamerica El desarrollo agrícola
+   de las culturas andinas debió sobreponerse a los retos del terreno
+   montañoso.
+
+   De manera paralela a Mesoamérica, en los Andes Centrales, los primeros
+   cultivos aparecieron hacia el 7000 a. C., con la producción de
+   calabazas, quinua y zapallo. Hacia el 3000 a. C., se incorporaron otros
+   cultivos como el maíz, la papa, los porotos, la lúcuma y la coca.
+
+   La primera civilización compleja de los Andes fue la cultura de chavín,
+   que se desarrolló hacia el 1200 a. C. Al igual que en Mesoamérica, la
+   influencia ideológica de los sacerdotes les permitió centralizar el
+   poder político y consolidarse como gobernantes de la población.
+
+   Desde los templos, los sacerdotes ejercieron las funciones de gobierno
+   y la administración estatal. Allí se almacenaban los bienes que el
+   resto de la población entregaba como tributos.
+
+   Sigue con:
+   Edad Antigua Edad Antigua
+
+Edad Antigua
+
+   Arte prehistórico Arte prehistórico
+
+Arte prehistórico
+
+   Edad de los Metales Edad de los Metales
+
+Edad de los Metales
+
+Referencias
+
+     * Galliano, A., Katz, M. y otros. (2015). Las primeras
+       civilizaciones. Ciencias Sociales. Historia y espacios geográficos
+       desde el origen del hombre hasta la Edad Media. Edelvives.
+     * González, M. P. y Massone, M. (2002). Las sociedades paleolíticas y
+       neolíticas; Las sociedades urbanas antiguas. Sociedades. Vicens
+       Vives.
+     * Marquez, M. y Cassano, K. (2010). Las primeras sociedades de la
+       Antigüedad; Estados e imperios de la Antigüedad; Estados y
+       civilizaciones de América. Ciencias Sociales 1. Mandioca.
+
+¿Te interesan nuestros contenidos?
+
+   (BUTTON) ✉️  Suscríbete a nuestra lista de correo (BUTTON) 📸  Síguenos
+   en Instagram
+   Habitts Habitts
+
+¿Cómo citar?
+
+   Citar la fuente original de donde tomamos información sirve para dar
+   crédito a los autores correspondientes y evitar incurrir en plagio.
+   Además, permite a los lectores acceder a las fuentes originales
+   utilizadas en un texto para verificar o ampliar información en caso de
+   que lo necesiten.
+
+   Para citar de manera adecuada, recomendamos hacerlo según las normas
+   APA, que es una forma estandarizada internacionalmente y utilizada por
+   instituciones académicas y de investigación de primer nivel.
+
+     Kiss, Teresa (16 de abril de 2025). Primeras civilizaciones
+     agrícolas. Enciclopedia Concepto. Recuperado el 2 de enero de 2026
+     de https://concepto.de/primeras-civilizaciones-agricolas/.
 
    (BUTTON)
+   Copiar cita
 
-¿Cuándo empieza y cuándo termina el posgrado en Cultura Religiosa?
+Sobre el autor
 
-   De enero de 2026 a diciembre de 2026.
-     __________________________________________________________________
+   Editorial Etecé
+   Última edición: 16 de abril de 2025
+   Revisado por Teresa Kiss
+   Profesorado de Enseñanza Media y Superior en Historia (Universidad de
+   Buenos Aires)
 
-   (BUTTON)
+Compartir
 
-¿Dónde se realizarán las clases y cuál es la modalidad de estudio del
-posgrado en Cultura Religiosa?
+     *
+     *
+     *
+     *
+     *
+     *
 
-   La modalidad es semipresencial. Las clases se imparten por
-   videoconferencia (en línea) y se complementan con 4 salidas
-   presenciales de un día (sábado) y una estancia subvencionada de 4 días
-   en Vic durante la primera semana de julio.
-     __________________________________________________________________
+¿Te fue útil esta información?
 
-   (BUTTON)
+   Sí No
 
-¿Cuál es el horario de las clases del posgrado en Cultura Religiosa?
+   ¿Encontraste algún error?
+   Envíanos tus comentarios y sugerencias.
 
-   Las clases se realizan los martes y jueves, de 19.00 h a 21.00 h.
-     __________________________________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   Enviar
 
-   (BUTTON)
+   ¡Genial! Gracias por visitarnos :)
 
-¿En qué idioma se imparten las clases del posgrado en Cultura Religiosa?
+Índice
 
-   El posgrado se imparte en catalán.
-     __________________________________________________________________
+Sobre el autor
 
-   (BUTTON)
+   Editorial Etecé
+   Última edición: 16 de abril de 2025
+   Revisado por Teresa Kiss
+   Profesorado de Enseñanza Media y Superior en Historia (Universidad de
+   Buenos Aires)
 
-¿Hay prácticas en el posgrado en Cultura Religiosa?
+Compartir
 
-   No hay prácticas obligatorias. Los estudiantes pueden optar por
-   realizar prácticas extracurriculares con la aprobación previa de la
-   coordinación del programa y con el apoyo del Servicio de Carreras
-   Profesionales.
-     __________________________________________________________________
+     *
+     *
+     *
+     *
+     *
+     *
 
-   (BUTTON)
+También te puede interesar
 
-¿Hay asistencia obligatoria en el posgrado en Cultura Religiosa?
+   Edad Antigua
 
-   Para obtener el título del posgrado, es necesario asistir al menos al
-   80% de las clases.
-     __________________________________________________________________
+   Edad de los Metales
 
-   (BUTTON)
+   Civilizaciones antiguas
 
-¿Hay proceso de admisión en el posgrado en Cultura Religiosa? ¿Qué requisitos
-hay?
+   Mesoamérica
 
-   Sí. La admisión sirve para comprobar que se cumplen los requisitos
-   necesarios para acceder al programa formativo, y se valoran la
-   titulación de acceso, el currículum y la carta de motivación.
-     __________________________________________________________________
+   Edad del Bronce
 
-   (BUTTON)
+   Culturas andinas
 
-¿Cómo puedo iniciar el proceso de admisión al posgrado en Cultura Religiosa?
+   Culturas mesoamericanas
 
-   Se debe formalizar la preinscripción a través de la web del programa y
-   adjuntar la documentación (currículum, carta de motivación y titulación
-   de acceso). Si la valoración es positiva, se recibe la resolución de
-   admisión y las instrucciones para realizar la matrícula.
-     __________________________________________________________________
+   Edad de Piedra
 
-   (BUTTON)
+   Oasisamérica
 
-¿Puedo acceder al posgrado en Cultura Religiosa si aún no he terminado el
-grado?
+   Paleolítico
 
-   Puedes preinscribirte y matricularte presentando el expediente
-   académico, y el título debe entregarse como mínimo dos meses antes de
-   finalizar el posgrado. En caso contrario, se obtiene un certificado de
-   especialización universitaria.
-     __________________________________________________________________
+   Agricultura
 
-   (BUTTON)
+   Pueblos nómadas y sedentarios
+   (BUTTON) Cargar más
+   Cursos cortos y prácticos para la vida real. ¡Quiero ver!
 
-¿Qué salidas profesionales tendré después del posgrado en Cultura Religiosa?
+   Concepto © 2013-2026 Enciclopedia Concepto. Todos los derechos
+   reservados.
 
-   Es un complemento formativo que aporta solidez a maestros y profesores
-   de Religión, Humanidades y Ciencias Sociales, y resulta de interés para
-   personas vinculadas al ámbito educativo, social, sanitario o deportivo.
-     __________________________________________________________________
+     * Quiénes somos
+     * Equipo editorial
+     * Privacidad
+     * Contáctanos
+     * ✉️ Newsletter
 
-   (BUTTON)
+   Una publicación de Editorial Etecé
 
-¿Qué ocurre si mi perfil no es admitido en el posgrado en Cultura Religiosa
-después de haber pagado la preinscripción?
+   Utilizamos cookies para asegurar una mejor experiencia de usuario en
+   nuestro sitio web. Si continúa utilizando este sitio asumiremos que
+   está de acuerdo.Aceptar
 
-   Si el perfil no es admitido en el programa, se devuelve el importe de
-   la preinscripción.
-     __________________________________________________________________
-
-   (BUTTON)
-
-¿Hay bonificaciones o becas disponibles en el posgrado en Cultura Religiosa?
-
-   Sí. 10% de descuento para Alumni y estudiantes de la UVic-UCC y
-   Blanquerna. También hay un 10% de descuento para empresas e
-   instituciones que matriculen a más de tres alumnos.
-     __________________________________________________________________
-
-   (BUTTON)
-
-¿Hay algún descuento por modalidad de pago en el posgrado en Cultura
-Religiosa?
-
-   Sí. El pago puede hacerse fraccionado en tres plazos o mediante SeQura,
-   que permite fraccionar en 3, 6, 12 o 24 cuotas, con un 5% de
-   bonificación por pago único.
-     __________________________________________________________________
-
-   (BUTTON)
-
-¿El posgrado en Cultura Religiosa es bonificable a través de FUNDAE?
-
-   Sí. La formación es bonificable con FUNDAE, y la UVic-UCC gestiona
-   gratuitamente los trámites como entidad organizadora.
-     __________________________________________________________________
-
-   (BUTTON)
-
-¿Cómo se aborda el hecho religioso desde una perspectiva cultural dentro del
-posgrado en Cultura Religiosa?
-
-   Se aborda desde una mirada sociológica y cultural, analizando la
-   presencia del hecho religioso en diferentes expresiones de la cultura
-   como la música, el arte, la arquitectura, la gastronomía o el cine, y
-   promoviendo la reflexión sobre su influencia en la sociedad actual.
-     __________________________________________________________________
-
-   (BUTTON)
-
-¿De qué manera se integra el estudio de la Biblia y la tradición
-judeocristiana en el posgrado en Cultura Religiosa?
-
-   Se incluye el análisis de la Biblia como base cultural y espiritual de
-   nuestra tradición, trabajando su contexto histórico y geográfico, su
-   contenido literario y su interpretación simbólica.
-     __________________________________________________________________
-
-   (BUTTON)
-
-¿Cómo se trabaja la diversidad religiosa y el diálogo interreligioso en el
-posgrado en Cultura Religiosa?
-
-   Se estudian las principales religiones presentes en Cataluña, sus
-   libros sagrados, ritos y costumbres, y se fomenta el respeto y el
-   diálogo interreligioso.
-     __________________________________________________________________
-
-   (BUTTON)
-
-¿Qué metodología docente se utiliza en el posgrado en Cultura Religiosa
-(seminarios, salidas, clases magistrales...)?
-
-   La metodología combina clases magistrales, conferencias, debates,
-   lecturas, análisis de obras de arte y visitas. Incluye cuatro salidas
-   presenciales y una estancia subvencionada de cuatro días en Vic.
-     __________________________________________________________________
-
-   (BUTTON)
-
-¿Qué papel tienen la reflexión ética y la espiritualidad dentro del posgrado
-en Cultura Religiosa?
-
-   La reflexión ética y la espiritualidad se abordan como partes
-   esenciales del conocimiento del hecho religioso y como herramientas
-   para comprender mejor la dimensión humana y social de las creencias.
-     __________________________________________________________________
-
-   (BUTTON)
-
-¿Qué tipo de profesionales imparten docencia en el posgrado en Cultura
-Religiosa?
-
-   Participan profesionales y profesorado de reconocido prestigio nacional
-   e internacional vinculados a la Universidad de Vic - UCC, Blanquerna
-   (URL), la Fundación Vedruna Catalunya Educación y la Dirección General
-   de Asuntos Religiosos.
-     __________________________________________________________________
-
-Cursos relacionados
-
-   MONTESSORI 3
-   Curso en Curso de Orientación 0-3 en Pedagogía Montessori
-   66 horas Matrícula abierta
-   curs
-   Curso en Curso de aproximación a la Psicomotricidad: Primeros contactos
-   6 horas
-   montessori
-   Máster en Máster universitario en Pedagogía Montessori (0-6 años)
-   Matrícula cerrada
-
-   Escola de postgrau - UVic | UVic-UCC
-
-Oferta formativa
-
-   Formación ejecutiva
-
-   Másteres y postgrados
-
-   Microcredenciales
-
-   Cursos y jornadas
-
-Escola de Postgrau
-
-   Te asesoramos
-
-   Preguntas frecuentes
-
-   Noticias
-
-   Normativa
-
-   Trámites académicos
-
-   Información de acceso, preinscripción i matrícula
-
-Enlaces de interés
-
-   Escuela de idiomas
-
-   Study abroad
-
-   Portal de ocupación
-
-   UVic Alumni
-
-Síguenos
-
-   Facebook
-
-   Twitter
-
-   LinkedIn
-
-   Instagram
-
-   Escola de Postgrau | Casa Convalescència - Carrer Dr. Junyent, 1. 08500
-   Vic (Barcelona) | Contáctanos | Información legal
-
-   © 2025
+   Suscríbete

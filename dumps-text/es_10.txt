@@ -1,441 +1,192 @@
-   #alternate alternate
+     * Modo día/noche
 
-   (BUTTON) (BUTTON)
-   Cultura
+Ministerio de las Culturas, las Artes y el Patrimonio
 
-   Estilo
-   Arte
-   Literatura
-   Videojuegos
-   Más
-   Estilo Arte Literatura Videojuegos
-   (BUTTON)
-     __________________________________________________________________
+   Ministerio de las Culturas, las Artes y el Patrimonio
+     * Ministerio
+          + Sobre
+               o Ministerio de las Culturas, las Artes y el Patrimonio
+               o Organigrama
+               o Ministra Carolina Arredondo Marzán
+               o Subsecretarías y Servicio
+               o Políticas y estrategias
+          + Programas
+               o Consejo Nacional de las Culturas, las Artes y el
+                 Patrimonio
+               o Cuenta Pública
+               o Servicio Nacional del Patrimonio Cultural
+               o Monumentos Nacionales
+          + autoridades
+               o Fondos Cultura
+               o Repositorio digital
+               o Programa Red Cultura
+               o Programa de Trabajo Cultural
+          + estudios
+               o Unidad de Públicos y Territorios
+               o Unidad de Derechos de Autor
+               o Donaciones culturales
+               o Puntos de Cultura Comunitaria
+               o Programa de Apoyo a Organizaciones Culturales
+                 Colaboradoras (PAOCC)
+     * Regiones
+          + Norte
+               o Arica y Parinacota
+               o Tarapacá
+               o Antofagasta
+               o Atacama
+          + Centro
+               o Coquimbo
+               o Valparaíso
+               o Región Metropolitana de Santiago
+               o O’Higgins
+          + Sur
+               o Maule
+               o Ñuble
+               o Biobío
+               o La Araucanía
+          + Austral
+               o Los Ríos
+               o Los Lagos
+               o Aysén
+               o Magallanes
+     * Áreas
+          + Artes
+               o Audiovisual
+               o Música
+               o Libro y lectura
+               o Artesanía
+          + Areas
+               o Artes de la visualidad
+               o Diseño
+               o Economía creativa
+               o Educación artística
+          + Areas
+               o Artes escénicas
+               o Patrimonio
+               o Arquitectura
+               o Internacional
+          + Areas
+               o Públicos y territorios
+               o Cultura, Memoria y DDHH
+               o Pueblos originarios
+               o Interculturalidad
+     * Patrimonio
+          + 5
+               o Chile Patrimonios
+               o Biblioteca Nacional
+               o Archivo Nacional
+               o Biblioteca Pública Digital
+          + 6
+               o Bibliotecas Públicas
+               o Museos Nacionales
+               o Museos regionales y especializados
+          + 7
+               o IDE Patrimonio
+               o Plan Nacional de Patrimonio Cultural
+               o Plan de Infraestructura Patrimonial
+          + 8
+               o Subdirección Patrimonio Inmaterial
+               o Subdirección de Pueblos Originarios
+               o Memoria Chilena
+               o Propiedad Intelectual
+     * Convocatorias
+     * Chile Cultura
+     * Participación ciudadana
+     * Atención ciudadana
 
-   ____________________ (BUTTON)
-
-   Edición
-   Estados Unidos
-   Internacional
-   Español
-   Árabe
-   Edición
-     * Estados Unidos
-     * Internacional
-     * Español
-     * Árabe
-     __________________________________________________________________
-
-   Estilo
-   Arte
-   Literatura
-   Videojuegos
-     __________________________________________________________________
-
-   SIGUE A CNN EN ESPAÑOL
+   ____________________
      *
      *
      *
      *
-     *
-     *
-     *
-     __________________________________________________________________
 
-     * EE.UU.
-          + Donald Trump
-          + Inmigración
-          + Elecciones
-          + Economía EE.UU.
-          + Visas
-          + Puerto Rico
-     * Mundo
-          + Rusia
-          + Israel
-          + China
-          + Ucrania
-          + Europa
-          + Asia
-          + Medio Oriente
-          + África
-          + Oceanía
-     * México
-          + Claudia Sheinbaum
-     * Colombia
-          + Gustavo Petro
-     * Argentina
-          + Javier Milei
-          + Lionel Messi
-     * España
-          + Pedro Sánchez
-     * Venezuela
-          + Nicolás Maduro
-          + Elecciones en Venezuela
-     * Centroamérica
-          + Guatemala
-          + Costa Rica
-          + Cuba
-          + República Dominicana
-          + Honduras
-          + Nicaragua
-          + El Salvador
-          + Puerto Rico
-     * Sudamérica
-          + Perú
-          + Chile
-          + Ecuador
-          + Brasil
-          + Bolivia
-          + Paraguay
-          + Panamá
-          + Uruguay
-     * Economía y Dinero
-          + Dólar
-     * Clima y Tiempo
-          + Cambio climático
-          + Tormentas
-          + Huracanes
-     * Entretenimiento
-          + Cine
-          + Televisión
-          + Música
-          + Celebridades
-     * Cultura
-          + Estilo
-          + Arte
-          + Literatura
-          + Videojuegos
-     * Deportes
-          + Mundial 2026
-          + Fútbol
-          + Lionel Messi
-          + Tenis
-          + Boxeo
-          + Deporte Motor
-     * Salud
-          + Enfermedades
-          + Alimentos
-     * Viajes
-     * Ciencia y Tecnología
-          + Tecnología
-     * Video
-          + Señal en vivo
-          + YouTube
-     * Programas
-          + Presentadores
-          + Programación
-
-Cultura
-
-     * Un asistente al Record Store Day celebra haber encontrado álbumes
-       de vinilo de edición limitada en Easy Street Records el 12 de abril
-       de 2025, en West Seattle, Washington.
-       Mat Hayward/Getty Images
-       La generación Z impulsa la venta de discos de vinilo, pero la razón
-       no es solo el sonido
-     * Fallece a los 55 años Sophie Kinsella, autora del bestseller
-       "Shopaholic"
-     * La cocina italiana recibe el estatus de Patrimonio de la Unesco
-     * Una fuga de agua en el Museo del Louvre daña cientos de libros
-       históricos
-     * Muere Martin Parr, fotógrafo documental británico, a los 73 años
-
-     * Pantone
-       Pantone
-       Pantone nombra su color del año 2026
-     * Huevo Fabergé alcanza récord de US$ 30,2 millones en rara subasta
-     * La palabra del año 2025 de Oxford es completamente irritante
-     * La crisis de este año en Miss Universo demuestra lo desagradables
-       que se han vuelto los concursos de belleza
-     * La Gala del Met enfrenta críticas por el patrocinio de Jeff Bezos y
-       su esposa Lauren Sánchez. Esto opina Anna Wintour
-     * “El sueño (La cama)” de Frida Kahlo se subasta por US$ 54,7
-       millones y se convierte en la obra más cara creada por una mujer
-
-Últimos videos
-
-     * Sequence 02.00_00_23_09.Still001.jpg
-       • Video 0:56
-       ALIANZA PARA LA VIDA SILVESTRE DEL ZOOLÓGICO DE SAN DIEGO
-       Muere Gramma, la tortuga de Galápagos de 141 años del Zoológico de
-       San Diego, California 0:56
-     * still_22137649_608_still.jpg
-       • Video 1:26
-       Sotheby's
-       Frida Kahlo hace historia en Sotheby’s con la venta de “El sueño,
-       la cama” 1:26
-     * 115092_TallTour_VT.00_00_04_25.Still009.jpg
-       • Video 1:11
-       Sotheby’s
-       Esta pintura de Gustav Klimt rompe récords al subastarse por US$
-       236,4 millones 1:11
-     * GettyImages-2169952.jpg
-       • Video 3:01
-       Getty Images
-       Detrás de la Celia Cruz cantante hay un ser humano extraordinario,
-       dice el director Ernesto Fundora 3:01
-     * robert-wun-thumb-3.jpg
-       • Video 3:57
-       CNN
-       Quemadas y manchadas, estas prendas cuestan hasta US$ 200.000 3:57
-     * APImages-875e83cb13d8425ca8dc89de96311226.jpg
-       • Video 10:54
-       AP Photo/Mark Schiefelbein
-       El legado de Kongjian Yu, pionero del urbanismo verde y padre de
-       las "ciudades esponja" 10:54
-
-     * Este cuadro de Gustav Klimt, que estuvo colgado durante décadas en
-       la casa del multimillonario Leonard A. Lauder, es ahora la obra de
-       arte moderno más cara jamás vendida en una subasta.
-       Cortesía de Sotheby’s
-       Un raro cuadro de Klimt se convierte en la obra de arte moderno más
-       cara jamás vendida en una subasta
-     * La palabra del año 2025 del Diccionario de Cambridge es
-       "parasocial" y captura un fenómeno moderno "poco saludable"
-     * La cultura del rodeo femenino en México ha desafiado estereotipos
-       de género durante décadas. Pero aún queda mucho por hacer
-
-     * Fotografía de archivo, tomada el 29 de julio de 2022 en Ciudad de
-       México, del escritor mexicano Gonzalo Celorio.
-       EFE/Archivo/José Méndez
-       El escritor mexicano Gonzalo Celorio gana el Premio Cervantes 2025
-     * Un cuadro de Picasso desapareció camino a una exposición
-     * Una fotografía de una hiena con apariencia fantasmal ganó el premio
-       Wildlife Photographer of the Year 2025
-     * Condé Nast, editora de Vogue, deja de mostrar pieles en editoriales
-       y en publicidad
-     * ¿Quién era y qué hizo Jane Goodall, legendaria conservacionista de
-       primates?
-
-Más noticias
-
-     * Una fotografía publicada por Banksy muestra la última creación del
-       artista callejero: una imagen de un juez golpeando a un
-       manifestante con un mazo en los Tribunales Reales de Justicia de
-       Londres.
-       Banksy/AP
-       El mural de Banksy que muestra a un juez golpeando a un
-       manifestante fue borrado del tribunal de Londres
-     * Chloe Malle, editora de Vogue.com, asumirá el liderazgo del
-       contenido editorial de Vogue US.
-       Darian DiCianno/BFA.com/Shutterstock
-       Después de meses de especulación, Anna Wintour nombra a Chloe Malle
-       para el principal puesto de Vogue
-     * Bodhana Sivanandan hizo historia en el Campeonato Británico de
-       Ajedrez.
-       Christopher Furlong/Getty Images/Archivo
-       Una prodigio del ajedrez de 10 años se convierte en la jugadora más
-       joven en vencer a un gran maestro
-     * <strong>1. Bangkok:</strong> La capital tailandesa, hogar de calles
-       bulliciosas como Yaowarat en Chinatown (en la foto), ha sido
-       nombrada la mejor ciudad del mundo para los residentes de la
-       Generación Z, según Time Out.
-       Lauren DeCicca/Getty Images
-       Esta es la mejor ciudad del mundo para los veinteañeros, según Time
-       Out
-     * JFK Jr. da unas palabras en la cena de ensayo
-       Carole Radziwill
-       Exclusiva CNN: fotos inéditas de la boda secreta de JFK Jr. y
-       Carolyn Bessette-Kennedy
-     * CNNE f425962e -
-       150717142505-11-hiroshima-70th-anniversary-photos-restricted-exlarg
-       e-169
-       Getty Images
-       ¿Por qué EE.UU. arrojó bombas nucleares sobre Hiroshima y Nagasaki?
-     * El empresario Shinsuke Sakimoto, con un reloj vintage de Hermès, en
-       la oficina de Valuence Holdings en Tokio.
-       Noriko Hayashi para CNN
-       ¿Qué se siente gastar US$ 10 millones en un bolso? Esto dice el
-       hombre que compró el Hermès original de Jane Birkin
-     * La marca estadounidense de ropa Guess utilizó modelos generados por
-       IA en su última campaña. La imagen fue creada por Seraphinne
-       Vallora, una agencia de marketing basada en IA.
-       Seraphinne Vallora
-       ¿Se consolida el modelaje hecho con IA? Un anuncio en Vogue genera
-       el debate más reciente
-     * Los etuberosums (izquierda) son plantas similares a la papa que no
-       producen tubérculos, pero las plantas de papa (derecha)
-       evolucionaron para producirlos.
-       Instituto de Genómica Agrícola de Shenzhen/Academia China de
-       Ciencias Agrícolas (AGIS-CAAS)
-       La papa moderna evolucionó a partir de un tomate silvestre hace 9
-       millones de años, dicen los científicos
-     * Jane Birkin con su bolso homónimo original. Sothebyʼs vendió este
-       icono del lujo este jueves.
-       Mike Daines/Shutterstock
-       El bolso Hermès original de Jane Birkin se vende por US$ 10
-       millones
-     * Proyecto "CHOIR" de la artista alemana Katharina Grosse en Art
-       Basel 2025, en Suiza.
-       Jens Ziehe/Cortesía del artista/VG Bild-Kunst, Bonn 2025
-       Esta artista acaba de pintar con aerosol una plaza pública en Suiza
-     * Imagen promocional de portada del videojuego "Despelote"
-       Despelote/Panic
-       Un videojuego sobre el fútbol y la infancia en Ecuador cautiva al
-       mundo. "Despelote" es uno de los mejores juegos del 2025
-     * La princesa Diana, fotografiada durante una gira por el Golfo en
-       1989. Algunas de sus piezas más emblemáticas se subastarán en
-       junio.
-       David Levenson/Shutterstock
-       Vestidos de la princesa Diana protagonizan la subasta "más grande"
-       de moda de la difunta integrante de la realeza
-     * Un águila perdicera y un zorro son capturados en esta imagen de
-       Victoria Andrews en Toledo, España.
-       Victoria Andrews
-       Mira las increíbles fotografías ganadoras del concurso National
-       Geographic Traveller
-     * Chicago celebra el Cinco de Mayo con un desfile y un festival desde
-       hace 45 años.
-       Roberto Galán/Alamy Stock Photo
-       “Priorizamos la seguridad al dinero”: algunas ciudades han
-       cancelando eventos culturales por temor a redadas y deportaciones
-     * Cartel publicitario de la serie de Netflix "Adolescence", cuya
-       historia está generando debates públicos y gubernamentales sobre la
-       masculinidad tóxica y el acceso de los niños a contenido peligroso
-       y misógino en internet y redes sociales, el 23 de marzo de 2025 en
-       Londres, Reino Unido.
-       Mike Kemp/In Pictures/In Pictures via Getty Images
-       Regla 80/20, la teoría misógina de "Adolescence": qué sabemos en
-       realidad sobre los vínculos entre hombres y mujeres
-     * Mario Vargas Llosa en 1989.
-       KEVIN LARKIN/AFP/AFP via Getty Images
-       Vargas Llosa y su compromiso con la libertad. Un repaso por cuatro
-       de sus novelas más importantes
-     * Madrid, SPAIN: Peruvian author Mario Vargas Llosa (L) speaks with
-       director Joan Olle during a dress rehearsal of his new play ʼLa
-       verdad de las mentirasʼ in Madrid, 02 February 2006. Llosa wrote
-       and stars in the play with Spanish actress Aitana Sanchez Gijon.
-       AFP PHOTO/PIERRE-PHILIPPE MARCOU (Photo credit should read
-       PIERRE-PHILIPPE MARCOU/AFP via Getty Images)
-       PIERRE-PHILIPPE MARCOU/AFP/AFP via Getty Images
-       35 obras del siglo XX que Mario Vargas Llosa recomendaba leer
-     * El escritor peruano, candidato presidencial del partido de derecha
-       Frente Democrático, Mario Vargas Llosa, sonríe al emitir su voto en
-       la segunda vuelta electoral el 10 de junio de 1990. Vargas se
-       enfrenta a Alberto Fujimori, de "Cambio90", en esta segunda vuelta.
-       CRIS BOURONCLE/AFP/AFP via Getty Images
-       Del comunismo al neoliberalismo, la pasión política que cruzó la
-       vida de Vargas Llosa
-     * MADRID, SPAIN - OCTOBER 08: Author Mario Vargas Llosa receives a
-       tribute in occasion of the 10th anniversary of his Nobel Prize at
-       the Cervantes Institute on October 08, 2020 in Madrid, Spain.
-       (Photo by Carlos Alvarez/Getty Images)
-       Carlos Alvarez/Getty Images Europe/Getty Images
-       Diez libros esenciales de Mario Vargas Llosa
-
-   ____________________ (BUTTON)
-     __________________________________________________________________
-     __________________________________________________________________
-
-     * EE.UU.
-          + Donald Trump
-          + Inmigración
-          + Elecciones
-          + Economía EE.UU.
-          + Visas
-          + Puerto Rico
-     * Mundo
-          + Rusia
-          + Israel
-          + China
-          + Ucrania
-          + Europa
-          + Asia
-          + Medio Oriente
-          + África
-          + Oceanía
-     * México
-          + Claudia Sheinbaum
-     * Colombia
-          + Gustavo Petro
-     * Argentina
-          + Javier Milei
-          + Lionel Messi
-     * España
-          + Pedro Sánchez
-     * Venezuela
-          + Nicolás Maduro
-          + Elecciones en Venezuela
-     * Centroamérica
-          + Guatemala
-          + Costa Rica
-          + Cuba
-          + República Dominicana
-          + Honduras
-          + Nicaragua
-          + El Salvador
-          + Puerto Rico
-     * Sudamérica
-          + Perú
-          + Chile
-          + Ecuador
-          + Brasil
-          + Bolivia
-          + Paraguay
-          + Panamá
-          + Uruguay
-     * Economía y Dinero
-          + Dólar
-     * Clima y Tiempo
-          + Cambio climático
-          + Tormentas
-          + Huracanes
-     * Entretenimiento
-          + Cine
-          + Televisión
-          + Música
-          + Celebridades
-     * Cultura
-          + Estilo
-          + Arte
-          + Literatura
-          + Videojuegos
-     * Deportes
-          + Mundial 2026
-          + Fútbol
-          + Lionel Messi
-          + Tenis
-          + Boxeo
-          + Deporte Motor
-     * Salud
-          + Enfermedades
-          + Alimentos
-     * Viajes
-     * Ciencia y Tecnología
-          + Tecnología
-     * Video
-          + Señal en vivo
-          + YouTube
-     * Programas
-          + Presentadores
-          + Programación
-     __________________________________________________________________
-
-   SIGUE A CNN EN ESPAÑOL
      *
      *
      *
      *
-     *
-     *
-     *
-     __________________________________________________________________
 
-   Condiciones de uso Anúnciate Privacidad Contáctanos Elecciones de
-   anuncios
+   Escuchar
 
-   © 2025 Cable News Network. A Warner Bros. Discovery Company. All Rights
-   Reserved.
-   CNN Sans ™ & © 2016 Cable News Network.
+   [Todas las regiones]
+   [Todas las artes_______________________________]
+   (BUTTON) Filtrar
+   Noticias
+   02.01.2026 / Atacama
 
-Download the CNN app
+Fondos de Cultura 2026 impulsan la formación artística y festivales abiertos
+a la comunidad en Atacama
 
-   Scan the QR code to download the CNN app on Google Play.
+   02.01.2026 / Atacama
 
-   Scan the QR code to download the CNN app from Google Play.
+Caldera abre proceso participativo con foco territorial y comunitario para
+actualizar su Plan Municipal de Cultura
 
-Download the CNN app
+   Lanzan catálogo digital que reúne el trabajo de artesanas de Lago Ranco
+   02.01.2026 / Los Ríos
 
-   Scan the QR code to download the CNN app from the Apple Store.
+Lanzan catálogo digital que reúne el trabajo de artesanas de Lago Ranco
 
-   Scan the QR code to download the CNN app from the Apple Store.
+   Taller “Mapeo colectivo de recuerdos” cierra ciclo de lanzamiento del
+   libro Cuerpo de obra / Obra de cuerpo en Valdivia
+   02.01.2026 / Los Ríos
+
+Taller “Mapeo colectivo de recuerdos” cierra ciclo de lanzamiento del libro
+Cuerpo de obra / Obra de cuerpo en Valdivia
+
+   Presidente Gabriel Boric encabeza entrega de los Premios Nacionales
+   2025 en La Moneda
+   30.12.2025 / Nacional
+
+Presidente Gabriel Boric encabeza entrega de los Premios Nacionales 2025 en
+La Moneda
+
+   Trenes Culturales en Puerto Varas
+   29.12.2025 / Los Lagos
+
+Más de 10 mil personas disfrutaron de Trenes Culturales durante dos jornadas
+en el Parque Estación de Puerto Varas
+
+   Mesa Regional de Educación Artística impulsa nuevas acciones formativas
+   26.12.2025 / Aysén
+
+Mesa Regional de Educación Artística impulsa nuevas acciones formativas
+
+   Seremi de las Culturas anuncia primeros resultados regionales de los
+   Fondos de Cultura 2026
+   26.12.2025 / Antofagasta
+
+Seremi de las Culturas anuncia primeros resultados regionales de los Fondos
+de Cultura 2026
+
+   Ministerio de las Culturas inaugura obras de remodelación en las
+   instalaciones del BAFONA
+   26.12.2025 / Nacional
+
+Ministerio de las Culturas inaugura obras de remodelación en las
+instalaciones del BAFONA
+
+     * 1
+     * 2
+     * 3
+     * …
+     * 2.419
+     * 2.420
+     * 2.421
+     * →
+
+   Ministerio de las Culturas, las Artes y el Patrimonio
+
+   Ministerio de las Culturas, las Artes y el Patrimonio
+   Gobierno de Chile
+   Dirección Valparaíso: Plaza Sotomayor 233. Teléfono: (32) 2326400
+   Dirección Santiago: Paseo Ahumada 48, Pisos 4, 5, 6, 7, 8 y 11.
+   Teléfonos: 226189000 – 226189001
+   Formulario de atención ciudadana Subsecretaría de las Culturas y las
+   Artes
+   Formulario de atención ciudadana Servicio Nacional del Patrimonio
+   Cultural
+   Política de Privacidad
+     * Programas y accesibilidad
+     * Guías de lenguaje inclusivo
+     * Participación ciudadana
+     * Gráfica corporativa

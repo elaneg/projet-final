@@ -1,764 +1,476 @@
-   REFRESH(900 sec):
-   file://localhost/home/hulya/projet-final/programmes/temp_utf8.html
-   #Cultura ABC Últimas noticias ABC
+    [p?c1=2&c2=6906398&cv=3.9.1&cj=1]
 
-   [js-noactive&v55=abces&c56=abces]
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-GHV6
 
-   Es noticia
-     * Aemet
-     * Trump
-     * Leire Díez
-     * Rafa Nadal
-     * Vicente Vallés
-     * Sebastián La Rosa
-     * Manuel Requena
-     * Jordi Cruz
-     * José Luis Cava
-     * Antonio Damasio
-     * Marruecos - Zambia
-     * Sanidad Japón
-     * Juan Manuel Poyato
-     * Santoral hoy
-     * Horóscopo hoy
+   (BUTTON) CERRAR
+   (BUTTON) CERRAR
+   (BUTTON) SECCIONES
+     * Inicio
+     * Secciones
+     * Foodit
+     * Club LN
+     * Mi cuenta
 
-   (Podrás cambiar tu elección más tarde desde aquí)
-   Selecciona tu edición de ABC:
-   Nacional Sevilla
-   (BUTTON)
-   [ ] Nacional Sevilla
+   LA NACION (BUTTON)
+     * Buscá en LA NACION...
+     * LN 104.9 + MúsicaNUEVO
 
-   Suscríbete a
-   ABC Cultural
-   ABC: últimas noticias y actualidad de España y el mundo
+     * Últimas noticias
+       (BUTTON)
+          + Tránsito y transporte
+          + Clima
+          + LA NACION Data
+     * Política
+     * Economía
+       (BUTTON)
+          + Futuria
+          + Dólar Hoy
+          + Campo
+          + Propiedades
+          + Comercio Exterior
+          + Movilidad
+          + Índices
+     * El Mundo
+       (BUTTON)
+          + Estados Unidos
+     * Sociedad
+       (BUTTON)
+          + Buenos Aires
+          + Seguridad
+          + Educación
+          + Cultura
+          + Comunidad
+          + Bienestar
+          + Ciencia
+          + Hablemos de todo
+     * Opinión
+       (BUTTON)
+          + Editoriales
+          + Columnistas
+          + Cartas de Suscriptores
+     * Deportes
+       (BUTTON)
+          + Fútbol
+          + Rugby
+          + Tenis
+          + Canchallena
+     * Lifestyle
+       (BUTTON)
+          + LN Juegos
+          + Turismo
+          + Tecnología
+          + Horóscopo
+          + Feriados
+          + Loterías y quinielas
+          + Podcasts
+          + Moda y Belleza
+     * Espectáculos
+       (BUTTON)
+          + Qué sale?
+          + Cartelera de cine
+          + Cartelera de teatro
+     * Edición Impresa
+       (BUTTON)
+          + Acceso PDF
+          + Editoriales
+          + Conversaciones de domingo
+          + Sábado
+          + Ideas
+          + Carta de lectores
+          + Avisos fúnebres
+          + Avisos sociales
+     * Revistas
+       (BUTTON)
+          + Revista OHLALÁ!
+          + Revista ¡HOLA!
+          + Revista Lugares
+          + Revista Living
+          + Revista Rolling Stone
+          + Revista Jardín
+
+     * LN Juegos
+     * Suscriptores
+     * Mis notas
+
+     * Club LA NACION
+     * canchallena
+     * Foodit
+     * Bonvivir
+     * LN 104.9 + Música
+       NUEVO
+     * LN+
+     * Kiosco LA NACION
+
+   >LA NACION>Cultura
 
 Cultura
 
-     * Opinión
-     * España
-     * Madrid
-     * Internacional
-     * Economía
-     * Sociedad
-     * Cultura
-     * Deportes
-     * Gente
-     * Play
+   Herederos de familias que sufrieron en el Holocausto recuperan objetos
+   que pertenecieron a sus seres queridos
+   Suscriptores
 
-   MiABC (BUTTON)
-   Avatar usuario
+Botines nazis. Herederos de familias que sufrieron en el Holocausto recuperan
+objetos que pertenecieron a sus seres queridos
 
-   Mi cuenta (BUTTON)
+   Por Milton Esterow y Michaela Towfighi
+   2 de enero de 2026
+   Se abre la agenda cultural veraniega en las playas bonaerenses
 
-     * Inicio
-     * MI ABC
-     * Mi perfil
-     * Mis suscripciones
-     * Mis intereses
-     * Newsletters y alertas
-     * Club ABC Premium
-     * Noticias guardadas
-     * Autores seguidos
-     * Mi archivo
-     * Concursos y eventos
-     * Contacto
-     * Cerrar sesión
+Temporada. Se abre la agenda cultural veraniega en las playas bonaerenses
 
-     * ABC Cultural
-     * Suplemento PDF ABC Cultural
+   Por Daniel Gigena
+   2 de enero de 2026
+     * Arte y Cultura
      * Libros
-     * Música
-     * Teatro
      * Arte
-     * Toros
-     * Series
-     * Televisión
-
-     * Portada
-     * Opinión (BUTTON)
-          + Cartas al Director
-          + Fe de ratas
-          + El sacapuntas
-     * Madrid (BUTTON)
-          + Agenda
-     * Casa Real
-     * ABC Sevilla (BUTTON)
-          + Pasión en Sevilla
-          + Sevilla solidaria
-     * Lotería Navidad 2025 (BUTTON)
-          + Buscar décimo
-          + Comprobar décimo
-
-     * España (BUTTON)
-          + Andalucía
-          + Asturias
-          + Aragón
-          + Baleares
-          + Canarias
-          + Cantabria
-          + Castilla y León
-          + Cataluña
-          + Castilla - La Mancha
-          + C. Valenciana
-          + Extremadura
-          + Galicia
-          + Navarra
-          + Murcia
-          + País Vasco
-
-     * Internacional
-     * Economía (BUTTON)
-          + Inmobiliario
-          + Formación
-     * Motor
-     * Sociedad (BUTTON)
-          + Salud
-          + Natural
-     * Ciencia
-     * Tecnología
-     * Gente
-     * Antropía
-
-     * Cultura (BUTTON)
-          + Libros
-          + Música
-          + Teatro
-          + Arte
-          + Toros
-          + Aula de Cultura
-     * Play (BUTTON)
-          + Televisión
-          + Eurovisión 2025
-          + Series
-          + Cine
-     * Historia
-     * Archivo ABC
-
-     * Deportes (BUTTON)
-          + Real Madrid
-          + Atlético de Madrid
-          + Fútbol
-          + MMA
-          + Baloncesto
-          + Tenis
-          + Fórmula 1
-          + Ciclismo
-          + Vela
-          + Mundial de fútbol 2026
-          + ABC de la Caza
-     * Estilo (BUTTON)
-          + Viajar
-          + Gastronomía
-          + Moda
-          + Belleza
-          + Decoración
-
-     * Familia (BUTTON)
-          + Padres e hijos
-          + Parejas
-          + Educación
-          + Mayores
-          + Familia sana
-          + Planes con niños
-     * Últimas noticias sobre Bienestar (BUTTON)
-          + Alimentación
-          + Fitness
-          + Psicología y sexo
-     * Últimas noticias sobre Summum (BUTTON)
-          + Estilo
-          + Gourmet
-          + Protagonistas
-          + Living
-          + Rodar
-
-     * ABC Cultural
-     * XL Semanal
-     * Mujer Hoy
-     * COPE
+     * La historia detrás de la foto
+     * Catalejo
+     * Fiestas
+     * Manuscrito
+     * Literatura
+     * Educación
+     * Música
 
-     * Últimas noticias sobre Bienestar
-     * Gurmé
-     * Qué Plan
-     * Última hora
+   Un gesto festivo para que ilumine el 2026
 
-     * Servicios (BUTTON)
-          + Programación TV
-          + Loterías
-          + Horóscopo
-          + Tiempo
-          + Esquelas
-          + Recreo
+Manuscrito. Un gesto festivo para que ilumine el 2026
 
-     * Pasatiempos
-     * Juegos
-     * Finanzas (BUTTON)
-          + Préstamos personales
-          + Cuentas corrientes
-          + Cuentas remuneradas
+   Por Dolores Caviglia
 
-     * Vídeos
-     * Podcast ABC
-     * Favorito
+Manuscrito
 
-     * Newsletters
-     * Premios
-     * Máster ABC
-     * Kiosko y más
+   2 de enero de 2026
+   Clima denso
 
-Muere, a los 91 años, la estrella de cine Brigitte Bardot, mito nacional de
-Francia
+Catalejo. Clima denso
 
-   Juan Pedro Quiñonero
+   Por Luis Cortina
 
-   Imagen de archivo de Brigitte Bardot en un debate contra la caza de
-   focas en Estrasburgo en 1978 Imagen de archivo de Brigitte Bardot en un
-   debate contra la caza de focas en Estrasburgo en 1978 AFP
+Catalejo
 
-La musa que no solo quiso ser bella: de su animalismo a su cruzada contra el
-Islam
+   2 de enero de 2026
+   Parte de la bandada
 
-   Esther Blanco
+La historia detrás de la foto. Parte de la bandada
 
-   Y Dios creó a la mujer hecha Don Juan
+   Por Diana Fernández Irusta
 
-Y Dios creó a la mujer hecha Don Juan
+La historia detrás de la foto
 
-   Oti Rodríguez Marchante
+   2 de enero de 2026
+   J. K. Rowling empezó 2026 discutiendo en redes sobre su tema favorito
 
-Del Partenón a las aceras de Londres: La segunda vida de las canteras del
-Pentélico
+"Mujer trans". J. K. Rowling empezó 2026 discutiendo en redes sobre su tema
+favorito
 
-   Marta Cañete Corresponsal en Atenas
+   Por Daniel Gigena
 
-   El municipio de Dióniso esconde uno de los secretos mejor guardados de
-   Grecia: las canteras de donde, hace 2.500 años, se extrajo el mármol
-   con el que se construyó la Acrópolis.
+Arte y Cultura
 
-   Los relojes son una de las bases de la exposición 'La invención del
-   tiempo' Los relojes son una de las bases de la exposición 'La invención
-   del tiempo' ABC
+   1 de enero de 2026
+   Qué grandes autores podrán editarse, adaptarse y reversionarse
+   libremente a partir de hoy
 
-El tiempo, ¿una invención humana o una realidad de la que es imposible
-escapar?
+Libres de derechos. Qué grandes autores podrán editarse, adaptarse y
+reversionarse libremente a partir de hoy
 
-   Carlos sala Barcelona
+   Por Daniel Gigena
 
-   Una exposición en el Centro Martorell de Barcelona intenta profundizar
-   en la capacidad humana de medir el tiempo, predecir acontecimientos
-   futuros, y si existe el libre albedrío en este contexto
+Arte y Cultura
 
-Se publica en España por primera vez el cómic que cambió la historia del
-tebeo de aventuras
+   1 de enero de 2026
+   Todo para ver en museos y espacios culturales
 
-   Carmen Burné
+Año Nuevo para el arte. Todo para ver en museos y espacios culturales
 
-Una exposición en el Palacio de Las Dueñas de Sevilla conmemorará el
-centenario del nacimiento de Cayetana de Alba
+   Por María Paula Zacharías
 
-   ABC Madrid
+Arte
 
-   Sting llevará su musical naufragado a la Metropolitan Opera de Nueva
-   York
+   1 de enero de 2026
+   La idea del filósofo Jean-Paul Sartre que te puede resultar
+   “liberadora” para iniciar el nuevo año
 
-Sting llevará su musical naufragado a la Metropolitan Opera de Nueva York
+Adoptar "la nada". La idea del filósofo Jean-Paul Sartre que te puede
+resultar “liberadora” para iniciar el nuevo año
 
-   Javier Ansorena Corresponsal en Nueva York
+   1 de enero de 2026
+   7 recomendados de arte y cultura para esta semana
 
-   El cantante y el gran teatro se hacen un favor mutuo: uno reflota ese
-   'último barco' y la institución busca salida de sus problemas
-   financieros y de agotamiento de modelo
+Agenda. 7 recomendados de arte y cultura para esta semana
 
-Juanjo Bona: «La música es necesaria en este mundo lleno de odio y amargura»
+Agenda cultural
 
-   Clara Molla Pagán
+   1 de enero de 2026
+   El pensador que recuperó del “basurero de la historia” lo sagrado, la
+   alquimia y los mitos
+   Suscriptores
 
-   Roger Coma y María Molins en 'Göteborg' Roger Coma y María Molins en
-   'Göteborg' Teatro Barcelona
+Fin de año. El pensador que recuperó del “basurero de la historia” lo
+sagrado, la alquimia y los mitos
 
-'Göteborg': En el hilo de la vida suena Depeche Mode
+   Por Daniel Gigena
 
-   Sergi Doria
+Arte y Cultura
 
-   El autor y director combina con acierto los planos temporales; los
-   protagonistas alternan (y modifican), desde sus dos edades, las
-   situaciones vividas
+   31 de diciembre de 2025
+   El arte de quedar bien
 
-   Karina Sainz Borgo
+Catalejo. El arte de quedar bien
 
-Ordenar la biblioteca en Navidad
+   Por Mariano Confalonieri
 
-   Faltan dos días para acabar el año e intento un milagro
+Catalejo
 
-   Pedro García Cuartango
+   31 de diciembre de 2025
+   Cerdos, cisnes, tortugas y pavos reales: duplas con humor, moda y
+   sensualidad
+   FOTOS
 
-   Pedro García Cuartango
+Los animales que somos. Cerdos, cisnes, tortugas y pavos reales: duplas con
+humor, moda y sensualidad
 
-Estación de Delicias: sueños de trenes
+   Por Daniel Gigena
 
-   De la madrileña estación de Delicias, cerrada en 1969 y hoy convertida
-   en Museo del Ferrocarril, partía el Lusitania Exprés a Lisboa
+Arte y Cultura
 
-La infancia de Hans Christian Andersen y el desgarrador origen de 'La pequeña
-cerillera'
+   31 de diciembre de 2025
+   Mil y un rituales para triunfar en 2026
 
-   Celia Fraile Gil
+Manuscrito. Mil y un rituales para triunfar en 2026
 
-   No es solo un cuento navideño: es una herida abierta. A los 180 años de
-   su publicación, el ilustrador Benjamin Lacombe revisita el relato más
-   doloroso del autor de 'La sirenita'
+   Por Andrés Krom
 
-   Un retrato del siglo XXI después del 'Fin de la historia'
+Manuscrito
 
-El siglo XXI y sus ideas, un retrato después del 'Fin de la historia'
+   31 de diciembre de 2025
+   Doce temas que dominaron la agenda y la conversación pública durante
+   todo el año
 
-   Karina Sainz Borgo
+Balance cultural 2025. Doce temas que dominaron la agenda y la conversación
+pública durante todo el año
 
-   De la caída del telón de acero al resbalón de Fukuyama: el trayecto
-   desemboca en la posverdad, el populismo y la aceleración tecnológica
+   Por María Belén Carballeira
 
-Marilyn Monroe recupera su rostro más humano a través de la mirada de Sam
-Shaw
+Arte y Cultura
 
-   Ivannia Salazar
+   31 de diciembre de 2025
+   Fortaleza de hielo
 
-   image
+La historia detrás de la foto. Fortaleza de hielo
 
-   Javier Garcerá en el montaje de 'El pico al aire'
+   31 de diciembre de 2025
+   Llega Política Ficción, la nueva serie de verano de Jorge Fernández
+   Díaz
 
-   CRÍTICA DE:
+Lanzamiento. Llega Política Ficción, la nueva serie de verano de Jorge
+Fernández Díaz
 
-'El pico al aire': Un claro en la mirada de Javier Garcerá
+Política Ficción
 
-   Carlos Delgado Mayordomo Madrid
+   31 de diciembre de 2025
+   ¿Por qué "El señor de los anillos" perdura?
+   Suscriptores
 
-   CentroCentro acoge la primera gran exposición institucional de Javier
-   Garcerá en Madrid, un canto a la belleza y al silencio que invita a un
-   cambio de paradigma
+Análisis. ¿Por qué "El señor de los anillos" perdura?
 
-   Universidad de Bucarest en 1925
+   Por Michael D.C. Drout
 
-   Crítica
+Arte y Cultura
 
-Mihail Sebastian, la traición del maestro
+   31 de diciembre de 2025
+   Digitalizarán decenas de emisiones de “Los siete locos”
 
-   Mercedes Monmany
+Multipremiado programa. Digitalizarán decenas de emisiones de “Los siete
+locos”
 
-   Borís Strugatski
+   Por Daniel Gigena
+   30 de diciembre de 2025
+   Por menos estruendo y más baile
 
-   Crítica
+Manuscrito. Por menos estruendo y más baile
 
-El pícnic mortal de los hermanos Strugatski
+   Por Luis Cortina
 
-   Andrés Ibáñez
+Manuscrito
 
-   En la magia todo es posible
+   30 de diciembre de 2025
+   Murió la mujer que se hizo famosa por arruinar un cuadro: cuando los
+   desastres en el arte terminan en milagros
 
-   Crítica:
+La “restauradora” de Ecce Homo. Murió la mujer que se hizo famosa por
+arruinar un cuadro: cuando los desastres en el arte terminan en milagros
 
-Ramón Mayrata, elogio del ilusionismo
+   Por Alan García Loza
 
-   Luis Alberto de Cuenca
+Arte y Cultura
 
-   John Gregory Dunne, el gran observador
+   30 de diciembre de 2025
+   “No es que los jóvenes lean poco; la sociedad lee poco”
 
-   Crítica
+El influencer que lee 140 libros al año. “No es que los jóvenes lean poco; la
+sociedad lee poco”
 
-John Gregory Dunne, el gran observador
+   Por Martín Bianchi
 
-   Rodrigo Fresán
+Arte y Cultura
 
-   Jesús García Calero
+   30 de diciembre de 2025
+   Enigma milenario
 
-   Jesús García Calero
+La historia detrás de la foto. Enigma milenario
 
-Jaque a Kaspárov
+   Por María José Rodríguez Murguiondo
 
-   Jorge Freire
+La historia detrás de la foto
 
-   Jorge Freire
+   30 de diciembre de 2025
+   arteba ya le puso fecha a su edición 2026
 
-'Provincia 53'
+En La Rural. arteba ya le puso fecha a su edición 2026
 
-   Jorge Fernández Díaz
+Arte y Cultura
 
-   Jorge Fernández Díaz
+   29 de diciembre de 2025
+   Distinguen a un atípico museo argentino ubicado en una localidad
+   recóndita de la Patagonia
+   VIDEO
 
-Los lunes olvidados del profesor Borges
+Premio internacional. Distinguen a un atípico museo argentino ubicado en una
+localidad recóndita de la Patagonia
 
-   María José Solano
+   Por Daniel Gigena
 
-   María José Solano
+Arte y Cultura
 
-Pobre Navidad sevillana
+   29 de diciembre de 2025
+   De “en esta ciudad se advierte el progreso” a “la calle Vicente López
+   apesta”
 
-   Pedro García Cuartango
+Jaime Bayly en Buenos Aires. De “en esta ciudad se advierte el progreso” a
+“la calle Vicente López apesta”
 
-   Pedro García Cuartango
+   Por Daniel Gigena
 
-Patricia Cornwell, terror en una noche de verano
+Arte y Cultura
 
-   Elvira Navarro
+   29 de diciembre de 2025
+   Fecundos
 
-   Elvira Navarro
+Catalejo. Fecundos
 
-La ballena azul de la literatura
+   Por Carlos M. Reymundo Roberts
 
-   La verdad histórica del Día de los Inocentes: «Herodes fue el mejor rey
-   de los judíos»
+Catalejo
 
-La verdad histórica del Día de los Inocentes: «Herodes fue el mejor rey de
-los judíos»
+   29 de diciembre de 2025
+   Polleras al sol
 
-   Manuel P. Villatoro
+La historia detrás de la foto. Polleras al sol
 
-   Aunque San Mateo la incluyó en su Evangelio, la matanza de niños que se
-   recuerda este 28 de diciembre no se sustenta en datos históricos
+   Por Diana Fernández Irusta
 
-La canción del verano ha muerto, larga vida a la canción de Navidad
+La historia detrás de la foto
 
-   Nacho Serrano
+   29 de diciembre de 2025
+   Pollock en la catedral: notas para un funeral pop
 
-   Los hits de la temporada de invierno cada vez le roban más viralidad y
-   cuota de mercado a los temas chiringuiteros, ¿qué hay detrás de este
-   fenómeno?
+Alta Fidelidad. Pollock en la catedral: notas para un funeral pop
 
-Gonzalo Celorio, premio Cervantes: «Toda obra literaria es autobiográfica»
+   Por Fernando García
 
-   Bruno Pardo Porto
+Arte y Cultura
 
-   Durante la Navidad
+   28 de diciembre de 2025
+   Los 120 años de una editorial dedicada a la educación
 
-Muere Perry Bamonte, guitarrista y teclista de The Cure, a los 65 años
+“Es un rock, es un blues, un manual de Kapelusz”. Los 120 años de una
+editorial dedicada a la educación
 
-   Pablo De la Varga
+Arte y Cultura
 
-   La banda de rock ha asegurado en un comunicado que 'Teddy' fue «una
-   parte cálida y vital» de su historia
-
-   Entre bambalinas de 'El Cascanueces': el presente y el futuro de la
-   danza conquistan su sueño en puntas
-
-Entre bambalinas de 'El Cascanueces': el presente y el futuro de la danza
-conquistan su sueño en puntas
-
-   Clara Molla Pagán
-
-   África Guzmán Dance Project y José Antonio Checa Ballet son algunos de
-   los centros que han representado en varias ocasiones este ballet y ABC
-   se adentra en sus ensayos e instantes previos antes de actuar
-
-   Éxito en Portugal que llega a España
-
-Inés de Castro: la historia de amor que venció a la muerte
-
-   Virginia López Corresponsal en Lisboa
-
-La hemeroteca de ABC Cultural
-
-   Balance de 2025: proezas y desencantos
-
-   ABC Cultural
-
-Balance 2025: proezas y desencantos
-
-   ABC Cultural
-
-   Especial Navidad 2025: los mejores regalos culturales a prueba de
-   'grinchs'
-
-   ABC Cultural
-
-Los mejores regalos culturales a prueba de 'grinchs'
-
-   ABC Cultural
-
-   Oliver Laxe por partida doble. Especial Literatura Infantil /Juvenil
-
-   ABC CULTURAL
-
-Oliver Laxe por partida doble. Especial Literatura Infantil /Juvenil
-
-   ABC Cultural
-
-   Jueces de lujo para una Memoria cultural del siglo XXI
-
-   ABC CULTURAL
-
-Jueces de lujo para una memoria cultural del siglo XXI
-
-   ABC Cultural
-
-   29/12/2025 22:30h.
-   Fito & Fitipaldis llega a Madrid con 'El Monte de los Aullidos'
-
-Fito & Fitipaldis llega a Madrid con 'El Monte de los Aullidos'
-
-   Madrid, 29 dic (EFE).- El Movistar Arena de Madrid ha acogido este
-   lunes el primer concierto en la c...
-
-   29/12/2025 22:21h.
-   Monjes budistas emprenden caminata de 120 días hacia Washington para
-   promover la paz
-
-Monjes budistas emprenden caminata de 120 días hacia Washington para promover
-la paz
-
-   Fayetteville (EE.UU.), 29 dic (EFE/EPA).- Un grupo de monjes budistas
-   del Centro Huong Dao Vipassana...
-
-   29/12/2025 21:39h.
-   Muere a los 94 años Cecilia Giménez, artífice del éxito mundial del
-   'Ecce Homo' de Borja
-
-Muere a los 94 años Cecilia Giménez, artífice del éxito mundial del 'Ecce
-Homo' de Borja
-
-   Zaragoza, 29 dic (EFE).- Cecilia Giménez, autora del inesperado éxito
-   mundial de la restauración del...
-
-   29/12/2025 19:39h.
-   Nézet-Séguin apuesta por un Concierto de Año Nuevo más inclusivo sin
-   renunciar al legado de los Strauss (V)
-
-Nézet-Séguin apuesta por un Concierto de Año Nuevo más inclusivo sin
-renunciar al legado de los Strauss (V)
-
-   Viena, 29 dic (EFE).- El director canadiense Yannick Nézet-Séguin
-   debutará el 1 de enero de 2026 al ...
-
-   29/12/2025 18:18h.
-   Nézet-Séguin abre el Concierto de Año Nuevo a la diversidad sin
-   renunciar al legado de los Strauss
-
-Nézet-Séguin abre el Concierto de Año Nuevo a la diversidad sin renunciar al
-legado de los Strauss
-
-   Viena, 29 dic (EFE).- El director canadiense Yannick Nézet-Séguin
-   debutará el 1 de enero de 2026 al ...
-
-   29/12/2025 14:27h.
-   Irureta y Acosta sobre 'Abuela tremenda': "Es muy raro ver comedias
-   protagonizadas por mujeres"
-
-Irureta y Acosta sobre 'Abuela tremenda': "Es muy raro ver comedias
-protagonizadas por mujeres"
-
-   Este jueves 1 de enero llega a los cines 'Abuela tremenda', el primer
-   largometraje de la cineasta...
-
-   29/12/2025 14:27h.
-   Elena Irureta y Toni Acosta comparten pantalla en la comedia 'Abuela
-   tremenda'
-
-Elena Irureta y Toni Acosta comparten pantalla en la comedia 'Abuela
-tremenda'
-
-   Este jueves 1 de enero llega a los cines 'Abuela tremenda', el primer
-   largometraje de la cineasta...
-
-   29/12/2025 13:19h.
-   Las protagonistas de 'Abuela tremenda': "Es muy raro ver comedias
-   protagonizada por mujeres"
-
-Las protagonistas de 'Abuela tremenda': "Es muy raro ver comedias
-protagonizada por mujeres"
-
-   Este jueves 1 de enero llega a los cines 'Abuela tremenda', el primer
-   largometraje de la cineasta...
-
-   29/12/2025 13:00h.
-   El Prado vuelve a batir su propio récord con 3,47 millones de visitas
-   antes de acabar 2025
-
-El Prado vuelve a batir su propio récord con 3,47 millones de visitas antes
-de acabar 2025
-
-   Madrid, 29 dic (EFE).- Por tercer año consecutivo, el Museo del Prado
-   ha superado su récord históric...
-
-   29/12/2025 07:26h.
-   Sevilla 2026: una temporada marcada por el compromiso en la Maestranza
-
-   la taurina de abc
-
-Sevilla 2026: una temporada marcada por el compromiso en la Maestranza
-
-   José Manuel Peña
-
-   La primera temporada diseñada por Lances de Futuro en la Maestranza
-   estará marcada por la ausencia de Morante, el protagonismo del abonado
-   y la necesidad de dar sitio real a los jóvenes que llaman a la puerta
-
-   29/12/2025 06:15h.
-   Morante: «Espero que lo del 12 de octubre fuese un punto y aparte y no
-   un punto final»
-
-Morante: «Espero que lo del 12 de octubre fuese un punto y aparte y no un
-punto final»
-
-   Alicia P. Velarde
-
-   El torero de La Puebla hace estas declaraciones en el programa Clarín
-   de RNE tras ganar la Oreja de Oro
-
-   29/12/2025 00:25h.
-   Francia despide a Brigitte Bardot: «Era una estrella libre y
-   comprometida»
-
-Francia despide a Brigitte Bardot: «Era una estrella libre y comprometida»
-
-   M. P. V.
-
-   Emanuelle Macron ha subrayado su carrera como actriz, mientras que
-   Marine Le Pen ha incidido en su compromiso con los animales y su
-   carácter indomable
-
-   28/12/2025 22:51h.
-   Rozalén cierra su gira 2025 en Madrid
-
-Rozalén cierra su gira 2025 en Madrid
-
-   Madrid, 28 dic (EFE).- La cantante albaceteña Rozalén cierra su gira
-   2025 con tres conciertos en la ...
-
-   28/12/2025 20:39h.
-   Fuente Carreteros, donde perviven las únicas danzas vivas de los
-   colonos europeos
-
-Fuente Carreteros, donde perviven las únicas danzas vivas de los colonos
-europeos
-
-   Fuente Carreteros (Córdoba), 28 dic (EFE).- Si hay un día en el que la
-   localidad cordobesa de Fuente...
-
-   28/12/2025 19:00h.
-   Músicos riojanos se unen con una nueva canción en directo en el apoyo a
-   Palestina
-
-Músicos riojanos se unen con una nueva canción en directo en el apoyo a
-Palestina
-
-   Logroño, 28 dic (EFE).- Una decena de músicos riojanos han interpretado
-   este domingo, en directo, en...
-
-   28/12/2025 16:58h.
-   Desfile navideño en Leópolis para celebrar la entrada del año nuevo
-
-Desfile navideño en Leópolis para celebrar la entrada del año nuevo
-
-   Leópolis (Ucrania), 28 dic (EFE/EPA).- Ucranianos cantan villancicos y
-   portan estrellas decoradas du...
-
-   Lo más leído en Cultura
-    1. 1Muere, a los 91 años, la estrella de cine Brigitte Bardot, mito
-       nacional de Francia Muere, a los 91 años, la estrella de cine
-       Brigitte Bardot, mito nacional de Francia
-    2. 2Se publica en España por primera vez el cómic que cambió la
-       historia del tebeo de aventuras
-    3. 3Sting llevará su musical naufragado a la Metropolitan Opera de
-       Nueva York
-    4. 4Brigitte Bardot, la musa que no solo quiso ser bella: de su
-       defensa de los animales a su ...
-    5. 5Los mejores libros de 2025: estas son las novelas en español más
-       destacadas del año
-
-   Ver más noticias
-
-   (BUTTON) (BUTTON)
-
-   A continuación en ...
-
-   Cancelar reproducción
-
-   Siguientes episodios
-
-   Ver todos los episodios
-
-   Te podría gustar
-     * Ver todo
-
+   27 de diciembre de 2025
+   (BUTTON) VER MÁS NOTAS DE CULTURA
    (BUTTON)
-
-   El próximo podcast es exclusivo para suscriptores
-
-   Suscríbete hoy mismo y comienza a disfrutar de todo el contenido de ABC
-
-   Suscríbete Ya cuento con una suscripción
-
    (BUTTON)
-
-   Este podcast es exclusivo para suscriptores
-
-   Suscríbete hoy mismo y comienza a disfrutar de todo el contenido de ABC
-
-   Suscríbete Ya cuento con una suscripción
-
-   (BUTTON) (BUTTON) Lotería de Navidad Comprueba tu décimo
-
-   Lotería de Navidad Lotería de Navidad
    (BUTTON)
+   Más leídas de Cultura
+    1. Los 120 años de una editorial dedicada a la educación 1
 
-   Comprueba si tu número ha sido premiado
+“Es un rock, es un blues, un manual de Kapelusz”: los 120 años de una
+editorial dedicada a la educación
+    2. Fecundos
+       2
 
-   ____________________ ____________________
-   (BUTTON) Comprobar
+Fecundos
+    3. Murió la mujer que se hizo famosa por arruinar un cuadro: cuando
+       los desastres en el arte terminan en milagros
+       3
 
-   Logo
-   Copyright © DIARIO ABC, S.L.
-   Volver a arriba
-   ABC Premium
-   Descarga la app
+La muerte de la “restauradora” de Ecce Homo: hay desastres en el mundo del
+arte que terminan en milagros
+    4. J. K. Rowling empezó 2026 discutiendo en redes sobre su tema
+       favorito
+       4
 
-     * Vocento
-     * Sobre nosotros
-     * Contacto
-     * Política de privacidad
-     * Política de cookies
-     * Administrar Utiq
-     * Condiciones de uso
-     * Aviso legal
-     * Reglamento UE 2024/1083
-     * Condiciones de contratación
-     * Compromisos editoriales
+J. K. Rowling empezó 2026 discutiendo en redes sobre su tema favorito
 
-     * Comprobar Lotería Navidad
-     * Lotería Navidad
-     * Buscar número Lotería Navidad
-     * Horóscopo
-     * Programación TV
-     * Horóscopo Chino
+   App store
+
+   Secciones
      * Últimas noticias
-     * Loterías
-     * Escuchar noticias del día
-     * Pódcast
-     * Sorteo Navidad comprobar número - La Verdad
+     * Política
+     * Economía
+     * El mundo
+     * Sociedad
+     * Opinión
+     * Deportes
+     * Lifestyle
+     * Espectáculos
+     * Edición impresa
+     * LN+
+     * Club LA NACION
 
-   Logo
+   Revistas
+     * OHLALÁ!
+     * ¡HOLA!
+     * LIVING
+     * JARDÍN
+     * LUGARES
+     * ROLLING STONE
 
-     * ABC
-     * ABC Sevilla
-     * Hoy
-     * El Correo
-     * Diario Vasco
-     * Las Provincias
-     * Diario Montañes
-     * Norte de Castilla
-     * El Comercio
-     * La Voz Digital
-     * Norte de Castilla
-     * Sur
-     * La Verdad
-     * Ideal
-     * La Rioja
-     * Leonnoticias
-     * Burgosconecta
-     * Huelva24
+     * Canchallena
+     * Foodit
+     * Bonvivir
+     * Colecciones
+     * Máster en periodismo
+     * Fundación LA NACION
 
-     * XL Semanal
-     * Mujerhoy
-     * Oferplan
-     * WomenNow
-     * Autocasión
-     * Pisos.com
-     * Unoauto
-     * Turium
-     * Welife
+     * Mapa del sitio
+     * Ayuda
+     * Atención al socio
+     * Términos y condiciones
+     * ¿Cómo anunciar?
+     * Suscribirse al diario impreso
+
+   Redes sociales:
+     *
+     *
+     *
+     *
+
+   Descargá la app:
+     * App store
+     * App store
+
+   © Copyright 2026 SA LA NACION | Todos los derechos reservados.
+   Dirección Nacional del Derecho de Autor DNDA - EXPEDIENTE DNDA
+   (renovación) RL-2023-95334553-APN-DNDA#MJ.
+   Queda prohibida la reproducción total o parcial del presente diario.
+
+   Protegido por reCAPTCHA: CondicionesPrivacidad
+   App store
+
+   Miembro de GDA. Grupo de Diarios América
+   App store
+   Cargando banners ...

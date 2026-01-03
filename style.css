@@ -180,3 +180,8 @@ footer {
     color: #ffffff;
     bottom: 0;
 }
+
+table td a {
+    word-break: break-all;
+    overflow-wrap: anywhere;
+}

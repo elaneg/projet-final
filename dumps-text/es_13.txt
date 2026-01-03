@@ -1,492 +1,1365 @@
-    [p?c1=2&c2=6906398&cv=3.9.1&cj=1]
+   #alternate alternate alternate alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate alternate
+   Euronews Culture | Spark your senses, wake your wonder homepage
 
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-GHV6
+     * Ir a la navegación
+     * Ir al contenido principal
+     * Ir a la búsqueda
+     * Ir al pie de página
 
-   (BUTTON) CERRAR
-   (BUTTON) CERRAR
-   (BUTTON) SECCIONES
-     * Inicio
-     * Secciones
-     * Foodit
-     * Club LN
-     * Mi cuenta
+   [ ] Español
+     * English
+     * Français
+     * Deutsch
+     * Italiano
+     * Español
+     * Português
+     * Polski
+     * Pусский
+     * Türkçe
+     * Ελληνικά
+     * Magyar
+     * فارسی
+     * العربية
+     * Shqip
+     * Română
+     * ქართული
+     * български
+     * Srpski
+     * BHS
 
-   LA NACION (BUTTON)
-     * Buscá en LA NACION...
-     * LN 104.9 + MúsicaNUEVO
+   Newsletters Eventos Podcasts Videos Africanews (BUTTON)
+   ____________________
 
-     * Últimas noticias
-       (BUTTON)
-          + Tránsito y transporte
-          + Clima
-          + LA NACION Data
-     * Política
-     * Economía
-       (BUTTON)
-          + Futuria
-          + Dólar Hoy
-          + Campo
-          + Propiedades
-          + Comercio Exterior
+   [ ]
+
+   Logotipo de Euronews
+
+     * Lo último
+       Tendencias
+          + Guerra en Ucrania
+          + Donald Trump
+          + Año Nuevo
+          + Incendio
+          + Policía
+          + España
+         ______________________________________________________________
+
+       Ultimas historias
+   Manifestantes participan en la protesta nacional Marcha de las Momias
+       en el centro de Londres, sábado 29 de octubre de 2022.
+       Economía
+       ¿Cómo afecta tener hijos a la carrera profesional de las mujeres?
+   Una pareja pasea a sus perros tras abandonar su casa debido al
+       terremoto que se sintió en Ciudad de México, el 2 de enero de 2026
+       México
+       Un terremoto de magnitud de 6,5 sacude el sur y el centro de México
+   Anthony Joshua llega para un combate de boxeo de peso pesado contra
+       Jake Paul en Miami, el 19 de diciembre de 2025
+       Nigeria
+       Nigeria acusa de temeridad al conductor del accidente de Joshua
+   Una imagen de unas protestas en Irán
+       Irán
+       Alijani: El ataque de EE.UU e Israel ante Irán beneficiará al
+       régimen
+     * Europa
+       Categorias
+          + Noticias de Europa
+          + Serie Europe
+          + España
+         ______________________________________________________________
+
+       Programas
+          + Europe in Motion
+          + El Cubo
+          + The Europe Conversation
+          + 12 minutes with
+          + Made in Europe
+          + Bruselas, ¿te Quiero?
+          + Euronews investigates
+          + Make it Work
+          + Smart Regions
+         ______________________________________________________________
+
+       Destacados
+          + Europe Today
+          + The Ring
+            'The Ring' es el programa político semanal de Euronews, donde
+            los debates más complejos de Europa conocen a sus voces más
+            audaces. En cada episodio, dos pesos pesados de la política
+            europea se enfrentan para proponer una diversidad de opiniones
+            y suscitar conversaciones sobre los temas más importantes de
+            la vida política europea.
+     * Mundo
+       Categorias
+          + Mundo
+          + América
+          + Oriente Medio
+          + África
+          + Asia
+          + Oceanía
+          + EE.UU.
+          + Venezuela
+         ______________________________________________________________
+
+       Programas
+          + Spotlight
+          + Global Japan
+          + Euronews Witness
+          + Qatar 365
+          + Internacionales
+          + Football Now
+          + Top News Stories Today
+         ______________________________________________________________
+
+       Destacados
+          + No Comment
+            Sin compromiso, sin argumento, sin sesgo, No Comment. Entérese
+            de los hechos sin comentarios.
+     * Business
+       Categorias
+          + Negocios
+          + Economía
+          + Mercados
+         ______________________________________________________________
+
+       Programas
+          + Business Planet
+          + Energy Frontiers
+          + Focus
+          + Real Economy
+          + Target
+          + The Exchange
+         ______________________________________________________________
+
+       Destacados
+          + The Big Question
+            Conversaciones en profundidad con líderes empresariales
+     * Viajes
+       Categorias
+          + Noticias de viajes
+          + Destinos
+          + Moments
+          + Residences
+         ______________________________________________________________
+
+       Programas
+          + Adventures
+          + Conscious Travel
+          + Explore
+          + Golf Travel Tales
+          + Notes From The Usa
+          + Soul Of The South
+          + Taste
+     * Next
+       Categorias
+          + Negocios tecnologia
+          + Dinero
+          + Trabajo
           + Movilidad
-          + Índices
-     * El Mundo
-       (BUTTON)
-          + Estados Unidos
-     * Sociedad
-       (BUTTON)
-          + Buenos Aires
-          + Seguridad
-          + Educación
-          + Cultura
-          + Comunidad
+          + Hogar
+         ______________________________________________________________
+
+       Programas
+          + Hacker Hunter
+          + Sci-Tech
+         ______________________________________________________________
+
+       Destacados
+          + The Food Detectives
+            Los mejores expertos europeos en alimentación se unen para
+            acabar con el fraude. Euronews les sigue en esta serie
+            especial: The Food Detectives
+     * Cultura
+       Categorias
+          + Noticias de cultura
+          + Estilo de vida
+          + Diseño
+          + Arte
+          + Gastronomia
+         ______________________________________________________________
+
+       Programas
+          + Crossing Cultures
+          + Cult
+          + Inspire Saudi
+          + Meet The Locals
+          + Modern Nomads
+          + Musica
+     * Green
+       Categorias
+          + Noticias medioambientales
+          + Clima
+          + Naturaleza
+          + Estilo de vida
+          + Innovación ecológica
+         ______________________________________________________________
+
+       Programas
+          + Ocean
+          + The Road To Green
+         ______________________________________________________________
+
+       Destacados
+          + Water Matters
+            El agua de Europa está sometida a una presión cada vez mayor.
+            La contaminación, las sequías y las inundaciones están pasando
+            factura a nuestra agua potable, lagos, ríos y costas.
+            Acompáñenos en un viaje por Europa para ver por qué es
+            importante proteger los ecosistemas, cómo pueden gestionarse
+            mejor nuestras aguas residuales y descubrir algunas de las
+            mejores soluciones para el agua. Reportajes en vídeo, una
+            serie explicativa animada y un debate en directo: descubra por
+            qué el agua importa, en Euronews.
+          + Climate Now
+            Presentamos los últimos acontecimientos climáticos de la mano
+            de la principal fuente del mundo, analizamos las tendencias y
+            explicamos cómo está cambiando nuestro planeta. Nos reunimos
+            con los expertos explorando nuevas estrategias para mitigar y
+            adaptarse.
+     * Salud
+       Categorias
+          + Noticias de salud
+          + Atención sanitaria
+          + Nutrición
           + Bienestar
-          + Ciencia
-          + Hablemos de todo
-     * Opinión
-       (BUTTON)
-          + Editoriales
-          + Columnistas
-          + Cartas de Suscriptores
-     * Deportes
-       (BUTTON)
-          + Fútbol
-          + Rugby
-          + Tenis
-          + Canchallena
-     * Lifestyle
-       (BUTTON)
-          + LN Juegos
-          + Turismo
-          + Tecnología
-          + Horóscopo
-          + Feriados
-          + Loterías y quinielas
-          + Podcasts
-          + Moda y Belleza
-     * Espectáculos
-       (BUTTON)
-          + Qué sale?
-          + Cartelera de cine
-          + Cartelera de teatro
-     * Edición Impresa
-       (BUTTON)
-          + Acceso PDF
-          + Editoriales
-          + Conversaciones de domingo
-          + Sábado
-          + Ideas
-          + Carta de lectores
-          + Avisos fúnebres
-          + Avisos sociales
-     * Revistas
-       (BUTTON)
-          + Revista OHLALÁ!
-          + Revista ¡HOLA!
-          + Revista Lugares
-          + Revista Living
-          + Revista Rolling Stone
-          + Revista Jardín
+         ______________________________________________________________
 
-     * LN Juegos
-     * Suscriptores
-     * Mis notas
+       Programas
+          + Smart Health
+     * Videos
 
-     * Club LA NACION
-     * canchallena
-     * Foodit
-     * Bonvivir
-     * LN 104.9 + Música
-       NUEVO
-     * LN+
-     * Kiosco LA NACION
+   Más
+   Cobertura especial
+     * Crisis Climática
+     * Global Japan
+     * Azerbaiyán
+     * Discover Algeria
+     * Young Inventors Prize 2025
+     * Discover Türkiye
+     * Discover Sharjah
+     * Golf Travel Tales
+     * From Qatar
+     * Uzbekistan
+     __________________________________________________________________
 
-   >LA NACION>Cultura
+   Servicios
+     * Tiempo
+     * Predicción de Nieve
+     * Widgets & Services
+
+   Encuéntranos
+   Facebook Instagram Flipboard Twitter Linkedin
+   Iniciar sesión
+   Mi cuenta
+   Directo
+
+   Suivez-nous
+
+   [ ] Español
+     * English
+     * Français
+     * Deutsch
+     * Italiano
+     * Español
+     * Português
+     * Polski
+     * Pусский
+     * Türkçe
+     * Ελληνικά
+     * Magyar
+     * فارسی
+     * العربية
+     * Shqip
+     * Română
+     * ქართული
+     * български
+     * Srpski
+     * BHS
+
+   Lo último
+   [ ]
+   Tendencias
+     * Guerra en Ucrania
+     * Donald Trump
+     * Año Nuevo
+     * Incendio
+     * Policía
+     * España
+     __________________________________________________________________
+
+   Ultimas historias
+
+   Manifestantes participan en la protesta nacional Marcha de las Momias
+   en el centro de Londres, sábado 29 de octubre de 2022.
+   Economía
+   ¿Cómo afecta tener hijos a la carrera profesional de las mujeres?
+     __________________________________________________________________
+
+   Una pareja pasea a sus perros tras abandonar su casa debido al
+   terremoto que se sintió en Ciudad de México, el 2 de enero de 2026
+   México
+   Un terremoto de magnitud de 6,5 sacude el sur y el centro de México
+     __________________________________________________________________
+
+   Anthony Joshua llega para un combate de boxeo de peso pesado contra
+   Jake Paul en Miami, el 19 de diciembre de 2025
+   Nigeria
+   Nigeria acusa de temeridad al conductor del accidente de Joshua
+     __________________________________________________________________
+
+   Una imagen de unas protestas en Irán
+   Irán
+   Alijani: El ataque de EE.UU e Israel ante Irán beneficiará al régimen
+   Europa
+   [ ]
+   Categorias
+     * Noticias de Europa
+     * Serie Europe
+     * España
+     __________________________________________________________________
+
+   Programas
+     * Europe in Motion
+     * El Cubo
+     * The Europe Conversation
+     * 12 minutes with
+     * Made in Europe
+     * Bruselas, ¿te Quiero?
+     * Euronews investigates
+     * Make it Work
+     * Smart Regions
+     __________________________________________________________________
+
+   Destacados
+     * Europe Today
+     * The Ring
+       'The Ring' es el programa político semanal de Euronews, donde los
+       debates más complejos de Europa conocen a sus voces más audaces. En
+       cada episodio, dos pesos pesados de la política europea se
+       enfrentan para proponer una diversidad de opiniones y suscitar
+       conversaciones sobre los temas más importantes de la vida política
+       europea.
+
+   Mundo
+   [ ]
+   Categorias
+     * Mundo
+     * América
+     * Oriente Medio
+     * África
+     * Asia
+     * Oceanía
+     * EE.UU.
+     * Venezuela
+     __________________________________________________________________
+
+   Programas
+     * Spotlight
+     * Global Japan
+     * Euronews Witness
+     * Qatar 365
+     * Internacionales
+     * Football Now
+     * Top News Stories Today
+     __________________________________________________________________
+
+   Destacados
+     * No Comment
+       Sin compromiso, sin argumento, sin sesgo, No Comment. Entérese de
+       los hechos sin comentarios.
+
+   Business
+   [ ]
+   Categorias
+     * Negocios
+     * Economía
+     * Mercados
+     __________________________________________________________________
+
+   Programas
+     * Business Planet
+     * Energy Frontiers
+     * Focus
+     * Real Economy
+     * Target
+     * The Exchange
+     __________________________________________________________________
+
+   Destacados
+     * The Big Question
+       Conversaciones en profundidad con líderes empresariales
+
+   Viajes
+   [ ]
+   Categorias
+     * Noticias de viajes
+     * Destinos
+     * Moments
+     * Residences
+     __________________________________________________________________
+
+   Programas
+     * Adventures
+     * Conscious Travel
+     * Explore
+     * Golf Travel Tales
+     * Notes From The Usa
+     * Soul Of The South
+     * Taste
+
+   Next
+   [ ]
+   Categorias
+     * Negocios tecnologia
+     * Dinero
+     * Trabajo
+     * Movilidad
+     * Hogar
+     __________________________________________________________________
+
+   Programas
+     * Hacker Hunter
+     * Sci-Tech
+     __________________________________________________________________
+
+   Destacados
+     * The Food Detectives
+       Los mejores expertos europeos en alimentación se unen para acabar
+       con el fraude. Euronews les sigue en esta serie especial: The Food
+       Detectives
+
+   Cultura
+   [ ]
+   Categorias
+     * Noticias de cultura
+     * Estilo de vida
+     * Diseño
+     * Arte
+     * Gastronomia
+     __________________________________________________________________
+
+   Programas
+     * Crossing Cultures
+     * Cult
+     * Inspire Saudi
+     * Meet The Locals
+     * Modern Nomads
+     * Musica
+
+   Green
+   [ ]
+   Categorias
+     * Noticias medioambientales
+     * Clima
+     * Naturaleza
+     * Estilo de vida
+     * Innovación ecológica
+     __________________________________________________________________
+
+   Programas
+     * Ocean
+     * The Road To Green
+     __________________________________________________________________
+
+   Destacados
+     * Water Matters
+       El agua de Europa está sometida a una presión cada vez mayor. La
+       contaminación, las sequías y las inundaciones están pasando factura
+       a nuestra agua potable, lagos, ríos y costas. Acompáñenos en un
+       viaje por Europa para ver por qué es importante proteger los
+       ecosistemas, cómo pueden gestionarse mejor nuestras aguas
+       residuales y descubrir algunas de las mejores soluciones para el
+       agua. Reportajes en vídeo, una serie explicativa animada y un
+       debate en directo: descubra por qué el agua importa, en Euronews.
+     * Climate Now
+       Presentamos los últimos acontecimientos climáticos de la mano de la
+       principal fuente del mundo, analizamos las tendencias y explicamos
+       cómo está cambiando nuestro planeta. Nos reunimos con los expertos
+       explorando nuevas estrategias para mitigar y adaptarse.
+
+   Salud
+   [ ]
+   Categorias
+     * Noticias de salud
+     * Atención sanitaria
+     * Nutrición
+     * Bienestar
+     __________________________________________________________________
+
+   Programas
+     * Smart Health
+
+   Videos
+   Más
+   [ ]
+   Cobertura especial
+     * Crisis Climática
+     * Global Japan
+     * Azerbaiyán
+     * Discover Algeria
+     * Young Inventors Prize 2025
+     * Discover Türkiye
+     * Discover Sharjah
+     * Golf Travel Tales
+     * From Qatar
+     * Uzbekistan
+     __________________________________________________________________
+
+   Servicios
+     * Tiempo
+     * Predicción de Nieve
+     * Widgets & Services
+
+   Newsletters Eventos Podcasts Videos Africanews (BUTTON)
+   ____________________
+   Encuéntranos
+   Facebook Instagram Flipboard Twitter Linkedin
+
+   (BUTTON)
 
 Cultura
 
-   arteba ya le puso fecha a su edición 2026
-
-arteba ya le puso fecha a su edición 2026
-
-   29 de diciembre de 2025
-   Distinguen a un atípico museo argentino ubicado en una localidad
-   recóndita de la Patagonia
-   VIDEO
-
-Premio internacional. Distinguen a un atípico museo argentino ubicado en una
-localidad recóndita de la Patagonia
-
-   Por Daniel Gigena
-   29 de diciembre de 2025
-     * Arte y Cultura
-     * Libros
+     * Estilo de vida
+     * Series
+     * Gastronomia
      * Arte
-     * Literatura argentina
-     * Museos
-     * La historia detrás de la foto
-     * Literatura
-     * Contenidos especiales
-     * Manuscrito
-     * Poesía
+     * Noticias de cultura
+     * Diseño
 
-   De “en esta ciudad se advierte el progreso” a “la calle Vicente López
-   apesta”
+   Dawn Laurel-Jones, Victoria Jones y Tommy Lee Jones asistieron al
+   estreno de "Just Getting Started" en ArcLight Hollywood, Los Ángeles,
+   el siete de diciembre de 2017.
+   Noticias de cultura
 
-Jaime Bayly en Buenos Aires. De “en esta ciudad se advierte el progreso” a
-“la calle Vicente López apesta”
+Hallan muerta a la hija de Tommy Lee Jones en San Francisco
 
-   Por Daniel Gigena
+   El concurso cultural de Euronews para el día de Año Nuevo.
+   Noticias de cultura
 
-Arte y Cultura
+¿Cree que lo sabe todo de 2025? Haga nuestro test de Año Nuevo
 
-   29 de diciembre de 2025
-   Fecundos
+   Así fue el vestido de fin de año de Cristina Pedroche
+   Noticias de cultura
 
-Catalejo. Fecundos
+Así fue el vestido de vestidos de Cristina Pedroche
 
-   Por Carlos M. Reymundo Roberts
+   Fuente: Flicker www.fotonazos.es
+   Noticias de cultura
 
-Catalejo
+Este es el origen del roscón de Reyes
 
-   29 de diciembre de 2025
-   Polleras al sol
+   PUBLICIDAD
+   PUBLICIDAD
 
-La historia detrás de la foto. Polleras al sol
+Más noticias
 
-   Por Diana Fernández Irusta
+   Fiesta de Nochevieja en Taiwán
+   Noticias de cultura
 
-La historia detrás de la foto
+La lista de canciones que no pueden faltar en Nochevieja
 
-   29 de diciembre de 2025
-   Pollock en la catedral: notas para un funeral pop
+   ©
+   Cult
 
-Alta Fidelidad. Pollock en la catedral: notas para un funeral pop
+Doha se convierte en el centro de la acción futbolística de la FIFA durante
+dos meses
 
-   Por Fernando García
+   En colaboración con Media City
 
-Arte y Cultura
+   Conoce a tres generaciones de soldadores que preservan su oficio en
+   Kazajstán
+   Series
 
-   28 de diciembre de 2025
-   Los 120 años de una editorial dedicada a la educación
+Conoce a tres generaciones de soldadores que preservan su oficio en Kazajstán
 
-“Es un rock, es un blues, un manual de Kapelusz”. Los 120 años de una
-editorial dedicada a la educación
+   En colaboración con MDQ
+   PUBLICIDAD
+   PUBLICIDAD
 
-Arte y Cultura
+   Carteles con la imagen de la actriz Brigitte Bardot cuelgan de una
+   valla de seguridad cerca de su casa en Saint-Tropez, Francia, el
+   domingo, 28 de diciembre de 2025
+   Noticias de cultura
 
-   27 de diciembre de 2025
-   Una gran movida solidaria para reconstruir las bibliotecas de Bahía
-   Blanca
+La derecha francesa reabre la polémica por el legado de Bardot
 
-El abrazo de los libros. Una gran movida solidaria para reconstruir las
-bibliotecas de Bahía Blanca
+   Amal Clooney, a la izquierda, y George Clooney posan para los
+   fotógrafos a su llegada al estreno de la película 'Jay Kelly' durante
+   el Festival de Cine de Londres, en 2025.
+   Noticias de cultura
 
-   Por Natalia Blanc
+George y Amal Clooney ya son oficialmente franceses
 
-Arte y Cultura
+   In memoriam 2025, las estrellas e iconos que nos dejaron este año
+   Noticias de cultura
 
-   27 de diciembre de 2025
-   Diego Filloy: “Mi abuelo me aconsejó que dejara 'descansar' los poemas"
+In memoriam de las grandes estrellas y los iconos fallecidos este año
 
-El nieto del “escritor oculto”. Diego Filloy: “Mi abuelo me aconsejó que
-dejara 'descansar' los poemas"
+   ©
+   Cult
 
-   Por Daniel Gigena
+Dentro de la Orquesta Filarmónica de Catar
 
-Arte y Cultura
+   En colaboración con Media City
 
-   27 de diciembre de 2025
-   “Un intelectual con todas las letras debe volver al riesgo de pensar y
-   opinar con libertad”
+   ARCHIVO: Anthony Joshua en el ring antes de su enfrentamiento en Miami
+   contra Jake Paul, 19 Dic, 2025
+   Noticias de cultura
 
-Marcelo Gioffré. “Un intelectual con todas las letras debe volver al riesgo
-de pensar y opinar con libertad”
+El boxeador Anthony Joshua, herido en un accidente en Nigeria
 
-   Por Daniel Gigena
+   Cecilia Giménez (izquierda), quien restauró una versión del mural 'Ecce
+   Homo' del pintor del siglo XIX Elías García Martínez, en Borja, España,
+   el 16 de marzo de 2016.
+   Noticias de cultura
 
-Arte y Cultura
+Muere Cecilia Giménez, la pintora que inmortalizó el 'Ecce Homo'
 
-   27 de diciembre de 2025
-   Un sable con punta de serpiente y la tabaquera de San Martín
+   'Stranger Things' - 'La criada' - 'Anaconda'
+   Noticias de cultura
 
-“El patrimonio que no se ve”. Un sable con punta de serpiente y la tabaquera
-de San Martín
+Los mejores planes para hacer, escuchar y ver en Europa esta semana
 
-   Por María Belén Carballeira
+   La actriz de cine francesa Brigitte Bardot
+   Noticias de cultura
 
-Arte y Cultura
+La vida de Brigitte Bardot, en imágenes: de 'sex symbol' a activista
 
-   27 de diciembre de 2025
-   El arte latinoamericano, en el foco de la atención global
+   Fallece Brigitte Bardot, foto de archivo 1965, 27 de mayo
+   Noticias de cultura
 
-Balance 2025. El arte latinoamericano, en el foco de la atención global
+Brigitte Bardot ha fallecido a los 91 años de edad
 
-   Por Celina Chatruc
+   Vlad
+   Arte
 
-Arte
+De artista a soldado: un año de guerra contado a través del arte
 
-   26 de diciembre de 2025
-   "Comienza la reescritura de la historia"
+   Los diez discos más esperados que llegarán en 2026
+   Noticias de cultura
 
-La "predicción" de J. K. Rowling. "Comienza la reescritura de la historia"
+Montañas, amor y lubricante, los 10 discos más esperados de 2026
 
-   Por Daniel Gigena
+   Un fotograma de Kazakh Scary Tales
+   Noticias de cultura
 
-Arte y Cultura
+La serie de terror kazaja, vetada en plataformas, triunfa en Internet
 
-   26 de diciembre de 2025
-   ¿Menos pobres, más trabajo?
+   Rankin y Phillip Toledano debaten sobre la IA y el arte
+   Series
 
-Catalejo. ¿Menos pobres, más trabajo?
+El fotógrafo Rankin y el artista Phillip Toledano sobre el arte con IA
 
-   Por Luis Cortina
+   Barack Obama comparte sus películas, canciones y libros favoritos de
+   2025
+   Noticias de cultura
 
-Catalejo
+Obama incluye a Rosalía en su lista de música favorita de 2025
 
-   26 de diciembre de 2025
-   Hans Van Manen: con la fuerza de un volcán y el encanto de un acertijo
+   Conozca a Samandar Tursunaliev, el innovador de la inteligencia
+   artificial en Uzbekistán
+   Changemakers of Uzbekistan
 
-Manuscrito. Hans Van Manen: con la fuerza de un volcán y el encanto de un
-acertijo
+Conozca a la innovadora IA de nueva generación de Uzbekistán
 
-   Por Constanza Bertolini
+   En colaboración con Center for the Production of Content for Mass Media
+   under the Administration of the President of the Republic of Uzbekistan
 
-Manuscrito
+   PUBLICIDAD
+   PUBLICIDAD
 
-   26 de diciembre de 2025
-   Nace una estrella
+Los más vistos
 
-La historia detrás de la foto. Nace una estrella
+   1
 
-   Por Diana Fernández Irusta
+Rusia emite una orden de detención contra Kasparov
 
-La historia detrás de la foto
+   2
 
-   26 de diciembre de 2025
-   Marlowe, la voz que despertó a Shakespeare
-   Suscriptores
+Binéfar, el pueblo español que fabrica robótica militar para el mundo
 
-Espía, transgresor, asesinado. Marlowe, la voz que despertó a Shakespeare
+   3
 
-   Por Jacinto Antón
+Hallan muerta a la hija de Tommy Lee Jones en San Francisco
 
-Arte y Cultura
+   4
 
-   26 de diciembre de 2025
-   El fenómeno del año también llegó a los chicos
+Cifras oficiales del incendio en Suiza: 40 muertos y 119 heridos
 
-"Destroza El Eternauta". El fenómeno del año también llegó a los chicos
+   5
 
-   Por Natalia Blanc
+La Policía sospecha de que sucedió un 'flashover' en Crans-Montana
 
-Arte y Cultura
+Mejores videos
 
-   25 de diciembre de 2025
-   La Academia Argentina de Letras distinguió a dramaturgos y a una
-   lingüista
+   Cómo una tradición kazaja de marionetas cautiva a las nuevas
+   generaciones
+   Modern Nomads
 
-Por primera vez. La Academia Argentina de Letras distinguió a dramaturgos y a
-una lingüista
+Cómo una tradición kazaja de marionetas cautiva a las nuevas generaciones
 
-   Por Daniel Gigena
+   En colaboración con MDQ
 
-Arte y Cultura
+   ©
+   Cult
 
-   25 de diciembre de 2025
-   7 recomendados de arte y cultura para esta semana
+Doha celebra a Franca Sozzani y el talento de la moda regional
 
-Agenda. 7 recomendados de arte y cultura para esta semana
+   En colaboración con Media City
 
-Arte y Cultura
+   Papá Noel, en una imagen de archivo
+   Noticias de cultura
 
-   25 de diciembre de 2025
-   Joan Miró, el pintor que murió el día de la Navidad
+Papá Noel abandona su cuartel general de Laponia para dar sus regalos
 
-Patriarca de la belleza. Joan Miró, el pintor que murió el día de la Navidad
+Programa
 
-   Por Omar López Mato
+   Cult
 
-Arte y Cultura
+   ©
 
-   25 de diciembre de 2025
-   Rechazan el pedido de los protectores de animales y el encargado tendrá
-   que informar sobre Niní
+Doha se convierte en el centro de la acción futbolística de la FIFA durante
+dos meses
 
-La gata de Sarlo. Rechazan el pedido de los protectores de animales y el
-encargado tendrá que informar sobre Niní
+   En colaboración con Media City
 
-   Por Daniel Gigena
+   Más
+   Crossing Cultures
 
-Arte y Cultura
+   Europa y China: cómo el aceite de oliva y el jamón de Jinhua encarnan
+   siglos de herencia alimentaria
 
-   24 de diciembre de 2025
-   Canciones que hacen llorar
+Europa y China: cómo el aceite de oliva y el jamón de Jinhua encarnan siglos
+de herencia alimentaria
 
-Manuscrito. Canciones que hacen llorar
+   En colaboración con CGTN
 
-   Por José Luis Brea
+   Más
+   Modern Nomads
 
-Manuscrito
+   Cómo una tradición kazaja de marionetas cautiva a las nuevas
+   generaciones
 
-   24 de diciembre de 2025
-   El único museo argentino en la lista de los mejores 99 del mundo
-   Suscriptores
+Cómo una tradición kazaja de marionetas cautiva a las nuevas generaciones
 
-Queda en Salta. El único museo argentino en la lista de los mejores 99 del
-mundo
+   En colaboración con MDQ
 
-   Por Vivian Urfeig
+   Más
+   Meet The Locals
 
-Arte y Cultura
+   Conoce a la familia que lleva los sabores sudafricanos a Macao
 
-   24 de diciembre de 2025
-   Qué dice el libro que Milei les regaló para Navidad a todos sus
-   ministros
+Conozca al chef que lleva los sabores sudafricanos a Macao
 
-“Defendiendo lo indefendible”. Qué dice el libro que Milei les regaló para
-Navidad a todos sus ministros
+   En colaboración con Macao Government Tourism Office
 
-   Por Daniel Gigena
+   Más
+   Inspire Saudi
 
-Arte y Cultura
+   'Inspire Saudi' descubre la riqueza y el gran potencial turístico de
+   Yeda
 
-   23 de diciembre de 2025
-   Un decálogo inspirado y caprichoso como toda lista de lo mejor del año
+La ciudad saudí la ciudad está llena de diferentes estilos artísticos
 
-Los libros de 2025. Un decálogo inspirado y caprichoso como toda lista de lo
-mejor del año
+   En colaboración con Visit Saudi
 
-   Por Constanza Bertolini, Laura Ventura, Daniel Gigena, Pedro B. Rey y
-   Natalia Blanc
+   Más
+   Changemakers of Uzbekistan
 
-Arte y Cultura
+   Conozca a Samandar Tursunaliev, el innovador de la inteligencia
+   artificial en Uzbekistán
 
-   23 de diciembre de 2025
-   Quién es el primer escritor argentino en recibir una de las
-   distinciones más prestigiosas de Francia
+Conozca a la innovadora IA de nueva generación de Uzbekistán
 
-Premio Mallarmé. Quién es el primer escritor argentino en recibir una de las
-distinciones más prestigiosas de Francia
+   En colaboración con Center for the Production of Content for Mass Media
+   under the Administration of the President of the Republic of Uzbekistan
 
-   Por Daniel Gigena
+   Más
+   Cinema
 
-Arte y Cultura
+   ¿Cuáles son las mejores películas navideñas alternativas?
 
-   23 de diciembre de 2025
-   Subjetividad
+¿Cuáles son las mejores películas navideñas alternativas?
 
-La historia detrás de la foto. Subjetividad
+   Más
+   Musica
 
-   Por María José Rodríguez Murguiondo
+   El Premio Karajan para Jóvenes Directores en el Festival de Salzburgo,
+   "un trampolín increíble"
 
-La historia detrás de la foto
+Premio Karajan, "un trampolín increíble" para directores de orquesta
 
-   23 de diciembre de 2025
-   Navidad no hay una sola
+   En colaboración con
+   Más
 
-Manuscrito. Navidad no hay una sola
+Más noticias cultura
 
-   Por Diana Fernández Irusta
-   23 de diciembre de 2025
-   La escritora prolífica y desafiante de “Matate, amor” que fue del libro
-   al cine producida por Scorsese
+   Archivo, la cantante australiana Sia ha superado a Maria Carey en la
+   lista de éxitos navideños 2025 de Spotify.
+   Noticias de cultura
 
-Ariana Harwicz. La escritora prolífica y desafiante de “Matate, amor” que fue
-del libro al cine producida por Scorsese
+Sia acaba con 30 años de Mariah Carey en la lista navideña de Spotify
 
-   Por Daniel Gigena
+   Mariah Carey, la reina de la Navidad, cede el trono a Sia, princesa del
+   pop austral. Tras 30 años, 'All I Want for Christmas' cae, 'Snowman'
+   lidera en Spotify.
+   26/12/2025
 
-Anuario 2025
+   El mensaje navideño alternativo de 2025 de Jimmy Kimmel
+   Noticias de cultura
 
-   23 de diciembre de 2025
-   Banksy vuelve a intervenir Londres
+El mensaje navideño alternativo de Kimmel: "No perdáis la fe en EE UU"
 
-Con un nuevo mural. Banksy vuelve a intervenir Londres
+   El presentador Jimmy Kimmel arremetió contra el fascismo y también
+   contra Donald Trump, en su mensaje navideño alternativo emitido por la
+   británica 'Channel 4'.
+   26/12/2025
 
-Arte y Cultura
+   Escucha la canción navideña inédita de Queen
+   Noticias de cultura
 
-   22 de diciembre de 2025
-   (BUTTON) VER MÁS NOTAS DE CULTURA
-   (BUTTON)
-   (BUTTON)
-   (BUTTON)
-   Más leídas de Cultura
-    1. "Comienza la reescritura de la historia"
-       1
+Escuche la canción inédita de Queen, grabada con Freddie Mercury
 
-J. K. Rowling responde a las acusaciones de transfobia: “Los apóstatas de
-género han sido objeto de persecución”
-    2. Subjetividad
-       2
+   Queen ha sorprendido a sus seguidores con el lanzamiento de 'Not For
+   Sale (Polar Bear)', una canción inédita grabada en 1974 durante las
+   sesiones de 'Queen II' y con la voz de Freddie Mercury, que ve la luz
+   por primera vez tras permanecer archivada durante cinco décadas. Aquí
+   puede escucharla.
+   25/12/2025
 
-Subjetividad
-    3. La Academia Argentina de Letras distinguió a dramaturgos y a una
-       lingüista 3
+   El vídeo del Papá Noel de ICE AI, tachado de "repugnante" en Internet
+   Noticias de cultura
 
-Por primera vez, la Academia Argentina de Letras distinguió a dramaturgos y a
-una lingüista
-    4. El fenómeno del año también llegó a los chicos
-       4
+Oleada de críticas al "repugnante" vídeo del ICE con Papá Noel
 
-“Destroza El Eternauta”: el fenómeno del año también llegó a los chicos
+   El Departamento de Seguridad Nacional de Estados Unidos ha llevado su
+   mensaje sobre inmigración a la campaña navideña con un vídeo generado
+   por inteligencia artificial que transforma a Papá Noel en un agente del
+   Servicio de Inmigración y Control de Aduanas.
+   25/12/2025
+   PUBLICIDAD
 
-   App store
+   Varias de las personalidades que han fallecido este 2025.
+   Noticias de cultura
 
-   Secciones
-     * Últimas noticias
-     * Política
-     * Economía
-     * El mundo
-     * Sociedad
-     * Opinión
-     * Deportes
-     * Lifestyle
-     * Espectáculos
-     * Edición impresa
-     * LN+
-     * Club LA NACION
+Estos son los famosos que nos han dejado en 2025: parte 2
 
-   Revistas
-     * OHLALÁ!
-     * ¡HOLA!
-     * LIVING
-     * JARDÍN
-     * LUGARES
-     * ROLLING STONE
+   Con el año 2025 cerrándose toca recapitular y hacer cuenta. Y
+   tristemente el año está marcado por una cantidad considerable de gente
+   que nos ha dejado: entre ellos destacan e
+   25/12/2025
 
-     * Canchallena
-     * Foodit
-     * Bonvivir
-     * Colecciones
-     * Máster en periodismo
-     * Fundación LA NACION
+   Celia Paul pinta un retrato en su estudio.
+   Arte
 
-     * Mapa del sitio
-     * Ayuda
-     * Atención al socio
+La autorretratista Celia Paul se confiesa en Varsovia
+
+   «Cada vez que cojo un pincel es una crisis, cuestión de vida o muerte».
+   Celia Paul no exagera, pero sus cuadros destilan ternura,
+   espiritualidad y amor a quienes más ama.
+   25/12/2025
+
+   Un fresco que representa a Jesús como "Buen Pastor" adorna la pared de
+   una tumba del siglo III en Hisardere.
+   Noticias de cultura
+
+Descubren un raro fresco del 'Buen Pastor' de estilo romano en Turquía
+
+   El fresco del siglo III descubierto por arqueólogos turcos es el mejor
+   conservado de su género hasta la fecha.
+   25/12/2025
+
+   Comparan en internet los nuevos Juegos Patriotas de Donald Trump con
+   'Los Juegos del Hambre'
+   Noticias de cultura
+
+¿Los 'Juegos Patriotas' de Donald Trump o 'Los juegos del hambre'?
+
+   Los usuarios de las redes sociales y los demócratas reaccionaron de la
+   misma manera al recién anunciado concurso de Donald Trump para el 250º
+   aniversario de EE.UU. del próximo año: todo parece decir "Que las
+   probabilidades estén siempre a tu favor".
+   25/12/2025
+
+   Bombas colgadas de árboles de Navidad en un centro comercial de Berlín,
+   Alemania, viernes 22 de diciembre de 2006,
+   Noticias de cultura
+
+5 motivos por los que discutimos en Nochebuena y cómo prevenirlo
+
+   La Nochebuena reúne a familias, pero también puede reactivar viejos
+   conflictos. Psicólogos explican por qué aumentan las tensiones en estas
+   fechas y ofrecen claves prácticas para evitar discusiones y gestionar
+   los desacuerdos en la mesa navideña.
+   24/12/2025
+
+   Varias de las personalidades que han fallecido este 2025.
+   Noticias de cultura
+
+Estos son los famosos que han muerto en 2025
+
+   Con el año 2025 cerrándose toca recapitular y hacer cuenta. Y
+   tristemente el año está marcado por una cantidad considerable de gente
+   que nos ha dejado: entre ellos destacan el Papa Francisco, Val Kilmer o
+   Madsen.
+   24/12/2025
+
+   Archivo, Vince Zampella en la séptima edición anual de la Produced By
+   Conference, Los Ángeles, 2015
+   Noticias de cultura
+
+Muere Vince Zampella, cocreador de 'Call of Duty', en un accidente
+
+   El mundo del videojuego lamenta la muerte de Vince Zampella, cocreador
+   de 'Call of Duty', en un accidente de coche en California a los 55
+   años. En el vehículo iba otra persona que también ha fallecido.
+   23/12/2025
+
+   Niños que miran las estrellas: Nuevo Banksy desvelado a tiempo para
+   Navidad
+   Arte
+
+Banksy reaparece en Londres con un mural de 2 niños y un mensaje
+
+   La nueva obra de Banksy, que representa a dos niños tumbados y
+   señalando al cielo, apareció en el oeste de Londres. Una segunda obra
+   idéntica se inauguró también en el centro de Londres.
+   23/12/2025
+
+   El árbol de Navidad del Espacio Movistar.
+   Noticias de cultura
+
+¿De vacaciones?: Los mejores 4 planes culturales para Navidad
+
+   España es un país con una gran variedad de bondades gastronómicas,
+   artísticas y deportivas. Les ofrecemos una lista de los mejores cuatro
+   planes culturales para hacer estas navidades con o sin niños.
+   23/12/2025
+
+   Una escena de Nabd Qatar con la Orquesta Filarmónica de Qatar
+   Noticias de cultura
+
+La final de la Copa Árabe de la FIFA se convirtió en toda una sinfonía
+
+   Los partidos de fútbol no sólo están determinados por la acción sobre
+   el terreno de juego, sino también por las canciones que se cantan en
+   los estadios. La campaña Qatar Soundbeats combina el ruido de la
+   multitud en apoyo a la Copa Árabe de la FIFA con la música clásica.
+   23/12/2025
+
+   Las mejores películas de 2025 según Euronews Cultura
+   Cinema
+
+Las mejores películas de 2025, pecadores, accidentes y batallas
+
+   Acompáñanos en la cuenta atrás de Euronews Culture para desvelar
+   nuestra película favorita del año, ¿cuántas de este año has visto?
+   22/12/2025
+
+   ARCHIVO - El actor James Ransone, miembro del elenco de "El hijo de
+   nadie", posa en su estreno durante el Festival de Cine de Sundance
+   2011, en Utah, el 28 de enero de 2011.
+   Noticias de cultura
+
+Muere James Ransone, actor de 'The Wire', a los 46 años
+
+   El actor James Ransone, conocido por su papel de Ziggy Sobotka en 'The
+   Wire', falleció a los 46 años. Según la oficina del Médico Forense del
+   Condado de Los Ángeles, su muerte fue clasificada como un suicidio, un
+   hecho que ha reabierto el debate sobre la salud mental en la industria.
+   22/12/2025
+
+   Comprobador de lotería, El Gordo de Navidad 22 de diciembre de 2025
+   Noticias de cultura
+
+Comprobador Lotería Navidad 2025: consulte si su décimo tiene premio
+
+   Este 22 de diciembre de 2025 se ha realizado el tradicional Sorteo
+   Extraordinario de la Lotería Nacional en España, en el que se reparten
+   más de 2.700 millones. El Gordo ha recaído en el 79.432. Averigüe
+   cuánto dinero le corresponde si ha sido uno de los agraciados en
+   nuestro comprobador de décimos.
+   22/12/2025
+
+   Yurtas en un campamento tradicional en el desierto, donde los
+   visitantes experimentan la vida nómada en Uzbekistán
+   Noticias de cultura
+
+La UNESCO alerta sobre un patrimonio de Asia al borde de desaparecer
+
+   La UNESCO ha inscrito el instrumento Kobyz y la yurta en la Lista del
+   Patrimonio Cultural Inmaterial, alertando de que estas tradiciones
+   ancestrales de Asia Central están amenazadas por la falta de maestros y
+   el cambio social.
+   22/12/2025
+
+   'Kontakthof', de Pina Bausch
+   Noticias de cultura
+
+'Kontakthof': el mundo poético de Pina Bausch en Atenas
+
+   La obra emblemática de la gran coreógrafa alemana, estrenada en 1978 en
+   Wuppertal, se presenta en Teatro Nacional de Atenas con una compañía
+   íntegramente griega.
+   22/12/2025
+
+   Sorteo de Navidad
+   Noticias de cultura
+
+Curiosidades y datos interesantes sobre el Sorteo de Navidad de España
+
+   Cada 22 de diciembre tiene lugar el sorteo de El Gordo de Navidad, un
+   sorteo extraordinario en el que se reparten más de 2.700 millones de
+   euros. Ahora bien, ¿sabía que no siempre se celebró el 22 de diciembre?
+   ¿Qué provincia gasta más en este sorteo? ¿O qué terminaciones nunca han
+   salido?
+   21/12/2025
+   Cargar más [ ]
+
+   Fontana de Trevi
+   Noticias de cultura
+
+Ver la Fontana de Trevi costará 2 euros a partir del 7 de enero
+
+   A partir de enero, los turistas en Roma pagarán un par de euros por
+   visitar la Fontana di Trevi, mientras que la entrada seguirá siendo
+   gratuita para los residentes. La medida se inscribe en un contexto
+   europeo en el que ciudades como Venecia, Atenas y Sevilla regulan los
+   flujos turísticos.
+   20/12/2025
+
+   El Papa León XIV saluda a los fieles en San Pedro
+   Noticias de cultura
+
+Los internautas descubren que León XIV aprende alemán con su móvil
+
+   Los usuarios más observadores se han dado cuenta de que el perfil del
+   Papa León XIV en Duolingo se ha reactivado después de un año. Prevost,
+   según su hermano John, utiliza con frecuencia apps educativas y juegos
+   de lógica
+   20/12/2025
+
+   Pastel de la Reina y Pastel del Rey
+   Gastronomia
+
+Dulces tradicionales de Navidad en Portugal
+
+   Quizá ningún otro país tenga una variedad de dulces navideños tan
+   amplia como Portugal. Cada familia tiene sus favoritos, pero clásicos
+   como los 'sonhos' o el 'bolo-rei' nunca faltan en la mesa navideña.
+   20/12/2025
+
+   Una selección de la mejor música de 2025
+   Noticias de cultura
+
+Hogueras, gritos y luz, los mejores discos de 2025
+
+   Acompáñanos en nuestra selección de los mejores discos del año 2025.
+   ¿Cuántos de la lista has escuchado?
+   19/12/2025
+   Cargar más [ ]
+
+   Representación de la obra de La Ribot en 2024 en Madrid.
+   Noticias de cultura
+
+La Ribot revive a Juana I de Castilla: "Es hablar del poder el Estado"
+
+   La coreógrafa María La Ribot presenta en Bruselas 'Juana Ficción', un
+   retrato del mundo interno de la monarca en clave poética para una
+   mirada alejada del estigma de la locura.
+   19/12/2025
+
+   Recetas fáciles de preparar para la cena de Navidad
+   Gastronomia
+
+Recetas navideñas fáciles para impresionar sin saber cocinar
+
+   La cena de Navidad no tiene por qué ser un reto culinario: 'Euronews'
+   reúne dos menús basados en recetas virales y sugeridas por IA, con
+   platos de dificultad mínima para sorprender a la familia. Incluyen
+   opciones tan sencillas como el bacalao a la crema "a la perezosa" o el
+   salmón al horno.
+   18/12/2025
+
+   Retratos con nuevas placas en la Casa Blanca, en Washington, 17 de
+   diciembre de 2025.
+   Arte
+
+Trump ajusta cuentas con Biden y Obama en la Casa Blanca
+
+   En agosto de 2025, el presidente estadounidense Donald Trump inauguró
+   una galería de retratos, su 'President Walk Of Fame', de antiguos
+   presidentes en el ala oeste de la Casa Blanca. Ahora, Trump ha
+   actualizado los retratos con carteles al más puro estilo de sus
+   mensajes en redes sociales.
+   18/12/2025
+
+   La FIFA y Netflix anuncian su nuevo acuerdo para acercar los
+   videojuegos de fútbol al gran público
+   Noticias de cultura
+
+La FIFA lanzará un nuevo videojuego de fútbol exclusivo en Netflix
+
+   La FIFA llegará pronto a Netflix con el estreno de un nuevo videojuego
+   de fútbol exclusivo previsto antes del Mundial de 2026. La alianza con
+   el gigante estadounidense del streaming marca un claro cambio tras la
+   agria ruptura con Electronic Arts.
+   18/12/2025
+   Cargar más [ ]
+
+   Eduardo Casanova, imagen de archivo, entrega de los Goya 2023.
+   Noticias de cultura
+
+Eduardo Casanova anuncia que tiene VIH
+
+   El actor y director ha revelado en redes sociales que tiene VIH. Lo
+   cuenta en un documental que se estrenará en cines en 2026, producido
+   por Jordi Évole. Casanova rompe así un silencio de años y llama a otras
+   personas con VIH a hablar sin miedo al estigma social.
+   18/12/2025
+
+   La música electrónica entra en la lista francesa del Patrimonio
+   Cultural Inmaterial
+   Noticias de cultura
+
+La música electrónica, patrimonio cultural inmaterial en Francia
+
+   La música electrónica entra en la lista francesa de patrimonio cultural
+   inmaterial, primer paso hacia integrar la French Touch en el patrimonio
+   cultural inmaterial de la UNESCO.
+   18/12/2025
+
+   Figurillas de los Oscars
+   Cinema
+
+Adiós a la TV, hola al streaming, los Óscar irán a YouTube en 2029
+
+   La Academia de Artes y Ciencias Cinematográficas anunció que YouTube
+   tendrá los derechos de emisión exclusivos a nivel mundial de los Óscar
+   entre 2029 y 2033.
+   18/12/2025
+
+   Estatuas de los Oscar
+   Noticias de cultura
+
+Los Premios Oscar se podrán ver en YouTube
+
+   La audiencia de la gala ha disminuido año tras año, pero gracias a
+   YouTube, 2.000 millones de personas pueden ver la entrega de los
+   premios de manera completamente gratuita.
+   18/12/2025
+   Cargar más [ ]
+
+   Predicciones de Baba Vanga para 2026
+   Noticias de cultura
+
+Las predicciones de Baba Vanga para 2026: extraterrestres y guerras
+
+   Las visiones de la vidente ciega vuelven a estar en boca de todos:
+   predice el primer contacto con otra civilización, catástrofes
+   naturales, la Tercera Guerra Mundial y el desarrollo de órganos
+   sintéticos.
+   18/12/2025
+
+   Los Colosos de Memnon
+   Noticias de cultura
+
+Los famosos Colosos de Memnon han sido restaurados en Egipto
+
+   El Gobierno egipcio redobla sus esfuerzos para atraer a más turistas
+   mostrando la enorme riqueza arqueológica del país con la restauración
+   de los Colosos de Memnon, unas semanas después de inaugurar el Gran
+   Museo Egipcio.
+   17/12/2025
+
+   ©
+   Cult
+
+La Semana Creativa de Bakú celebra la cultura e industrias creativas
+
+   En colaboración con Ministry of Culture of the Republic of Azerbaijan
+   La Semana Creativa de Bakú 2025 reunió a artistas, empresarios y
+   líderes culturales con motivo del Festival Cultural de la OCI,
+   celebrando el patrimonio, las industrias creativas y el empoderamiento
+   de las mujeres a través de exposiciones, actuaciones y debates.
+   17/12/2025
+
+   Manifestantes en protesta por el Festival de Eurovisión del año pasado
+   Noticias de cultura
+
+Eurovisión: Las banderas palestinas y los abucheos no serán censurados
+
+   La cadena pública austriaca 'ORF', anfitriona del próximo Festival de
+   Eurovisión, ha confirmado que no prohibirá la bandera palestina ni
+   silenciará los abucheos dirigidos a la actuación de Israel. "Nuestra
+   tarea es mostrar las cosas como son".
+   17/12/2025
+   Cargar más [ ]
+
+   El presidente Donald Trump habla durante un evento para anunciar nuevos
+   aranceles en el Jardín de Rosas de la Casa Blanca, el 2 de abril de
+   2025, en Washington.
+   Noticias de cultura
+
+La guerra comercial de Trump impulsa a 'arancel' como Palabra del Año
+
+   La FundéuRAE ha elegido 'arancel' como la Palabra del Año 2025 por su
+   presencia masiva en los medios y su capacidad para simbolizar el giro
+   global hacia las políticas proteccionistas y las tensiones comerciales.
+   Los aranceles han generado un intenso debate público debido a la agenda
+   de Donald Trump.
+   17/12/2025
+
+   ¿Por qué este anuncio navideño francés se está haciendo viral en todo
+   el mundo?
+   Noticias de cultura
+
+Un lobo, alma y humanidad: el anuncio viral esta Navidad
+
+   El anuncio navideño de un supermercado francés va contra la tendencia
+   de la IA y triunfa entre millones de personas de todo el mundo. Ha
+   acumulado cientos de millones de visitas más allá de las fronteras
+   francesas.
+   17/12/2025
+
+   Vista de la oficina.
+   Noticias de cultura
+
+La batalla para salvar el apartamento-museo del poeta Jacques Prévert
+
+   En Montmartre, el piso donde vivió uno de los poetas franceses más
+   importantes se ve amenazado por un proyecto de ampliación del cabaret
+   contiguo Moulin-Rouge. En una entrevista concedida a 'Euronews', la
+   nieta de Prévert cuenta los detalles.
+   17/12/2025
+
+   Imagen de dulces navideños.
+   Noticias de cultura
+
+5 postres latinoamericanos para endulzar las Navidades
+
+   Desde las alturas de la Sierra de Guadarrama mexicana hasta los fiordos
+   de la Patagonia chilena, proponemos varios dulces navideños típicos en
+   diferentes zonas de Latinoamérica.
+   17/12/2025
+   Cargar más [ ]
+
+   Los asistentes al baile celebrado en honor del 250 aniversario de Jane
+   Austen en París, 14 de diciembre de 2025.
+   Estilo de Vida
+
+La fantasía de ser Darcy y Elizabeth de 'Orgullo y prejuicio'
+
+   En el 250 aniversario de Jane Austen, la 'Austenmanía' fuerza en
+   Francia, donde los seguidores de la autora (Janeites) recrean los
+   bailes de la época de la Regencia con trajes históricos.
+   16/12/2025
+
+   Foto de familia del evento acogido en el Instituto Cervantes
+   Noticias de cultura
+
+El Instituto Cervantes custodia el legado del Pueblo Gitano
+
+   La institución incorpora documentos históricos, obras artísticas y
+   piezas simbólicas para conmemorar los seis siglos de presencia gitana
+   en España, en un acto que reivindica memoria, cultura y derechos.
+   16/12/2025
+
+   Sin corazón": La reacción de Donald Trump al asesinato de Rob Reiner,
+   criticada en Internet
+   Noticias de cultura
+
+Polémica por la reacción de Trump al asesinato de Reiner: "Repugnante"
+
+   El actor y director Rob Reiner y su esposa fueron hallados muertos en
+   su casa de Los Ángeles. Su hijo, Nick Reiner, ha sido detenido como
+   principal sospechoso del crimen. Donald Trump desató la polémica al
+   vincular la muerte del cineasta con sus críticas al presidente.
+   16/12/2025
+
+   Nostradamus
+   Noticias de cultura
+
+Las profecías de Nostradamus para 2026
+
+   Como cada año, nuevas interpretaciones de las profecías de Nostradamus
+   despiertan curiosidad y preocupación por el futuro próximo. Esto es lo
+   que cabe esperar en 2026, incluidos desastres medioambientales, crisis
+   financieras y un nuevo orden mundial e inteligencia artificial
+   16/12/2025
+   Cargar más [ ]
+
+   PUBLICIDAD
+
+   PUBLICIDAD
+
+   PUBLICIDAD
+
+   ____________________
+   (BUTTON) Search
+
+   Buscar con las etiquetas del día
+     * Guerra en Ucrania
+     * Donald Trump
+     * Año Nuevo
+     * Incendio
+     * Policía
+     * España
+     * Rusia
+     * Suiza
+     * inteligencia artificial
+     * Rusia-Ucrania invasión
+     * Robótica
+     * Celebraciones de Año Nuevo
+
+   Logotipo de Euronews
+
+   Temas [X]
+     * Europa
+     * Mundo
+     * Business
+     * Green
+     * Next
+     * Salud
+     * Viajes
+     * Cultura
+     * Videos
+     * Programas
+
+   Servicios [ ]
+     * Directo
+     * Boletín
+     * Tiempo
+     * Lo último
+     * Síguenos
+     * Apps
+     * Widgets & Services
+     * Africanews
+
+   Más [ ]
+     * Sobre euronews
+     * Commercial Services
      * Términos y condiciones
-     * ¿Cómo anunciar?
-     * Suscribirse al diario impreso
+     * Política de Cookies
+     * Política de confidencialidad
+     * Contacto
+     * Empleos
+     * Nuestros periodistas
+     * Accesibilidad: no conforme
+     * Modificar mis opciones de cookies
 
-   Redes sociales:
-     *
-     *
-     *
-     *
+   Síguenos
+     * Facebook
+     * Twitter
+     * Flipboard
+     * Youtube
+     * Linkedin
+     * Dailymotion
+     * Instagram
 
-   Descargá la app:
-     * App store
-     * App store
+   Newsletter
 
-   © Copyright 2025 SA LA NACION | Todos los derechos reservados.
-   Dirección Nacional del Derecho de Autor DNDA - EXPEDIENTE DNDA
-   (renovación) RL-2023-95334553-APN-DNDA#MJ.
-   Queda prohibida la reproducción total o parcial del presente diario.
+   Copyright © euronews 2026
 
-   Protegido por reCAPTCHA: CondicionesPrivacidad
-   App store
-
-   Miembro de GDA. Grupo de Diarios América
-   App store
-   Cargando banners ...
+   Facebook

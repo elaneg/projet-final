@@ -1,628 +1,283 @@
-
-
-   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-WRSZVB
-
-   Calidad Europea
-   (BUTTON) BuscarAcceso estudiantes
-   Solicita información (BUTTON) Menú
-     * Oferta académica
-       VER LA OFERTA ACADÉMICA
-          + Licenciaturas
-          + Maestrías
-          + Másteres Europeos
-          + Educación Continua
-          + Educación
-          + Ingeniería
-          + Economía y Negocios
-          + Comunicación y Mercadotecnia
-          + Ciencias de la Salud
-          + Derecho
-          + Humanidades y Arte
-          + Ciencias Sociales
-     * Licenciaturas
-       Ver todas las licenciaturas
-          + Licenciatura en Ingeniería en Sistemas Computacionales
-          + Licenciatura en Diseño Gráfico Digital
-          + Licenciatura en Administración de Empresas
-          + Licenciatura en Derecho
-          + Licenciatura en Arquitectura
-          + Licenciatura en Contaduría Pública y Finanzas
-          + Licenciatura en Ingeniería Industrial Administrativa
-     * Maestrías
-          + Educación
-            Ver todas las maestrías de Educación
-               o Maestría en Aprendizaje, Cognición y Desarrollo Educativo
-               o Maestría en Educación
-               o Maestría en Atención a las Necesidades Educativas del
-                 Desarrollo
-               o Maestría en Psicopedagogía
-               o Maestría en Enseñanza del Inglés como Lengua Extranjera
-               o Maestría en Liderazgo y Dirección de Centros Educativos
-               o Maestría en Tecnología Educativa y Competencias Digitales
-          + Ingeniería
-            Ver todas las maestrías de Ingeniería
-               o Maestría en Inteligencia Artificial
-               o Maestría en Ciberseguridad
-               o Maestría en Análisis y Visualización de Datos Masivos –
-                 Big Data
-               o Maestría en Prevención de Riesgos Laborales
-               o Maestría en Ingeniería de Software y Sistemas
-                 Informáticos
-               o Maestría en Sistemas Integrados de Gestión
-               o Maestría en Desarrollo y Operaciones de Software (DevOps)
-          Economía y Negocios
-            Ver todas las maestrías en Economía
-               o Maestría en Administración de Empresas (MBA)
-               o Maestría en Finanzas
-               o Maestría en Dirección y Gestión de Recursos Humanos
-               o Maestría en Dirección de Operaciones y Calidad
-               o Maestría en Inteligencia de Negocios
-               o Maestría en Contabilidad e Impuestos
-               o Maestría en Negocios Internacionales y Comercio Exterior
-               o Maestría en Gerencia Comercial y Ventas
-          Comunicación y Mercadotecnia
-               o Maestría en Marketing Digital
-               o Maestría en Neuromarketing
-               o Maestría en Comunicación Transmedia
-               o Maestría en Comunicación y Marketing Político
-               o Maestría en Comunicación Corporativa
-               o Maestría en Mercadotecnia Farmacéutica
-          Salud
-               o Maestría en Dirección y Administración en Salud
-               o Maestría en Dirección y Administración de Equipos de
-                 Salud
-          Derecho
-            Ver todas las maestrías de Derecho
-               o Maestría en Administración Pública
-               o Maestría en Derecho Fiscal
-               o Maestría en Derecho Corporativo y Empresarial
-               o Maestría en Derecho Digital
-               o Maestría en Derechos Humanos
-               o Maestría en Litigación en Juicios Orales
-          Humanidades y Arte
-               o Maestría en Escritura Creativa
-               o Maestría en Educación Musical
-               o Maestría en Teatro y Artes escénicas
-               o Maestría en Gestión del Patrimonio Cultural
-               o Maestría en Gestión y Emprendimiento de Proyectos
-                 Culturales
-          Ciencias Sociales
-               o Maestría en Intervención Social
-               o Maestría en Cooperación Internacional al Desarrollo
-          + Másteres Europeos
-               o Ingeniería
-                    # Máster Universitario en Animación 3D para las
-                      Industrias del Entretenimiento
-                    # Máster Universitario en Astrofísica y Técnicas de
-                      Observación en Astronomía
-                    # Máster Universitario en Computación Cuántica
-                    # Máster Universitario en Desarrollo y Operaciones
-                      (DevOps)
-                    # Máster Universitario en Dirección Logística
-                    # Máster Universitario en Dirección y Gestión de
-                      Tecnologías de la Información (TI)
-                    # Máster Universitario en Diseño de Experiencia de
-                      Usuario
-               o Ciencias de la Salud
-                    # Máster Universitario en Psicoterapia: Terapias de
-                      Tercera Generación
-                    # Máster Universitario en Neuropsicología Clínica
-                    # Máster Universitario en Metodología de la
-                      Investigación en Ciencias de la Salud
-                    # Máster Universitario en Intervención Psicológica en
-                      Niños y Adolescentes
-                    # Máster Universitario en Dirección y Gestión
-                      Sanitaria
-                    # Máster Universitario en Cuidados Paliativos
-                    # Máster Universitario en Cuidados Paliativos
-                      Pediátricos
-                    # Máster de Formación Permanente en Medicina Estética
-                      y Antienvejecimiento
-               Derecho
-                    # Máster Universitario en Derecho Digital
-                    # Máster Universitario en Derecho de la Ordenación del
-                      Territorio y del Urbanismo
-                    # Máster Universitario en Derecho Matrimonial Canónico
-                    # Máster Universitario en Derecho de los Mercados
-                      Financieros
-                    # Máster Universitario en Estudios Avanzados en
-                      Terrorismo: Análisis y Estrategias
-                    # Máster Universitario en Propiedad Intelectual e
-                      Industrial
-                    # Máster Universitario en Arbitraje Internacional
-               Ciencias Sociales
-                    # Máster Universitario en Cooperación Internacional al
-                      Desarrollo: Gestión y Dirección de Proyectos
-                    # Máster Universitario en Dirección e Intervención
-                      Sociosanitaria
-                    # Máster Universitario en Métodos y Técnicas de
-                      Investigación Social Aplicada
-                    # Máster de Formación Permanente en Resolución de
-                      Problemas Complejos
-               Humanidades y Arte
-                    # Máster Universitario en Musicoterapia
-                    # Máster Universitario en Estudios sobre Danza
-                    # Máster Universitario en Escritura Creativa
-                    # Máster Universitario en Pedagogía Musical
-                    # Máster Universitario en Composición Musical con
-                      Nuevas Tecnologías
-                    # Máster Universitario en Jazz y Música Moderna
-                    # Máster de Formación Permanente en Dirección y
-                      Pedagogía Coral
-               Educacion
-                    # Máster Universitario en Atención Temprana y
-                      Desarrollo Infantil
-                    # Máster Universitario en Enseñanza de Español como
-                      Lengua Extranjera
-                    # Máster Universitario en Psicopedagogía
-                    # Máster Universitario en Educación Especial
-                    # Máster Universitario en Educación del Carácter
-                    # Máster de Formación Permanente en Trastornos y
-                      Dificultades del Aprendizaje
-               Comunicación y Mercadotecnia
-                    # Máster Universitario en Gestión de Marca
-                    # Máster Universitario en Protocolo y Eventos
-                    # Máster Universitario en Redes Sociales / Master in
-                      Social Media
-                    # Máster Universitario en Innovación en la Experiencia
-                      del Cliente
-                    # Máster Universitario en Marketing Deportivo
-                    # Máster de Formación Permanente en Marketing de Moda
-               Economía y Negocios
-                    # Máster Universitario en Dirección de Procesos
-                      Estratégicos
-                    # Máster Universitario en Dirección y Gestión
-                      Financiera
-                    # Máster Universitario en Gestión del Desarrollo
-                      Sostenible
-                    # Máster de Formación Permanente en Gestión de Riesgos
-                    # Máster de Formación Permanente en Coaching y
-                      Mentoring
-                    # Máster de Formación Permanente en Liderazgo y
-                      Desarrollo Personal
-                    # Máster de Formación Permanente en Product Manager
-               o Estudiar en UNIR
-                 Ir a estudiar en UNIR
-                    # Metodología en línea
-                    # Reconocimiento de créditos
-                    # Opiniones sobre UNIR México
-                    # Campus virtual
-                    # Graduación
-                    # Preguntas frecuentes
-                    # Procesos de Titulación
-                    # Exámenes
-                    # Atención a estudiantes
-                    # Becas universitarias y promociones
-                    # Cómo matricularse
-                    # Requisitos de acceso
-                    # Calculadora de becas
-                    # Convenios institucionales
-               o La Universidad
-                 Ir a la universidad
-                    # Nuestra historia
-                    # Manifiesto UNIR México
-                    # Áreas de estudio
-                    # Actualidad
-                    # Revista
-                    # Eventos
-                    # Validez RVOE y Calidad Europea
-                    # Acreditación FIMPES
-                    # Plan Estratégico
-                    # Sistema de Calidad
-                    # Carta del Rector
-                    # Nuestros alumnos
-                    # Órganos de gobierno
-                    # Normas de funcionamiento
-                    # Claustro
-               o Solicita información
-
-   Acceso estudiantes
-
-     * Inicio
-     * Revista - Noticias
-     * Educación
-     * Qué es la diversidad cultural y cuál es su importancia en la
-       educación
-
-   Volver
-
-Qué es la diversidad cultural y cuál es su importancia en la educación
-
-   09 / 10 / 2024
-
-   La diversidad cultural es tan necesaria para el género humano como la
-   diversidad biológica para los organismos vivos. (Art. 1. Declaración
-   Universal de la Unesco sobre la Diversidad Cultural, 2001).
-     *
-     *
-     *
-     *
-     *
-     * Enlace copiado
-
-   Qué es la diversidad cultural y cuál es su importancia en la educación
-
-   El crecimiento de la migración interna y externa de los últimos años,
-   así como el crecimiento que estamos experimentando con la evolución de
-   las nuevas tecnologías de la información, las redes sociales y los
-   procesos de reconocimiento que se están impulsando los pueblos
-   indígenas nos hace pensar en la importancia de tomar conciencia del
-   mundo diverso en el que vivimos. Es por eso que en los últimos años la
-   diversidad cultural ha tomado importancia a nivel mundial.
-
-   Aspectos tan importantes como qué es la diversidad cultural y cuál es
-   su importancia, además de cómo trabajarla en el aula y cómo promoverla
-   en la escuela se aprenden en la Maestría en Educación Inclusiva e
-   Intercultural de UNIR México.
-
-¿Qué es la diversidad cultural?
-
-   En el mundo, todas las personas y comunidades se caracterizan porque
-   tienen una manera específica de relacionarse con su entorno, de ver el
-   mundo y de comprenderlo, de abordar sus problemas y de enfrentarlos
-   para solucionarlos. Tienen una forma de organización, reglas, normas
-   que cada uno de sus integrantes tiene a su disposición y los cuales
-   deben acatar. Es por esto que cada comunidad tiene características
-   específicas que los hacen diversos y diferentes a los demás. Entonces
-   para definir la diversidad cultural es importante mencionar la variedad
-   de formas de vida, considerando las costumbres, las tradiciones,
-   creencias, los valores, el lenguaje y las expresiones artísticas que
-   existen y forman parte de nuestra sociedad. Es importante reconocer
-   también que cada cultura es única y nos aporta una gran riqueza, es por
-   eso que debemos reconocer y apreciar que no hay una única forma
-   correcta de pensar, ser o vivir. La interacción que se puede dar entre
-   las diferentes culturas nos permite enriquecer la experiencia humana al
-   darnos la oportunidad de conocer nuevas perspectivas, conocimientos y
-   formas de pensar.
-   Maestría en Educación Inclusiva e Intercultural
-   Solicita información
-
-   En su artículo 1, La diversidad cultural, patrimonio común de la
-   humanidad, la UNESCO, nos dice que: “La cultura adquiere formas
-   diversas a través del tiempo y del espacio. Esta diversidad se
-   manifiesta en la originalidad y la pluralidad de las identidades que
-   caracterizan los grupos y las sociedades que componen la humanidad.
-   Fuente de intercambios, de innovación y de creatividad, la diversidad
-   cultural es, para el género humano, tan necesaria como la diversidad
-   biológica para los organismos vivos. En este sentido, constituye el
-   patrimonio común de la humanidad y debe ser reconocida y consolidada en
-   beneficio de las generaciones presentes y futuras”.
-
-La diversidad cultural en la educación
-
-   Hablar de diversidad cultural en el aula es pensar en la gran
-   oportunidad que no da para enriquecer la experiencia educativa, el
-   desarrollo y crecimiento de nuestros estudiantes, permitiéndoles
-   relacionarse con personas de otras culturas, ideas y pensamientos. La
-   UNESCO refiere que las escuelas con aulas culturalmente diversas pueden
-   fomentar el pensamiento crítico, la empatía y la creatividad de los
-   estudiantes, esto a la vez permite un mejor desempeño y desarrollo
-   académico.
-
-   Promover el trabajo colaborativo, las relaciones sanas, así como
-   asegurando el material sea diverso, relevante y accesible para todos,
-   contribuye a alcanzar la convivencia armónica orientada hacía la de
-   paz.
-
-La importancia de la diversidad cultural en la educación
-
-   Actualmente vivimos en un mundo más interconectado, por lo que la
-   diversidad cultural es hoy parte de nuestra realidad y es parte de
-   nuestro día a día ya que está presente en cada rincón de nuestra
-   sociedad. Hoy en día los docentes tenemos la gran labor de enseñar a
-   nuestros estudiantes la importancia de respetar, valorar y convivir con
-   la diversidad de las culturas en todas sus formas y el valor de la
-   diferencia. Orientando la labor educativa hacía una cultura de paz,
-   promoviendo una convivencia armónica y procurando el trabajo
-   colaborativo, que permita construir una sociedad más tolerante y
-   empática, entendiendo y aceptando todo lo que nos hace diferentes.
-
-   En el mundo actual donde la diversidad cultural es una realidad la
-   escuela debe adaptarse al entorno y por tanto debe ser capaz de educar
-   acorde a nuestra nueva realidad.
-
-¿Cómo promover la diversidad cultural en la escuela?
-
-   Para dar respuesta a esta interrogante debemos entender que educar para
-   la diversidad cultural debe llevarnos a una valoración positiva, hacía
-   la comunicación y la interacción entre culturas. Debemos reconocer que,
-   para educar para la diversidad debe orientarnos hacia la comprensión de
-   la diversidad como factor importante de aprendizaje positivo y
-   necesario en los diferentes niveles educativos. Podemos hablar de
-   escuelas interculturales en la medida en la que aceptemos y
-   enriquezcamos el aprendizaje colaborativo, propiciando un ambiente de
-   armonía orientado hacia la cultura de paz, debemos dirigirnos hacía una
-   construcción educativa cooperativa que nos lleve principalmente a
-   mejorar la convivencia escolar.
-
-   Entendemos entonces que la educación intercultural no se enfoca
-   únicamente al estudiante inmigrante, sino a todo el alumnado en general
-   sin ningún tipo de excepción. Cuando tocamos el tema de la
-   interculturalidad y la educación, hablamos de educación inclusiva y
-   esto supone un proceso de humanización donde se debe promover la
-   convivencia en armonía, el respeto y la tolerancia.
-
-Beneficios de la diversidad cultural en la educación
-
-   Así pues, entendemos que es clara la importancia de la diversidad
-   cultural en el aula, pues proporciona una serie de beneficios a los
-   estudiantes, enriqueciendo los aprendizajes, brinda la oportunidad de
-   poder experimentar diferentes costumbres y tradiciones, así como puntos
-   de vista y los prepara para hacer frente al mundo multicultural en el
-   que vivimos actualmente.
-
-   Trabajar la diversidad en el aula implica una serie de acciones que
-   permitan alcanzar los objetivos de la educación inclusiva e
-   intercultural, podemos tomar como referencia a Banks y McGee (2020)
-   quienes nos hablan de cinco puntos:
-     * La integración de contenidos en el plan de estudios este punto
-       tiene que ver con los temas, el abordaje y los ejemplos que se
-       pueden tomar a partir de la relación con otras culturas o grupos en
-       las clases.
-     * La construcción del conocimiento donde se promueva a que los
-       estudiantes indaguen y reflexionen con relación a las perspectivas
-       y marcos de referencia que pueden llegar a afectar los procesos de
-       validación del conocimiento.
-     * Reducción de prejuicios se refiere a la transmisión de imágenes
-       positivas de los diferentes grupos étnicos apoyados de los
-       materiales didácticos y libros de texto. Aprovechar las dinámicas
-       de clase favoreciendo el contacto integral, promoviendo la igualdad
-       y la cooperación.
-     * El empoderamiento de la cultura escolar, garantizar la
-       participación libre y plena del estudiantado evitando que se
-       produzca algún tipo de discriminación.
-     * La pedagogía de la equidad, los docentes deben adaptar la
-       metodología y los estilos de enseñanza para que todos los
-       estudiantes, independientemente de su cultura, nivel socioeconómico
-       o lingüístico, alcancen los objetivos de aprendizaje.
-
-Actividades para trabajar la diversidad en el aula
-
-   Aprovechar el espacio educativo, así como el contenido temático para
-   trabajar la diversidad en el aula, nos permite crear lazos de amistad,
-   respeto y tolerancia en nuestros estudiantes dándoles la oportunidad de
-   una mejor experiencia educativa que contribuya a un mejor desarrollo.
-     * Educación física (deportes): es una buena actividad ya que permite
-       la integración social de los estudiantes, favoreciendo la sana
-       convivencia, además de afianzar los valores.
-     * Actividades fuera de la escuela (con la comunidad, la naturaleza):
-       permite a los estudiantes poder compartir fuera del aula, sus
-       experiencias, conocimientos y los más importante, les permite
-       socializar con otros ambientes, otras culturas y personas.
-     * Las artes (teatro, danza, música): enriquece y fomenta las
-       diferentes habilidades en los estudiantes, los diferentes roles que
-       se pueden interpretar en estos espacios permites a los estudiantes
-       ser conscientes de la diversidad.
-     * Foros, diálogos, debates sobre la diversidad: permite a los
-       estudiantes externar y defender sus posturas, conocer otros puntos
-       de vista y fomenta el respeto, la tolerancia y el trabajo
-       colaborativo.
-
-   Entendemos que promover y trabajar la diversidad cultural en el aula,
-   permitirá que los estudiantes puedan tener la oportunidad de
-   desarrollarse positivamente en la sociedad. Fomentar el respeto, la
-   tolerancia, el trabajo colaborativo y la igualdad  a través de un plan
-   de atención a la diversidad, preparará a los estudiantes para hacer
-   frente a los desafíos de las sociedades actuales, promoviendo
-   sociedades más justas y equitativas para todos y todas.
-
-
-   Autor: Orlando Velasco Salas, Coordinador de la maestría en Educación
-   inclusiva e Intercultural de UNIR México
-
-
-Comparte esta noticia
-
-     *
-     *
-     *
-     *
-     *
-     * Enlace copiado
-
-   Solicita informacion
-
-¿Tienes alguna duda?
-
-     * +52 5588393963
-     * ¿te llamamos?
-
-Comparte esta noticia
-
-     *
-     *
-     *
-     *
-     *
-     * Enlace copiado
-
-Noticias relacionadas
-
-   Racismo en las aulas
-
-Racismo en las aulas: ¿cómo se manifiesta y claves para abordarlo?
-
-   Las medidas contra el racismo en las aulas deben tratarse de forma
-   transversal, implicando a toda la comunidad educativa y adaptando las
-   dinámicas a cada edad.
-   ¿Qué estudiar para ser maestro en México?
-
-¿Qué estudiar para ser maestro en México?
-
-   Existen diferentes opciones a estudiar para desempeñarse dentro de la
-   docencia en México, solamente es cuestión de analizar qué tipo de
-   maestro se quiere ser y dónde se quieren dar clases.
-   El aula inclusiva, todo un reto de la educación del siglo XXI
-
-El aula inclusiva, todo un reto de la educación del siglo XXI
-
-   ¿Sabes por qué es tan importante apostar por la inclusión en el aula?
-   En UNIR México abordamos las claves de un aula inclusiva y la
-   diversidad en la escuela.
-
-   video footer tutor
-
-Un tutor personal siempre a tu lado
-
-   video footer alumnos
-
-¿Quieres conocer la experiencia de nuestros alumnos?
-
-   video footer universidad
-
-Nuestra vida académica y social
-
-   (BUTTON)
-
-   (BUTTON)
+   (BUTTON) logo
    ____________________
-   Buscar
-   (BUTTON)
-   Solicita información
+   go!
+     * Home
+     * About
+     * Contact
+     * Newsletter
+     * Shop
+     * Links
+     * Photos
+     * TOOLS
+     * Support me on Patreon
 
-   Rellena el siguiente formulario y uno de nuestros asesores se pondrá en
-   contacto contigo en las próximas 24 horas.
+   Resources
+   Resources
+     * Buddhism
+     * Hinduism
+     * Jainism
+     * India History
+     * Shaivism
+     * Shaktism
+     * Vaishnavism
+     * Pancaratra
+     * Vedic Hinduism
+     * Theravada
+     * Mahayana
+     * Tibetan Buddhism
+     * Arts
+     * Arthashastra
+     * Ayurveda
+     * Dharmashastra
+     * Jyotisha
+     * Kavya
+     * Linguistics
+     * Natyashastra
+     * Philosophy
+     * Purana
+     * Rasa-shastra
+     * Shilpa-shastra
+     * Vastu-shastra
+     * Yoga
+     * Ganita
+     * Sanskrit
+     * Pali
+     * Marathi
+     * Science
+     * Various traditions
+     * All glossaries
+     * Subhashita
 
-   O si lo prefieres:
-   +52 5588393963 ¿Te llamamos?
+Significado de Patrimonios culturales
 
-   De 9:00 a 20:00 de lunes a jueves
-   y de 9:00 a 19:00 los viernes
-   Solicita información
-   Solicita información
-   (BUTTON)
-     * +52 5588393963
-     * ¿te llamamos?
-     * Solicita información
-     * inscripciones@unirmexico.mx
+   < Ver todos los conceptos
 
-   (BUTTON)
+   La Herencia cultural se refiere al legado de artefactos físicos y
+   atributos intangibles heredados de generaciones pasadas, especialmente
+   en el contexto de la arquitectura y las artes. Incluye las tradiciones,
+   costumbres y prácticas que reflejan la importancia histórica de una
+   región, así como los logros arquitectónicos admirados por su diseño y
+   significado. Este concepto también abarca prácticas culturales,
+   religiosas y artísticas que son esenciales para la identidad de una
+   comunidad, enriqueciendo su historia y su reconocimiento en la sociedad
+   actual.1
+   gallery thumb
 
-   :name
+   En Inglés: Cultural heritage, Cultural inheritance
 
-   :intro
+   Ortografía alternativa: Herencia cultural
 
-   Formación
+   Tenga en cuenta: Los ejemplos a continuación son sólo para fines
+   ilustrativos y no reflejan una traducción o cita directa. Es su propia
+   responsabilidad verificar la veracidad de los hechos.
 
-   :Formación
+El concepto Budista de 'Patrimonios culturales'
 
-   Experiencia
+   En el contexto del budismo, la herencia cultural se manifiesta en
+   diversas formas. Incluye el entorno construido vernáculo que las
+   autoridades locales aprovechan para atraer inversiones, mientras que
+   los clérigos y practicantes budistas buscan mantener el control sobre
+   el desarrollo del complejo religioso/turístico ^[1].
 
-   :Experiencia
+   En la tradición Theravada, la herencia cultural se refleja en la
+   riqueza literaria e histórica presente en obras como el Dipavamsa, que
+   muestra la civilización temprana de Ceilán y la influencia budista .
+   También abarca las tradiciones y textos heredados, preservados a lo
+   largo de los siglos, especialmente aquellos relacionados con las
+   enseñanzas budistas estudiadas y traducidas por los monjes ^[2].
 
-   Líneas de investigación
+El concepto Hindú de 'Patrimonios culturales'
 
-   :Líneas de investigación
+   En el contexto del hinduismo, la herencia cultural se manifiesta de
+   diversas maneras, abarcando tradiciones, costumbres y prácticas
+   transmitidas a través de generaciones. En Vastushastra, se observa en
+   el legado de logros arquitectónicos y en el conjunto de habilidades
+   derivadas de tradiciones históricas ^[3]. Este legado arquitectónico y
+   artístico refleja la importancia histórica de una región ^[4].
 
-   Algunos estudios en los que imparte clase
-     * :link
+   Dentro del Vaishnavismo, la herencia cultural se define como las
+   tradiciones, costumbres y prácticas transmitidas a través de
+   generaciones dentro de un grupo o sociedad específica ^[5]. Los Puranas
+   documentan la cultura india antigua, abarcando historia, geografía,
+   religión y prácticas .
 
-   Centro de exámenes
-   (BUTTON)
-     * Mexico y Latam
-     * España
+   En Natyashastra, se aprecia en el rico legado de narrativas, obras de
+   teatro y representaciones que han descendido de orígenes divinos a
+   tradiciones humanas ^[6]. Kavya refleja las tradiciones y creencias del
+   pueblo de Dvarika, mostrando su rica historia .
 
-   sedes examen latam
+   Ayurveda considera la herencia cultural como el trasfondo histórico que
+   informa el desarrollo de prácticas médicas ^[7]. Incluye costumbres,
+   creencias y prácticas transmitidas a través de generaciones , y su
+   preservación es esencial, promoviendo la participación informada con la
+   sabiduría antigua ^[8]. India se describe como un lugar de rica
+   herencia cultural con filosofía consuetudinaria y medicamentos estándar
+   ^[9]. La digitalización ayuda a preservar el legado colectivo de bienes
+   tangibles e intangibles ^[10]. Las tradiciones y prácticas transmitidas
+   se conservan a través del consumo de mijo ^[11]. Proteger y documentar
+   el conocimiento ayurvédico permite la transmisión de información
+   precisa a futuras generaciones ^[12]. Abarca las tradiciones y
+   prácticas asociadas con el fenogreco en Uttarakhand ^[13].
 
-   Sedes internacionales fijas
-     * Quito (Ecuador)
-     * Guayaquil (Ecuador)
-     * Bogotá (Colombia)
-     * Barranquilla (Colombia)
-     * Bucaramanga (Colombia)
-     * Medellín (Colombia)
-     * Cali (Colombia)
+   Vedanta destaca el legado de prácticas y valores culturales que la
+   clase media educada buscó preservar frente a las influencias coloniales
+   .
 
-     * Lima (Perú)
-     * Ciudad de México (México)
+El concepto de Patrimonios culturales en fuentes locales y regionales
 
+   La herencia cultural en la historia de la India se refiere al legado de
+   tradiciones, costumbres, valores y prácticas que se transmiten de
+   generación en generación, moldeando la identidad de individuos y
+   sociedades. Este legado abarca una amplia gama de elementos, incluyendo
+   prácticas culturales, lenguas, literatura, arte, música, monumentos
+   históricos y sitios religiosos ^[14]. Es un concepto que engloba tanto
+   los aspectos tangibles, como los artefactos físicos y los monumentos,
+   como los aspectos intangibles, como las creencias, los valores y las
+   expresiones artísticas ^[15].
 
-   Sedes internacionales bajo demanda
-     * Manta (Ecuador)
-     * Buenos Aires (Argentina)
-     * Santa Cruz de la Sierra (Bolivia)
+   A lo largo de la historia de la India, la herencia cultural ha
+   desempeñado un papel fundamental en la configuración de la identidad
+   nacional y en la transmisión de conocimientos y valores a las
+   generaciones futuras. Se manifiesta en las diversas formas de arte,
+   literatura y música que reflejan la riqueza y diversidad de la cultura
+   india ^[16]. También se encuentra presente en las prácticas religiosas
+   y espirituales que han sido transmitidas a lo largo de los siglos
+   ^[17].
 
-   Sedes nacionales fijas
-     * A Coruña
-     * Badajoz
-     * Barcelona
-     * Bilbao
-     * Santa Cruz de Tenerife
-     * Logroño
-     * Madrid
-     * Málaga
-     * Murcia
-     * Palma de Mallorca
-     * Sevilla
-     * Valencia
-     * Zaragoza
+   La herencia cultural de la India es un tesoro invaluable que debe ser
+   apreciado, preservado y transmitido a las generaciones futuras ^[18].
+   Su preservación es esencial para mantener la identidad cultural de la
+   India y para promover la comprensión y el respeto entre las diferentes
+   culturas. La educación juega un papel crucial en la preservación y
+   promoción de la herencia cultural, ya que permite a los jóvenes conocer
+   y apreciar sus raíces culturales ^[19].
 
+   La herencia cultural de la India no es estática, sino que está en
+   constante evolución, influenciada por factores internos y externos
+   ^[20]. A lo largo de la historia, la India ha sido influenciada por
+   diversas culturas, incluyendo la persa, la griega, la islámica y la
+   occidental. Estas influencias han enriquecido la herencia cultural de
+   la India, dando lugar a una mezcla única de tradiciones y prácticas
+   ^[21].
 
-   Sedes nacionales bajo demanda
-     * León
-     * Las Palmas de Gran Canaria
-     * Girona
-     * Tarragona
+   En la época moderna, la herencia cultural de la India se enfrenta a
+   nuevos desafíos, como la globalización, la urbanización y la
+   occidentalización ^[22]. Estos desafíos amenazan la preservación de las
+   tradiciones y prácticas culturales de la India. Es esencial que se
+   tomen medidas para proteger y promover la herencia cultural de la India
+   en el contexto de estos desafíos ^[23].
 
-   (BUTTON)
+   La herencia cultural de la India es un recurso invaluable que puede
+   contribuir al desarrollo económico y social del país ^[24]. El turismo
+   cultural, por ejemplo, puede generar ingresos y empleos, al tiempo que
+   promueve la comprensión y el respeto entre las diferentes culturas.
+   Además, la herencia cultural puede inspirar la creatividad y la
+   innovación, impulsando el desarrollo de nuevas industrias y tecnologías
+   ^[25].
 
-   Llama ahora
+   La herencia cultural de la India es un legado invaluable que debe ser
+   apreciado, preservado y transmitido a las generaciones futuras. Es un
+   componente esencial de la identidad nacional de la India y un recurso
+   invaluable para el desarrollo económico y social del país ^[26]. La
+   preservación y promoción de la herencia cultural requiere un esfuerzo
+   conjunto de todos los sectores de la sociedad, incluyendo el gobierno,
+   las organizaciones no gubernamentales, el sector privado y la sociedad
+   civil ^[27].
 
-   y un asesor te informará sin compromiso
-   +52 5588393963
+El concepto de Patrimonios culturales en las fuentes científicas
 
-   o si lo prefieres
-   (BUTTON) ¿te llamamos?
-   (BUTTON)
-   Copiar
-     *
-     * Enlace copiado
+   En el contexto científico, la herencia cultural, o patrimonios
+   culturales, se refiere al legado de prácticas, conocimientos y
+   tradiciones transmitidas de generación en generación dentro de un grupo
+   o sociedad. Este legado abarca tanto los artefactos físicos como los
+   atributos intangibles, jugando un papel crucial en la identidad y el
+   desarrollo sostenible.
 
-   Universidad Internacional de La Rioja
+   En las ciencias de la salud, la herencia cultural se manifiesta en las
+   prácticas medicinales tradicionales, el uso de plantas medicinales y
+   las costumbres alimentarias . El conocimiento ancestral sobre el uso de
+   la flora local para fines curativos es un componente valioso de esta
+   herencia, especialmente en comunidades tribales . La preservación de
+   estas tradiciones es fundamental para la salud y el bienestar de las
+   comunidades, así como para la investigación de nuevos tratamientos
+   médicos. La revitalización del Ayurveda en la India es un ejemplo de
+   cómo se busca restaurar y promover estas prácticas .
 
-   Oferta académica
-     * Maestrías en línea
-     * Licenciaturas en línea
-     * Másteres Europeos
-     * Cursos Europeos
-     * Títulos Americanos
-     * Alianza Newman
+   En el ámbito religioso, la herencia cultural se expresa a través de
+   festividades, costumbres y ceremonias religiosas que se llevan a cabo
+   en centros de peregrinación ^[28]. Esta herencia espiritual, junto con
+   el patrimonio material como la arquitectura y el arte religioso, juega
+   un papel vital en el mantenimiento de la identidad y el fomento del
+   diálogo intercultural ^[29]. La preservación de las tradiciones
+   religiosas es esencial para la cohesión social y la comprensión
+   intercultural.
 
-   Oferta académica
-     * Maestrías en línea
-     * Licenciaturas en línea
-     * Másteres Europeos
-     * Cursos Europeos
-     * Títulos Americanos
-     * Alianza Newman
+   Desde la perspectiva de las ciencias ambientales, la herencia cultural
+   influye en las actitudes hacia el mundo natural y contribuye a la
+   identidad única de las comunidades ^[30]. La herencia agrícola, por
+   ejemplo, es un componente esencial de la identidad de las comunidades
+   de montaña ^[31]. La preservación de los edificios residenciales
+   tradicionales y la cultura asociada en regiones como Zhejiang oriental
+   requiere investigación e innovación ^[32]. La herencia cultural también
+   se reconoce como un factor importante en la creación de marcas de
+   ciudades y estrategias para el crecimiento económico y el desarrollo
+   ^[33]. La promoción del conocimiento y el uso de la herencia cultural
+   puede mejorar su valor ^[34].
 
-   Sobre nosotros
-     * UNIR en México
-     * Nuestros alumnos
-     * Únete a nosotros
-     * Actualidad
-     * Solicita información
+   La herencia cultural puede ser tangible e intangible, incluyendo
+   monumentos históricos, museos, tradiciones y cultura local ^[35]. La
+   herencia cultural preserva las historias de las personas y el
+   conocimiento local, demostrando las causas de los cambios históricos y
+   cómo las personas se adaptaron a ellos ^[36]. La protección de esta
+   herencia es crucial para el desarrollo sostenible y la promoción de
+   estilos de vida respetuosos con el medio ambiente. En el contexto del
+   turismo, la herencia cultural amplifica la eficiencia en el sector, más
+   que los recursos naturales ^[37]. La herencia cultural debe ser
+   protegida y se deben formular definiciones adecuadas de las tecnologías
+   tradicionales ^[38]. La colaboración de las instituciones públicas es
+   fundamental para facilitar la preservación de la herencia cultural en
+   proyectos de desarrollo internacional ^[39].
 
-   Sobre nosotros
-     * UNIR en México
-     * Nuestros alumnos
-     * Únete a nosotros
-     * Actualidad
-     * Solicita información
+   En resumen, la herencia cultural es un concepto multifacético que
+   abarca tradiciones, prácticas, conocimientos y artefactos transmitidos
+   a través de generaciones. Su preservación y promoción son esenciales
+   para la identidad cultural, el desarrollo sostenible y el bienestar de
+   las comunidades en los ámbitos de la salud, la religión y el medio
+   ambiente.
 
-   Aspectos legales
-     * Datos identificativos
-     * Política de privacidad
-     * Canal de consultas y denuncias
+Fuentes y referencias para lectura adicional
 
-     * Síguenos en Facebook
-     * Síguenos en Instagram
-     * Síguenos en LinkedIn
-     * Síguenos en YouTube
-     * Encuéntranos en Google Maps
-     * Síguenos en Tik Tok
+   La lista anterior se basa en una serie de artículos (en inglés) sobre
+   budismo, hinduismo, jainismo, historia y otras tradiciones
+   espirituales. A continuación, se pueden encontrar las fuentes
+   utilizadas y más información sobre lo que simboliza la “Patrimonios
+   culturales” como referencia:
 
-   © UNIR - Universidad Internacional de La Rioja 2025
+   -) Hualin International Journal of Buddhist Studies: ^(1)
 
-   Usamos cookies propias y de terceros para ofrecer un mejor servicio. Si
-   continúa navegando, consideramos que acepta su uso.Cerrar+info
+   -) Dhammapada (translated from the Pali) door F. Max Müller: ^(2)
+
+   -) Vastu-shastra (Introduction to Indian architecture) door D. N.
+   Shukla: ^(3), ^(4)
+
+   -) Chaitanya Bhagavata door Bhumipati Dāsa: ^(5)
+
+   -) Natyashastra (English) door Bharata-muni: ^(6)
+
+   -) Bhesajjakkhandhaka (Chapter on Medicine) door Hin-tak Sik: ^(7)
+
+   -) Journal of Ayurveda and Integrated Medical Sciences: ^(8), ^(9),
+   ^(10), ^(11)
+
+   -) Journal of Ayurvedic and Herbal Medicine: ^(12), ^(13)
+
+   -) Triveni Journal: ^(14), ^(15), ^(16), ^(17), ^(18), ^(19), ^(20),
+   ^(21), ^(22), ^(23), ^(24), ^(25), ^(26), ^(27)
+
+   -) Religions Journal (MDPI): ^(28), ^(29)
+
+   -) Sustainability Journal (MDPI): ^(30), ^(31), ^(32), ^(33), ^(34),
+   ^(35), ^(36), ^(37), ^(38), ^(39)
+   Última modificación el: 17 August, 2025
+   wisdomlib - the greatest source of ancient and modern knowledge;
+   info@wisdomlib.org | contact form | privacy policy

@@ -1,194 +1,756 @@
-     * Modo dia/noche
+   REFRESH(900 sec):
+   file://localhost/home/hulya/projet-final/programmes/temp_utf8.html
+   #Cultura ABC Últimas noticias ABC
 
-     * Ministerio
-          + Sobre
-               o Ministerio de las Culturas, las Artes y el Patrimonio
-               o Organigrama
-               o Ministra Carolina Arredondo Marzán
-               o Subsecretarías y Servicio
-               o Políticas y estrategias
-          + Programas
-               o Consejo Nacional de las Culturas, las Artes y el
-                 Patrimonio
-               o Cuenta Pública
-               o Servicio Nacional del Patrimonio Cultural
-               o Monumentos Nacionales
-          + autoridades
-               o Fondos Cultura
-               o Repositorio digital
-               o Programa Red Cultura
-               o Programa de Trabajo Cultural
-          + estudios
-               o Unidad de Públicos y Territorios
-               o Unidad de Derechos de Autor
-               o Donaciones culturales
-               o Puntos de Cultura Comunitaria
-               o Programa de Apoyo a Organizaciones Culturales
-                 Colaboradoras (PAOCC)
-     * Regiones
-          + Norte
-               o Arica y Parinacota
-               o Tarapacá
-               o Antofagasta
-               o Atacama
-          + Centro
-               o Coquimbo
-               o Valparaíso
-               o Región Metropolitana de Santiago
-               o O’Higgins
-          + Sur
-               o Maule
-               o Ñuble
-               o Biobío
-               o La Araucanía
-          + Austral
-               o Los Ríos
-               o Los Lagos
-               o Aysén
-               o Magallanes
-     * Áreas
-          + Artes
-               o Audiovisual
-               o Música
-               o Libro y lectura
-               o Artesanía
-          + Areas
-               o Artes de la visualidad
-               o Diseño
-               o Economía creativa
-               o Educación artística
-          + Areas
-               o Artes escénicas
-               o Patrimonio
-               o Arquitectura
-               o Internacional
-          + Areas
-               o Públicos y territorios
-               o Cultura, Memoria y DDHH
-               o Pueblos originarios
-               o Interculturalidad
-     * Patrimonio
-          + 5
-               o Chile Patrimonios
-               o Biblioteca Nacional
-               o Archivo Nacional
-               o Biblioteca Pública Digital
-          + 6
-               o Bibliotecas Públicas
-               o Museos Nacionales
-               o Museos regionales y especializados
-          + 7
-               o IDE Patrimonio
-               o Plan Nacional de Patrimonio Cultural
-               o Plan de Infraestructura Patrimonial
-          + 8
-               o Subdirección Patrimonio Inmaterial
-               o Subdirección de Pueblos Originarios
-               o Memoria Chilena
-               o Propiedad Intelectual
-     * Convocatorias
-     * Chile Cultura
-     * Atención
-       ciudadana
-     * Observatorio
-     * Participación ciudadana
+   [js-noactive&v55=abces&c56=abces]
 
-     * Modo dia/noche
-     * Reducir fuente
-     * Ampliar fuente
+   Es noticia
+     * Aemet
+     * Yolanda Díaz
+     * Oposiciones
+     * Seguridad Social
+     * Jubilación
+     * Vivienda
+     * Crans-Montana
+     * Pensiones País Vasco
+     * Premios Lotería del Niño
+     * Esperanza Gracia
+     * Marc Márquez
+     * Netflix
+     * Marta Ortega
+     * Lotería del Niño
+     * Santoral hoy
+     * Horóscopo hoy
 
-   ____________________
-     *
-     *
-     *
-     *
+   (Podrás cambiar tu elección más tarde desde aquí)
+   Selecciona tu edición de ABC:
+   Nacional Sevilla
+   (BUTTON)
+   [ ] Nacional Sevilla
 
-     *
-     *
-     *
-     *
+   Suscríbete a
+   ABC Cultural
+   ABC: últimas noticias y actualidad de España y el mundo
 
-   [Todas las regiones]
-   [Todas las artes_______________________________]
-   (BUTTON) Filtrar
-   Noticias
-   Trenes Culturales en Puerto Varas
-   29.12.2025 / Los Lagos
+Cultura
 
-Más de 10 mil personas disfrutaron de Trenes Culturales durante dos jornadas
-en el Parque Estación de Puerto Varas
+     * Opinión
+     * España
+     * Madrid
+     * Internacional
+     * Economía
+     * Sociedad
+     * Cultura
+     * Deportes
+     * Gente
+     * Play
 
-   Mesa Regional de Educación Artística impulsa nuevas acciones formativas
-   26.12.2025 / Aysén
+   MiABC (BUTTON)
+   Avatar usuario
 
-Mesa Regional de Educación Artística impulsa nuevas acciones formativas
+   Mi cuenta (BUTTON)
 
-   Seremi de las Culturas anuncia primeros resultados regionales de los
-   Fondos de Cultura 2026
-   26.12.2025 / Antofagasta
+     * Inicio
+     * MI ABC
+     * Mi perfil
+     * Mis suscripciones
+     * Mis intereses
+     * Newsletters y alertas
+     * Club ABC Premium
+     * Noticias guardadas
+     * Autores seguidos
+     * Mi archivo
+     * Concursos y eventos
+     * Contacto
+     * Cerrar sesión
 
-Seremi de las Culturas anuncia primeros resultados regionales de los Fondos
-de Cultura 2026
+     * ABC Cultural
+     * Suplemento PDF ABC Cultural
+     * Libros
+     * Música
+     * Teatro
+     * Arte
+     * Toros
+     * Series
+     * Televisión
 
-   Ministerio de las Culturas inaugura obras de remodelación en las
-   instalaciones del BAFONA
-   26.12.2025 / Nacional
+     * Portada
+     * Opinión (BUTTON)
+          + Cartas al Director
+          + Fe de ratas
+          + El sacapuntas
+     * Madrid (BUTTON)
+          + Agenda
+     * Casa Real
+     * ABC Sevilla (BUTTON)
+          + Pasión en Sevilla
+          + Sevilla solidaria
+     * Lotería Navidad 2025 (BUTTON)
+          + Buscar décimo
+          + Comprobar décimo
 
-Ministerio de las Culturas inaugura obras de remodelación en las
-instalaciones del BAFONA
+     * España (BUTTON)
+          + Andalucía
+          + Asturias
+          + Aragón
+          + Baleares
+          + Canarias
+          + Cantabria
+          + Castilla y León
+          + Cataluña
+          + Castilla - La Mancha
+          + C. Valenciana
+          + Extremadura
+          + Galicia
+          + Navarra
+          + Murcia
+          + País Vasco
 
-   Últimos días para activar el Pase Cultural 2025
-   24.12.2025 / Biobío
+     * Internacional
+     * Economía (BUTTON)
+          + Inmobiliario
+          + Formación
+     * Motor
+     * Sociedad (BUTTON)
+          + Salud
+          + Natural
+     * Ciencia
+     * Tecnología
+     * Gente
+     * Antropía
 
-Últimos días para activar el Pase Cultural 2025: $50.000 para gastar en
-cultura
+     * Cultura (BUTTON)
+          + Libros
+          + Música
+          + Teatro
+          + Arte
+          + Toros
+          + Aula de Cultura
+     * Play (BUTTON)
+          + Televisión
+          + Eurovisión 2025
+          + Series
+          + Cine
+     * Historia
+     * Archivo ABC
 
-   Primeros ganadores de Aysén de los Fondos Cultura 2026
-   24.12.2025 / Aysén
+     * Deportes (BUTTON)
+          + Real Madrid
+          + Atlético de Madrid
+          + Fútbol
+          + MMA
+          + Baloncesto
+          + Tenis
+          + Fórmula 1
+          + Ciclismo
+          + Vela
+          + Mundial de fútbol 2026
+          + ABC de la Caza
+     * Estilo (BUTTON)
+          + Viajar
+          + Gastronomía
+          + Moda
+          + Belleza
+          + Decoración
 
-Primeros ganadores de Aysén de los Fondos Cultura 2026
+     * Familia (BUTTON)
+          + Padres e hijos
+          + Parejas
+          + Educación
+          + Mayores
+          + Familia sana
+          + Planes con niños
+     * Últimas noticias sobre Bienestar (BUTTON)
+          + Alimentación
+          + Fitness
+          + Psicología y sexo
+     * Últimas noticias sobre Summum (BUTTON)
+          + Estilo
+          + Gourmet
+          + Protagonistas
+          + Living
+          + Rodar
 
-   Última parada de Trenes Culturales será este fin de semana en la
-   Estación Puerto Varas
-   23.12.2025 / Los Lagos
+     * ABC Cultural
+     * XL Semanal
+     * Mujer Hoy
+     * COPE
 
-Última parada de Trenes Culturales será este fin de semana en la Estación
-Puerto Varas
+     * Últimas noticias sobre Bienestar
+     * Gurmé
+     * Qué Plan
+     * Última hora
 
-   IA+Cultura: Pensar el cruce entre la Economía Creativa y la
-   Inteligencia Artificial en Chile
-   23.12.2025 / Nacional
+     * Servicios (BUTTON)
+          + Programación TV
+          + Loterías
+          + Horóscopo
+          + Tiempo
+          + Esquelas
+          + Recreo
 
-Ministerio de las Culturas presenta estudio que reflexiona sobre el vínculo
-de la Inteligencia Artificial y las economías creativas en Chile
+     * Pasatiempos
+     * Juegos
+     * Finanzas (BUTTON)
+          + Préstamos personales
+          + Cuentas corrientes
+          + Cuentas remuneradas
 
-   Coyhaique se prepara para un nuevo Concierto de Navidad
-   22.12.2025 / Aysén
+     * Vídeos
+     * Podcast ABC
+     * Favorito
 
-Coyhaique se prepara para un nuevo Concierto de Navidad
+     * Newsletters
+     * Premios
+     * Máster ABC
+     * Kiosko y más
 
-     * 1
-     * 2
-     * 3
-     * …
-     * 2.419
-     * 2.420
-     * 2.421
-     * →
+   image
 
-   [mincap-footer.svg]
+   Pablo Casals
 
-   Ministerio de las Culturas, las Artes y el Patrimonio
-   Gobierno de Chile
-   Dirección Valparaíso: Plaza Sotomayor 233. Teléfono: (32) 2326400
-   Dirección Santiago: Paseo Ahumada 48, Pisos 4, 5, 6, 7, 8 y 11.
-   Teléfonos: 226189000 – 226189001
-   Formulario de atención ciudadana Subsecretaría de las Culturas y las
-   Artes
-   Formulario de atención ciudadana Servicio Nacional del Patrimonio
-   Cultural
-   Política de Privacidad
-     * Programas y accesibilidad
-     * Guías de lenguaje inclusivo
-     * Participación ciudadana
-     * Gráfica corporativa
+   PORTADA
+
+Pablo Casals, la intrahistoria de un desencuentro histórico
+
+   Julio Bravo
+
+   ABC revela varias cartas inéditas, descubiertas por Pablo Morillo,
+   sobrino nieto del músico, que iluminan un período de su biografía en el
+   que apenas se ha profundizado
+
+   Fotografía de Telmo Sánchez Ugalde
+
+   CRÍTICA
+
+FotoNoviembre: ensayar la mirada en tiempos de exceso visual
+
+   Adonay Bermúdez Santa Cruz de Tenerife
+
+   Detalle del montaje de la muestra en el Museo de Almería
+
+   CRÍTICA
+
+Picasso y Barceló: jugar con el barro
+
+   Juan Francisco Rueda Málaga
+
+   Augusta Amiel-Lapeyre, la memoria es nuestra galería de retratos
+
+   Crítica
+
+Augusta Amiel-Lapeyre, la memoria es nuestra galería de retratos
+
+   César Antonio Molina
+
+   Fotograma de 'Realy', estrenada en Movistar Plus+
+
+Las películas invisibles y las listas de lo que nadie vio
+
+   Fernando Muñoz
+
+   Jesús García Calero
+
+   Jesús García Calero
+
+Entre el vals y la guerra
+
+   Álvaro Enrigue
+
+   Álvaro Enrigue
+
+Pop
+
+   Bruno Pardo Porto
+
+   Bruno Pardo Porto
+
+No estamos solos
+
+   Carlos Aganzo
+
+   Carlos Aganzo
+
+Zunzunegui, regreso a los bajos fondos de Madrid
+
+   Javier Díaz-Guardiola
+
+   Javier Díaz-Guardiola
+
+Cálida como (el) Mármol
+
+   Helena Farré
+
+   Helena Farré
+
+El deseo
+
+   Yannick Nézet-Séguin pone una sonrisa al Concierto de Año Nuevo
+
+Yannick Nézet-Séguin pone una sonrisa al Concierto de Año Nuevo
+
+   Alberto González Lapuente
+
+   El ruso Tugan Sokhiev dirigirá en 2027 el Concierto de Año Nuevo de
+   Viena
+
+El ruso Tugan Sokhiev dirigirá en 2027 el Concierto de Año Nuevo de Viena
+
+   Alberto González Lapuente
+
+   Cuando las élites de Viena miraban por encima del hombro a los que
+   bailaban vals
+
+Cuando Viena miraba por encima del hombro a los que bailaban vals
+
+   Pep Gorgori Barcelona
+
+La nueva majestuosidad pop: la generación que quiere volver a ser estrella
+con el glamur de antes
+
+   Clara Molla Pagán
+
+   Olivia Dean, Gracie Abrams o Benson Boone son algunos de los cantantes
+   que han recuperado la esencia de combinar la elegancia propia de las
+   divas y estrellas en sus propuestas musicales sin descuidar la calidad
+   vocal
+
+   Notre Dame sigue en obras, sin saber quién las pagará
+
+Notre Dame sigue en obras, sin saber quién las pagará
+
+   Juan Pedro Quiñonero Corresponsal en París
+
+   Los trabajos deberán prolongarse varios años y se necesitan nuevos
+   donantes internacionales para financiar la restauración definitiva
+
+2026, el año en que se cumplirá el sueño de un genio, Gaudí
+
+   Natividad Pulido
+
+Rita Bullwinkel: «El mundo literario aún tiene un elemento elitista
+excluyente»
+
+   Carmen Burné
+
+   Los museos españoles, imparables: las visitas siguieron al alza en 2025
+
+Los museos españoles, imparables: las visitas siguieron al alza en 2025
+
+   Natividad Pulido y Carlos Sala Madrid / Barcelona
+
+   El Prado mejoró por tercer año consecutivo sus cifras de público y
+   superó por vez primera los 3,5 millones
+
+Descubren una misión española en Texas perdida desde hace 300 años
+
+   ABC
+
+   'Todos estamos bailando la misma canción', el regreso espiritual de La
+   Oreja de Van Gogh
+
+   «CREO EN DIOS, A MI MANERA»
+
+'Todos estamos bailando la misma canción', el regreso de La Oreja de Van Gogh
+
+   Nacho Serrano
+
+   El primer single del grupo tras la vuelta de Amaia Montero se ha
+   estrenado en el especial de RTVE antes de las campanadas de fin de año
+
+Una exposición radiante: Fra Angelico en Florencia
+
+   Marina Valcárcel
+
+   Jikken
+
+El desconocido rito samurái de recolectar cabezas decapitadas en batalla
+
+   Manuel P. Villatoro
+
+   Danny Chaplin, autor de 'Sengoku Jidai', desvela a ABC los pormenores
+   de esta extraña ceremonia feudal
+
+   Así despedí la Nochevieja
+
+Echando de menos a Ramón García
+
+   Rebeca Argudo
+
+   Reconozco que el vestido de la Pedroche (Antena 3) ya no despierta en
+   mí ninguna curiosidad, que no tengo ni idea de quién es Xuxo Jones
+   (Tele 5) y que ver a Chenoa y Estopa (RTVE) me confunde
+
+   2026, el año del fin del mundo
+
+   Decíamos ayer
+
+2026, el año del fin del mundo
+
+   Mónica Arrizabalaga
+
+   Una ecuación matemática formulada en 1960 predijo la fecha del
+   apocalipsis el 13 de noviembre de 2026
+
+   Del Coloso de Rodas al Travis Scott de 'Fortnite'
+
+Los nuevos monumentos ya no se levantan con piedra, sino con píxeles
+
+   Carmen Burné
+
+   La asistencia a los cines en España vuelve a caer por segundo año
+   consecutivo con las películas españolas por debajo de los 80 millones
+   de euros
+
+   Descalabro en la taquilla española
+
+La asistencia a los cines en España cae por segundo año consecutivo
+
+   Fernando Muñoz
+
+   La asistencia a salas de cine registra 65 millones de espectadores en
+   2025, casi 8 menos que en 2024. Los espectadores que eligieron cine
+   español fueron apenas 12 millones para una recaudación de 78 millones,
+   siete menos que en 2024
+
+De lo nuevo de 'Juego de tronos' al último romance de 'Los Bridgerton': los
+mejores estrenos de series de enero
+
+   Lucía Cabanelas
+
+Muere a los 71 años Isiah Whitlock Jr., actor de 'The Wire'
+
+   Fue conocido por interpretar a un senador corrupto en la aclamada serie
+   'The Wire', además de sus participaciones en otros papeles como en
+   'Buenos muchachos'
+
+   Los siete pecados capitales de…
+
+Martín Llade: «La procrastinación debería ser el octavo pecado capital»
+
+   Rebeca Argudo
+
+   Encargado de retransmitir para RTVE el Concierto de Año Nuevo de la
+   Orquesta Filarmónica de Viena, acaba de publicar 'El último concierto
+   de Viena'
+
+   Toni Acosta y Elena Irureta presentan 'Abuela tremenda': «Te saca de
+   casa y llega a abuelos y nietos por igual»
+
+Toni Acosta presenta 'Abuela tremenda': «Llega a abuelos y nietos por igual»
+
+   Miriam González Ruiz Madrid
+
+   La nueva comedia familiar, dirigida por Ana Vázquez, presenta una
+   caravana llena de locura, peleas y muchas risas. Se estrena este jueves
+   en los cines de España
+
+El regreso de Daniel Sánchez Arévalo: «Me he vuelto a sentir director con
+'Rondallas'»
+
+   Fernando Muñoz
+
+La hemeroteca de ABC Cultural
+
+   Confesiones de juventud de Pablo Casals: cartas inéditas
+
+   ABC Cultural
+
+Confesiones de juventud de Pablo Casals: cartas inéditas
+
+   ABC Cultural
+
+   Balance de 2025: proezas y desencantos
+
+   ABC Cultural
+
+Balance 2025: proezas y desencantos
+
+   ABC Cultural
+
+   Especial Navidad 2025: los mejores regalos culturales a prueba de
+   'grinchs'
+
+   ABC Cultural
+
+Los mejores regalos culturales a prueba de 'grinchs'
+
+   ABC Cultural
+
+   Oliver Laxe por partida doble. Especial Literatura Infantil /Juvenil
+
+   ABC CULTURAL
+
+Oliver Laxe por partida doble. Especial Literatura Infantil /Juvenil
+
+   ABC Cultural
+
+   03/01/2026 01:30h.
+   La Joven Orquesta de Canarias celebra su tradicional concierto de año
+   nuevo en Fuerteventura
+
+La Joven Orquesta de Canarias celebra su tradicional concierto de año nuevo
+en Fuerteventura
+
+   Puerto del Rosario, 2 ene (EFE).- La JOCAN, la Joven Orquesta de
+   Canarias, ha celebrado este viernes...
+
+   02/01/2026 17:54h.
+   Las Galerías Pacífico albergan uno de los conjuntos de muralismo más
+   importantes de Argentina
+
+Las Galerías Pacífico albergan uno de los conjuntos de muralismo más
+importantes de Argentina
+
+   Buenos Aires, 2 ene (EFE).- La cúpula de las Galerías Pacífico, un
+   reconocido centro comercial de la...
+
+   02/01/2026 17:27h.
+   Will Smith, demandado por presunto acoso sexual y despido improcedente
+
+Will Smith, demandado por presunto acoso sexual y despido improcedente
+
+   El actor estadounidense Will Smith ha sido demandado por el violinista
+   Brian King Joseph, finalista...
+
+   02/01/2026 16:52h.
+   Las Ventas se pone en pie en homenaje a Miguel Ángel Moncholi
+
+Las Ventas se pone en pie en homenaje a Miguel Ángel Moncholi
+
+   Alicia P. Velarde
+
+   En un acto organizado por el Centro de Asuntos Taurinos y promovido por
+   la Comunidad de Madrid, el periodista recibió el reconocimiento por
+   toda una vida dedicada a la Fiesta
+
+   02/01/2026 16:48h.
+   Ayiiti: música, diáspora y el impacto del compas en Colombia
+
+Ayiiti: música, diáspora y el impacto del compas en Colombia
+
+   Bogotá, 2 ene (EFE).- La cantante Ayiiti interpreta y reinterpreta el
+   compas haitiano en escenarios ...
+
+   02/01/2026 16:39h.
+   La cabalgata de Reyes de Barcelona estrena carrozas, llegada en
+   golondrina y guiño al Tour
+
+La cabalgata de Reyes de Barcelona estrena carrozas, llegada en golondrina y
+guiño al Tour
+
+   Barcelona, 2 ene (EFE).- La Cabalgata de Reyes de Barcelona incorporará
+   este año nuevas carrozas, un...
+
+   02/01/2026 16:21h.
+   Granada conmemora sin división los 534 años de la Toma
+
+Granada conmemora sin división los 534 años de la Toma
+
+   Granada, 2 ene (EFE).- Granada ha conmemorado este viernes sin la
+   división entre partidarios y detra...
+
+   02/01/2026 16:12h.
+   Trump anuncia la construcción de un Arco del Triunfo en las afueras de
+   Washington
+
+Trump anuncia la construcción de un Arco del Triunfo en las afueras de
+Washington
+
+   Virginia (EE.UU.), 2 ene (EFE/EPA).- El presidente de Estados Unidos,
+   Donald Trump, anunció que prev...
+
+   02/01/2026 16:09h.
+   El compas haitiano conecta culturas en Colombia y crece en la diáspora
+
+El compas haitiano conecta culturas en Colombia y crece en la diáspora
+
+   Bogotá, 2 ene (EFE).- La cantante Ayiiti interpreta y reinterpreta el
+   compas haitiano en escenarios ...
+
+   02/01/2026 15:51h.
+   Ayiiti, la voz haitiana que tiende puentes entre el compas y la música
+   urbana colombiana
+
+Ayiiti, la voz haitiana que tiende puentes entre el compas y la música urbana
+colombiana
+
+   Bogotá, 2 ene (EFE).- La cantante Ayiiti interpreta y reinterpreta el
+   compas haitiano en escenarios ...
+
+   02/01/2026 15:30h.
+   Florence Knapp, autora revelación en Reino Unido: "Un nombre puede
+   cambiarte la vida"
+
+Florence Knapp, autora revelación en Reino Unido: "Un nombre puede cambiarte
+la vida"
+
+   Madrid, 2 ene (EFE).- Una elección aparentemente simple como el nombre
+   recibido al nacer puede cambi...
+
+   02/01/2026 14:21h.
+   Actual arranca con una apuesta por el arte y con las entradas de los
+   conciertos vendidas
+
+Actual arranca con una apuesta por el arte y con las entradas de los
+conciertos vendidas
+
+   Logroño, 2 ene (EFE).- El festival Actual 2026 se ha puesto en marcha
+   con un recorrido por algunas d...
+
+   02/01/2026 13:01h.
+   'Life after Love', de Rosalía Banet: siempre menos es más
+
+   CRÍTICA
+
+'Life after Love', de Rosalía Banet: siempre menos es más
+
+   Javier Rubio Nomblot
+
+   Tercera individual de la madrileña en Twin Gallery, en la que sigue
+   analizando las derivas de la sociedad contemporánea
+
+   02/01/2026 13:00h.
+   Nat Simons: "Una IA nunca podría hacer el amor, y el arte es hacer el
+   amor"
+
+Nat Simons: "Una IA nunca podría hacer el amor, y el arte es hacer el amor"
+
+   Logroño, 2 ene (EFE).- La cantante Nat Simons ha asegurado a EFE que
+   ?una Inteligencia Artificial (I...
+
+   02/01/2026 12:55h.
+   'Kokki', de Dia Priyageetha en The Ryder: cuerpos en suspensión
+
+   CRÍTICA
+
+'Kokki', de Dia Priyageetha en The Ryder: cuerpos en suspensión
+
+   Nerea Ubieto
+
+   La galería The Ryder abre definitivamente las puertas de su nueva sede
+   en Malasaña con una creadora comprometida con la memoria colonial del
+   sudeste asiático
+
+   02/01/2026 12:47h.
+   'Sostener el cielo', de Fernando Conde: un gran regalo poético
+
+   Crítica De:
+
+'Sostener el cielo', de Fernando Conde: un gran regalo poético
+
+   Carmen R. Santos
+
+   El crítico literario, gestor cultural y columnista debuta en la poesía
+   con una obra que no es la de un principiante, sino que destila madurez
+
+   Lo más leído en Cultura
+    1. 1Se han cargado el Concierto de Año Nuevo Se han cargado el
+       Concierto de Año Nuevo
+    2. 22026, el año en que se cumplirá el sueño de un genio, Gaudí
+    3. 3'Todos estamos bailando la misma canción', el regreso espiritual
+       de La Oreja de Van Gogh
+    4. 4Yannick Nézet-Séguin pone una sonrisa al Concierto de Año Nuevo
+    5. 52026, el año del fin del mundo
+
+   Ver más noticias
+
+   (BUTTON) (BUTTON)
+
+   A continuación en ...
+
+   Cancelar reproducción
+
+   Siguientes episodios
+
+   Ver todos los episodios
+
+   Te podría gustar
+     * Ver todo
+
+   (BUTTON)
+
+   El próximo podcast es exclusivo para suscriptores
+
+   Suscríbete hoy mismo y comienza a disfrutar de todo el contenido de ABC
+
+   Suscríbete Ya cuento con una suscripción
+
+   (BUTTON)
+
+   Este podcast es exclusivo para suscriptores
+
+   Suscríbete hoy mismo y comienza a disfrutar de todo el contenido de ABC
+
+   Suscríbete Ya cuento con una suscripción
+
+   (BUTTON) (BUTTON) Lotería de Navidad Comprueba tu décimo
+
+   Lotería de Navidad Lotería de Navidad
+   (BUTTON)
+
+   Comprueba si tu número ha sido premiado
+
+   ____________________ ____________________
+   (BUTTON) Comprobar
+
+   Logo
+   Copyright © DIARIO ABC, S.L.
+   Volver a arriba
+   ABC Premium
+   Descarga la app
+
+     * Vocento
+     * Sobre nosotros
+     * Contacto
+     * Política de privacidad
+     * Política de cookies
+     * Administrar Utiq
+     * Condiciones de uso
+     * Aviso legal
+     * Reglamento UE 2024/1083
+     * Condiciones de contratación
+     * Compromisos editoriales
+
+     * Comprobar Lotería Navidad
+     * Lotería Navidad
+     * Buscar número Lotería Navidad
+     * Horóscopo
+     * Programación TV
+     * Horóscopo Chino
+     * Últimas noticias
+     * Loterías
+     * Escuchar noticias del día
+     * Pódcast
+     * Sorteo Navidad comprobar número - La Verdad
+
+   Logo
+
+     * ABC
+     * ABC Sevilla
+     * Hoy
+     * El Correo
+     * Diario Vasco
+     * Las Provincias
+     * Diario Montañes
+     * Norte de Castilla
+     * El Comercio
+     * La Voz Digital
+     * Norte de Castilla
+     * Sur
+     * La Verdad
+     * Ideal
+     * La Rioja
+     * Leonnoticias
+     * Burgosconecta
+     * Huelva24
+
+     * XL Semanal
+     * Mujerhoy
+     * Oferplan
+     * WomenNow
+     * Autocasión
+     * Pisos.com
+     * Unoauto
+     * Turium
+     * Welife
